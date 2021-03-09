@@ -1,0 +1,23 @@
+{
+  "name": "digital.ca.gov",
+  "version": "1.0.0",
+  "description": "Office of Digital Innovation website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx @11ty/eleventy --input=./pages --output=_site",
+    "start": "npx @11ty/eleventy --serve --input=./pages --output=_site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagov/digital.ca.gov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagov/digital.ca.gov/issues"
+  },
+  "homepage": "https://github.com/cagov/digital.ca.gov#readme"
+}
