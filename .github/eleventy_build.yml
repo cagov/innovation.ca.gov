@@ -1,0 +1,21 @@
+name: Eleventy Build
+on:
+  push:
+    paths-ignore:
+    - 'readme.md'
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - name: Build
+        uses: cagov/actions-eleventy@v1.4.1
+        with:
+          args: --formats=html,njk --input=./pages --output=_site
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v1.1.0
+        env:
+          PUBLISH_DIR: _site 
+          PUBLISH_BRANCH: gh-pages
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
