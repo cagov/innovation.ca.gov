@@ -1,3 +1,7 @@
+# 11ty generated
+_site/index.html
+_site/contact_us/
+
 # Logs
 logs
 *.log
