@@ -11,13 +11,21 @@
     <meta content="https://www.alpha.ca.gov/img/thumbnail.png" property="og:image">
     <meta content="630" property="og:image:height">
     <meta content="630" property="og:image:width">
-    <meta content="california office of digital innovation" property="og:title">
-    <meta content="california office of digital innovation (odi)" property="og:description">
-    <meta content="https://www.alpha.ca.gov/office-of-digital-innovation/" property="og:url">
+    <meta content="California Office of Digital Innovation" property="og:title">
+    <meta content="California Office of Digital Innovation (ODI)" property="og:description">
+    <meta content="https://digital.ca.gov/" property="og:url">
     <meta content="summary_large_image" name="twitter:card">
     <title>California Office of Digital Innovation</title>
-    <meta content="california office of digital innovation (odi)" name="description">
-    <link href="css/5c904a3bad4ab89406bd.css" rel="stylesheet"></head>
+    <meta content="California Office of Digital Innovation (ODI)" name="description">
+    <!-- capture the CSS content as a Nunjucks variable -->
+    {% set css %}
+      {% include "../css/home.min.css" %}
+    {% endset %}
+    <!-- feed it through our cssmin filter to minify -->
+    <style>
+      {{ css | safe }}
+    </style>
+    </head>
   <body>
     <header>
       <div class="official">
