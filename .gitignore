@@ -1,6 +1,7 @@
 # 11ty generated
-_site/index.html
-_site/contact_us/
+_site/
+!_site/css
+!_site/img
 
 # Logs
 logs

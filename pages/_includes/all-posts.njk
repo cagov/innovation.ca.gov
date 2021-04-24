@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en" xml:lang="en">
-
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta content="en" http-equiv="Content-Language">
@@ -20,48 +19,6 @@
     <title>California Office of Digital Innovation</title>
     <meta content="california office of digital innovation (odi)" name="description">
     <link href="/css/5c904a3bad4ab89406bd.css" rel="stylesheet"></head>
-    <style type="text/css">
-  .news-post h1 {
-    font-size: 3rem;
-    padding-bottom: 1rem;
-    padding-top: 2rem;
-  }
-  .news-post main p, .news-post main li {
-    font-size: 20px;
-  }
-  .news-post main .byline {
-    font-size: 16px;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-  }
-  figure {
-    margin-bottom: 10px;
-  }
-  figure img {
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
-  }
-  figcaption {
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 15px;
-    padding-bottom: 10px;
-  }
-  .card {
-  margin-bottom: 20px;
-  }
-  .card-set .card {
-    min-width: 200px;
-    float: left;
-  }
-  .card-set {
-    grid-gap: 20px;
-  }
-  .clipper {
-    max-height: 288px;
-    overflow: hidden;
-  }
-  </style>
 </head>
 <body>
   <header>
@@ -84,7 +41,18 @@
     </nav>
   </header>
   <main>
-    {{ content | safe }}
+    {%- for post in collections.mySort -%}
+      <div class="card col-sm">
+        <a class="clipper" href="{{post.url}}"><img src="/{% if post.data.previewimage %}{{ post.data.previewimage }}{% else %}img/design-principles.jpg{% endif %}" class="card-img-top" alt="{{ post.data.title }}"></a>
+        <div class="card-body">
+          <h5 class="card-title ">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </h5>
+          <p class="card-text text-muted">{{ post.data.publishdate }}</p>
+          <p class="card-text">{{ post.data.meta }}</p>
+        </div>
+      </div>
+    {%- endfor -%}
   </main>
 
   <script src="https://www.googletagmanager.com/gtag/js?id=UA-154336791-1" defer="defer" async></script>
@@ -99,5 +67,5 @@
     gtag("js", new Date),
     gtag("config", "UA-154336791-1")
   </script>
-
+</body>
 </html>

@@ -1,0 +1,194 @@
+---
+layout: page
+title: Alpha.CA.gov product release 2
+meta: Second product release for Alpha.CA.gov.
+previewimage: img/thumb/Release-2-Cover-Image.jpg
+lead: 
+author: JP Petrucione
+publishdate: 02/10/2020
+tags: news
+---
+
+<figure class="figure">
+  <img src="../img/thumb/Release-2-Cover-Image.jpg" class="" alt="Alpha.CA.gov homepage banner.">
+  <figcaption class="figure-caption">A list of Release 2 deliverables written on the whiteboard.</figcaption>
+</figure>
+
+<h2>Always learning, always iterating</h2>
+
+<p>It’s 10 weeks into the Alpha and we’re excited to be releasing three new prototypes: “Apply for a Cal Grant,” “Apply for disability insurance benefits,” and “Check lane closures for your trip.”</p>
+
+<p>With each of the new prototypes, we assessed the data, applied intuition, tested assumptions, listened to users, iterated, and improved. Learned, iterated and improved. And repeated.</p>
+
+<p>The team did several rounds of user testing on each prototype. This included testing the Cal Grant prototype at a Davis, CA charter school where the students provided great, actionable feedback.<p>
+
+<p>We were so impressed with these students. They all had applied to four-year universities. And we learned that it’s really up to them to navigate the process for applying to grants, scholarships and loans. We also learned that many high school students don’t often interact with state government.</p>
+
+<p>We saw this as an opportunity to demonstrate the power of agile government - responsive and user focused. The prototype responds directly to the feedback the Davis students provided, like the need for extra clarity on certain key points like deadlines. It makes the Cal Grant process clearer and easier to understand for students already navigating a complex environment.</p> 
+
+<p>Testing with highschoolers - and really with every user interview we’ve done - we’ve learned that by sharing our prototypes with even just a few people, we’re able to uncover some basic assumptions that we can quickly iterate on in our initial designs.</p> 
+
+<p>Continuing on the theme of always iterating, we’ve made both significant, and small, updates to the Release 1 prototypes. These include:</p>
+
+<ul>
+	<li>We changed our food bank prototype to call our new API, which is now pulling from an augmented food bank collection. We built on the work of existing CfA food finder applications (thank you for the data!) and augmented that dataset with additional sources. The shortcomings of our initial data coverage were kindly pointed out by CfA employee and friendly hacker <a href="https://twitter.com/tomdooner">Tom Dooner</a>.</li> 
+	<li>We created an automatic update for the State holidays prototype.</li>
+	<li>We simplified the accordion content module HTML structure to align with best practices and improve accessibility.</li>
+	<li>We improved the step-by-step content module’s HTML structure for better structure and accessibility. One of the accessibility fixes included preventing the user from tabbing inside an unopened step item that was causing the loss of the user’s position on the page.</li>
+    <li>We added a sentence to step 2 of the “Hire a licensed contractor for home improvements” prototype. A small and significant iteration that made it clearer what projects need to get a building permit.</li>
+</ul>
+
+<p>On the dev/tech side, we’ve also been doing and learning a lot:</p>
+
+<ul>
+	<li>We automated performance and accessibility checks baked into the release pipeline (something our dev team is stoked about). <a href="https://github.com/cagov/Alpha/issues/37">#37</a></li> 
+	<li>We open source packaged, installable, reusable, and accessible versions of a couple of our <a href="https://www.npmjs.com/package/@cagov/step-list">UI widgets</a>.</li>
+	<li>We made some really solid improvements to our translation processing. <a href="https://github.com/cagov/Alpha/issues/228">#228</a></li>
+	<li>We built several new <a href="https://api.alpha.ca.gov">APIs</a> (more to come on this soon). <a href="https://github.com/cagov/API/issues/12">#12</a>, <a href="https://github.com/cagov/API/issues/9">#9</a>, <a href="https://github.com/cagov/API/issues/17">#17</a></li>
+    <ul>
+		<li>For example /WaterSystem identifies which water system service area contains a geographic point. This is one of the prerequisites for compiling the water quality testing data that’s tied to water system IDs.</li>
+	</ul>
+</li>
+</ul>
+
+<p>In addition to the three new prototypes, this second release includes one new language - Chinese and our first multi-page story. These prototypes also represent the first time we’ve iterated with color.</p>
+
+<p>A moment on the subject of color: It’s a constant source of conversation among the team. Everyone has ideas - much like we imagine you do. We certainly have heard from users about our black and white prototypes. “Dull” and even “depressing” has been among the feedback. Many users emphasized that California is about color.</p>
+
+<p>It came up enough that we felt it was necessary to address it. It’s worth noting, though, that we did so with reservations. Simply put: Color can be a distraction, a rabbithole sapping time and effort from the goal of providing accessible, easy to use information and services. But the feedback has been clear - and we’re committed to iterating. We hope to capture feedback from a wider pool of users with this release.</p>
+
+<p>As with the first release, these prototypes are very much a collaborative effort that benefit from the work already being done at the department level to generate better and more easily accessed information for users. A huge shout out to the Caltrans team for being so willing to work with us to reimagine one of Caltrans’ most popular services. Every prototype is a great reminder to us of how incredibly important it is to work with subject matter experts early and often.</p>
+
+<p>With just three weeks left to go in the Alpha sprint, we’re pushing harder than ever to realize the vision we laid out in our product framing.</p> 
+
+<p>Alpha is not the replacement for CA.gov. Our goal is to use the power of digital to deliver the services that any given Californian knows they need, as well as those services they might qualify for, and need, but not be aware of. See our updated <a href="https://news.alpha.ca.gov/alpha-ca-gov-product-framing/">Product Framing</a> for more on this. </p>
+
+<p>As with all of our work, these new prototypes are works in progress. We welcome your feedback to make them better.</p> 
+
+<h2>Homepage</h2>
+
+<ul>
+	<li>Baseline</li>
+    <figure class="figure">
+	<img src="../img/thumb/Release-2-Homepage-Baseline.jpg" alt="CA.gov homepage">
+	<figcaption class="figure-caption">Baseline for the prior release of Alpha.CA.gov homepage</figcaption>
+</figure>
+<li>Check out the <a href="https://alpha.ca.gov/">iterated homepage</a>  
+</ul>
+
+<h2>Apply for a Cal Grant</h2>
+
+<ul>
+<li>User story: As a new student applying to college, I need to apply for a CAL GRANT, so that I can get financial aid to go to college.</li>
+<li>March 2 is the deadline for students to apply for a Cal Grant. We wanted to test what language resonates with students and assumed they would want less detail.</li>
+	<li><a href="https://github.com/cagov/UX/issues/35">GitHub issue</a></li>
+	<li><a href="https://www.csac.ca.gov/cal-grants ">Baseline</a></li>
+</ul>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-Cal-Grants-Baseline.jpg" alt="Screenshot of current Cal Grant baseline.">
+	<figcaption class="figure-caption">Screenshot of current Cal Grant baseline.</figcaption>
+</figure>
+
+<p>We tested and iterated one prototype. This was our first multi-page user story.</p>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-Cal-Grant-Prototype-before-testing.jpg" alt="Screenshot of Alpha.CA.gov design prototype for "Apply for a Cal Grant.”">
+	<figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Apply for a Cal Grant.”</figcaption>
+</figure>
+
+<p>User feedback and takeaways included:</p>
+
+<ul>
+	<li>If a student has already completed the FAFSA, save them from even clicking into Step 1, move them to Step 2. One senior thought she may have to apply to FAFSA again. We could clarify this.</li> 
+	<li>Help distinguish between grant, scholarship and loan, and clarify that it's from the State (yes, Cal Grant implies this) but it was clear there is A LOT of information these kids handle and they are doing this part on their own. Most parents are involved with the FAFSA but then the rest, it seems, the kids manage.</li>
+</ul>
+
+  <p>Check out the iterated “<a href="https://alpha.ca.gov/apply-for-cal-grant/">Apply for a Cal Grant</a>”page</p>
+</ul>
+
+<h2>Apply for disability insurance benefits</h2>
+
+<ul>
+	<li>User story: As a worker, I need to know how to file for DISABILITY INSURANCE BENEFITS so that I can maintain an income while I'm out of work.</li>
+	<li><a href="https://github.com/cagov/UX/issues/72">GitHub issue</a></li>
+	<li><a href="https://www.edd.ca.gov/disability/DI_Claim_Process.htm">Baseline</a></li>
+</ul>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-apply-for-disability-Baseline.jpg" alt="Screenshot of the current CA.gov “Apply for disability benefits” page.">
+	<figcaption class="figure-caption">Screenshot of the current CA.gov “Apply for disability insurance benefits” page."</figcaption>
+</figure>
+
+<p>We tested and iterated two prototypes at a local EDD field office with help from our friends at the CHHS Office of Innovation:</p>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-Disability-Insurance-Testing.jpeg" alt="The CHHS Office of Innovation team field testing the "Apply for disability insurance benefits" prototype at an EDD field office.">
+	<figcaption class="figure-caption">The CHHS Office of Innovation team field testing the "Apply for disability insurance benefits" prototype at an EDD field office.</figcaption>
+</figure>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-apply-for-disability-insurance-Prototype-1.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance.”">
+	<figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption>
+</figure>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-apply-for-disability-insurance-Prototype-2.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance benefits.”">
+	<figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption>
+</figure>
+
+<p>User feedback and takeaways included:</p>
+
+<ul>
+	<li>Wording is not clear. She prefers it to say, “Do you qualify?” because it is more focused on the goal of the tab.</li> 
+	<li>“My experience getting insurance is fine, but when trying to reach a person you have to come in-person and wait. When I had a password problem I came here to fix it. They said they fixed it and to wait 8 min. It still was not fixed. When I came back he said he couldn’t help me, but helped someone else who came later instead.”</li>
+	<li>First bullet - “This is not in the right flow because it says it will stop then it talks about receiving it.”</li>
+</ul>
+
+<p>Check out the iterated “<a href="https://alpha.ca.gov/apply-for-disability-insurance-benefits/">Apply for disability insurance benefits</a>” page</p>
+	
+<h2>Check lane closures for your trip</h2>
+
+<ul>
+	<li>User story: As a driver, I need to know the CONDITION OF THE ROADS so that I can stay safe.</li>
+	<li>This was an interesting one. The assumption was that people get the road information they need from Google Maps or other navigation apps. But in our initial research, we found that there’s a data gap between what Google displays and real-time Caltrans road closures. We even saw some cases where people were being routed onto closed roads.</li>
+	
+	<figure class="figure">
+		<img src="../img/thumb/Release-2-Road-Conditions-Road-Closure.jpg" alt="AA road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently."">
+		<figcaption class="figure-caption">A road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently.</figcaption>
+	</figure>
+
+	<li>We wanted to test how building an API could help the user experience by providing more accurate data that is not always reflected in their mapping app of choice. This story tests road closures and road conditions. It is not scoped to access data outside California’s border. It also tests a way to display map data in an accessible format. </li>
+
+	<li><a href="https://GitHub.com/cagov/UX/issues/37">GitHub issue</a></li>
+	<li><a href="https://roads.dot.ca.gov/">Baseline</a></li>
+</ul>
+
+<figure class="figure">
+	<img src="../img/thumb/Release-2-Road-Conditions-Baseline.jpg" alt="Screenshot of the current CA.gov road conditions page."">
+	<figcaption class="figure-caption">Screenshot of the current CA.gov road conditions page.</figcaption>
+</figure>
+
+<p>We tested and iterated two prototypes:</p>
+
+<figure class="figure">
+	<img src="../img/thumb/Release 2_Road-conditions-Prototype-before-testing-3.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.">
+	<figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption>
+</figure>
+
+<figure class="figure">
+	<img src="../img/thumb/Release 2_Road-conditions-Prototype-before-testing-4.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip">
+	<figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption>
+</figure>
+
+<p>User feedback & takeaways included:</p>
+
+<ul>
+	<li>Assume when you start typing, the address will appear</li> 
+	<li>Assume the "Get Alerts" interface is to "get alerts for surprises."</li>
+	<li>Would rather see a single route.</li>
+	<li>Want to “Open in Maps”</li>
+</ul>
+
+<p>Check out the iterated “<a href="https://alpha.ca.gov/check-lane-closures/">Check lane closures for your trip</a>” page</p>
+	
