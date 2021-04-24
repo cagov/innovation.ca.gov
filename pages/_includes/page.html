@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en" xml:lang="en">
-
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta content="en" http-equiv="Content-Language">
@@ -20,50 +19,51 @@
     <title>California Office of Digital Innovation</title>
     <meta content="california office of digital innovation (odi)" name="description">
     <link href="/css/5c904a3bad4ab89406bd.css" rel="stylesheet"></head>
-    <style type="text/css">
-  .news-post h1 {
-    font-size: 3rem;
-    padding-bottom: 1rem;
-    padding-top: 2rem;
-  }
-  .news-post main p, .news-post main li {
-    font-size: 20px;
-  }
-  .news-post main .byline {
-    font-size: 16px;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-  }
-  figure {
-    margin-bottom: 10px;
-  }
-  figure img {
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
-  }
-  figcaption {
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 15px;
-    padding-bottom: 10px;
-  }
-  .card {
-  margin-bottom: 20px;
-  }
-  .card-set .card {
-    min-width: 200px;
-    float: left;
-  }
-  .card-set {
-    grid-gap: 20px;
-  }
-  .clipper {
-    max-height: 288px;
-    overflow: hidden;
-  }
+  <style type="text/css">
+    .news-post h1 {
+      font-size: 3rem;
+      padding-bottom: 1rem;
+      padding-top: 2rem;
+    }
+    .news-post main li,
+    .news-post main p {
+      font-size: 20px;
+    }
+    .news-post main .byline {
+      font-size: 16px;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+    }
+    figure {
+      margin-bottom: 10px;
+    }
+    figure img {
+      border: 1px solid #ccc;
+      margin-bottom: 20px;
+    }
+    figcaption {
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 15px;
+      padding-bottom: 10px;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    .card-set .card {
+      min-width: 200px;
+      float: left;
+    }
+    .card-set {
+      grid-gap: 20px;
+    }
+    .clipper {
+      max-height: 288px;
+      overflow: hidden;
+    }
   </style>
 </head>
-<body>
+<body class="news-post">
   <header>
     <div class="official">
       <div class="container">
@@ -84,7 +84,35 @@
     </nav>
   </header>
   <main>
-    {{ content | safe }}
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h1>{{title}}</h1>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <p class="lead">
+            {% if lead %}{{ lead }}
+            {% endif %}
+          </p>
+          {{ content | safe }}
+        </div>
+        <div class="col-lg-4">
+          <p class="text-muted byline">By {{author}}<br>{{publishdate}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <hr>
+          <p>Follow us on <a href="https://twitter.com/cadotgov">Twitter</a> and collaborate with us at <a href="https://github.com/cagov">GitHub</a>.</p>
+        </div>
+      </div>
+    </div>
   </main>
 
   <script src="https://www.googletagmanager.com/gtag/js?id=UA-154336791-1" defer="defer" async></script>
