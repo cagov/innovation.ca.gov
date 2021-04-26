@@ -1,0 +1,63 @@
+---
+layout: page
+title: Lessons learned translating Alpha.CA.gov release 1
+meta: Providing multi-lingual access to information is essential.
+previewimage: img/thumb/En-espanol.jpg
+lead: 
+author: JP Petrucione
+publishdate: 01/28/2020
+tags: news
+---
+
+<figure class="figure">
+  <img src="../{{ previewimage }}" class="" alt='Photo of a sticky note that says "En espanol."''>
+</figure>
+
+<p>We hope you noticed that the first release of <a href="https://www.Alpha.CA.gov.com">Alpha.CA.gov</a> prototypes included Spanish language versions.</p>
+
+<p>This is something we’re particularly proud of. Given our timeline and resources, these translations were initially out of scope for the first release. But they were always front of mind for <a href="https://twitter.com/abquirarte">Angie</a>, our product owner.</p>
+
+<p>Angie is a Mexican immigrant and Spanish is her first language. Growing up, Angie and her family spoke Spanish at home. Speaking a language other than English at home is something that over 40% of Californians also do. And, it's worth noting, <a href="https://blog.languageline.com/report-california-limited-english-proficient">“18.6% of California residents are considered limited English proficient (LEP), meaning they speak English less than ‘very well.’”</a></p>
+
+<p>We saw this in practice when we user tested the <a href="https://alpha.ca.gov/services/request-birth-certificate/">Find a birth certificate</a> prototype in the field: 3 out of 5 people were at the county office with translators because Spanish is their primary language.</p>
+
+<p>This IRL reminder of California’s incredible cultural diversity inspired us to expand our scope and push to make Spanish translation part of release 1.</p>
+
+<h2>During the translations process, we tested for:</h2>
+
+<ul>
+    <li>Quality/Accuracy of translation API tools</li>
+    <li>Level of effort to validate translations (by asking at least 3 native-Spanish speakers)</li>
+    <li>Level of effort from the team, overall</li>
+    <li>Content design from English to Spanish considerations</li>
+    <li>Domain considerations</li>
+    <li>Level of interest from real users</li>
+</ul>
+
+<h2>We learned a lot:</h2> 
+
+<h3>Doing the translations forced us to revisit the English version to make it clearer, more accurate.</h3>
+<ul>
+    <li>The English titles and section descriptions are spare, concise. In Spanish, those same titles and section headers are far more conversational.</li>
+    <li>As we translated the <a href="https://alpha.ca.gov/services/hire-licensed-contractor-home-improvements/">Hire a Licensed Contractor</a> page, we realized that the English version was not as clear as we thought it was. Doing the Spanish translation actually helped us iterate and improve the English version.</li>
+</ul>
+
+<h3>Verbatim translations don’t work.</h3>
+<ul>
+    <li>When thinking about service design, translation is not as simple as verbatim translation. You have to do the work to provide context and create translations that convey accurate, literal and cultural meaning in both English and Spanish.</li>
+    <li>The <a href="https://alpha.ca.gov/about/">About</a> page, in English, reads: “We're a small but mighty team of public servants and outside experts in user research and design.” In Spanish, it says: “Somos un pequeño equipo de servidores públicos y expertos en el diseño centrado en el usuario y tecnología.” “Small but mighty” has a different connotation in Spanish because the word “mighty” translates to “powerful,” connoting a stronger tone that does not feel as welcoming.</li>
+</ul>
+
+<h3>Finding materials in Spanish proved challenging - and so did translations of more technical content.</h3>
+<ul>
+    <li>There was no baseline Spanish translation available for the “More details about holidays” section on the <a href="https://alpha.ca.gov/services/state-california-employee-holidays/">State holidays</a> page. Without the help of a subject matter expert in that language, it was hard to know if we were using the correct terminology.</li>
+    <li>Even when available, the baseline content in Spanish was not always reliable because it had been translated using auto translate apps, which offer essentially verbatim translation. This meant additional vetting and reworking on our end to provide the appropriate context, tone, and wording we want to convey
+    </li>
+</ul>
+
+<p>It’s worth noting that the work we did to translate the first several prototypes was a heavy lift for our small but mighty team, and likely not scalable for the Alpha given our timeline and capacity.</p>
+
+<p>That said, it’s important to emphasize that looking to the future, CA.gov will be multi-lingual in ways that reflect our learnings. That is, with an emphasis on and prioritization of cultural competency over verbatim translation. It's up to us (on the government side) to always keep in mind that context matters and some technologies are not 100% reliable when it comes to designing for our users.</p>
+
+
+

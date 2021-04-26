@@ -1,6 +1,8 @@
-# 11ty generated
-_site/index.html
-_site/contact_us/
+# 11ty generated folder
+/_site/*
+# unignore img and css
+!/_site/css
+!/_site/img
 
 # Logs
 logs
