@@ -1,8 +1,8 @@
 name: Eleventy Build
 on:
   push:
-    paths-ignore:
-    - 'readme.md'
+    branches:
+      - main
 
 jobs:
   build_deploy:
