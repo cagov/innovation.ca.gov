@@ -10,11 +10,13 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^13.0.0"
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "rollup-plugin-terser": "^7.0.2"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy --input=./pages --output=_site",
-    "start": "npx @11ty/eleventy --serve --input=./pages --output=_site"
+    "rollup": "rollup --config src/rollup.config.js",
+    "build": "npm run rollup && npx @11ty/eleventy --input=./pages --output=_site",
+    "start": "npm run rollup && npx @11ty/eleventy --serve --input=./pages --output=_site"
   },
   "repository": {
     "type": "git",
