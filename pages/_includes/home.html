@@ -70,7 +70,7 @@
   {% include "../../_site/js/built.js" %}
 {% endset %}
 <!-- feed it through our jsmin filter to minify -->
-<script>
+<script type="module">
   {{ js | safe }}
 </script>
   <script>
