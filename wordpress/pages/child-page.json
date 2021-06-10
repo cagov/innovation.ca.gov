@@ -15,6 +15,8 @@
     "slug": "child-page",
     "title": "Child Page",
     "author": "Carter Medlin",
+    "date": "2021-06-10T12:01:15",
+    "modified": "2021-06-10T12:04:04",
     "date_gmt": "2021-06-10T19:01:15",
     "modified_gmt": "2021-06-10T19:04:04",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/parent-page/child-page/",
