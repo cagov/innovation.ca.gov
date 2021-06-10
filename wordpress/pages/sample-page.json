@@ -3,6 +3,7 @@
     "created_date": "2021-04-28T14:09:15",
     "updated_date": "2021-04-28T14:09:15",
     "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://live-odi-content-api.pantheonsite.io",
