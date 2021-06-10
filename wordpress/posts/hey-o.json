@@ -1,14 +1,29 @@
 {
-  "id": 8,
-  "slug": "hey-o",
-  "title": "Hey o",
-  "author": "Chacha Sikes",
-  "date_gmt": "2021-06-01T23:36:04",
-  "modified_gmt": "2021-06-01T23:36:04",
-  "link": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
-  "excerpt": "",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": []
+  "meta": {
+    "created_date": "2021-06-01T23:36:04",
+    "updated_date": "2021-06-01T23:36:04",
+    "api_version": "v2",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 8,
+    "slug": "hey-o",
+    "title": "Hey o",
+    "author": "Chacha Sikes",
+    "date_gmt": "2021-06-01T23:36:04",
+    "modified_gmt": "2021-06-01T23:36:04",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
+    "file_path_html": "posts/hey-o.html",
+    "file_path_json": "posts/hey-o.json",
+    "excerpt": "",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": []
+  }
 }

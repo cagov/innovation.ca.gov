@@ -1,14 +1,29 @@
 {
-  "id": 1,
-  "slug": "hello-world",
-  "title": "Hello world!",
-  "author": "Chacha Sikes",
-  "date_gmt": "2021-04-28T14:09:15",
-  "modified_gmt": "2021-04-28T14:09:15",
-  "link": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
-  "excerpt": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": []
+  "meta": {
+    "created_date": "2021-04-28T14:09:15",
+    "updated_date": "2021-04-28T14:09:15",
+    "api_version": "v2",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1,
+    "slug": "hello-world",
+    "title": "Hello world!",
+    "author": "Chacha Sikes",
+    "date_gmt": "2021-04-28T14:09:15",
+    "modified_gmt": "2021-04-28T14:09:15",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
+    "file_path_html": "posts/hello-world.html",
+    "file_path_json": "posts/hello-world.json",
+    "excerpt": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": []
+  }
 }

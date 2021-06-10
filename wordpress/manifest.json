@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "api_version": "v2",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "pages": [
+      {
+        "id": 2,
+        "slug": "sample-page",
+        "title": "Sample Page",
+        "author": "Chacha Sikes",
+        "date_gmt": "2021-04-28T14:09:15",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/sample-page/",
+        "file_path_html": "pages/sample-page.html",
+        "file_path_json": "pages/sample-page.json",
+        "parent": 0,
+        "menu_order": 0
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "slug": "hello-world",
+        "title": "Hello world!",
+        "author": "Chacha Sikes",
+        "date_gmt": "2021-04-28T14:09:15",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
+        "file_path_html": "posts/hello-world.html",
+        "file_path_json": "posts/hello-world.json",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": []
+      },
+      {
+        "id": 8,
+        "slug": "hey-o",
+        "title": "Hey o",
+        "author": "Chacha Sikes",
+        "date_gmt": "2021-06-01T23:36:04",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
+        "file_path_html": "posts/hey-o.html",
+        "file_path_json": "posts/hey-o.json",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": []
+      }
+    ]
+  }
+}
