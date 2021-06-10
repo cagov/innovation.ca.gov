@@ -5,6 +5,7 @@
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
       "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
     },
     "refresh_frequency": "as needed"
