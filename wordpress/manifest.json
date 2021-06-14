@@ -22,7 +22,8 @@
         "file_path_html": "pages/child-page.html",
         "file_path_json": "pages/child-page.json",
         "parent": 13,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 18,
@@ -35,7 +36,8 @@
         "file_path_html": "pages/grandchild-page.html",
         "file_path_json": "pages/grandchild-page.json",
         "parent": 16,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 13,
@@ -48,7 +50,8 @@
         "file_path_html": "pages/parent-page.html",
         "file_path_json": "pages/parent-page.json",
         "parent": 0,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 2,
@@ -61,7 +64,8 @@
         "file_path_html": "pages/sample-page.html",
         "file_path_json": "pages/sample-page.json",
         "parent": 0,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       }
     ],
     "posts": [
@@ -80,7 +84,8 @@
         ],
         "tags": [
           "mytag"
-        ]
+        ],
+        "featured_media": 25
       },
       {
         "id": 8,
@@ -95,7 +100,8 @@
         "categories": [
           "Uncategorized"
         ],
-        "tags": []
+        "tags": [],
+        "featured_media": 0
       }
     ],
     "media": [
