@@ -76,9 +76,11 @@
         "file_path_html": "posts/hello-world.html",
         "file_path_json": "posts/hello-world.json",
         "categories": [
-          "Uncategorized"
+          "mycat"
         ],
-        "tags": []
+        "tags": [
+          "mytag"
+        ]
       },
       {
         "id": 8,
