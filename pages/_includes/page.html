@@ -98,7 +98,7 @@
           {% if author %}
             <p class="text-muted byline">By {{author}}<br>{{publishdate}}</p>
           {% endif %}
-          {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+          {% if lead %}<p class="lead">{{ lead | safe }}</p>{% endif %}
           {{ content | safe }}
         </div>
       </div>
