@@ -62,7 +62,43 @@
         "file_path_json": "pages/sample-page.json",
         "parent": 0,
         "menu_order": 0
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "slug": "hello-world",
+        "title": "Hello world!",
+        "author": "Chacha Sikes",
+        "date": "2021-04-28T14:09:15",
+        "date_gmt": "2021-04-28T14:09:15",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
+        "file_path_html": "posts/hello-world.html",
+        "file_path_json": "posts/hello-world.json",
+        "categories": [
+          "mycat"
+        ],
+        "tags": [
+          "mytag"
+        ]
       },
+      {
+        "id": 8,
+        "slug": "hey-o",
+        "title": "Hey o",
+        "author": "Chacha Sikes",
+        "date": "2021-06-01T23:36:04",
+        "date_gmt": "2021-06-01T23:36:04",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
+        "file_path_html": "posts/hey-o.html",
+        "file_path_json": "posts/hey-o.json",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": []
+      }
+    ],
+    "media": [
       {
         "id": 25,
         "slug": "youractionssavelives",
@@ -110,40 +146,6 @@
           }
         },
         "foo": 2
-      }
-    ],
-    "posts": [
-      {
-        "id": 1,
-        "slug": "hello-world",
-        "title": "Hello world!",
-        "author": "Chacha Sikes",
-        "date": "2021-04-28T14:09:15",
-        "date_gmt": "2021-04-28T14:09:15",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
-        "file_path_html": "posts/hello-world.html",
-        "file_path_json": "posts/hello-world.json",
-        "categories": [
-          "mycat"
-        ],
-        "tags": [
-          "mytag"
-        ]
-      },
-      {
-        "id": 8,
-        "slug": "hey-o",
-        "title": "Hey o",
-        "author": "Chacha Sikes",
-        "date": "2021-06-01T23:36:04",
-        "date_gmt": "2021-06-01T23:36:04",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
-        "file_path_html": "posts/hey-o.html",
-        "file_path_json": "posts/hey-o.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": []
       }
     ]
   }
