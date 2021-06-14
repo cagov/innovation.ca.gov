@@ -108,6 +108,7 @@
         "date_gmt": "2021-06-14T18:13:15",
         "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/youractionssavelives/",
         "file_path_json": "media/youractionssavelives.json",
+        "foo": 1,
         "sizes": {
           "medium": {
             "file": "YourActionsSaveLives-300x140.png",
