@@ -141,10 +141,11 @@
         "date": "2021-06-14T11:13:15",
         "date_gmt": "2021-06-14T18:13:15",
         "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/youractionssavelives/",
-        "file_path_json": "media/2021/04/youractionssavelives.json",
+        "file_path_json": "media/2021/04/YourActionsSaveLives.json",
         "sizes": [
           {
             "type": "medium",
+            "path": "media/2021/04/YourActionsSaveLives-300x140.png",
             "file": "YourActionsSaveLives-300x140.png",
             "width": 300,
             "height": 140,
@@ -153,6 +154,7 @@
           },
           {
             "type": "large",
+            "path": "media/2021/04/YourActionsSaveLives-1024x478.png",
             "file": "YourActionsSaveLives-1024x478.png",
             "width": 1024,
             "height": 478,
@@ -161,6 +163,7 @@
           },
           {
             "type": "thumbnail",
+            "path": "media/2021/04/YourActionsSaveLives-150x150.png",
             "file": "YourActionsSaveLives-150x150.png",
             "width": 150,
             "height": 150,
@@ -169,6 +172,7 @@
           },
           {
             "type": "medium_large",
+            "path": "media/2021/04/YourActionsSaveLives-768x359.png",
             "file": "YourActionsSaveLives-768x359.png",
             "width": 768,
             "height": 359,
@@ -177,6 +181,7 @@
           },
           {
             "type": "full",
+            "path": "media/2021/04/YourActionsSaveLives.png",
             "file": "YourActionsSaveLives.png",
             "width": 1314,
             "height": 614,
