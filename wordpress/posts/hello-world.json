@@ -30,6 +30,20 @@
     "tags": [
       "mytag"
     ],
-    "featured_media": 25
+    "featured_media": 25,
+    "media": [
+      {
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-300x140.png"
+      },
+      {
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png"
+      },
+      {
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-768x359.png"
+      },
+      {
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives.png"
+      }
+    ]
   }
 }
