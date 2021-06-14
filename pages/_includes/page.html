@@ -11,7 +11,7 @@
     <meta content="https://digital.ca.gov/{{ previewimage }}" property="og:image">
     <meta content="304" property="og:image:height">
     <meta content="608" property="og:image:width">
-    <meta content={% if headertitle %}{{ headertitle | safe }}{% else %}{{ title | safe }}{% endif %}" property="og:title">
+    <meta content="{% if headertitle %}{{ headertitle | safe }}{% else %}{{ title | safe }}{% endif %}" property="og:title">
     <meta content="{{ meta }}" property="og:description">
     <meta content="summary_large_image" name="twitter:card">
     <title>{% if headertitle %}{{ headertitle | safe }}{% else %}{{ title | safe }}{% endif %}</title>
