@@ -22,7 +22,8 @@
         "file_path_html": "pages/child-page.html",
         "file_path_json": "pages/child-page.json",
         "parent": 13,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 18,
@@ -35,7 +36,8 @@
         "file_path_html": "pages/grandchild-page.html",
         "file_path_json": "pages/grandchild-page.json",
         "parent": 16,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 13,
@@ -48,7 +50,8 @@
         "file_path_html": "pages/parent-page.html",
         "file_path_json": "pages/parent-page.json",
         "parent": 0,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       },
       {
         "id": 2,
@@ -61,7 +64,8 @@
         "file_path_html": "pages/sample-page.html",
         "file_path_json": "pages/sample-page.json",
         "parent": 0,
-        "menu_order": 0
+        "menu_order": 0,
+        "featured_media": 0
       }
     ],
     "posts": [
@@ -80,6 +84,44 @@
         ],
         "tags": [
           "mytag"
+        ],
+        "featured_media": 25,
+        "media": [
+          {
+            "id": 25,
+            "type": "medium",
+            "path": "media/2021/04/YourActionsSaveLives-300x140.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-300x140.png",
+            "featured": true
+          },
+          {
+            "id": 25,
+            "type": "large",
+            "path": "media/2021/04/YourActionsSaveLives-1024x478.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png",
+            "featured": true
+          },
+          {
+            "id": 25,
+            "type": "thumbnail",
+            "path": "media/2021/04/YourActionsSaveLives-150x150.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-150x150.png",
+            "featured": true
+          },
+          {
+            "id": 25,
+            "type": "medium_large",
+            "path": "media/2021/04/YourActionsSaveLives-768x359.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-768x359.png",
+            "featured": true
+          },
+          {
+            "id": 25,
+            "type": "full",
+            "path": "media/2021/04/YourActionsSaveLives.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives.png",
+            "featured": true
+          }
         ]
       },
       {
@@ -95,7 +137,38 @@
         "categories": [
           "Uncategorized"
         ],
-        "tags": []
+        "tags": [],
+        "featured_media": 0,
+        "media": [
+          {
+            "id": 25,
+            "type": "medium",
+            "path": "media/2021/04/YourActionsSaveLives-300x140.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-300x140.png",
+            "featured": false
+          },
+          {
+            "id": 25,
+            "type": "large",
+            "path": "media/2021/04/YourActionsSaveLives-1024x478.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png",
+            "featured": false
+          },
+          {
+            "id": 25,
+            "type": "medium_large",
+            "path": "media/2021/04/YourActionsSaveLives-768x359.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-768x359.png",
+            "featured": false
+          },
+          {
+            "id": 25,
+            "type": "full",
+            "path": "media/2021/04/YourActionsSaveLives.png",
+            "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives.png",
+            "featured": false
+          }
+        ]
       }
     ],
     "media": [
@@ -107,44 +180,54 @@
         "date": "2021-06-14T11:13:15",
         "date_gmt": "2021-06-14T18:13:15",
         "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/youractionssavelives/",
-        "file_path_json": "media/youractionssavelives.json",
-        "sizes": {
-          "medium": {
+        "file_path_json": "media/2021/04/YourActionsSaveLives.json",
+        "sizes": [
+          {
+            "type": "medium",
+            "path": "media/2021/04/YourActionsSaveLives-300x140.png",
             "file": "YourActionsSaveLives-300x140.png",
             "width": 300,
             "height": 140,
             "mime_type": "image/png",
             "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-300x140.png"
           },
-          "large": {
+          {
+            "type": "large",
+            "path": "media/2021/04/YourActionsSaveLives-1024x478.png",
             "file": "YourActionsSaveLives-1024x478.png",
             "width": 1024,
             "height": 478,
             "mime_type": "image/png",
             "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png"
           },
-          "thumbnail": {
+          {
+            "type": "thumbnail",
+            "path": "media/2021/04/YourActionsSaveLives-150x150.png",
             "file": "YourActionsSaveLives-150x150.png",
             "width": 150,
             "height": 150,
             "mime_type": "image/png",
             "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-150x150.png"
           },
-          "medium_large": {
+          {
+            "type": "medium_large",
+            "path": "media/2021/04/YourActionsSaveLives-768x359.png",
             "file": "YourActionsSaveLives-768x359.png",
             "width": 768,
             "height": 359,
             "mime_type": "image/png",
             "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-768x359.png"
           },
-          "full": {
+          {
+            "type": "full",
+            "path": "media/2021/04/YourActionsSaveLives.png",
             "file": "YourActionsSaveLives.png",
             "width": 1314,
             "height": 614,
             "mime_type": "image/png",
             "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives.png"
           }
-        }
+        ]
       }
     ]
   }
