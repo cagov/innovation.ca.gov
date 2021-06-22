@@ -14,12 +14,12 @@
   "data": {
     "id": 25,
     "slug": "youractionssavelives",
-    "title": "YourActionsSaveLives",
-    "author": "Carter Medlin",
     "date": "2021-06-14T11:13:15",
     "modified": "2021-06-14T15:48:30",
     "date_gmt": "2021-06-14T18:13:15",
     "modified_gmt": "2021-06-14T22:48:30",
+    "title": "YourActionsSaveLives",
+    "author": "Carter Medlin",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/youractionssavelives/",
     "file_path_json": "media/2021/04/YourActionsSaveLives.json",
     "sizes": [
