@@ -25,6 +25,7 @@
     "excerpt": "<p>This is below the Child Page&#8230;</p>\n",
     "parent": 16,
     "menu_order": 0,
-    "featured_media": 0
+    "featured_media": 0,
+    "media": []
   }
 }
