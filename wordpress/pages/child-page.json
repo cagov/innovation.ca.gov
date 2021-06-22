@@ -2,12 +2,13 @@
   "meta": {
     "created_date": "2021-06-10T19:01:15",
     "updated_date": "2021-06-10T19:04:04",
+    "foo": 1,
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://live-odi-content-api.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,11 +22,8 @@
     "date_gmt": "2021-06-10T19:01:15",
     "modified_gmt": "2021-06-10T19:04:04",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/parent-page/child-page/",
-    "file_path_html": "pages/child-page.html",
-    "file_path_json": "pages/child-page.json",
     "excerpt": "<p>This page has a Parent Page and the Grandchild Page&#8230;</p>\n",
     "parent": 13,
-    "menu_order": 0,
-    "featured_media": 0
+    "menu_order": 0
   }
 }
