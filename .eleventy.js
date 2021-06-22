@@ -3,6 +3,8 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
 
+  eleventyConfig.addPassthroughCopy({ "wordpress/media": "img/wordpress" });
+
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function(collection) {
     const FolderName = 'wordpress-posts';
