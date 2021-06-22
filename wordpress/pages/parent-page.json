@@ -24,6 +24,7 @@
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/parent-page/",
     "excerpt": "<p>This page has a Child Page&#8230;</p>\n",
     "parent": 0,
-    "menu_order": 0
+    "menu_order": 0,
+    "featured_media": 0
   }
 }
