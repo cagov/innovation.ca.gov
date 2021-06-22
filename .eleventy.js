@@ -1,9 +1,16 @@
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+//Replaces content to rendered
+const replaceContent = (item,searchValue,replaceValue) => {
+  item.template.frontMatter.content = item.template.frontMatter.content
+    .replace(searchValue,replaceValue);
+}
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
+  const wordpressImagePath = 'img/wordpress';
 
-  eleventyConfig.addPassthroughCopy({ "wordpress/media": "img/wordpress" });
+  eleventyConfig.addPassthroughCopy({ "wordpress/media":wordpressImagePath });
 
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function(collection) {
@@ -26,6 +33,19 @@ module.exports = function(eleventyConfig) {
           item.data.description = jsonData.excerpt;
           item.data.lead = jsonData.excerpt;
           item.data.author = jsonData.author;
+
+          if(jsonData.media) {
+            item.data.previewimage = wordpressImagePath+'/'+jsonData.media.find(x=>x.featured).path;
+
+            jsonData.media.filter(x=>x.source_url_match).forEach(m=>{
+              replaceContent(item,m.source_url ,'/'+wordpressImagePath+'/'+m.path);
+            });
+          }
+
+
+
+
+          //replaceContent(item,/"http:\/\/covid19.ca.gov\//g,`"https://covid19.ca.gov/`);
         } else {
           //console.log(item.data)
           //console.log(item);
