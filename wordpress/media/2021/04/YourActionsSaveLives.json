@@ -2,12 +2,13 @@
   "meta": {
     "created_date": "2021-06-14T18:13:15",
     "updated_date": "2021-06-14T22:48:30",
+    "foo": 1,
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://live-odi-content-api.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main/wordpress"
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,7 +22,6 @@
     "date_gmt": "2021-06-14T18:13:15",
     "modified_gmt": "2021-06-14T22:48:30",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/youractionssavelives/",
-    "file_path_json": "media/2021/04/YourActionsSaveLives.json",
     "sizes": [
       {
         "type": "medium",
