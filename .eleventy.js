@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
             item.data.previewimage = wordpressImagePath+'/'+jsonData.media.find(x=>x.featured).path;
 
             jsonData.media.filter(x=>x.source_url_match).forEach(m=>{
-              replaceContent(item,m.source_url ,'/'+wordpressImagePath+'/'+m.path);
+              replaceContent(item,new RegExp(m.source_url,'g'),'/'+wordpressImagePath+'/'+m.path);
             });
           }
 
