@@ -25,6 +25,7 @@
     "file_path_json": "pages/child-page.json",
     "excerpt": "<p>This page has a Parent Page and the Grandchild Page&#8230;</p>\n",
     "parent": 13,
-    "menu_order": 0
+    "menu_order": 0,
+    "featured_media": 0
   }
 }
