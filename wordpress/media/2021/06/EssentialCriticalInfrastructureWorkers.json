@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "created_date": "2021-06-25T21:31:25",
+    "updated_date": "2021-06-25T21:31:25",
+    "foo": 1,
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 32,
+    "slug": "essentialcriticalinfrastructureworkers",
+    "title": "EssentialCriticalInfrastructureWorkers",
+    "author": "Carter Medlin",
+    "date": "2021-06-25T14:31:25",
+    "modified": "2021-06-25T14:31:25",
+    "date_gmt": "2021-06-25T21:31:25",
+    "modified_gmt": "2021-06-25T21:31:25",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/EssentialCriticalInfrastructureWorkers.pdf",
+    "path": "2021/06/EssentialCriticalInfrastructureWorkers.pdf"
+  }
+}
