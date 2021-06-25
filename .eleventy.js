@@ -35,21 +35,15 @@ module.exports = function(eleventyConfig) {
           item.data.author = jsonData.author;
 
           if(jsonData.media) {
-            item.data.previewimage = wordpressImagePath+'/'+jsonData.media.find(x=>x.featured).path;
+            const featuredMedia = jsonData.media.find(x=>x.featured);
+            if(featuredMedia) {
+              item.data.previewimage = wordpressImagePath+'/'+featuredMedia.path;
+            }
 
             jsonData.media.filter(x=>x.source_url_match).forEach(m=>{
               replaceContent(item,new RegExp(m.source_url,'g'),'/'+wordpressImagePath+'/'+m.path);
             });
           }
-
-
-
-
-          //replaceContent(item,/"http:\/\/covid19.ca.gov\//g,`"https://covid19.ca.gov/`);
-        } else {
-          //console.log(item.data)
-          //console.log(item);
-
         };
     });
 
