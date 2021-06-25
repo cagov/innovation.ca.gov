@@ -1,5 +1,6 @@
 {
   "meta": {
+    "foo": 1,
     "created_date": "2021-06-14T18:13:15",
     "updated_date": "2021-06-14T22:48:30",
     "api_version": "v2",
