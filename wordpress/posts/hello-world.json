@@ -22,6 +22,8 @@
     "modified_gmt": "2021-06-14T18:32:38",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/04/28/hello-world/",
     "excerpt": "<p>This is the hello world Exerpts</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "mycat"
     ],

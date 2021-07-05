@@ -21,6 +21,8 @@
     "date_gmt": "2021-06-01T23:36:04",
     "modified_gmt": "2021-06-14T22:48:32",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/06/01/hey-o/",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "Uncategorized"
     ],
