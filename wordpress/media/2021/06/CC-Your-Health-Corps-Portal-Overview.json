@@ -23,6 +23,7 @@
     "media_type": "file",
     "mime_type": "application/pdf",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CC-Your-Health-Corps-Portal-Overview.pdf",
+    "type": "attachment",
     "path": "2021/06/CC-Your-Health-Corps-Portal-Overview.pdf"
   }
 }
