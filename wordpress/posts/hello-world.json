@@ -24,6 +24,11 @@
     "excerpt": "<p>This is the hello world Exerpts</p>\n",
     "format": "standard",
     "type": "post",
+    "content": {
+      "rendered": "\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n\n\n\n<figure class=\"wp-block-image size-large is-style-default\"><img loading=\"lazy\" width=\"1024\" height=\"478\" src=\"https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png\" alt=\"\" class=\"wp-image-25\" srcset=\"https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-1024x478.png 1024w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-300x140.png 300w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives-768x359.png 768w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/04/YourActionsSaveLives.png 1314w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n",
+      "protected": false
+    },
+    "headless": true,
     "categories": [
       "mycat"
     ],
