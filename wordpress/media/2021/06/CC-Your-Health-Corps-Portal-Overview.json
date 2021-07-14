@@ -2,10 +2,11 @@
   "meta": {
     "created_date": "2021-06-25T22:39:43",
     "updated_date": "2021-06-25T22:39:43",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-odi-content-api.pantheonsite.io",
       "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
@@ -13,17 +14,30 @@
   },
   "data": {
     "id": 34,
+    "date": "2021-06-25T15:39:43",
+    "date_gmt": "2021-06-25T22:39:43",
+    "guid": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CC-Your-Health-Corps-Portal-Overview.pdf",
+    "modified": "2021-06-25T15:39:43",
+    "modified_gmt": "2021-06-25T22:39:43",
     "slug": "cc-your-health-corps-portal-overview",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-odi-content-api.pantheonsite.io/cc-your-health-corps-portal-overview/",
     "title": "CC-Your-Health-Corps-Portal-Overview",
     "author": "Carter Medlin",
-    "date": "2021-06-25T15:39:43",
-    "modified": "2021-06-25T15:39:43",
-    "date_gmt": "2021-06-25T22:39:43",
-    "modified_gmt": "2021-06-25T22:39:43",
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": "<p class=\"attachment\"><a href='https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CC-Your-Health-Corps-Portal-Overview.pdf'>CC-Your-Health-Corps-Portal-Overview</a></p>\n",
+    "caption": "<p>CC-Your-Health-Corps-Portal-Overview</p>\n",
+    "alt_text": "",
     "media_type": "file",
     "mime_type": "application/pdf",
+    "media_details": {},
+    "post": null,
+    "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CC-Your-Health-Corps-Portal-Overview.pdf",
     "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CC-Your-Health-Corps-Portal-Overview.pdf",
-    "type": "attachment",
     "path": "2021/06/CC-Your-Health-Corps-Portal-Overview.pdf"
   }
 }
