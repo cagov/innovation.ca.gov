@@ -107,6 +107,7 @@
       {
         "type": "full",
         "path": "2021/06/CAT.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg",
         "file": "CAT.jpeg",
         "width": 1498,
         "height": 1596,
@@ -116,6 +117,7 @@
       {
         "type": "1536x1536",
         "path": "2021/06/CAT-1442x1536.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-1442x1536.jpeg",
         "file": "CAT-1442x1536.jpeg",
         "width": 1442,
         "height": 1536,
@@ -125,6 +127,7 @@
       {
         "type": "large",
         "path": "2021/06/CAT-961x1024.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-961x1024.jpeg",
         "file": "CAT-961x1024.jpeg",
         "width": 961,
         "height": 1024,
@@ -134,6 +137,7 @@
       {
         "type": "medium_large",
         "path": "2021/06/CAT-768x818.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-768x818.jpeg",
         "file": "CAT-768x818.jpeg",
         "width": 768,
         "height": 818,
@@ -143,6 +147,7 @@
       {
         "type": "medium",
         "path": "2021/06/CAT-282x300.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg",
         "file": "CAT-282x300.jpeg",
         "width": 282,
         "height": 300,
@@ -152,6 +157,7 @@
       {
         "type": "thumbnail",
         "path": "2021/06/CAT-150x150.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-150x150.jpeg",
         "file": "CAT-150x150.jpeg",
         "width": 150,
         "height": 150,
