@@ -4,6 +4,8 @@
 !/_site/css
 !/_site/img
 
+/_site/img/wordpress
+
 # Logs
 logs
 *.log
