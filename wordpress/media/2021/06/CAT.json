@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "created_date": "2021-06-25T21:32:50",
+    "updated_date": "2021-06-25T21:32:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 33,
+    "date": "2021-06-25T14:32:50",
+    "date_gmt": "2021-06-25T21:32:50",
+    "guid": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg",
+    "modified": "2021-06-25T14:32:50",
+    "modified_gmt": "2021-06-25T21:32:50",
+    "slug": "sego-lily-n-south-of-salina-canyon",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-odi-content-api.pantheonsite.io/sego-lily-n-south-of-salina-canyon/",
+    "title": "Sego lily Ñ south of Salina Canyon",
+    "author": "Carter Medlin",
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": "<p class=\"attachment\"><a href='https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg'><img width=\"282\" height=\"300\" src=\"https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg 282w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-961x1024.jpeg 961w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-768x818.jpeg 768w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-1442x1536.jpeg 1442w, https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg 1498w\" sizes=\"(max-width: 282px) 100vw, 282px\" /></a></p>\n",
+    "caption": "<p>Sego lily Ñ south of Salina Canyon</p>\n",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1498,
+      "height": 1596,
+      "file": "2021/06/CAT.jpeg",
+      "sizes": {
+        "medium": {
+          "file": "CAT-282x300.jpeg",
+          "width": 282,
+          "height": 300,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg"
+        },
+        "large": {
+          "file": "CAT-961x1024.jpeg",
+          "width": 961,
+          "height": 1024,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-961x1024.jpeg"
+        },
+        "thumbnail": {
+          "file": "CAT-150x150.jpeg",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-150x150.jpeg"
+        },
+        "medium_large": {
+          "file": "CAT-768x818.jpeg",
+          "width": 768,
+          "height": 818,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-768x818.jpeg"
+        },
+        "1536x1536": {
+          "file": "CAT-1442x1536.jpeg",
+          "width": 1442,
+          "height": 1536,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-1442x1536.jpeg"
+        },
+        "full": {
+          "file": "CAT.jpeg",
+          "width": 1498,
+          "height": 1596,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg"
+        }
+      },
+      "image_meta": {
+        "aperture": "8",
+        "credit": "Cory Maylett",
+        "camera": "NIKON D70",
+        "caption": "Sego lily Ñ south of Salina Canyon",
+        "created_timestamp": "1119435214",
+        "copyright": "",
+        "focal_length": "120",
+        "iso": "0",
+        "shutter_speed": "0.0015625",
+        "title": "Sego lily Ñ south of Salina Canyon",
+        "orientation": "1",
+        "keywords": [
+          "Sego lily",
+          "flower"
+        ]
+      }
+    },
+    "post": null,
+    "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2021/06/CAT.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg",
+        "file": "CAT.jpeg",
+        "width": 1498,
+        "height": 1596,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT.jpeg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2021/06/CAT-1442x1536.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-1442x1536.jpeg",
+        "file": "CAT-1442x1536.jpeg",
+        "width": 1442,
+        "height": 1536,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-1442x1536.jpeg"
+      },
+      {
+        "type": "large",
+        "path": "2021/06/CAT-961x1024.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-961x1024.jpeg",
+        "file": "CAT-961x1024.jpeg",
+        "width": 961,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-961x1024.jpeg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2021/06/CAT-768x818.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-768x818.jpeg",
+        "file": "CAT-768x818.jpeg",
+        "width": 768,
+        "height": 818,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-768x818.jpeg"
+      },
+      {
+        "type": "medium",
+        "path": "2021/06/CAT-282x300.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg",
+        "file": "CAT-282x300.jpeg",
+        "width": 282,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-282x300.jpeg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2021/06/CAT-150x150.jpeg",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-150x150.jpeg",
+        "file": "CAT-150x150.jpeg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/06/CAT-150x150.jpeg"
+      }
+    ]
+  }
+}

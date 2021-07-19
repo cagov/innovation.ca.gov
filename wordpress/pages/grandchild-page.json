@@ -2,11 +2,11 @@
   "meta": {
     "created_date": "2021-06-10T19:02:10",
     "updated_date": "2021-06-10T19:03:24",
-    "foo": 1,
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-odi-content-api.pantheonsite.io",
       "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
@@ -14,16 +14,26 @@
   },
   "data": {
     "id": 18,
-    "slug": "grandchild-page",
-    "title": "Grandchild page",
-    "author": "Carter Medlin",
     "date": "2021-06-10T12:02:10",
-    "modified": "2021-06-10T12:03:24",
     "date_gmt": "2021-06-10T19:02:10",
+    "guid": "https://live-odi-content-api.pantheonsite.io/?page_id=18",
+    "modified": "2021-06-10T12:03:24",
     "modified_gmt": "2021-06-10T19:03:24",
-    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/parent-page/child-page/grandchild-page/",
+    "slug": "grandchild-page",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-odi-content-api.pantheonsite.io/parent-page/child-page/grandchild-page/",
+    "title": "Grandchild page",
     "excerpt": "<p>This is below the Child Page&#8230;</p>\n",
+    "author": "Carter Medlin",
+    "featured_media": 0,
     "parent": 16,
-    "menu_order": 0
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "blocksy_meta": "",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/parent-page/child-page/grandchild-page/"
   }
 }
