@@ -6,8 +6,8 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "build": "npx @11ty/eleventy --input=./pages --output=_site",
-    "start": "npx @11ty/eleventy --serve --input=./pages --output=_site"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
