@@ -8,7 +8,7 @@
     "wordpress-to-github-config": {
       "disabled": false,
       "WordPressUrl": "https://live-odi-content-api.pantheonsite.io",
-      "PostPath": "wordpress/posts",
+      "PostPath": "pages/blog/posts/wordpress-posts",
       "PagePath": "wordpress/pages",
       "SyncMedia": true,
       "MediaPath": "wordpress/media",
