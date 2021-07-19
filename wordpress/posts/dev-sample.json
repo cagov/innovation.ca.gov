@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "created_date": "2021-07-19T18:31:12",
+    "updated_date": "2021-07-19T18:31:12",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 51,
+    "date": "2021-07-19T11:31:12",
+    "date_gmt": "2021-07-19T18:31:12",
+    "guid": "https://live-odi-content-api.pantheonsite.io/?p=51",
+    "modified": "2021-07-19T11:31:12",
+    "modified_gmt": "2021-07-19T18:31:12",
+    "slug": "dev-sample",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-odi-content-api.pantheonsite.io/2021/07/19/dev-sample/",
+    "title": "Dev sample",
+    "excerpt": "",
+    "author": "Carter Medlin",
+    "featured_media": 52,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "blocksy_meta": "",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/07/19/dev-sample/",
+    "media": [
+      {
+        "id": 52,
+        "type": "full",
+        "path": "2021/07/apple-touch-icon.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/apple-touch-icon.png",
+        "file": "apple-touch-icon.png",
+        "width": 180,
+        "height": 180,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/apple-touch-icon.png",
+        "source_url_match": true,
+        "featured": true
+      },
+      {
+        "id": 52,
+        "type": "thumbnail",
+        "path": "2021/07/apple-touch-icon-150x150.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/apple-touch-icon-150x150.png",
+        "file": "apple-touch-icon-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/apple-touch-icon-150x150.png",
+        "source_url_match": true,
+        "featured": true
+      }
+    ]
+  }
+}
