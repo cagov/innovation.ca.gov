@@ -5,17 +5,15 @@
     <meta content="en" http-equiv="Content-Language">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width,initial-scale=1" name="viewport">
-    <meta content="Alpha.CA.gov - State of California" name="author">
+    <meta content="State of California Office of Digital Innovation" name="author">
     <link href="https://www.google-analytics.com" rel="preconnect">
     <meta content="#000000" name="theme-color">
-    <meta content="https://alpha.ca.gov/img/thumbnail.png" property="og:image">
-    <meta content="630" property="og:image:height">
-    <meta content="630" property="og:image:width">
-    <meta content="california office of digital innovation" property="og:title">
-    <meta content="california office of digital innovation (odi)" property="og:description">
-    <meta content="https://alpha.ca.gov/office-of-digital-innovation/" property="og:url">
+    <meta content="https://digital.ca.gov/{{ previewimage }}" property="og:image">
+    <meta content="304" property="og:image:height">
+    <meta content="608" property="og:image:width">
+    <meta content="{% if headertitle %}{{ headertitle | safe }}{% else %}{{ title | safe }}{% endif %}" property="og:title">
+    <meta content="{{ meta }}" property="og:description">
     <meta content="summary_large_image" name="twitter:card">
-    <link href="https://alpha.ca.gov/office-of-digital-innovation/" rel="canonical">
     <title>{% if headertitle %}{{ headertitle | safe }}{% else %}{{ title | safe }}{% endif %}</title>
     <meta content="california office of digital innovation (odi)" name="description">
     <link href="/css/5c904a3bad4ab89406bd.css" rel="stylesheet"></head>
@@ -89,7 +87,7 @@
   <main>
     <div class="container">
       <div class="row">
-        <div class="col-lg-12">
+        <div class="col-lg-10 align-center">
           <h1>{{title | safe }}</h1>
         </div>
       </div>
@@ -100,10 +98,7 @@
           {% if author %}
             <p class="text-muted byline">By {{author}}<br>{{publishdate}}</p>
           {% endif %}
-          <p class="lead">
-            {% if lead %}{{ lead }}
-            {% endif %}
-          </p>
+          {% if lead %}<p class="lead">{{ lead | safe }}</p>{% endif %}
           {{ content | safe }}
         </div>
       </div>

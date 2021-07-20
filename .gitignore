@@ -4,6 +4,9 @@
 !/_site/css
 !/_site/img
 
+# ignore wordpress generated images
+/_site/img/wordpress
+
 # Logs
 logs
 *.log

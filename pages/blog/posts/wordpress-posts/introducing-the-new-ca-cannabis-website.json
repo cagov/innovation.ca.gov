@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "created_date": "2021-07-17T21:04:00",
+    "updated_date": "2021-07-19T17:51:29",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 39,
+    "date": "2021-07-17T14:04:00",
+    "date_gmt": "2021-07-17T21:04:00",
+    "guid": "https://live-odi-content-api.pantheonsite.io/?p=39",
+    "modified": "2021-07-19T10:51:29",
+    "modified_gmt": "2021-07-19T17:51:29",
+    "slug": "introducing-the-new-ca-cannabis-website",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-odi-content-api.pantheonsite.io/2021/07/17/introducing-the-new-ca-cannabis-website/",
+    "title": "Introducing the new CA Cannabis website",
+    "excerpt": "<p>A new department and a new approach to building state websites California’s new cannabis website, Cannabis.ca.gov, is live! We’re proud to have led the months-long collaboration with the Department of Technology and in partnership with the Department of Public Health, the Department of Food and Agriculture, the Bureau of Cannabis Control, and the brand new Department of Cannabis Control (DCC) to build the site.&nbsp; Site planning was just getting underway when COVID hit and was delayed for a year, but we got back to work this past February. And from the start, this project was one of collaboration, stakeholder engagement,…</p>\n",
+    "author": "JP Petrucione",
+    "featured_media": 41,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": true,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "blocksy_meta": {
+      "styles_descriptor": {
+        "styles": {
+          "desktop": "",
+          "tablet": "",
+          "mobile": ""
+        },
+        "google_fonts": []
+      }
+    },
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/07/17/introducing-the-new-ca-cannabis-website/",
+    "media": [
+      {
+        "id": 41,
+        "type": "full",
+        "path": "2021/07/image.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image.png",
+        "file": "image.png",
+        "width": 1600,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "type": "1536x1536",
+        "path": "2021/07/image-1536x768.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-1536x768.png",
+        "file": "image-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-1536x768.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "type": "large",
+        "path": "2021/07/image-1024x512.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-1024x512.png",
+        "file": "image-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-1024x512.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "type": "medium_large",
+        "path": "2021/07/image-768x384.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-768x384.png",
+        "file": "image-768x384.png",
+        "width": 768,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-768x384.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "type": "medium",
+        "path": "2021/07/image-300x150.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-300x150.png",
+        "file": "image-300x150.png",
+        "width": 300,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-300x150.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "type": "thumbnail",
+        "path": "2021/07/image-150x150.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-150x150.png",
+        "file": "image-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-150x150.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 43,
+        "type": "full",
+        "path": "2021/07/image-2.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2.png",
+        "file": "image-2.png",
+        "width": 1124,
+        "height": 690,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 43,
+        "type": "large",
+        "path": "2021/07/image-2-1024x629.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-1024x629.png",
+        "file": "image-2-1024x629.png",
+        "width": 1024,
+        "height": 629,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-1024x629.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 43,
+        "type": "medium_large",
+        "path": "2021/07/image-2-768x471.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-768x471.png",
+        "file": "image-2-768x471.png",
+        "width": 768,
+        "height": 471,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-768x471.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 43,
+        "type": "medium",
+        "path": "2021/07/image-2-300x184.png",
+        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-300x184.png",
+        "file": "image-2-300x184.png",
+        "width": 300,
+        "height": 184,
+        "mime_type": "image/png",
+        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/07/image-2-300x184.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}

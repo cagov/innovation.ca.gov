@@ -1,7 +1,56 @@
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+//Replaces content to rendered
+const replaceContent = (item,searchValue,replaceValue) => {
+  item.template.frontMatter.content = item.template.frontMatter.content
+    .replace(searchValue,replaceValue);
+}
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
+  const wordpressImagePath = 'img/wordpress';
+
+  eleventyConfig.addPassthroughCopy({ "wordpress/media":wordpressImagePath });
+
+  //Process wordpress posts
+  eleventyConfig.addCollection("wordpressposts", function(collection) {
+    const FolderName = 'wordpress-posts';
+    let output = [];
+    
+    collection.getAll().forEach(item => {
+        if(item.inputPath.includes(FolderName)) {
+          item.outputPath = item.outputPath.replace(`/${FolderName}`,'');;
+          item.url = item.url.replace(`/${FolderName}`,'');
+          item.data.page.url = item.url;
+
+          //content pulled in from JSON
+          const jsonData = item.data.data;
+          item.data.layout = "page";
+          //item.data.tags = ['news']; //Turn this on to include in blog
+          item.data.title = jsonData.title;
+          item.data.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
+          item.data.meta = jsonData.excerpt;
+          item.data.description = jsonData.excerpt;
+          item.data.lead = jsonData.excerpt;
+          item.data.author = jsonData.author;
+
+          if(jsonData.media) {
+            const featuredMedia = jsonData.media.find(x=>x.featured);
+            if(featuredMedia) {
+              item.data.previewimage = wordpressImagePath+'/'+featuredMedia.path;
+            }
+
+            jsonData.media.filter(x=>x.source_url_match).forEach(m=>{
+              replaceContent(item,new RegExp(m.source_url,'g'),'/'+wordpressImagePath+'/'+m.path);
+            });
+          }
+        };
+    });
+
+    return output;
+  });
+
+
 
   eleventyConfig.addCollection("mySort", function(collection) {
     let posts = [];
@@ -22,7 +71,7 @@ module.exports = function(eleventyConfig) {
     templateFormats: ["html", "njk", "11ty.js", "md"],
     dir: {
       input: "pages",
-      output: "docs",
+      output: "_site",
     }
   };
 }

@@ -15,8 +15,8 @@
   },
   "scripts": {
     "rollup": "rollup --config src/rollup.config.js",
-    "build": "npm run rollup && npx @11ty/eleventy --input=./pages --output=_site",
-    "start": "npm run rollup && npx @11ty/eleventy --serve --input=./pages --output=_site"
+    "build": "npm run rollup && npx @11ty/eleventy",
+    "start": "npm run rollup && npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
