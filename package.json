@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Office of Digital Innovation website",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "moment-timezone": "^0.5.33"
+  },
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve"

@@ -60,7 +60,7 @@
                 <h5 class="card-title ">
                   <a href="{{ post.url }}">{{ post.data.title }}</a>
                 </h5>
-                <p class="card-text text-muted">{{ post.data.publishdate }}</p>
+                <p class="card-text text-muted">{{ post.data.publishdate | dateformat }}</p>
                 <p class="card-text">{{ post.data.meta | safe }}</p>
               </div>
             </div>

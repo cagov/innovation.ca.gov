@@ -1,3 +1,4 @@
+const moment = require('moment-timezone');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 //Replaces content to rendered
@@ -11,6 +12,10 @@ module.exports = function(eleventyConfig) {
   const wordpressImagePath = 'img/wordpress';
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media":wordpressImagePath });
+
+  eleventyConfig.addFilter("dateformat", function(dateIn) {
+    return moment(dateIn).tz('America/Los_Angeles').format('M/D/YYYY');
+  });
 
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function(collection) {
