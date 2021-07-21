@@ -31,7 +31,7 @@ module.exports = function(eleventyConfig) {
           //content pulled in from JSON
           const jsonData = item.data.data;
           item.data.layout = "page";
-          //item.data.tags = ['news']; //Turn this on to include in blog
+          item.data.tags = ['news'];
           item.data.title = jsonData.title;
           item.data.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
           item.data.meta = jsonData.excerpt;
