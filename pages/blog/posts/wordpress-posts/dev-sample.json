@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "created_date": "2021-07-19T23:07:11",
+    "updated_date": "2021-07-21T20:26:11",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 51,
+    "date": "2021-07-19T16:07:11",
+    "date_gmt": "2021-07-19T23:07:11",
+    "guid": "https://live-odi-content-api.pantheonsite.io/?p=51",
+    "modified": "2021-07-21T13:26:11",
+    "modified_gmt": "2021-07-21T20:26:11",
+    "slug": "dev-sample",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-odi-content-api.pantheonsite.io/2021/07/19/dev-sample/",
+    "title": "Dev sample",
+    "excerpt": "",
+    "author": "Carter Medlin",
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "blocksy_meta": {
+      "styles_descriptor": {
+        "styles": {
+          "desktop": "",
+          "tablet": "",
+          "mobile": ""
+        },
+        "google_fonts": []
+      }
+    },
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/07/19/dev-sample/"
+  }
+}
