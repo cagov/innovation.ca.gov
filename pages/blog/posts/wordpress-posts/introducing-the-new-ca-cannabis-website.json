@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-07-21T16:26:43",
-    "updated_date": "2021-07-21T16:50:07",
+    "updated_date": "2021-07-21T18:20:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-07-21T09:26:43",
     "date_gmt": "2021-07-21T16:26:43",
     "guid": "https://live-odi-content-api.pantheonsite.io/?p=59",
-    "modified": "2021-07-21T09:50:07",
-    "modified_gmt": "2021-07-21T16:50:07",
+    "modified": "2021-07-21T11:20:23",
+    "modified_gmt": "2021-07-21T18:20:23",
     "slug": "introducing-the-new-ca-cannabis-website",
     "status": "publish",
     "type": "post",
@@ -33,10 +33,16 @@
     "template": "",
     "format": "standard",
     "meta": [],
-    "categories": [
-      "Uncategorized"
+    "categories": [],
+    "tags": [
+      "Bureau of Cannabis Control",
+      "CA.gov",
+      "Cannabis",
+      "Department of Cannabis Control",
+      "Department of Food and Agriculture",
+      "Department of Public Health",
+      "Department of Technology"
     ],
-    "tags": [],
     "blocksy_meta": {
       "styles_descriptor": {
         "styles": {
