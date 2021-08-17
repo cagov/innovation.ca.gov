@@ -7,7 +7,7 @@ try {
   if(req.query.previewMode) {
     context.res = await possum.handler({path:'/previewMode',queryStringParameters:req.query});
   } else {
-    context.res = { status: 307, headers: { location: `https://digital.ca.gov${req.headers["x-original-url"]}` }, body: null};
+    context.res = { status: 307, headers: { location: `https://digital.ca.gov/${context.bindingData.context.RestOfUrl}` }, body: null};
   }
 } catch (error) {
     context.res = {
