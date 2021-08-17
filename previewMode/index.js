@@ -1,5 +1,5 @@
 
-const { EleventyServerless } = require("@11ty/eleventy");
+//const { EleventyServerless } = require("@11ty/eleventy");
 
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
@@ -13,7 +13,7 @@ module.exports = async function (context, req) {
 
 
 }
-
+/*
 const runCode = (path,queryStringParameters) => {
     
     return {body:'test'};
@@ -52,3 +52,5 @@ const runCode = (path,queryStringParameters) => {
         };
       }
 }
+
+*/
