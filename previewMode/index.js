@@ -4,22 +4,11 @@ const possum = require("./possum");
 
 module.exports = async function (context, req) {
 try {
-
-
     console.log(possum.handler);
 
+    const result = await possum.handler({path:'/',queryStringParameters:req.query});
 
-    
-    const result = await possum.handler({path:'.',queryStringParameters:req.query});
-
-
-    context.res = {
-        body: JSON.stringify(result)
-    }
-
-
-
-
+    context.res = result;
 
 } catch (error) {
     context.res = {
