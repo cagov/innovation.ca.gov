@@ -1,5 +1,7 @@
 const moment = require('moment-timezone');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
+//const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
+
 
 //Replaces content to rendered
 const replaceContent = (item,searchValue,replaceValue) => {
@@ -69,6 +71,16 @@ module.exports = function(eleventyConfig) {
     }).reverse();
   });
   // eleventyConfig.addPlugin(pluginRss);
+
+
+ //console.log(JSON.stringify(EleventyServerlessBundlerPlugin));
+
+/*
+  eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
+    name: "possum", // The serverless function name from your permalink object
+    functionsDir: "./previewMode/"
+  });
+  */
 
   return {
     htmlTemplateEngine: "njk",
