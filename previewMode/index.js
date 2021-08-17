@@ -4,12 +4,11 @@ const possum = require("./possum");
 
 module.exports = async function (context, req) {
 try {
-    console.log(possum.handler);
-
-    const result = await possum.handler({path:'/previewMode',queryStringParameters:req.query});
-
-    context.res = result;
-
+  if(req.query.previewMode) {
+    context.res = await possum.handler({path:'/previewMode',queryStringParameters:req.query});
+  } else {
+    context.res = { status: 307, headers: { location: `https://digital.ca.gov${req.headers["x-original-url"]}` }, body: null};
+  }
 } catch (error) {
     context.res = {
         statusCode: error.httpStatusCode || 500,
