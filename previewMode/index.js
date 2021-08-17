@@ -16,10 +16,12 @@ module.exports = async function (context, req) {
 
 const runCode = async (path,queryStringParameters) => {
     
+try {
+
     let elev = new EleventyServerless("possum", {
         path: path,
         query: queryStringParameters,
-        inputDir: "pages",
+        inputDir: "./pages",
         functionsDir: "./previewMode/",
       });
 
@@ -30,6 +32,20 @@ const runCode = async (path,queryStringParameters) => {
         },
         body: await elev.render(),
       };
+} catch (error) {
+    return {
+        statusCode: error.httpStatusCode || 500,
+        body: JSON.stringify(
+          {
+            error: error.message,
+          },
+          null,
+          2
+        )
+      };
+}
+
+
       /*
     
       try {
