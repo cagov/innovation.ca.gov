@@ -6,7 +6,7 @@ module.exports = async function (context, req) {
 try {
     console.log(possum.handler);
 
-    const result = await possum.handler({path:'/',queryStringParameters:req.query});
+    const result = await possum.handler({path:'/test',queryStringParameters:req.query});
 
     context.res = result;
 
