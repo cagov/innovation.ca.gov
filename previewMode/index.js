@@ -15,6 +15,8 @@ module.exports = async function (context, req) {
 }
 
 const runCode = (path,queryStringParameters) => {
+    
+    return {body:'test'};
 
     let elev = new EleventyServerless("possum", {
         path: path,
