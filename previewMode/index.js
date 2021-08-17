@@ -9,15 +9,13 @@ module.exports = async function (context, req) {
         ? "Hello, " + name + ". This HTTP triggered function executed successfully."
         : "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response.";
 
-    context.res = runCode('/',req.query);
+    context.res = await runCode('/',req.query);
 
 
 }
 
-const runCode = (path,queryStringParameters) => {
+const runCode = async (path,queryStringParameters) => {
     
-
-
     let elev = new EleventyServerless("possum", {
         path: path,
         query: queryStringParameters,
@@ -25,8 +23,13 @@ const runCode = (path,queryStringParameters) => {
         functionsDir: "./previewMode/",
       });
 
-
-      return {body:'test'};
+      return {
+        statusCode: 200,
+        headers: {
+          "Content-Type": "text/html; charset=UTF-8",
+        },
+        body: await elev.render(),
+      };
       /*
     
       try {
