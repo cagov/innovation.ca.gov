@@ -1,5 +1,6 @@
 
 const { EleventyServerless } = require("@11ty/eleventy");
+const handler = require("./possum");
 
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
@@ -9,70 +10,19 @@ module.exports = async function (context, req) {
         ? "Hello, " + name + ". This HTTP triggered function executed successfully."
         : "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response.";
 
-    context.res = await runCode('/',req.query);
 
 
-}
 
-const runCode = async (path,queryStringParameters) => {
+console.log(handler);
+
+
     
-try {
-
-    let elev = new EleventyServerless("possum", {
-        path: path,
-        query: queryStringParameters,
-        inputDir: "./pages",
-        functionsDir: "./previewMode/",
-      });
-
-      return {
-        statusCode: 200,
-        headers: {
-          "Content-Type": "text/html; charset=UTF-8",
-        },
-        body: await elev.render(),
-      };
-} catch (error) {
-    return {
-        statusCode: error.httpStatusCode || 500,
-        body: JSON.stringify(
-          {
-            error: error.message,
-          },
-          null,
-          2
-        )
-      };
-}
+    const result = await handler({path:'.',queryStringParameters:req.query});
 
 
-      /*
-    
-      try {
-        return {
-          statusCode: 200,
-          headers: {
-            "Content-Type": "text/html; charset=UTF-8",
-          },
-          body: await elev.render(),
-        };
-      } catch (error) {
-        // Only console log for matching serverless paths
-        // (otherwise you’ll see a bunch of BrowserSync 404s for non-dynamic URLs during --serve)
-        if (elev.isServerlessUrl(path)) {
-          console.log("Serverless Error:", error);
-        }
-    
-        return {
-          statusCode: error.httpStatusCode || 500,
-          body: JSON.stringify(
-            {
-              error: error.message,
-            },
-            null,
-            2
-          ),
-        };
-      }
-      */
+    context.res = {
+        body: JSON.stringify(result)
+    }
+
+
 }

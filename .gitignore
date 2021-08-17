@@ -1,3 +1,6 @@
+/previewMode/possum
+/netlify.toml
+
 # 11ty generated folder
 /_site/*
 # unignore img and css
