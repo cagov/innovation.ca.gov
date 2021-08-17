@@ -9,14 +9,14 @@ module.exports = async function (context, req) {
         ? "Hello, " + name + ". This HTTP triggered function executed successfully."
         : "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response.";
 
-    context.res = {body:'test'}; //runCode('/',req.query);
+    context.res = runCode('/',req.query);
 
 
 }
-/*
+
 const runCode = (path,queryStringParameters) => {
     
-    return {body:'test'};
+
 
     let elev = new EleventyServerless("possum", {
         path: path,
@@ -24,6 +24,10 @@ const runCode = (path,queryStringParameters) => {
         inputDir: "pages",
         functionsDir: "./previewMode/",
       });
+
+
+      return {body:'test'};
+      /*
     
       try {
         return {
@@ -51,6 +55,5 @@ const runCode = (path,queryStringParameters) => {
           ),
         };
       }
+      */
 }
-
-*/
