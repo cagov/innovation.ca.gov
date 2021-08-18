@@ -24,7 +24,8 @@ try {
   //if(req.params.segments) { // Resource call
     //context.res = { status: 301, headers: { location: `https://digital.ca.gov${req.headers["x-original-url"]}` }, body: null};
   //} else {  // Root call
-    context.res = await possum.handler({path:'/previewMode/MyID/',queryStringParameters:req.query});
+    //context.res = await possum.handler({path:'/previewMode/MyID/',queryStringParameters:req.query});
+    context.res = await possum.handler({path:'/previewMode/MyID/',queryStringParameters:{id:'hardcodedtest'}});
   //}
 
 } catch (error) {
