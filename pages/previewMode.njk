@@ -8,11 +8,11 @@ author: JP Petrucione
 publishdate: 02/21/2020
 tags: news
 permalink:
-    possum: "/previewMode"
+    possum: "/previewMode/:id/"
 ---
 
 <pre>
-id = {%- eleventy.serverless.query.id -%}
+id = {%- eleventy.serverless.path.id -%}
 </pre>
 <h1>THIS IS THE PREVIEW MODE</h1>
 
