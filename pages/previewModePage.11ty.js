@@ -1,3 +1,4 @@
+// @ts-check
 const fetch = require('sync-fetch');
 
 class previewModePageClass {
@@ -22,17 +23,14 @@ class previewModePageClass {
     render(myData) {
         let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
         if (myData.eleventy.serverless.query && myData.eleventy.serverless.query.link) {
-            wpApiPage = link;
+            wpApiPage = myData.eleventy.serverless.query.link;
         }
-
 
         const response = fetch(wpApiPage);
         const jsonData = response.json();
 
         MapWpToData(myData,jsonData)
         return jsonData.content.rendered;
-
-        //return `<p>DYNAMIC version of ${myData.title}</p><p>Q = ${JSON.stringify(myData.eleventy.serverless.query,null,2)}</p>`;
     }
 }
 
