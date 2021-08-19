@@ -18,7 +18,7 @@ class previewModePageClass {
     }
 
     render(myData) {
-        return `<p>DYNAMIC version of ${myData.title}</p>`;
+        return `<p>DYNAMIC version of ${myData.title}</p><p>Q = ${eleventy.serverless.query}</p>`;
     }
 }
 module.exports = previewModePageClass;
