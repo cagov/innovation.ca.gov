@@ -1,5 +1,6 @@
-/previewMode/possum
+/possum
 /netlify.toml
+local.settings.json
 
 # 11ty generated folder
 /_site/*

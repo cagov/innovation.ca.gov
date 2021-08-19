@@ -78,7 +78,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
     name: "possum", // The serverless function name from your permalink object
-    functionsDir: "./previewMode/"
+    functionsDir: ""
   });
   
 
