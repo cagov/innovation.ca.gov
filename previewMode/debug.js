@@ -5,13 +5,13 @@ Object.keys(Values).forEach(x=>process.env[x]=Values[x]); //Load local settings 
 process.env.debug = true;
 
 //run the indexpage async
-const indexCode = require('../possum');
+const indexCode = require('./index');
 (async () => {
-    //let context = {};
-    //let req = {params:{}}
+    let context = {};
+    let req = {params:{}}
 
 
-    const output = await indexCode.handler({path:'/previewMode',queryStringParameters:{}});
-    console.log(output );
+    await indexCode(context, req);
+    console.log(context.res.body);
 
 })();

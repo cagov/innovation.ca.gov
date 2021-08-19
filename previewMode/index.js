@@ -30,7 +30,7 @@ module.exports = async function (context, req) {
     } else {  // Root call
       //context.res = await possum.handler({path:'/previewMode/MyID/',queryStringParameters:req.query});
       //context.res = await possum.handler({path:'/previewMode',queryStringParameters:{id:'hardcodedtest'}});
-      context.res = await possum.handler({path:'/previewMode',queryStringParameters:req.query});
+      context.res = await possum.handler({path:'/previewModePage',queryStringParameters:req.query});
     }
 
   } catch (error) {
