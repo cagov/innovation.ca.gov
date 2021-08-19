@@ -18,6 +18,7 @@ class previewModePageClass {
     }
 
     render(myData) {
+        myData.title = 'AddingMORE'+myData.title;
         return `<p>DYNAMIC version of ${myData.title}</p><p>Q = ${JSON.stringify(myData.eleventy.serverless.query,null,2)}</p>`;
     }
 }
