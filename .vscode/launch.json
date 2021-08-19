@@ -8,7 +8,8 @@
       "program": "previewMode/debug",
       "cwd": "${workspaceRoot}",
       "outputCapture": "std",
-      "autoAttachChildProcesses": true
+      "autoAttachChildProcesses": true,
+      "console": "internalConsole"
     },
   ]
 }
