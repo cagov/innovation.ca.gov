@@ -1,10 +1,7 @@
-// @ts-check
-const fetch = require('sync-fetch');
+const fetch = require('node-fetch');
 
 class previewModePageClass {
-    // or `async data() {`
-    // or `get data() {`
-    data() {
+    async data() {
         return {
             layout: "page",
             tags: ["news"],
@@ -20,28 +17,29 @@ class previewModePageClass {
         };
     }
 
-    render(myData) {
-        let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
-        if (myData.eleventy.serverless.query && myData.eleventy.serverless.query.link) {
-            wpApiPage = myData.eleventy.serverless.query.link;
+    async render(itemData) {
+        //let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
+        let wpApiPage = 'https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/posts/59?_embed';
+        if (itemData.eleventy.serverless.query && itemData.eleventy.serverless.query.link) {
+            wpApiPage = itemData.eleventy.serverless.query.link;
         }
 
-        const response = fetch(wpApiPage);
-        const jsonData = response.json();
+        const jsonData = await fetch(wpApiPage).then(result => result.json());
 
-        MapWpToData(myData,jsonData)
+        //content pulled in from JSON
+        itemData.title = jsonData.title.rendered;
+        itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
+        itemData.meta = jsonData.excerpt.rendered;
+        itemData.description = jsonData.excerpt.rendered;
+        itemData.lead = jsonData.excerpt.rendered;
+        itemData.author = jsonData._embedded.author[0].name;
+
+        let featuredMedia = jsonData._embedded['wp:featuredmedia'];
+        if (featuredMedia) {
+            itemData.previewimage = featuredMedia[0].source_url;
+        }
         return jsonData.content.rendered;
     }
 }
-
-const MapWpToData = (itemData,jsonData) => {
-    //content pulled in from JSON
-    itemData.title = jsonData.title.rendered;
-    itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
-    itemData.meta = jsonData.excerpt.rendered;
-    itemData.description = jsonData.excerpt.rendered;
-    itemData.lead = jsonData.excerpt.rendered;
-    itemData.author = jsonData._embedded.author[0].name;
-};
 
 module.exports = previewModePageClass;

@@ -6,7 +6,7 @@
   "dependencies": {
     "@11ty/eleventy": "^1.0.0-canary.41",
     "moment-timezone": "^0.5.33",
-    "sync-fetch": "^0.3.0"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
