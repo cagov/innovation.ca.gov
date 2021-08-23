@@ -1,6 +1,25 @@
-//Loading environment variables
-const { Values } = require('../local.settings.json');
-Object.keys(Values).forEach(x=>process.env[x]=Values[x]); //Load local settings file for testing
+/*
+Debug file for running Azure function
+
+To use this Debug file, put the following in \.vscode\launch.json
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug DIRECT previewMode",
+      "program": "previewMode/debug",
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std",
+      "autoAttachChildProcesses": true,
+      "console": "internalConsole"
+    },
+  ]
+}
+
+*/
 
 process.env.debug = true;
 
