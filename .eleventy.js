@@ -1,7 +1,5 @@
 const moment = require('moment-timezone');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
-const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
-
 
 //Replaces content to rendered
 const replaceContent = (item,searchValue,replaceValue) => {
@@ -74,16 +72,9 @@ module.exports = function(eleventyConfig) {
 
 
  //console.log(JSON.stringify(EleventyServerlessBundlerPlugin));
-
-
-  eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
-    name: "possum", // The serverless function name from your permalink object
-    functionsDir: "", //off the root
-    redirects: "", //no redirect handling built in
-    copyOptions: {
-      filter:['**/*','!**']} // Filtering out all pages, this still brings in includes
-  });
-  
+ const path = require('path'); //Path Resolve needed to make plugin mode copy work
+ const { setupPreviewMode } = require( path.resolve('.','./previewMode/plugInTo11ty') );
+ setupPreviewMode(eleventyConfig);
 
   return {
     htmlTemplateEngine: "njk",
