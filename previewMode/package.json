@@ -1,0 +1,10 @@
+{
+    "name": "wordpress-11ty-azure-faas-preview-mode",
+    "version": "0.0.0",
+    "description": "serverless renderer of 11ty data using Wordpress API data",
+    "main": "index.js",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    },
+    "license": "ISC"
+}
