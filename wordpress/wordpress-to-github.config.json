@@ -18,7 +18,9 @@
           "content",
           "_links"
         ],
-        "tags_exclude": []
+        "tags_exclude":[
+          "preview-mode"
+        ]
       }
     ]
   }
