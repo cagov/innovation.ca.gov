@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const reuse = require("./reuse.json");
 
 class previewModePageClass {
     async data() {
@@ -12,14 +13,14 @@ class previewModePageClass {
             //author: "JP Petrucione",
             //publishdate: "2020-02-21",
             permalink: {
-                possum: "/previewModePage"
+                [reuse.config.serverlessFunctionName]: reuse.config.pagePath
             }
         };
     }
 
     async render(itemData) {
         //let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
-        let wpApiPage = 'https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/posts/59?_embed';
+        let wpApiPage = reuse.config.wordPressSite+'/wp-json/wp/v2/posts/59?_embed';
         if (itemData.eleventy.serverless.query && itemData.eleventy.serverless.query.link) {
             wpApiPage = itemData.eleventy.serverless.query.link;
         }

@@ -1,4 +1,5 @@
-const possum = require("../possum");
+const reuse = require("./reuse.json");
+const serverlessFolder = require("../"+reuse.config.serverlessFunctionName);
 
 /**
  * 
@@ -8,9 +9,9 @@ const possum = require("../possum");
 module.exports = async function (context, req) {
   try {
     if(req.params.segments) { // Resource call
-      context.res = { status: 301, headers: { location: `https://digital.ca.gov${req.headers["x-original-url"]}` }, body: null};
+      context.res = { status: 301, headers: { location: `${reuse.config.contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null};
     } else {  // Root call
-      context.res = await possum.handler({path:'/previewModePage',queryStringParameters:req.query});
+      context.res = await serverlessFolder.handler({path:reuse.config.pagePath,queryStringParameters:req.query});
     }
 
   } catch (error) {
