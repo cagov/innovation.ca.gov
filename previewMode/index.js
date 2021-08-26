@@ -9,7 +9,7 @@ const renderRootPage = async () => {
   const links = postIds.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
 
   return { 
-    "content-type": 'text/html; charset=UTF-8',
+    headers: {"content-type": 'text/html; charset=UTF-8'},
     body: `<html><body><ul>${links.join()}</ul></body></html>` 
   };
 }
