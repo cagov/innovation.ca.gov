@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "created_date": "2021-08-26T16:32:13",
+    "updated_date": "2021-08-26T16:32:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 82,
+    "date": "2021-08-26T09:32:13",
+    "date_gmt": "2021-08-26T16:32:13",
+    "guid": "https://live-odi-content-api.pantheonsite.io/?p=82",
+    "modified": "2021-08-26T09:32:13",
+    "modified_gmt": "2021-08-26T16:32:13",
+    "slug": "preview-mode-test",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-odi-content-api.pantheonsite.io/2021/08/26/preview-mode-test/",
+    "title": "Preview mode test",
+    "excerpt": "<p>This page should not be deployed, but should be available in the preview mode.</p>\n",
+    "author": "Carter Medlin",
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "Preview-Mode"
+    ],
+    "blocksy_meta": "",
+    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/08/26/preview-mode-test/"
+  }
+}
