@@ -27,8 +27,9 @@ process.env.debug = true;
 const indexCode = require('./index');
 (async () => {
     let context = {};
-    let req = {params:{}}
-
+    let req = {params:{}};
+    //let req = {params:{}, query:{postid:'82'}};
+    //let req = {params:{}, query:{postid:'59'}};
 
     await indexCode(context, req);
     console.log(context.res.body);

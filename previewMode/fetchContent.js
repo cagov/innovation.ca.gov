@@ -2,15 +2,20 @@ const fetch = require('node-fetch');
 const reuse = require("./reuse.json");
 
 const getPageJsonFromWordpress = async itemData => {
-    //let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
-    let wpApiPage = reuse.config.wordPressSite+'/wp-json/wp/v2/posts/59?_embed';
-    if (itemData.eleventy.serverless.query && itemData.eleventy.serverless.query.link) {
-        wpApiPage = itemData.eleventy.serverless.query.link;
-    }
+    let wpApiPage = reuse.config.wordPressSite+`/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed`;
 
     return await fetch(wpApiPage).then(result => result.json());
 }
 
+const getPreviewPostIds = async () => {
+    const wpApiPage = reuse.config.wordPressSite+`/wp-json/wp/v2/posts/?tags=${reuse.config.previewWordPressTagId}&orderby=modified&_fields=title,modified,id`;
+    /** @type {{id:number,title:{rendered:string},modified:string}[]} */
+    const result = await fetch(wpApiPage).then(result => result.json())
+
+    return result;
+}
+
 module.exports = {
-    getPageJsonFromWordpress
+    getPageJsonFromWordpress,
+    getPreviewPostIds
 }
