@@ -13,11 +13,14 @@
         "PostPath": "pages/blog/posts/wordpress-posts",
         "PagePath": "wordpress/pages",
         "MediaPath": "wordpress/media",
+        "GeneralFilePath": "wordpress/general/general.json",
         "ExcludeProperties": [
           "content",
           "_links"
         ],
-        "tags_exclude": []
+        "tags_exclude":[
+          "Preview-Mode"
+        ]
       }
     ]
   }
