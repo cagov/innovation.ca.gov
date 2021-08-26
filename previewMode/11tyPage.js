@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
 const reuse = require("./reuse.json");
+const { getPageJsonFromWordpress } = require("./fetchContent");
 
 class previewModePageClass {
     async data() {
@@ -19,13 +19,7 @@ class previewModePageClass {
     }
 
     async render(itemData) {
-        //let wpApiPage = 'https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/13211?_embed=author,wp:term';
-        let wpApiPage = reuse.config.wordPressSite+'/wp-json/wp/v2/posts/59?_embed';
-        if (itemData.eleventy.serverless.query && itemData.eleventy.serverless.query.link) {
-            wpApiPage = itemData.eleventy.serverless.query.link;
-        }
-
-        const jsonData = await fetch(wpApiPage).then(result => result.json());
+        const jsonData = await getPageJsonFromWordpress(itemData);
 
         //content pulled in from JSON
         itemData.title = jsonData.title.rendered;
