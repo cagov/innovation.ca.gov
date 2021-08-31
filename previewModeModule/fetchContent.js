@@ -38,7 +38,7 @@ const digestPageJSON = require('./digestPageJson.json');
  * @returns {Promise<WordpressPostRow>}
  */
 const getPostJsonFromWordpress = async (/** @type {{ eleventy: { serverless: { query: { postid: any; }; }; }; }} */ itemData) => {
-    if (itemData.eleventy.serverless.query) {
+    if (itemData.eleventy.serverless.query.postid) {
         let wpApiPage = reuse.config.wordPressSite + `/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed&cachebust=${Math.random()}`;
 
         return (await fetch(wpApiPage)
