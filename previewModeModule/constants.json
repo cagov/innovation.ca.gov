@@ -1,0 +1,6 @@
+{
+    "config": {
+        "serverlessFunctionName": "possum",
+        "pagePath": "/GeneratePreviewModePath"
+    }
+}

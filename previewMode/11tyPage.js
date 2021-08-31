@@ -1,21 +1,22 @@
 //@ts-check
+const { addPreviewModeDataElements } = require("../previewModeModule/addPreviewModeDataElements");
 const reuse = require("./reuse.json");
-const { getPostJsonFromWordpress } = require("./fetchContent");
+const { getPostJsonFromWordpress } = require("../previewModeModule/getPostJsonFromWordpress");
 
 class previewModePageClass {
     async data() {
         return {
             layout: "page",
             tags: ["news"],
-            previewimage: "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg",
-            permalink: {
-                [reuse.config.serverlessFunctionName]: reuse.config.pagePath
-            }
+            ...addPreviewModeDataElements()
         };
     }
 
     async render(itemData) {
-        const jsonData = await getPostJsonFromWordpress(itemData);
+        const wordPressSettings = {wordPressSite:reuse.config.wordPressSite, previewWordPressTagId:reuse.config.previewWordPressTagId};
+        const jsonData = await getPostJsonFromWordpress(itemData,wordPressSettings);
+
+        let featuredMedia = jsonData._embedded["wp:featuredmedia"];
 
         itemData.title = jsonData.title.rendered;
         itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
@@ -23,11 +24,8 @@ class previewModePageClass {
         itemData.description = jsonData.excerpt.rendered;
         itemData.lead = jsonData.excerpt.rendered;
         itemData.author = jsonData._embedded.author[0].name;
+        itemData.previewimage =  featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
 
-        let featuredMedia = jsonData._embedded["wp:featuredmedia"];
-        if (featuredMedia) {
-            itemData.previewimage = featuredMedia[0].source_url;
-        }
         return jsonData.content.rendered;
     }
 }

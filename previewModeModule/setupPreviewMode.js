@@ -1,5 +1,5 @@
 const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
-const reuse = require("./reuse.json");
+const constants = require("./constants.json");
 
 /**
  * 
@@ -11,7 +11,7 @@ const reuse = require("./reuse.json");
  */
 const setupPreviewMode = eleventyConfig => {
     eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
-        name: reuse.config.serverlessFunctionName, // The serverless function name from your permalink object
+        name: constants.config.serverlessFunctionName, // The serverless function name from your permalink object
         functionsDir: "", //off the root
         redirects: "", //no redirect handling built in
         copyOptions: {

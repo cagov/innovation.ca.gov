@@ -1,6 +1,5 @@
-const reuse = require("../previewModeModule/reuse.json");
-const serverlessFolder = require("../" + reuse.config.serverlessFunctionName);
-
+const reuse = require("./reuse.json");
+const { serverlessHandler } = require("../previewModeModule/serverlessHandler");
 
 /**
  * 
@@ -12,7 +11,7 @@ module.exports = async function (context, req) {
     if (req.params.segments) { // Resource call
       context.res = { status: 301, headers: { location: `${reuse.config.contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
     } else {
-      context.res = await serverlessFolder.handler({ path: reuse.config.pagePath, queryStringParameters: req.query });
+      context.res = await serverlessHandler(req.query);
     }
 
   } catch (error) {

@@ -2,8 +2,6 @@
     "config": {
         "wordPressSite": "https://live-odi-content-api.pantheonsite.io",
         "contentRedirectSiteTarget": "https://digital.ca.gov",
-        "serverlessFunctionName": "possum",
-        "pagePath": "/GeneratePreviewModePath",
         "previewWordPressTagId": 20
     }
 }

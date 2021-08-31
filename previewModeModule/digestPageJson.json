@@ -7,7 +7,7 @@
     },
     "modified": "2021-08-27T15:21:32",
     "modified_gmt": "2021-08-27T22:21:32",
-    "slug": "preview-mode-test",
+    "slug": "preview-mode",
     "status": "publish",
     "type": "post",
     "link": "",
@@ -33,7 +33,7 @@
     "_embedded": {
       "author": [
         {
-          "name": "Carter Medlin"
+          "name": "Preview Mode"
         }
       ]
     }
