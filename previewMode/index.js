@@ -1,18 +1,6 @@
 const reuse = require("../previewModeModule/reuse.json");
 const serverlessFolder = require("../" + reuse.config.serverlessFunctionName);
 
-const { getPreviewPostIds } = require("../previewModeModule/fetchContent");
-
-const renderRootPage = async () => {
-  const postIds = await getPreviewPostIds();
-
-  const links = postIds.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
-
-  return {
-    headers: { "Content-Type": "text/html; charset=UTF-8", },
-    body: `<html><body><ul>${links.join()}</ul></body></html>`
-  };
-}
 
 /**
  * 
@@ -23,10 +11,8 @@ module.exports = async function (context, req) {
   try {
     if (req.params.segments) { // Resource call
       context.res = { status: 301, headers: { location: `${reuse.config.contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
-    } else if (req.query && req.query.postid) {
+    } else {
       context.res = await serverlessFolder.handler({ path: reuse.config.pagePath, queryStringParameters: req.query });
-    } else {  // Root call
-      context.res = await renderRootPage();
     }
 
   } catch (error) {

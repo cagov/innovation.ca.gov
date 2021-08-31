@@ -15,7 +15,7 @@ const reuse = require("./reuse.json");
 * @property {{rendered:string}} guid
 * @property {number} id
 * @property {string} link
-* @property {[]} meta
+* @property {any[]} meta
 * @property {string} modified
 * @property {string} modified_gmt
 * @property {string} ping_status "closed"
@@ -26,27 +26,42 @@ const reuse = require("./reuse.json");
 * @property {string} template
 * @property {{rendered:string}} title
 * @property {string} type "post"
-* @property {{"wp:featuredmedia":{source_url:string}[],author:{name:string}[]}} _embedded
-* @property {*} _links
+* @property {{"wp:featuredmedia"?:{source_url:string}[],author:{name:string}[]}} [_embedded]
+* @property {*} [_links]
 */
 
-const getPostJsonFromWordpress = async (/** @type {{ eleventy: { serverless: { query: { postid: any; }; }; }; }} */ itemData) => {
-    let wpApiPage = reuse.config.wordPressSite + `/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed&cachebust=${Math.random()}`;
+/** @type WordpressPostRow */
+const digestPageJSON = require('./digestPageJson.json');
 
-    /** @type {WordpressPostRow} */
-    return (await fetch(wpApiPage)
-        .then(result => result.json()));
+/**
+ * 
+ * @returns {Promise<WordpressPostRow>}
+ */
+const getPostJsonFromWordpress = async (/** @type {{ eleventy: { serverless: { query: { postid: any; }; }; }; }} */ itemData) => {
+    if (itemData.eleventy.serverless.query) {
+        let wpApiPage = reuse.config.wordPressSite + `/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed&cachebust=${Math.random()}`;
+
+        return (await fetch(wpApiPage)
+            .then(result => result.json()));
+    } else {
+        let digestReturn = {...digestPageJSON};
+        const postIds = await getPreviewPostIds();
+
+        const links = postIds.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
+
+        digestReturn.content.rendered = `<ul>${links.join()}</ul>`;
+        return digestReturn;
+    }
 }
 
 const getPreviewPostIds = async () => {
     const wpApiPage = reuse.config.wordPressSite + `/wp-json/wp/v2/posts/?tags=${reuse.config.previewWordPressTagId}&orderby=modified&_fields=title,modified,id&cachebust=${Math.random()}`;
-    
+
     /** @type {{id:number,title:{rendered:string},modified:string}[]} */
     return (await fetch(wpApiPage)
         .then(result => result.json()));
 }
 
 module.exports = {
-    getPostJsonFromWordpress,
-    getPreviewPostIds
+    getPostJsonFromWordpress
 }
