@@ -6,7 +6,7 @@
   "dependencies": {
     "@11ty/eleventy": "^1.0.0-canary.41",
     "moment-timezone": "^0.5.33",
-    "wordpress-11ty-azure-faas-preview-mode": "file:previewMode"
+    "wordpress-11ty-azure-faas-preview-mode": "file:previewModeModule"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",

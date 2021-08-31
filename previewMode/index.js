@@ -1,7 +1,7 @@
-const reuse = require("./reuse.json");
+const reuse = require("../previewModeModule/reuse.json");
 const serverlessFolder = require("../" + reuse.config.serverlessFunctionName);
 
-const { getPreviewPostIds } = require("./fetchContent");
+const { getPreviewPostIds } = require("../previewModeModule/fetchContent");
 
 const renderRootPage = async () => {
   const postIds = await getPreviewPostIds();

@@ -1,1 +1,1 @@
-module.exports = require('../previewMode/11tyPage');
+module.exports = require('../previewModeModule/11tyPage');
