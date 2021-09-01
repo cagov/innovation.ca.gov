@@ -38,6 +38,20 @@ const digestPageJSON = require('./digestPageJson.json');
 * @property {number} previewWordPressTagId
 */
 
+
+/**
+ * calls fetch and expects a json result.  Error or non-ok status.
+ * @param {string} url 
+ * @param {*} [opts]
+ */
+const fetchJson = async (url, opts) => {
+    const fetchResponse = await fetch(url, opts);
+    if(!fetchResponse.ok) {
+        throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText}`);
+    }
+    return fetchResponse.json();
+}
+
 /**
  * @param {*} itemData
  * @param {WordpressSettings} wordpressSettings
@@ -47,16 +61,14 @@ const getPostJsonFromWordpress = async (itemData, wordpressSettings) => {
     if (itemData.eleventy.serverless.query.postid) {
         const wpApiPage = `${wordpressSettings.wordPressSite}/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed&cachebust=${Math.random()}`;
 
-        return (await fetch(wpApiPage)
-            .then(result => result.json()));
+        return await fetchJson(wpApiPage);
     } else {
         let digestReturn = { ...digestPageJSON };
 
         const wpApiPage = `${wordpressSettings.wordPressSite}/wp-json/wp/v2/posts/?tags=${wordpressSettings.previewWordPressTagId}&orderby=modified&_fields=title,modified,id&cachebust=${Math.random()}`;
 
         /** @type {{id:number,title:{rendered:string},modified:string}[]} */
-        const postIds = (await fetch(wpApiPage)
-            .then(result => result.json()));
+        const postIds = await fetchJson(wpApiPage);
 
         const links = postIds.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
 
