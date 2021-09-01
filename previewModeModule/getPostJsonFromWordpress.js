@@ -47,7 +47,7 @@ const digestPageJSON = require('./digestPageJson.json');
 const fetchJson = async (url, opts) => {
     const fetchResponse = await fetch(url, opts);
     if(!fetchResponse.ok) {
-        throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText}`);
+        throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText} - ${fetchResponse.url}`);
     }
     return fetchResponse.json();
 }
