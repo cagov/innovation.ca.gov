@@ -1,4 +1,4 @@
-const constants = require("../previewModeModule/constants.json");
+const constants = require("./constants.json");
 const serverlessFolder = require("../" + constants.config.serverlessFunctionName);
 
 

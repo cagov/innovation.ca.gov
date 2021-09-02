@@ -12,10 +12,11 @@ const constants = require("./constants.json");
 const setupPreviewMode = eleventyConfig => {
     eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
         name: constants.config.serverlessFunctionName, // The serverless function name from your permalink object
+        inputDir: "",
         functionsDir: "", //off the root
         redirects: "", //no redirect handling built in
         copyOptions: {
-          filter:['**/*','!**']} // Filtering out all pages, this still brings in includes
+            filter:['**/*','!**']} // Filtering out all pages, this still brings in includes
       });
 }
 

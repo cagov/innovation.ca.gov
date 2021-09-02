@@ -1,5 +1,5 @@
 const reuse = require("./reuse.json");
-const { serverlessHandler } = require("../previewModeModule/serverlessHandler");
+const { serverlessHandler } = require("wordpress-11ty-azure-faas-preview-mode/serverlessHandler");
 
 /**
  * 

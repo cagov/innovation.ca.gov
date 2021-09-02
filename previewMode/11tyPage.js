@@ -1,7 +1,7 @@
 //@ts-check
-const { addPreviewModeDataElements } = require("../previewModeModule/addPreviewModeDataElements");
+const { addPreviewModeDataElements } = require("wordpress-11ty-azure-faas-preview-mode/addPreviewModeDataElements");
 const reuse = require("./reuse.json");
-const { getPostJsonFromWordpress } = require("../previewModeModule/getPostJsonFromWordpress");
+const { getPostJsonFromWordpress } = require("wordpress-11ty-azure-faas-preview-mode/getPostJsonFromWordpress");
 
 class previewModePageClass {
     async data() {
