@@ -1,7 +1,7 @@
 //@ts-check
-const { addPreviewModeDataElements } = require("../PreviewModeModule/addPreviewModeDataElements"); //require("wordpress-11ty-azure-faas-preview-mode/addPreviewModeDataElements");
+const { addPreviewModeDataElements } = require("../previewModeModule/addPreviewModeDataElements"); //require("wordpress-11ty-azure-faas-preview-mode/addPreviewModeDataElements");
 const reuse = require("./reuse.json");
-const { getPostJsonFromWordpress } = require("../PreviewModeModule/getPostJsonFromWordpress");//require("wordpress-11ty-azure-faas-preview-mode/getPostJsonFromWordpress");
+const { getPostJsonFromWordpress } = require("../previewModeModule/getPostJsonFromWordpress");//require("wordpress-11ty-azure-faas-preview-mode/getPostJsonFromWordpress");
 
 class previewModePageClass {
     async data() {
