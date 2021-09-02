@@ -71,10 +71,9 @@ module.exports = function(eleventyConfig) {
   // eleventyConfig.addPlugin(pluginRss);
 
 
- //console.log(JSON.stringify(EleventyServerlessBundlerPlugin));
- const path = require('path'); //Path Resolve needed to make plugin mode copy work
- const { setupPreviewMode } = require( path.resolve('.','./previewModeModule/setupPreviewMode') );
- setupPreviewMode(eleventyConfig);
+  const path = require('path'); //Path Resolve needed to make plugin mode copy work
+  const { setupPreviewMode } = require( path.resolve('.','./previewModeModule/setupPreviewMode') );
+  setupPreviewMode(eleventyConfig);
 
   return {
     htmlTemplateEngine: "njk",

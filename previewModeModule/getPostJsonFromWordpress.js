@@ -40,7 +40,7 @@ const digestPageJSON = require('./digestPageJson.json');
 
 
 /**
- * calls fetch and expects a json result.  Error or non-ok status.
+ * calls fetch and expects a json result.  Error on non-ok status.
  * @param {string} url 
  * @param {*} [opts]
  */
