@@ -1,5 +1,5 @@
 {
-    "name": "wordpress-11ty-azure-faas-preview-mode",
+    "name": "@cagov/11ty-serverless-preview-mode",
     "version": "0.0.0",
     "main": "index.js",
     "description": "serverless renderer of 11ty data using Wordpress API data",

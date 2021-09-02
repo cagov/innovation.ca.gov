@@ -9,3 +9,8 @@
 * Module still needs to be refined to be more distributable
     * `previewModePage.11ty.js` is still in the project, would like to mode it to module folder.
     * custom `.eleventy.js` config needs to be referenced
+
+
+
+## Must consider
+* need to include newer version of 11ty in package.json `"@11ty/eleventy": "^1.0.0-canary.41"`
