@@ -2,9 +2,9 @@ const reuse = require("./reuse.json");
 const { serverlessHandler } = require("../previewModeModule/serverlessHandler"); //require("wordpress-11ty-azure-faas-preview-mode/serverlessHandler");
 
 /**
- * 
- * @param {{res:{status:number,body:string}}} context
- * @param {{params:{segments:*},headers:*}} req
+ * Azure Function to render a single 11ty page
+ * @param {{res:{status:number,body:string},done:function}} context
+ * @param {{params:{segments?:*},headers:*,query:*}} req
  */
 module.exports = async function (context, req) {
   try {

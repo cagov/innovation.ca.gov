@@ -3,6 +3,12 @@ const path = require('path'); //Path Resolve needed to make plugin mode copy wor
 const xpath = path.resolve(".", constants.config.serverlessFunctionName) ;
 const serverlessFolder = require(xpath);
 
+/**
+ * runs serverless eleventy on the default page.  Returns a function response.
+ * @param {*} queryStringParameters 
+ * @returns {Promise<{statusCode:number, headers:{"Content-Type":string},body:string}>}
+ * @example context.res = await serverlessHandler(req.query);
+ */
 const serverlessHandler = async (queryStringParameters) => 
      serverlessFolder.handler({ path: constants.config.pagePath, queryStringParameters });
 
