@@ -1,5 +1,5 @@
-const reuse = require("./reuse.json");
 const { serverlessHandler } = require("../previewModeModule/serverlessHandler"); //require("wordpress-11ty-azure-faas-preview-mode/serverlessHandler");
+const contentRedirectSiteTarget = "https://digital.ca.gov";
 
 /**
  * Azure Function to render a single 11ty page
@@ -8,8 +8,8 @@ const { serverlessHandler } = require("../previewModeModule/serverlessHandler");
  */
 module.exports = async function (context, req) {
   try {
-    if (req.params.segments) { // Resource call
-      context.res = { status: 301, headers: { location: `${reuse.config.contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
+    if (req.params.segments) { // Resource call, redirect back to the main site
+      context.res = { status: 301, headers: { location: `${contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
     } else {
       context.res = await serverlessHandler(req.query);
     }

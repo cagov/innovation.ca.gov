@@ -72,9 +72,9 @@ module.exports = function(eleventyConfig) {
 
 
   const path = require('path'); //Path Resolve needed to make plugin mode copy work
-  const { setupPreviewMode } = require( path.resolve('.','./previewModeModule/setupPreviewMode') );
+  const { addPreviewModeToEleventy } = require( path.resolve('.','./previewModeModule/addPreviewModeToEleventy') );
   //const { setupPreviewMode } = require('wordpress-11ty-azure-faas-preview-mode/setupPreviewMode');
-  setupPreviewMode(eleventyConfig);
+  addPreviewModeToEleventy(eleventyConfig);
 
   return {
     htmlTemplateEngine: "njk",
