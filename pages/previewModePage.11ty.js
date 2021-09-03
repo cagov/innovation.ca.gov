@@ -8,6 +8,9 @@ const wordPressSettings = {
 }
 
 class previewModePageClass {
+    /**
+     * First, mostly static.  Returns the frontmatter data.
+     */
     async data() {
         return {
             layout: "page",
@@ -17,7 +20,8 @@ class previewModePageClass {
     }
 
     /**
-     * @param {{ title: string; publishdate: string; meta: string; description: string; lead: string; author: string; previewimage: string; }} itemData
+     * Last, after the frontmatter data is loaded.  Able to render the page.
+     * @param {{ title: string; publishdate: string; meta: string; description: string; lead: string; author: string; previewimage: string; eleventy: { serverless: { query: { postid?: string; }; }; }; }} itemData
      */
     async render(itemData) {
         const jsonData = await getPostJsonFromWordpress(itemData,wordPressSettings);

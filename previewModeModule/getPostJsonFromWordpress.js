@@ -38,7 +38,6 @@ const digestPageJSON = require('./digestPageJson.json');
 * @property {number} previewWordPressTagId
 */
 
-
 /**
  * calls fetch and expects a json result.  Error on non-ok status.
  * @param {string} url 
@@ -46,34 +45,38 @@ const digestPageJSON = require('./digestPageJson.json');
  */
 const fetchJson = async (url, opts) => {
     const fetchResponse = await fetch(url, opts);
-    if(!fetchResponse.ok) {
+    if (!fetchResponse.ok) {
         throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText} - ${fetchResponse.url}`);
     }
     return fetchResponse.json();
 }
 
 /**
- * @param {*} itemData
+ * @param {{ eleventy: { serverless: { query: { postid?: string}}}}} itemData
  * @param {WordpressSettings} wordpressSettings
  * @returns {Promise<WordpressPostRow>}
+ * @example
+ * async render(itemData) {
+ *   const jsonData = await getPostJsonFromWordpress(itemData,wordPressSettings);
+ *   return jsonData.content.rendered;
+ * }
  */
 const getPostJsonFromWordpress = async (itemData, wordpressSettings) => {
     if (itemData.eleventy.serverless.query.postid) {
         const wpApiPage = `${wordpressSettings.wordPressSite}/wp-json/wp/v2/posts/${itemData.eleventy.serverless.query.postid}?_embed&cachebust=${Math.random()}`;
 
-        return await fetchJson(wpApiPage);
+        return fetchJson(wpApiPage);
     } else {
-        let digestReturn = { ...digestPageJSON };
-
         const wpApiPage = `${wordpressSettings.wordPressSite}/wp-json/wp/v2/posts/?tags=${wordpressSettings.previewWordPressTagId}&orderby=modified&_fields=title,modified,id&cachebust=${Math.random()}`;
 
-        /** @type {{id:number,title:{rendered:string},modified:string}[]} */
-        const postIds = await fetchJson(wpApiPage);
+        return fetchJson(wpApiPage)
+            .then((/** @type {{id:number,title:{rendered:string},modified:string}[]} */ previewPosts) => {
+                const links = previewPosts.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
 
-        const links = postIds.map(x => `<li><a href="?postid=${x.id}">${x.title.rendered}</a> - ${x.modified}</li>`);
-
-        digestReturn.content.rendered = `<ul>${links.join()}</ul>`;
-        return digestReturn;
+                let digestReturn = { ...digestPageJSON };
+                digestReturn.content.rendered = `<ul>${links.join()}</ul>`;
+                return digestReturn
+            });
     }
 }
 
