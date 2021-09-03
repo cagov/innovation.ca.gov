@@ -10,6 +10,6 @@ const serverlessFolder = require(xpath);
  * @example context.res = await serverlessHandler(req.query);
  */
 const serverlessHandler = async (queryStringParameters) => 
-     serverlessFolder.handler({ path: constants.config.pagePath, queryStringParameters });
+     serverlessFolder.handler({ path: constants.config.pagePath+"TEST", queryStringParameters });
 
 module.exports = { serverlessHandler }
