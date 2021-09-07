@@ -1,6 +1,5 @@
 //@ts-check
-const { addPreviewModeDataElements } = require("../previewModeModule/addPreviewModeDataElements"); //require("wordpress-11ty-azure-faas-preview-mode/addPreviewModeDataElements");
-const { getPostJsonFromWordpress } = require("../previewModeModule/getPostJsonFromWordpress");//require("wordpress-11ty-azure-faas-preview-mode/getPostJsonFromWordpress");
+const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("../previewModeModule"); //require("wordpress-11ty-azure-faas-preview-mode");
 
 const wordPressSettings = {
     wordPressSite: "https://live-odi-content-api.pantheonsite.io",
@@ -24,7 +23,7 @@ class previewModePageClass {
      * @param {{ title: string; publishdate: string; meta: string; description: string; lead: string; author: string; previewimage: string; eleventy: { serverless: { query: { postid?: string; }; }; }; }} itemData
      */
     async render(itemData) {
-        const jsonData = await getPostJsonFromWordpress(itemData,wordPressSettings);
+        const jsonData = await getPostJsonFromWordpress(itemData, wordPressSettings);
 
         let featuredMedia = jsonData._embedded["wp:featuredmedia"];
 
@@ -34,7 +33,7 @@ class previewModePageClass {
         itemData.description = jsonData.excerpt.rendered;
         itemData.lead = jsonData.excerpt.rendered;
         itemData.author = jsonData._embedded.author[0].name;
-        itemData.previewimage =  featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
+        itemData.previewimage = featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
 
         return jsonData.content.rendered;
     }

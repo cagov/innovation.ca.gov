@@ -1,5 +1,47 @@
+
 //@ts-check
 const fetch = require('node-fetch/lib');
+const serverlessFunctionName = "possum";
+const pagePath = "/GeneratePreviewModePath";
+const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
+/** @type WordpressPostRow */
+const digestPageJSON = require('./digestPageJson.json');
+
+/**
+ * Adds EleventyServerless with simple config for single page rendering
+ * @param {*} eleventyConfig 
+ * @example
+ * module.exports = function(eleventyConfig) {
+ *   const path = require('path'); //Path Resolve needed to make plugin mode copy work
+ *   const { addPreviewModeToEleventy } = require( path.resolve('.','./previewModeModule/addPreviewModeToEleventy') );
+ *   addPreviewModeToEleventy(eleventyConfig);
+ * }
+ */
+const addPreviewModeToEleventy = eleventyConfig => {
+    eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
+        name: serverlessFunctionName, // The serverless function name from your permalink object
+        inputDir: "",
+        functionsDir: "", //off the root
+        redirects: "", //no redirect handling built in
+        copyOptions: {
+            filter: ['**/*', '!**']
+        } // Filtering out all pages, this still brings in includes
+    });
+};
+
+/**
+ * runs serverless eleventy on the default page.  Returns a function response.
+ * @param {*} queryStringParameters from your function's request `req.query`
+ * @returns {Promise<{statusCode:number, headers:{"Content-Type":string},body:string}>} Function response Promise
+ * @example context.res = await serverlessHandler(req.query); //Azure FaaS
+ */
+const serverlessHandler = async queryStringParameters => {
+    const path = require('path'); //Path Resolve needed to make plugin mode copy work
+    const xpath = path.resolve(".", serverlessFunctionName);
+    const serverlessFolder = require(xpath);
+    return serverlessFolder.handler({ path: pagePath, queryStringParameters });
+};
+
 /**
 * @typedef {Object} WordpressPostRow Expected POST input when using the Wordpress API - https://developer.wordpress.org/rest-api/reference/posts/
 * @property {number} author
@@ -28,9 +70,6 @@ const fetch = require('node-fetch/lib');
 * @property {{"wp:featuredmedia"?:{source_url:string}[],author:{name:string}[]}} [_embedded]
 * @property {*} [_links]
 */
-
-/** @type WordpressPostRow */
-const digestPageJSON = require('./digestPageJson.json');
 
 /**
 * @typedef {Object} WordpressSettings
@@ -80,6 +119,27 @@ const getPostJsonFromWordpress = async (itemData, wordpressSettings) => {
     }
 }
 
+/**
+ * Puts the correct permalink in the data section
+ * @example async data() {
+ *        return {
+ *           layout: "page",
+ *           tags: ["news"],
+ *           ...addPreviewModeDataElements()
+ *       };
+ *   }
+ */
+ const addPreviewModeDataElements = () => (
+    {
+        permalink: {
+            [serverlessFunctionName]: pagePath
+        }
+    }
+);
+
 module.exports = {
-    getPostJsonFromWordpress
+    serverlessHandler,
+    getPostJsonFromWordpress,
+    addPreviewModeToEleventy,
+    addPreviewModeDataElements
 }
