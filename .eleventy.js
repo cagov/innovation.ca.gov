@@ -72,8 +72,8 @@ module.exports = function(eleventyConfig) {
 
 
   const path = require('path'); //Path Resolve needed to make plugin mode copy work
-  //const { addPreviewModeToEleventy } = require( path.resolve('.','./previewModeModule') );
-  const { addPreviewModeToEleventy } = require('@cagov/11ty-serverless-preview-mode');
+  const { addPreviewModeToEleventy } = require( path.resolve('.','./previewModeModule') );
+  // const { addPreviewModeToEleventy } = require('@cagov/11ty-serverless-preview-mode');
   addPreviewModeToEleventy(eleventyConfig);
 
   return {
