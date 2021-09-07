@@ -3,13 +3,13 @@ const contentRedirectSiteTarget = "https://digital.ca.gov";
 
 /**
  * Azure Function to render a single 11ty page
- * @param {{res:{status:number,body:string},done:function}} context
+ * @param {{res:{statusCode:number;body:string;headers?:*};done:function}} context
  * @param {{params:{segments?:*},headers:*,query:*}} req
  */
 module.exports = async function (context, req) {
   try {
     if (req.params.segments) { // Resource call, redirect back to the main site
-      context.res = { status: 301, headers: { location: `${contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
+      context.res = { statusCode: 301, headers: { location: `${contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
     } else {
       context.res = await serverlessHandler(req.query);
     }
