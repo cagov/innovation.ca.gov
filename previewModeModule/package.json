@@ -1,6 +1,6 @@
 {
     "name": "@cagov/11ty-serverless-preview-mode",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "main": "index.js",
     "description": "serverless renderer of 11ty data using Wordpress API data",
     "dependencies": {
