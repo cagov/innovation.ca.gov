@@ -1,4 +1,4 @@
-const { serverlessHandler } = require("../previewModeModule"); //require("wordpress-11ty-azure-faas-preview-mode");
+const { serverlessHandler } = require("@cagov/11ty-serverless-preview-mode");
 const contentRedirectSiteTarget = "https://digital.ca.gov";
 
 /**

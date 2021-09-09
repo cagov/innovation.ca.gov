@@ -1,5 +1,5 @@
 //@ts-check
-const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("../previewModeModule"); //require("wordpress-11ty-azure-faas-preview-mode");
+const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("@cagov/11ty-serverless-preview-mode");
 
 const wordPressSettings = {
     wordPressSite: "https://live-odi-content-api.pantheonsite.io",
