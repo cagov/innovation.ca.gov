@@ -1,17 +1,7 @@
 # eleventy serverless Preview Mode for Azure FaaS
 
-
 ## Features
 - Single page 11ty rendering of content retrieved from your data source (Wordpress API, GitHub?)
-
-## Setup
-- reference the module (NPM coming soon)
-
-## Project Components
-- 
-
-## Installation considerations
-* need to include newer version of 11ty in package.json `"@11ty/eleventy": "^1.0.0-canary.41"`
 
 ## Intent
 * Using an existing 11ty project, add the ability to render a single page from Wordpress with an Azure function.
@@ -28,14 +18,13 @@
 
 
 ## Sample preview mode page template ##
-Add this to your 11ty `pages` folder to support dynamic rendering
+Add this to your 11ty `pages` folder as `previewModePage.11ty.js` to support dynamic rendering.  
 ```
-//@ts-check
-const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("../previewModeModule"); //require("wordpress-11ty-azure-faas-preview-mode");
+const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("@cagov/11ty-serverless-preview-mode");
 
 const wordPressSettings = {
-    wordPressSite: "https://live-odi-content-api.pantheonsite.io",
-    previewWordPressTagId: 20 //preview-mode
+    wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
+    previewWordPressTagId: 20 //preview-mode tag id in Wordpress
 }
 
 class previewModePageClass {
@@ -44,8 +33,8 @@ class previewModePageClass {
      */
     async data() {
         return {
-            layout: "page",
-            tags: ["news"],
+            layout: "page", //Or whatever layout the preview page should have
+            tags: ["news"], //Or whatever tags the preview page should have
             ...addPreviewModeDataElements()
         };
     }
@@ -59,6 +48,7 @@ class previewModePageClass {
 
         let featuredMedia = jsonData._embedded["wp:featuredmedia"];
 
+        //Customize for you templates
         itemData.title = jsonData.title.rendered;
         itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
         itemData.meta = jsonData.excerpt.rendered;
@@ -76,8 +66,41 @@ module.exports = previewModePageClass;
 
 ## Add this to `.eleventy.js` ##
 ```
-  const path = require('path'); //Path Resolve needed to make plugin mode copy work
-  const { addPreviewModeToEleventy } = require( path.resolve('.','./previewModeModule') );
-  // const { addPreviewModeToEleventy } = require('@cagov/11ty-serverless-preview-mode');
+  const { addPreviewModeToEleventy } = require("@cagov/11ty-serverless-preview-mode");
   addPreviewModeToEleventy(eleventyConfig);
+```
+
+## For Azure Faas ##
+`index.js`
+```
+const { serverlessHandler } = require("@cagov/11ty-serverless-preview-mode");
+const contentRedirectSiteTarget = "https://digital.ca.gov";
+
+/**
+ * Azure Function to render a single 11ty page
+ * @param {{res:{statusCode:number;body:string;headers?:*};done:function}} context
+ * @param {{params:{segments?:*},headers:*,query:*}} req
+ */
+module.exports = async function (context, req) {
+  try {
+    if (req.params.segments) { // Resource call, redirect back to the main site
+      context.res = { statusCode: 301, headers: { location: `${contentRedirectSiteTarget}${req.headers["x-original-url"]}` }, body: null };
+    } else {
+      context.res = await serverlessHandler(req.query);
+    }
+
+  } catch (error) {
+    context.res = {
+      status: error.httpStatusCode || 500,
+      body: JSON.stringify(
+        {
+          error: error.message,
+        },
+        null,
+        2
+      ),
+    };
+  }
+  if (context.done) context.done();
+}
 ```

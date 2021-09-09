@@ -1,9 +1,27 @@
 {
     "name": "@cagov/11ty-serverless-preview-mode",
-    "version": "1.0.0",
-    "main": "index.js",
-    "description": "serverless renderer of 11ty data using Wordpress API data",
+    "version": "1.0.1",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "main": "index",
+    "typings": "index",
+    "description": "Serverless rendering of a single 11ty page using Wordpress API data",
     "dependencies": {
+        "@11ty/eleventy": "^1.0.0-canary.41",
         "node-fetch": "^2.6.1"
-    }
+    },
+    "author": {
+        "name": "Carter Medlin",
+        "email": "carter@digital.ca.gov",
+        "url": "https://github.com/carterm"
+    },
+    "keywords": [
+        "eleventy",
+        "11ty",
+        "serverless",
+        "eleventy-plugin",
+        "wordpress"
+    ]
 }
