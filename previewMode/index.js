@@ -1,3 +1,5 @@
+//Using Azure FaaS, the service can render a single page from remote content, while redirecting all other resource requests (.css, .png, etc) back to the real web server.
+
 const { serverlessHandler } = require("@cagov/11ty-serverless-preview-mode");
 const contentRedirectSiteTarget = "https://digital.ca.gov";
 
