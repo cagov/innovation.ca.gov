@@ -4,7 +4,7 @@
   "description": "Office of Digital Innovation website",
   "main": "index.js",
   "dependencies": {
-    "@cagov/11ty-serverless-preview-mode": "^1.0.2",
+    "@cagov/11ty-serverless-preview-mode": "^1.0.3",
     "moment-timezone": "^0.5.33"
   },
   "scripts": {
