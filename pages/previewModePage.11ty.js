@@ -3,7 +3,7 @@ const { addPreviewModeDataElements, getPostJsonFromWordpress } = require("@cagov
 
 const wordPressSettings = {
     wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
-    previewWordPressTagId: 20 //preview-mode tag id in Wordpress
+    previewWordPressTagSlug: 'preview-mode' // optional filter for digest list of preview in Wordpress
 }
 
 class previewModePageClass {
