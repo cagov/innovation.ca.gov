@@ -20,10 +20,10 @@ module.exports = async function (context) {
             if (!fetchResponse.ok) {
                 throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText} - ${fetchResponse.url}`);
             }
-            const body = await fetchResponse.arrayBuffer()
-            //const body = await fetchResponse.text();
+            //const body = await fetchResponse.arrayBuffer()
+            const body = await fetchResponse.text();
             context.res = {
-                isRaw: true,
+                //isRaw: true,
                 headers: { 
                     "content-type": fetchResponse.headers.get('content-type'),
                     "content-length": fetchResponse.headers.get('content-length'),
