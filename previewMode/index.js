@@ -16,9 +16,11 @@ module.exports = async function (context) {
             context.res = await serverlessHandler(req.query);
         } else { // Resource call, redirect back to the main site
             /** @type {Response} */
-            const fetchResponse = await fetch(`${resourceUrl}${originalUrl}`);
+            const fetchResponse = await fetch(`${resourceUrl}${originalUrl}x`);
             if (!fetchResponse.ok) {
-                throw new Error(`${fetchResponse.status} - ${fetchResponse.statusText} - ${fetchResponse.url}`);
+              let err = new Error(`${fetchResponse.status} - ${fetchResponse.statusText} - ${fetchResponse.url}`);
+              err.httpStatusCode = fetchResponse.status;
+              throw err;
             }
             //const body = await fetchResponse.arrayBuffer()
             const body = await fetchResponse.text();
