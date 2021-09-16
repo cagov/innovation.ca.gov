@@ -26,14 +26,14 @@ process.env.debug = true;
 //run the indexpage async
 const indexCode = require('./index');
 (async () => {
-  //let req = {headers:{'x-original-url': "/MyFile.png"}, query:{}};
-  let req = {headers:{'x-original-url': "/"}, query:{}};
+  let req = {headers:{'x-original-url': "/css/5c904a3bad4ab89406bd.css"}, query:{}};
+  //let req = {headers:{'x-original-url': "/"}, query:{}};
   //let req = { params: {}, query: { postid: '82' } };
   //let req = {params:{}, query:{postid:'59'}};
 
 
   let context = {req, res:{body:''}};
   await indexCode(context);
-  console.log(context.res.body);
+  console.log(context.res);
 
 })();
