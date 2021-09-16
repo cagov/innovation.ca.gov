@@ -25,7 +25,9 @@ module.exports = async function (context) {
             context.res = {
                 isRaw: true,
                 headers: { 
-                    "content-type": fetchResponse.headers.get('content-type')
+                    "content-type": fetchResponse.headers.get('content-type'),
+                    "content-length": fetchResponse.headers.get('content-length'),
+                    "content-encoding": fetchResponse.headers.get('content-encoding'),
                 },
                 body
             };
