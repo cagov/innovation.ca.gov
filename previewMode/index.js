@@ -22,7 +22,7 @@ module.exports = async function (context) {
               err.httpStatusCode = fetchResponse.status;
               throw err;
             }
-            const body = await fetchResponse.blob()
+            const body = await fetchResponse.arrayBuffer();
             //const body = await fetchResponse.text();
             context.res = {
                 isRaw: true,
