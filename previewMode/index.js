@@ -25,7 +25,7 @@ module.exports = async function (context) {
             const body = await fetchResponse.blob()
             //const body = await fetchResponse.text();
             context.res = {
-                //isRaw: true,
+                isRaw: true,
                 headers: { 
                     "content-type": fetchResponse.headers.get('content-type')
                 },
