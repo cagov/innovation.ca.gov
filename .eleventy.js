@@ -6,7 +6,9 @@ const replaceContent = (item,searchValue,replaceValue) => {
   item.template.frontMatter.content = item.template.frontMatter.content
     .replace(searchValue,replaceValue);
 }
-
+/**
+ * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
+ */
 module.exports = function(eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
   const wordpressImagePath = 'img/wordpress';
