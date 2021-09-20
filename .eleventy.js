@@ -1,5 +1,10 @@
 const moment = require('moment-timezone');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { addPreviewModeToEleventy, getPostJsonFromWordpress} = require("@cagov/11ty-serverless-preview-mode");
+const wordPressSettings = {
+  wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
+  previewWordPressTagSlug: 'preview-mode' // optional filter for digest list of preview in Wordpress
+}
 
 //Replaces content to rendered
 const replaceContent = (item, searchValue, replaceValue) => {
@@ -10,6 +15,56 @@ const replaceContent = (item, searchValue, replaceValue) => {
  * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
  */
 module.exports = function (eleventyConfig) {
+  addPreviewModeToEleventy(eleventyConfig);
+
+  eleventyConfig.addCollection("myserverless", async function (collection) {
+    const output = [];
+
+for(const item of collection.items) {
+      const itemData = item.data;
+      if (!item.outputPath && itemData.eleventy && itemData.eleventy.serverless) {
+        console.log('serverless');
+        item.template.frontMatter.content = 'My Content = Dynamic TEST+{{7}}'  //jsonData.content.rendered;
+
+        const jsonData = await getPostJsonFromWordpress(itemData, wordPressSettings);
+        
+        let featuredMedia = jsonData._embedded["wp:featuredmedia"];
+
+        //Customize for you templates
+        itemData.title = jsonData.title.rendered;
+        itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
+        itemData.meta = jsonData.excerpt.rendered;
+        itemData.description = jsonData.excerpt.rendered;
+        itemData.lead = jsonData.excerpt.rendered;
+        itemData.author = jsonData._embedded.author[0].name;
+        itemData.previewimage = featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
+
+        item.template.frontMatter.content = jsonData.content.rendered;
+
+        output.push(item);
+
+      } else {
+        console.log('not serverless');
+      }
+    }
+
+    return output;
+  });
+
+  eleventyConfig.addCollection("serverless", function (collection) {
+    collection.getAll().forEach(item => {
+      if (item.data.eleventy && item.data.eleventy.serverless) {
+        const x = 1;
+        console.log('serverless');
+        item.template.frontMatter.content = '{{boop}}'
+      } else {
+        console.log('not serverless');
+      }
+    })
+
+    return [];
+  });
+
   eleventyConfig.htmlTemplateEngine = "njk";
   const wordpressImagePath = 'img/wordpress';
 
@@ -71,9 +126,6 @@ module.exports = function (eleventyConfig) {
     }).reverse();
   });
   // eleventyConfig.addPlugin(pluginRss);
-
-  const { addPreviewModeToEleventy } = require("@cagov/11ty-serverless-preview-mode");
-  addPreviewModeToEleventy(eleventyConfig);
 
   return {
     htmlTemplateEngine: "njk",
