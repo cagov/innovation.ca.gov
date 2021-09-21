@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
 
     for (const item of collection.items) {
       const itemData = item.data;
-      if (!item.outputPath && itemData.eleventy && itemData.eleventy.serverless) {
+      if (!item.outputPath && itemData.eleventy?.serverless) {
         const jsonData = await getPostJsonFromWordpress(itemData, wordPressSettings);
 
         let featuredMedia = jsonData._embedded["wp:featuredmedia"];
