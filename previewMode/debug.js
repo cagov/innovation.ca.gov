@@ -29,8 +29,8 @@ const indexCode = require('./index');
   //let req = {headers:{'x-original-url': "/img/thumb/100-performance.jpg"}, query:{}};
   //let req = {headers:{'x-original-url': "/css/5c904a3bad4ab89406bd.css"}, query:{}};
   //image-2-150x150.png
-  let req = {headers:{'x-original-url': "/"}, query:{}};
-  //let req = { params: {}, query: { postid: '82' } };
+  //let req = {headers:{'x-original-url': "/"}, query:{}};
+  let req = { params: {}, query: { postid: '82' } };
   //let req = {query:{postslug:'preview-mode-test'}};
 
 
