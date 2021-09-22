@@ -15,6 +15,10 @@ const replaceContent = (item, searchValue, replaceValue) => {
  * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
  */
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addGlobalData("foo", {p1:"preview-mode-auto-generated",p2:"/GeneratePreviewModePath"});
+  eleventyConfig.addGlobalData("foo2", {["preview-mode-auto-generated"]:"/GeneratePreviewModePath"});
+
+
   addPreviewModeToEleventy(eleventyConfig);
 
   eleventyConfig.addCollection("myserverless", async function (collection) {
