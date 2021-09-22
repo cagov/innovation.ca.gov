@@ -22,38 +22,45 @@ module.exports = function (eleventyConfig) {
 
   addPreviewModeToEleventy(eleventyConfig);
 
-  eleventyConfig.addCollection("myserverless", async function (collection) {
-    const output = [];
+  /**
+   * 
+   * @param {*} item 
+   * @param {import('@cagov/11ty-serverless-preview-mode').WordpressPostRow} jsonData
+   */
+  const itemSetterCallback = async function(item, jsonData) {
+    const itemData = item.data;
 
+    let featuredMedia = jsonData._embedded["wp:featuredmedia"];
+
+    //Customize for your templates
+    itemData.layout = 'page.njk';
+    itemData.tags = ['news'];
+    itemData.addtositemap = false;
+    itemData.title = jsonData.title.rendered;
+    itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
+    itemData.meta = jsonData.excerpt.rendered;
+    itemData.description = jsonData.excerpt.rendered;
+    itemData.lead = jsonData.excerpt.rendered;
+    itemData.author = jsonData._embedded.author[0].name;
+    itemData.previewimage = featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
+
+    item.template.frontMatter.content = jsonData.content.rendered;
+  }
+
+  eleventyConfig.addCollection("myserverless", async function (collection) {
+//Using the addCollection to just be able to exec a loop on eleventy data.  Not actually returning a collection.
     for (const item of collection.items) {
       const itemData = item.data;
       if (!item.outputPath && itemData.eleventy?.serverless) {
         const jsonData = await getPostJsonFromWordpress(itemData, wordPressSettings);
 
-        let featuredMedia = jsonData._embedded["wp:featuredmedia"];
-
-        //Customize for your templates
-        itemData.layout = 'page.njk';
-        itemData.tags = ['news'];
-        itemData.addtositemap = false;
-        itemData.title = jsonData.title.rendered;
-        itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
-        itemData.meta = jsonData.excerpt.rendered;
-        itemData.description = jsonData.excerpt.rendered;
-        itemData.lead = jsonData.excerpt.rendered;
-        itemData.author = jsonData._embedded.author[0].name;
-        itemData.previewimage = featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
-
-        item.template.frontMatter.content = jsonData.content.rendered;
-
-        output.push(item);
+        await itemSetterCallback(item,jsonData);
 
       }
     }
 
-    return output;
+    return [];
   });
-
   const wordpressImagePath = 'img/wordpress';
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media": wordpressImagePath });
