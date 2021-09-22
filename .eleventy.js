@@ -17,6 +17,20 @@ const replaceContent = (item, searchValue, replaceValue) => {
 module.exports = function (eleventyConfig) {
   addPreviewModeToEleventy(eleventyConfig);
 
+  //Add a link to our fake single page template.  This will overwrite the 'eleventy-serverless-map.json'
+  const serverlessFunctionFolderName = "preview-mode-auto-generated";
+  const eleventySinglePagePath = "/GeneratePreviewModePath";
+  const fakeTemplatePath = __dirname + '/previewModePage.njk';
+  console.log('temp fake path - ' + fakeTemplatePath);
+  const newMap = [{ inputPath: fakeTemplatePath, serverless: { [serverlessFunctionFolderName]: eleventySinglePagePath } }];
+  eleventyConfig.on('afterBuild', async () => {
+    // Run me after the build ends
+    await eleventyConfig.events.emit(
+      "eleventy.serverlessUrlMap",
+      newMap
+    );
+  });
+
   eleventyConfig.addCollection("myserverless", async function (collection) {
     const output = [];
 
@@ -28,6 +42,9 @@ module.exports = function (eleventyConfig) {
         let featuredMedia = jsonData._embedded["wp:featuredmedia"];
 
         //Customize for your templates
+        itemData.layout = 'page.njk';
+        itemData.tags = ['news'];
+        itemData.addtositemap = false;
         itemData.title = jsonData.title.rendered;
         itemData.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
         itemData.meta = jsonData.excerpt.rendered;

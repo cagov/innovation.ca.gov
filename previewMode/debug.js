@@ -36,6 +36,6 @@ const indexCode = require('./index');
 
   let context = {req, res:{body:''}};
   await indexCode(context);
-  console.log(context.res);
+  console.log(context.res.body);
 
 })();
