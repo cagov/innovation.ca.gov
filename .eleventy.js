@@ -17,20 +17,6 @@ const replaceContent = (item, searchValue, replaceValue) => {
 module.exports = function (eleventyConfig) {
   addPreviewModeToEleventy(eleventyConfig);
 
-  //Add a link to our fake single page template.  This will overwrite the 'eleventy-serverless-map.json'
-  const serverlessFunctionFolderName = "preview-mode-auto-generated";
-  const eleventySinglePagePath = "/GeneratePreviewModePath";
-  const fakeTemplatePath = __dirname + '/previewMode/previewModePage.njk';
-  console.log('temp fake path - ' + fakeTemplatePath);
-  const newMap = [{ inputPath: fakeTemplatePath, serverless: { [serverlessFunctionFolderName]: eleventySinglePagePath } }];
-  eleventyConfig.on('afterBuild', async () => {
-    // Run me after the build ends
-    await eleventyConfig.events.emit(
-      "eleventy.serverlessUrlMap",
-      newMap
-    );
-  });
-
   eleventyConfig.addCollection("myserverless", async function (collection) {
     const output = [];
 
