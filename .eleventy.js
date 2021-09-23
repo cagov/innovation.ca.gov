@@ -1,3 +1,4 @@
+//@ts-check
 const moment = require('moment-timezone');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { addPreviewModeToEleventy, getPostJsonFromWordpress } = require("@cagov/11ty-serverless-preview-mode");
@@ -29,8 +30,26 @@ const addPreviewModeToEleventy2 = (eleventyConfig, settingFunction) => {
 }
 
 /**
+* @typedef {Object} EleventyTemplate Common eleventy template 
+* @property {{ content: string; }} frontMatter
+*/
+
+/**
+* @typedef {Object} EleventyTemplateItem Common eleventy template item
+* @property {*} data
+* @property {Date} date
+* @property {string} filePathStem ex. '/previewModePage'
+* @property {string} fileSlug ex. 'previewModePage'
+* @property {string} inputPath ex. './pages/previewModePage'
+* @property {boolean | string} outputPath
+* @property {EleventyTemplate} template
+* @property {string} url
+*/
+
+
+/**
  * 
- * @param {*} item 
+ * @param {EleventyTemplateItem} item 
  * @param {import('@cagov/11ty-serverless-preview-mode').WordpressPostRow} jsonData
  */
 const itemSetterCallback = async function (item, jsonData) {
@@ -116,6 +135,7 @@ module.exports = function (eleventyConfig) {
       }
     })
     return posts.sort(function (a, b) {
+      // @ts-ignore
       return new Date(a.data.publishdate) - new Date(b.data.publishdate);
     }).reverse();
   });
