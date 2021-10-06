@@ -1,32 +1,11 @@
 //@ts-check
 const moment = require('moment-timezone');
-// const pluginRss = require("@11ty/eleventy-plugin-rss");
-const { addPreviewModeToEleventy, getPostJsonFromWordpress } = require("@cagov/11ty-serverless-preview-mode");
+const { addPreviewModeToEleventy } = require("@cagov/11ty-serverless-preview-mode");
+
+/** @type {import('@cagov/11ty-serverless-preview-mode').WordpressSettings} */
 const wordPressSettings = {
   wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
   previewWordPressTagSlug: 'preview-mode' // optional filter for digest list of preview in Wordpress
-}
-
-/**
- * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
- * @param {(item:*,jsonData:import('@cagov/11ty-serverless-preview-mode').WordpressPostRow) => void} settingFunction
- */
-const addPreviewModeToEleventy2 = (eleventyConfig, settingFunction) => {
-  addPreviewModeToEleventy(eleventyConfig);
-  eleventyConfig.addCollection("myserverless", async function (collection) {
-    //Using the addCollection to just be able to exec a loop on eleventy data.  Not actually returning a collection.
-    for (const item of collection.items) {
-      const itemData = item.data;
-      if (!item.outputPath && itemData.eleventy?.serverless) {
-        const jsonData = await getPostJsonFromWordpress(itemData, wordPressSettings);
-
-        settingFunction(item, jsonData);
-
-      }
-    }
-
-    return [];
-  });
 }
 
 /**
@@ -46,13 +25,10 @@ const addPreviewModeToEleventy2 = (eleventyConfig, settingFunction) => {
 * @property {string} url
 */
 
-
 /**
- * 
- * @param {EleventyTemplateItem} item 
- * @param {import('@cagov/11ty-serverless-preview-mode').WordpressPostRow} jsonData
+ * @type {import('@cagov/11ty-serverless-preview-mode').WordpressSettingCallback}
  */
-const itemSetterCallback = async function (item, jsonData) {
+const itemSetterCallback = (item, jsonData) => {
   let featuredMedia = jsonData._embedded["wp:featuredmedia"];
 
   //Customize for your templates
@@ -79,7 +55,7 @@ const replaceContent = (item, searchValue, replaceValue) => {
  * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
  */
 module.exports = function (eleventyConfig) {
-  addPreviewModeToEleventy2(eleventyConfig, itemSetterCallback);
+  addPreviewModeToEleventy(eleventyConfig, itemSetterCallback, wordPressSettings);
 
   const wordpressImagePath = 'img/wordpress';
 
