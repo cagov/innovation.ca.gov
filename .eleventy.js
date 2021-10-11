@@ -2,12 +2,6 @@
 const moment = require('moment-timezone');
 const { addPreviewModeToEleventy } = require("@cagov/11ty-serverless-preview-mode");
 
-/** @type {import('@cagov/11ty-serverless-preview-mode').WordpressSettings} */
-const wordPressSettings = {
-  wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
-  previewWordPressTagSlug: 'preview-mode' // optional filter for digest list of preview in Wordpress
-}
-
 /**
 * @typedef {Object} EleventyTemplate Common eleventy template 
 * @property {{ content: string; }} frontMatter
@@ -55,7 +49,7 @@ const replaceContent = (item, searchValue, replaceValue) => {
  * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig 
  */
 module.exports = function (eleventyConfig) {
-  addPreviewModeToEleventy(eleventyConfig, itemSetterCallback, wordPressSettings);
+  addPreviewModeToEleventy(eleventyConfig, itemSetterCallback);
 
   const wordpressImagePath = 'img/wordpress';
 
