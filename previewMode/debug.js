@@ -30,8 +30,8 @@ const indexCode = require('./index');
   //let req = {headers:{'x-original-url': "/css/5c904a3bad4ab89406bd.css"}, query:{}};
   //let req = {headers:{'x-original-url': "/"}, query:{}};
   //let req = {};
-  let req = {headers:{'x-original-url': "/preview-mode-test"}};
-
+  //let req = {headers:{'x-original-url': "/preview-mode-test"}};
+  let req = {headers:{'x-original-url': "/preview-mode-test?test=1", query:{test:"1"}}};
 
   let context = {req, res:{body:''}};
   await indexCode(context);
