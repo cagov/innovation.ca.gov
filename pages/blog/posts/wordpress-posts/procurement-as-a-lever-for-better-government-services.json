@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-10-13T23:05:58",
-    "updated_date": "2021-10-13T23:05:58",
+    "updated_date": "2021-10-14T01:41:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-10-13T16:05:58",
     "date_gmt": "2021-10-13T23:05:58",
     "guid": "https://live-odi-content-api.pantheonsite.io/?p=90",
-    "modified": "2021-10-13T16:05:58",
-    "modified_gmt": "2021-10-13T23:05:58",
+    "modified": "2021-10-13T18:41:32",
+    "modified_gmt": "2021-10-14T01:41:32",
     "slug": "procurement-as-a-lever-for-better-government-services",
     "status": "publish",
     "type": "post",
