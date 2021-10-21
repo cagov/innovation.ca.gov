@@ -5,7 +5,7 @@
       "type": "node",
       "request": "launch",
       "name": "Debug DIRECT previewMode",
-      "program": "previewMode/debug",
+      "program": "previewMode/debug.js",
       "cwd": "${workspaceRoot}",
       "outputCapture": "std",
       "autoAttachChildProcesses": true,
