@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2021-07-21T16:26:43",
-    "updated_date": "2021-07-22T17:53:41",
+    "created_date": "2021-07-21T16:26:42",
+    "updated_date": "2021-07-22T17:53:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
