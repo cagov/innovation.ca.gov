@@ -14,7 +14,7 @@
     "description": "Wordpress Based Headless CMS",
     "url": "https://live-odi-content-api.pantheonsite.io",
     "home": "https://live-odi-content-api.pantheonsite.io",
-    "gmt_offset": -7,
+    "gmt_offset": -8,
     "timezone_string": "America/Los_Angeles",
     "namespaces": [
       "oembed/1.0",
