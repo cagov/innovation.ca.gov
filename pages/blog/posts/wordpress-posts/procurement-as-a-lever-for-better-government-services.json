@@ -4,10 +4,10 @@
     "updated_date": "2021-10-14T01:41:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://live-odi-content-api.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://live-odi-content-api.pantheonsite.io",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
       "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
@@ -16,13 +16,13 @@
     "id": 90,
     "date": "2021-10-13T16:05:58",
     "date_gmt": "2021-10-13T23:05:58",
-    "guid": "https://live-odi-content-api.pantheonsite.io/?p=90",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=90",
     "modified": "2021-10-13T18:41:32",
     "modified_gmt": "2021-10-14T01:41:32",
     "slug": "procurement-as-a-lever-for-better-government-services",
     "status": "publish",
     "type": "post",
-    "link": "https://live-odi-content-api.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
     "title": "Procurement as a lever for better government services",
     "excerpt": "<p>Part of ODI’s mandate is to “rethink and improve how the state buys digital services&#8230;&#8221;</p>\n",
     "author": "Anne Neville-Bonilla and Angie Quirarte",
@@ -32,7 +32,11 @@
     "sticky": false,
     "template": "",
     "format": "standard",
-    "meta": [],
+    "meta": {
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
     "categories": [
       "Procurement"
     ],
@@ -42,28 +46,114 @@
       "RFI",
       "Technology Digital and Data"
     ],
-    "blocksy_meta": {
-      "styles_descriptor": {
-        "styles": {
-          "desktop": "",
-          "tablet": "",
-          "mobile": ""
-        },
-        "google_fonts": []
-      }
+    "design_system_fields": {
+      "template": "post"
     },
-    "wordpress_url": "https://live-odi-content-api.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
+      "page_title": "Procurement as a lever for better government services",
+      "page_description": "Part of ODI’s mandate is to “rethink and improve how the state buys digital services...\"",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Procurement as a lever for better government services",
+      "meta_description": "Part of ODI’s mandate is to “rethink and improve how the state buys digital services...\"",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
+      "open_graph_title": "Procurement as a lever for better government services",
+      "open_graph_description": "Part of ODI’s mandate is to “rethink and improve how the state buys digital services...\"",
+      "twitter_title": "Procurement as a lever for better government services",
+      "twitter_description": "Part of ODI’s mandate is to “rethink and improve how the state buys digital services...\""
+    },
+    "headless_categories": [
+      {
+        "term_id": 21,
+        "name": "Procurement",
+        "slug": "procurement",
+        "term_group": 0,
+        "term_taxonomy_id": 21,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 21,
+        "category_description": "",
+        "cat_name": "Procurement",
+        "category_nicename": "procurement",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 24,
+        "name": "MSA",
+        "slug": "msa",
+        "term_group": 0,
+        "term_taxonomy_id": 24,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 22,
+        "name": "Procurement",
+        "slug": "procurement",
+        "term_group": 0,
+        "term_taxonomy_id": 22,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 23,
+        "name": "RFI",
+        "slug": "rfi",
+        "term_group": 0,
+        "term_taxonomy_id": 23,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 25,
+        "name": "Technology Digital and Data",
+        "slug": "technology-digital-and-data",
+        "term_group": 0,
+        "term_taxonomy_id": 25,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "custom_post_date": "",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
     "media": [
       {
         "id": 96,
         "type": "full",
         "path": "2021/10/Frame-46.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46.png",
         "file": "Frame-46.png",
         "width": 2026,
         "height": 1013,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46.png",
         "source_url_match": false,
         "featured": true
       },
@@ -71,12 +161,12 @@
         "id": 96,
         "type": "1536x1536",
         "path": "2021/10/Frame-46-1536x768.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1536x768.png",
         "file": "Frame-46-1536x768.png",
         "width": 1536,
         "height": 768,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1536x768.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1536x768.png",
         "source_url_match": false,
         "featured": true
       },
@@ -84,12 +174,12 @@
         "id": 96,
         "type": "large",
         "path": "2021/10/Frame-46-1024x512.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1024x512.png",
         "file": "Frame-46-1024x512.png",
         "width": 1024,
         "height": 512,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1024x512.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-1024x512.png",
         "source_url_match": false,
         "featured": true
       },
@@ -97,12 +187,12 @@
         "id": 96,
         "type": "medium_large",
         "path": "2021/10/Frame-46-768x384.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-768x384.png",
         "file": "Frame-46-768x384.png",
         "width": 768,
         "height": 384,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-768x384.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-768x384.png",
         "source_url_match": false,
         "featured": true
       },
@@ -110,12 +200,12 @@
         "id": 96,
         "type": "medium",
         "path": "2021/10/Frame-46-300x150.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-300x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-300x150.png",
         "file": "Frame-46-300x150.png",
         "width": 300,
         "height": 150,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-300x150.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-300x150.png",
         "source_url_match": false,
         "featured": true
       },
@@ -123,12 +213,12 @@
         "id": 96,
         "type": "thumbnail",
         "path": "2021/10/Frame-46-150x150.png",
-        "wordpress_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-150x150.png",
         "file": "Frame-46-150x150.png",
         "width": 150,
         "height": 150,
         "mime_type": "image/png",
-        "source_url": "https://live-odi-content-api.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-150x150.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/10/Frame-46-150x150.png",
         "source_url_match": false,
         "featured": true
       }
