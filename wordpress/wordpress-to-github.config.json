@@ -7,7 +7,7 @@
   "data": {
     "disabled": false,
     "PostPath": "pages/blog/posts/wordpress-posts",
-    "PagePath": "wordpress/pages",
+    "PagePath": "pages/wordpress-pages",
     "MediaPath": "wordpress/media",
     "GeneralFilePath": "wordpress/general/general.json",
     "ExcludeProperties": ["content", "_links"]
