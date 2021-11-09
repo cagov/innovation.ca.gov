@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2021-11-09T14:52:48",
+    "updated_date": "2021-11-09T14:52:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 118,
+    "date": "2021-11-09T06:52:48",
+    "date_gmt": "2021-11-09T14:52:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED.pdf",
+    "modified": "2021-11-09T06:52:48",
+    "modified_gmt": "2021-11-09T14:52:48",
+    "slug": "simm-25-b-certification-template-odi-signed",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/simm-25-b-certification-template-odi-signed/",
+    "title": "SIMM-25-B-Certification-Template-ODI-SIGNED",
+    "author": "Chacha Sikes",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED.pdf'><img width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg"
+        },
+        "medium": {
+          "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg"
+        }
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg",
+        "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg",
+        "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg",
+        "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg",
+        "file": "SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2021/11/SIMM-25-B-Certification-Template-ODI-SIGNED.pdf"
+  }
+}
