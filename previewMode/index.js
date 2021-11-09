@@ -4,7 +4,7 @@ const { azureFunctionHandler } = require("@cagov/11ty-serverless-preview-mode");
 
 /** @type {import('@cagov/11ty-serverless-preview-mode').WordpressSettings} */
 const wordpressSettings = {
-  wordPressSite: "https://live-odi-content-api.pantheonsite.io", //Wordpress endpoint
+  wordPressSite: "https://live-digital-ca-gov.pantheonsite.io", //Wordpress endpoint
   resourceUrl: "https://digital.ca.gov",
   previewWordPressTagSlug: 'preview-mode' // optional filter for digest list of preview in Wordpress
 }
