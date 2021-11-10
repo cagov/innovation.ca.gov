@@ -38,7 +38,6 @@ module.exports = function(eleventyConfig) {
           item.data.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
           item.data.meta = jsonData.excerpt;
           item.data.description = jsonData.excerpt;
-          item.data.lead = jsonData.excerpt;
           item.data.author = jsonData.author;
 
           if(jsonData.media) {
