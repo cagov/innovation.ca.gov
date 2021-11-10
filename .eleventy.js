@@ -13,8 +13,9 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media":wordpressImagePath });
 
-  eleventyConfig.addFilter("dateformat", function(dateIn) {
-    return moment(new Date(dateIn)).tz('America/Los_Angeles').format('M/D/YYYY');
+  eleventyConfig.addFilter("dateformat", function(dateString) {
+    let d = new Date(dateString);
+    return `${d.getMonth()+1}/${d.getDate()}/${d.getFullYear()}`
   });
 
   //Process wordpress posts
