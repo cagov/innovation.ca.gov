@@ -57,7 +57,7 @@ module.exports = function(eleventyConfig) {
           //content pulled in from JSON
           const jsonData = item.data.data;
           item.outputPath = `_site/${cleanUrl(jsonData.wordpress_url)}index.html`;
-          item.url = cleanUrl(jsonData.wordpress_url);
+          item.url = `/${cleanUrl(jsonData.wordpress_url)}`;
           item.data.page.url = item.url;
           item.data.layout = jsonData.template;
           if(!item.data.layout) {
