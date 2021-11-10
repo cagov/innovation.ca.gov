@@ -58,7 +58,10 @@ module.exports = function(eleventyConfig) {
           item.outputPath = `_site/${cleanUrl(jsonData.wordpress_url)}index.html`;
           item.url = cleanUrl(jsonData.wordpress_url);
           item.data.page.url = item.url;
-          item.data.layout = "landing";
+          item.data.layout = jsonData.template;
+          if(!item.data.layout) {
+            item.data.layout = "contact";
+          }
           item.data.title = jsonData.title;
           item.data.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
           item.data.meta = jsonData.excerpt;
