@@ -33,7 +33,6 @@ const itemSetterCallback = (item, jsonData) => {
   item.data.publishdate = jsonData.date.split('T')[0]; //new Date(jsonData.modified_gmt)
   item.data.meta = jsonData.excerpt.rendered;
   item.data.description = jsonData.excerpt.rendered;
-  item.data.lead = jsonData.excerpt.rendered;
   item.data.author = jsonData._embedded.author[0].name;
   item.data.previewimage = featuredMedia ? featuredMedia[0].source_url : "img/thumb/APIs-Blog-Postman-Screenshot-1.jpg";
 
