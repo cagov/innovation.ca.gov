@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "created_date": "2021-11-10T20:09:41",
+    "updated_date": "2021-11-12T16:32:31",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 138,
+    "date": "2021-11-10T12:09:41",
+    "date_gmt": "2021-11-10T20:09:41",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=138",
+    "modified": "2021-11-12T08:32:31",
+    "modified_gmt": "2021-11-12T16:32:31",
+    "slug": "odis-content-design-principles-for-better-services",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
+    "title": "ODI’s content design principles for better services",
+    "excerpt": "<p>Our mission at the Office of Digital Innovation (ODI) is to deliver better government services to the people of California through technology and design. We do this work in partnership with other state departments. One of the ways we support our partner departments and help strengthen state services is by sharing what we learn through &#8230; <a title=\"ODI’s content design principles for better services\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/\" aria-label=\"More on ODI’s content design principles for better services\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 139,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "categories": [
+      "CA.gov"
+    ],
+    "tags": [
+      "Content deisgn",
+      "design principles",
+      "scalable"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
+      "page_title": "ODI’s content design principles for better services",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "ODI’s content design principles for better services",
+      "meta_description": "Office of Digital Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
+      "open_graph_title": "ODI’s content design principles for better services",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "ODI’s content design principles for better services",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 4,
+        "name": "CA.gov",
+        "slug": "ca-gov",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "CA.gov",
+        "category_nicename": "ca-gov",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 29,
+        "name": "Content deisgn",
+        "slug": "content-deisgn",
+        "term_group": 0,
+        "term_taxonomy_id": 29,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 30,
+        "name": "design principles",
+        "slug": "design-principles",
+        "term_group": 0,
+        "term_taxonomy_id": 30,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 31,
+        "name": "scalable",
+        "slug": "scalable",
+        "term_group": 0,
+        "term_taxonomy_id": 31,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "custom_post_date": "",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
+    "media": [
+      {
+        "id": 139,
+        "type": "full",
+        "path": "2021/11/Group-45.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45.png",
+        "file": "Group-45.png",
+        "width": 2026,
+        "height": 1013,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 139,
+        "type": "1536x1536",
+        "path": "2021/11/Group-45-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-1536x768.png",
+        "file": "Group-45-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-1536x768.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 139,
+        "type": "large",
+        "path": "2021/11/Group-45-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-1024x512.png",
+        "file": "Group-45-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-1024x512.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 139,
+        "type": "medium_large",
+        "path": "2021/11/Group-45-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-768x384.png",
+        "file": "Group-45-768x384.png",
+        "width": 768,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-768x384.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 139,
+        "type": "medium",
+        "path": "2021/11/Group-45-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-576x288.png",
+        "file": "Group-45-576x288.png",
+        "width": 576,
+        "height": 288,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-576x288.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 139,
+        "type": "thumbnail",
+        "path": "2021/11/Group-45-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-150x150.png",
+        "file": "Group-45-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45-150x150.png",
+        "source_url_match": false,
+        "featured": true
+      }
+    ]
+  }
+}
