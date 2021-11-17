@@ -8,7 +8,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
     },
     "refresh_frequency": "as needed"
   },
@@ -24,6 +24,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/frame-46/#main",
     "title": "Frame 46",
+    "author": "JP Petrucione",
     "comment_status": "open",
     "ping_status": "closed",
     "template": "",
