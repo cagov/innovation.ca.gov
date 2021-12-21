@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-21T21:02:50",
-    "updated_date": "2021-12-21T21:15:30",
+    "updated_date": "2021-12-21T21:18:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-12-21T13:02:50",
     "date_gmt": "2021-12-21T21:02:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=152",
-    "modified": "2021-12-21T13:15:30",
-    "modified_gmt": "2021-12-21T21:15:30",
+    "modified": "2021-12-21T13:18:01",
+    "modified_gmt": "2021-12-21T21:18:01",
     "slug": "increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians",
     "status": "publish",
     "type": "post",
