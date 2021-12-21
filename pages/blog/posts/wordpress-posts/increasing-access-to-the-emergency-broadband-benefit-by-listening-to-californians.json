@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "created_date": "2021-12-21T21:02:50",
+    "updated_date": "2021-12-21T21:02:51",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 152,
+    "date": "2021-12-21T13:02:50",
+    "date_gmt": "2021-12-21T21:02:50",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=152",
+    "modified": "2021-12-21T13:02:51",
+    "modified_gmt": "2021-12-21T21:02:51",
+    "slug": "increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
+    "title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
+    "excerpt": "<p>The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.</p>\n",
+    "author": "Anne Neville-Bonilla and Justin Lai",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "categories": [
+      "Emergency Broadband Benefit"
+    ],
+    "tags": [
+      "EBB",
+      "Emergency Broadband Benefit",
+      "FCC",
+      "Federal Communications Commission"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
+      "page_title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
+      "page_description": "The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
+      "meta_description": "The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
+      "open_graph_title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
+      "open_graph_description": "The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.",
+      "twitter_title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
+      "twitter_description": "The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit."
+    },
+    "headless_categories": [
+      {
+        "term_id": 36,
+        "name": "Emergency Broadband Benefit",
+        "slug": "emergency-broadband-benefit",
+        "term_group": 0,
+        "term_taxonomy_id": 36,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 36,
+        "category_description": "",
+        "cat_name": "Emergency Broadband Benefit",
+        "category_nicename": "emergency-broadband-benefit",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 35,
+        "name": "EBB",
+        "slug": "ebb",
+        "term_group": 0,
+        "term_taxonomy_id": 35,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 34,
+        "name": "Emergency Broadband Benefit",
+        "slug": "emergency-broadband-benefit",
+        "term_group": 0,
+        "term_taxonomy_id": 34,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 32,
+        "name": "FCC",
+        "slug": "fcc",
+        "term_group": 0,
+        "term_taxonomy_id": 32,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 33,
+        "name": "Federal Communications Commission",
+        "slug": "federal-communications-commission",
+        "term_group": 0,
+        "term_taxonomy_id": 33,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "custom_post_date": "",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/"
+  }
+}
