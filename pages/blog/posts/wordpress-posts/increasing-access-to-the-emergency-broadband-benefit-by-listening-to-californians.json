@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-21T21:02:50",
-    "updated_date": "2021-12-21T21:28:50",
+    "updated_date": "2021-12-21T21:43:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-12-21T13:02:50",
     "date_gmt": "2021-12-21T21:02:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=152",
-    "modified": "2021-12-21T13:28:50",
-    "modified_gmt": "2021-12-21T21:28:50",
+    "modified": "2021-12-21T13:43:17",
+    "modified_gmt": "2021-12-21T21:43:17",
     "slug": "increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians",
     "status": "publish",
     "type": "post",
@@ -26,7 +26,7 @@
     "title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
     "excerpt": "<p>The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.</p>\n",
     "author": "Anne Neville-Bonilla and Justin Lai",
-    "featured_media": 0,
+    "featured_media": 168,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -63,7 +63,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
       "page_title": "Increasing Access to the Emergency Broadband Benefit by Listening to Californians",
       "page_description": "The California ODI team wanted to better understand the specific pain points and blockers that might prevent eligible Californians from successfully applying for the Emergency Broadband Benefit.",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -142,6 +142,86 @@
     "headless_publishing": [],
     "headless_preview": [],
     "custom_post_date": "",
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
+    "media": [
+      {
+        "id": 168,
+        "type": "full",
+        "path": "2021/12/Group-46.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46.png",
+        "file": "Group-46.png",
+        "width": 2026,
+        "height": 1013,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 168,
+        "type": "1536x1536",
+        "path": "2021/12/Group-46-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-1536x768.png",
+        "file": "Group-46-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-1536x768.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 168,
+        "type": "large",
+        "path": "2021/12/Group-46-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-1024x512.png",
+        "file": "Group-46-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-1024x512.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 168,
+        "type": "medium_large",
+        "path": "2021/12/Group-46-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-768x384.png",
+        "file": "Group-46-768x384.png",
+        "width": 768,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-768x384.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 168,
+        "type": "medium",
+        "path": "2021/12/Group-46-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-576x288.png",
+        "file": "Group-46-576x288.png",
+        "width": 576,
+        "height": 288,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-576x288.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 168,
+        "type": "thumbnail",
+        "path": "2021/12/Group-46-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-150x150.png",
+        "file": "Group-46-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Group-46-150x150.png",
+        "source_url_match": false,
+        "featured": true
+      }
+    ]
   }
 }
