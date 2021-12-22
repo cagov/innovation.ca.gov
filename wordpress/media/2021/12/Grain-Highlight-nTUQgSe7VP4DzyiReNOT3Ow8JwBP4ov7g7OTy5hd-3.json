@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "created_date": "2021-12-22T18:28:38",
+    "updated_date": "2021-12-22T18:28:38",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 171,
+    "date": "2021-12-22T10:28:38",
+    "date_gmt": "2021-12-22T18:28:38",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4",
+    "modified": "2021-12-22T10:28:38",
+    "modified_gmt": "2021-12-22T18:28:38",
+    "slug": "grain-highlight-ntuqgse7vp4dzyirenot3ow8jwbp4ov7g7oty5hd-3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2021/08/26/preview-mode-test/grain-highlight-ntuqgse7vp4dzyirenot3ow8jwbp4ov7g7oty5hd-3/",
+    "title": "Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<div style=\"width: 1200px;\" class=\"wp-video\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->\n<video class=\"wp-video-shortcode\" id=\"video-171-1\" width=\"1200\" height=\"679\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4?_=1\" /><a href=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4\">https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4</a></video></div>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4</p>\n",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "video/mp4",
+    "media_details": {
+      "filesize": 807331,
+      "mime_type": "video/mp4",
+      "length": 26,
+      "length_formatted": "0:26",
+      "width": 1420,
+      "height": 804,
+      "fileformat": "mp4",
+      "dataformat": "quicktime",
+      "audio": {
+        "dataformat": "mp4",
+        "codec": "ISO/IEC 14496-3 AAC",
+        "sample_rate": 32000,
+        "channels": 2,
+        "bits_per_sample": 16,
+        "lossless": false,
+        "channelmode": "stereo"
+      },
+      "created_timestamp": -2082844800,
+      "sizes": {}
+    },
+    "post": 82,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4",
+    "path": "2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4"
+  }
+}
