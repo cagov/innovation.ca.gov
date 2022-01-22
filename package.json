@@ -4,11 +4,12 @@
   "description": "Office of Digital Innovation website",
   "main": "index.js",
   "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
     "moment-timezone": "^0.5.33"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve"
+    "build": "eleventy",
+    "start": "eleventy --serve"
   },
   "repository": {
     "type": "git",
