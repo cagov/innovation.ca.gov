@@ -1,10 +1,10 @@
 {
   "meta": {
     "api_version": "v2",
-    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
       "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
     },
     "refresh_frequency": "as needed"
@@ -12,8 +12,8 @@
   "data": {
     "name": "digital.ca.gov",
     "description": "Office of Digital Innovation",
-    "url": "https://live-digital-ca-gov.pantheonsite.io",
-    "home": "https://live-digital-ca-gov.pantheonsite.io",
+    "url": "https://test-digital-ca-gov.pantheonsite.io",
+    "home": "https://test-digital-ca-gov.pantheonsite.io",
     "gmt_offset": -8,
     "timezone_string": "America/Los_Angeles",
     "namespaces": [
