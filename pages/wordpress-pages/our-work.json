@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-02-25T23:11:10",
+    "created_date": "2022-02-25T23:04:04",
+    "updated_date": "2022-02-25T23:04:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -13,30 +13,30 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 113,
-    "date": "2021-11-09T05:26:02",
-    "date_gmt": "2021-11-09T13:26:02",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-02-25T15:11:10",
-    "modified_gmt": "2022-02-25T23:11:10",
-    "slug": "homepage",
+    "id": 222,
+    "date": "2022-02-25T15:04:04",
+    "date_gmt": "2022-02-25T23:04:04",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=222",
+    "modified": "2022-02-25T15:04:04",
+    "modified_gmt": "2022-02-25T23:04:04",
+    "slug": "our-work",
     "status": "publish",
     "type": "page",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/",
-    "title": "Office of Digital Innovation",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/our-work/",
+    "title": "Our work",
     "excerpt": "",
-    "author": "JP Petrucione",
+    "author": "Aaron Hans",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "landing",
+    "template": "",
     "meta": [],
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -49,40 +49,25 @@
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
       "site_url": "https://test-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/",
-      "page_title": "Office of Digital Innovation",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/our-work/",
+      "page_title": "Our work",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Office of Digital Innovation",
+      "meta_title": "Our work",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/",
-      "open_graph_title": "Office of Digital Innovation",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/our-work/",
+      "open_graph_title": "Our work",
       "open_graph_description": "Office of Digital Innovation",
-      "twitter_title": "Office of Digital Innovation",
+      "twitter_title": "Our work",
       "twitter_description": "Office of Digital Innovation"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
-    "media": [
-      {
-        "id": 228,
-        "type": "large",
-        "path": "2022/02/parabol-jNKfJ6u78nw-unsplash-1024x684.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/02/parabol-jNKfJ6u78nw-unsplash-1024x684.jpg",
-        "file": "parabol-jNKfJ6u78nw-unsplash-1024x684.jpg",
-        "width": 1024,
-        "height": 684,
-        "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/02/parabol-jNKfJ6u78nw-unsplash-1024x684.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/our-work/"
   }
 }
