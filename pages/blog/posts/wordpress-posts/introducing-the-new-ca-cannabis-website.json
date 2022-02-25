@@ -32,11 +32,7 @@
     "sticky": false,
     "template": "",
     "format": "standard",
-    "meta": {
-      "custom_post_link": "",
-      "custom_post_date": "",
-      "custom_post_location": ""
-    },
+    "meta": [],
     "categories": [],
     "tags": [
       "Bureau of Cannabis Control",
@@ -158,7 +154,14 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
+    "event": null,
     "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/07/21/introducing-the-new-ca-cannabis-website/",
     "media": [
       {
