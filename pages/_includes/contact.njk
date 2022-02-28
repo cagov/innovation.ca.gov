@@ -17,57 +17,68 @@
     <meta content="summary_large_image" name="twitter:card">
     <title>California Office of Digital Innovation</title>
     <meta content="California Office of Digital Innovation (ODI)" name="description">
-    <!-- capture the CSS content as a Nunjucks variable -->
-    {% set css %}
-    {% include "../css/home.min.css" %}
-    {% endset %}
-    <!-- feed it through our cssmin filter to minify -->
-    <style>
-      {{css | safe}}
-    </style>
+
+    <!-- CSS -->
+    {% block css %}
+      {% set css %}
+        {% include "../../_site_dist/index.css" %}
+      {% endset %}
+      <!-- the inlined hardcoded grid css below is there because it was breaking sass compilation -->
+      <style>
+        {{ css | safe }}
+        .cagov-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
+        }
+      </style>
+    {% endblock %}
   </head>
   <body>
-    <header>
-      <div class="official">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <p>State of California</p>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div id="skip-to-content"><a href="#body-content">Skip to content</a></div>
 
-      <nav class="navbar navbar-inverse">
-        <div class="container">
-          <div class="float-left navbar-header">
-            <a href="/" class="navbar-brand navbar-left">CA.gov</a>
-          </div>
-        </div>
-      </nav>
+    <header class="header-container">
+      {% block statewideHeader %}
+        {% include "statewide-header.njk" %}
+      {% endblock %}
+
+      {% block siteHeader %}
+        {% include "site-header.njk" %}
+      {% endblock %}
+
+      {% block siteNavigation %}
+        {% include "site-navigation.njk" %}
+      {% endblock %}
     </header>
-    <main>
-      <div class="container-fluid jumbotron">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-10">
-              <h1>California Office of Digital Innovation</h1>
-            </div>
+
+    {% block content %}
+      <div id="page-container" class="page-container-ds">
+        <div class="main-content-ds single-column landing">
+          <div class="narrow-page-title">
+            <h1 class="page-title">{{ title | safe }}</h1>
+          </div>
+          <div class="ds-content-layout">
+            <main class="main-primary">
+              <article id="post-{{ page.fileSlug }}">       
+                <div id="body-content" class="category-label">{{ category | safe }}</div>
+                <!-- Page Title-->
+                <h1 class="wide-page-title page-title">{{ title | safe }}</h1>
+                <div class="entry-content">
+                  {{ content | safe }}
+                </div>
+              </article>
+              <span class="return-top hidden-print"></span>
+            </main>
           </div>
         </div>
       </div>
-      <div class="container">
-        {{ content | safe }}
-      </div>
-    </main>
-    <script>
-      window.ga = window.ga || function () {
-        (ga.q = ga.q || []).push(arguments)
-      };
-      ga.l = + new Date;
-      ga('create', 'UA-154336791-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-    <script async defer src='https://www.google-analytics.com/analytics.js'></script>
+    {% endblock %}
 
-  </html>
+    <div class="footer-container">
+      {% block agencyFooter %}
+        {% include "site-footer.njk" %}
+      {% endblock %}
+      {% block statewideFooter %}
+        {% include "statewide-footer.njk" %}
+      {% endblock %}
+    </div>
+  </body>
+</html>
