@@ -3,7 +3,7 @@ name: Deploy DEV digital.ca.gov
 on:
   push:
     branches:
-      - main
+      - development
 
 jobs:
   build_deploy:
