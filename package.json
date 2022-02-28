@@ -38,27 +38,12 @@
     "sharp": "^0.29.3"
   },
   "scripts": {
-    "dev": "npm run site:dev",
-    "format:eslint": "eslint --ext .js,.html . --fix --ignore-path .gitignore",
-    "format:prettier": "prettier \"**/*.js\" --write --ignore-path .gitignore",
-    "format": "npm run format:eslint && npm run format:prettier",
-    "lint:eslint:fix": "eslint --ext .js,.html . --ignore-path .gitignore --fix",
-    "lint:eslint": "eslint --ext .js,.html . --ignore-path .gitignore",
-    "lint:prettier": "prettier \"**/*.js\" --check --ignore-path .gitignore",
-    "lint": "npm run lint:eslint && npm run lint:prettier",
+    "build": "eleventy",
+    "dev": "npm run site:watch:dev",
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
-    "site:build": "eleventy",
-    "site:convert:illustrations": "node docs/src/11ty/format-illustrations.js",
-    "site:dev": "npm run site:watch:dev",
-    "site:start": "npm run site:watch",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
-    "start": "npm run site:start",
-    "test:serve": "npm run site:build && npx http-server _site/",
-    "test:setup": "npx playwright install-deps chromium && npx playwright install",
-    "test:site": "npx playwright test test/index.spec.mjs",
-    "test:visual": "web-test-runner **/*.test.js --node-resolve --config test/test.config.js",
-    "test": "web-test-runner **/*.test.js --node-resolve"
+    "start": "npm run site:watch"
   },
   "repository": {
     "type": "git",
