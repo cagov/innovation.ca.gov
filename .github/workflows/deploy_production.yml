@@ -1,9 +1,9 @@
-name: Deploy DEV digital.ca.gov
+name: Deploy PROD digital.ca.gov
 # site:  development.digital.ca.gov
 on:
   push:
     branches:
-      - development
+      - main
 
 jobs:
   build_deploy:
@@ -27,7 +27,7 @@ jobs:
         with:
           args: --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: 'development.digital.ca.gov'
+          AWS_S3_BUCKET: 'digital.ca.gov'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
@@ -37,7 +37,7 @@ jobs:
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v1.3
         env:
-          DISTRIBUTION: 'E275WGCQ1RLRUJ'
+          DISTRIBUTION: 'E1KO87RQFUTIBK'
           PATHS: '/*'
           AWS_REGION: 'us-west-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
