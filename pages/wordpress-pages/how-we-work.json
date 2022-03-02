@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-03-02T23:35:47",
+    "updated_date": "2022-03-02T23:35:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 243,
+    "date": "2022-03-02T15:35:47",
+    "date_gmt": "2022-03-02T23:35:47",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=243",
+    "modified": "2022-03-02T15:35:48",
+    "modified_gmt": "2022-03-02T23:35:48",
+    "slug": "how-we-work",
+    "status": "publish",
+    "type": "page",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/how-we-work/",
+    "title": "How we work",
+    "excerpt": "<p>The Office of Digital Innovation (ODI) creates lasting change in state government. We dive deep to understand root problems instead of applying quick fixes.</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/how-we-work/",
+      "page_title": "How we work",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "How we work",
+      "meta_description": "The Office of Digital Innovation creates lasting change in state government. We dive deep to understand root problems instead of applying quick fixes.",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/how-we-work/",
+      "open_graph_title": "How we work",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "How we work",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/how-we-work/"
+  }
+}
