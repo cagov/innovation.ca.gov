@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-03-04T20:35:57",
+    "updated_date": "2022-03-04T20:35:58",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 253,
+    "date": "2022-03-04T12:35:57",
+    "date_gmt": "2022-03-04T20:35:57",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=253",
+    "modified": "2022-03-04T12:35:58",
+    "modified_gmt": "2022-03-04T20:35:58",
+    "slug": "applying-for-a-state-job",
+    "status": "publish",
+    "type": "page",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/applying-for-a-state-job/",
+    "title": "Applying for a state job",
+    "excerpt": "",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/applying-for-a-state-job/",
+      "page_title": "Applying for a state job",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Applying for a state job",
+      "meta_description": "Find out about what's part of applying for a job at the State of California. This includes taking a state exam, interviewing, and the selection process.",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/applying-for-a-state-job/",
+      "open_graph_title": "Applying for a state job",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "Applying for a state job",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/applying-for-a-state-job/"
+  }
+}
