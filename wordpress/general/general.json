@@ -14,7 +14,7 @@
     "description": "Office of Digital Innovation",
     "url": "https://test-digital-ca-gov.pantheonsite.io",
     "home": "https://test-digital-ca-gov.pantheonsite.io",
-    "gmt_offset": -8,
+    "gmt_offset": -7,
     "timezone_string": "America/Los_Angeles",
     "namespaces": [
       "oembed/1.0",
