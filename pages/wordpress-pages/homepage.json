@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-03-15T18:05:47",
+    "updated_date": "2022-03-16T19:21:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-03-15T11:05:47",
-    "modified_gmt": "2022-03-15T18:05:47",
+    "modified": "2022-03-16T12:21:18",
+    "modified_gmt": "2022-03-16T19:21:18",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
     "link": "https://test-digital-ca-gov.pantheonsite.io/",
     "title": "Office of Digital Innovation",
-    "excerpt": "<p>The Office of Digital Innovation (ODI) partners with state departments to improve government services. Our vision is to create programs that put Californians first. We use people-centered design to discover technological innovation that serves Californians’ needs. We see a California that is equitable, efficient, and data-inspired. Careers at ODI We’re looking for great people to &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
+    "excerpt": "",
     "author": "JP Petrucione",
     "featured_media": 0,
     "parent": 0,
@@ -68,6 +68,21 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/"
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
+    "media": [
+      {
+        "id": 232,
+        "type": "large",
+        "path": "2022/03/32173552-948x1024.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
+        "file": "32173552-948x1024.jpg",
+        "width": 948,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
