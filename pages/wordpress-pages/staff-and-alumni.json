@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-03-16T19:26:12",
+    "updated_date": "2022-03-16T19:26:12",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 244,
+    "date": "2022-03-16T12:26:12",
+    "date_gmt": "2022-03-16T19:26:12",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=244",
+    "modified": "2022-03-16T12:26:12",
+    "modified_gmt": "2022-03-16T19:26:12",
+    "slug": "staff-and-alumni",
+    "status": "publish",
+    "type": "page",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/staff-and-alumni/",
+    "title": "Staff and alumni",
+    "excerpt": "<p>ODI is home to people with backgrounds in tech, design, data, policy, strategy, analytics, and research. Our team comes from the public and private sector. We understand the intricacies of government services and programs. We use empathy, curiosity, data, and technology to identify and solve problems. Aaron Hans, Senior Engineer Adam Little, Designer Aradhna Sharma, &#8230; <a title=\"Staff and alumni\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/staff-and-alumni/\" aria-label=\"More on Staff and alumni\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/staff-and-alumni/",
+      "page_title": "Staff and alumni",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Staff and alumni",
+      "meta_description": "Office of Digital Innovation",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/staff-and-alumni/",
+      "open_graph_title": "Staff and alumni",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "Staff and alumni",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/staff-and-alumni/"
+  }
+}
