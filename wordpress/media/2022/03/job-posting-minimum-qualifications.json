@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T21:52:50",
-    "updated_date": "2022-03-18T21:57:09",
+    "updated_date": "2022-03-18T22:01:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-18T14:52:50",
     "date_gmt": "2022-03-18T21:52:50",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications.png",
-    "modified": "2022-03-18T14:57:09",
-    "modified_gmt": "2022-03-18T21:57:09",
+    "modified": "2022-03-18T15:01:45",
+    "modified_gmt": "2022-03-18T22:01:45",
     "slug": "job-posting-minimum-qualifications",
     "status": "inherit",
     "type": "attachment",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications.png'><img width=\"576\" height=\"97\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-576x97.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job posting. This one includes a link to the class specification for Information Technology Specialist I.\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-576x97.png 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-768x130.png 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications.png 918w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications.png'><img width=\"576\" height=\"97\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-576x97.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job posting. It includes the text, &quot;You will find the Minimum Requirements in the Class Specification.&quot; Information Technology Specialist is a hyperlink.\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-576x97.png 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications-768x130.png 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-minimum-qualifications.png 918w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "The Minimum Requirements section of a job posting. This one includes a link to the class specification for Information Technology Specialist I.",
+    "alt_text": "The Minimum Requirements section of a job posting. It includes the text, \"You will find the Minimum Requirements in the Class Specification.\" Information Technology Specialist is a hyperlink.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
