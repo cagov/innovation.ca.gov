@@ -15,7 +15,7 @@
     <meta content="California Office of Innovation" property="og:description">
     <meta content="https://digital.ca.gov/" property="og:url">
     <meta content="summary_large_image" name="twitter:card">
-    <title>California Office of Innovation</title>
+    <title>Hi California Office of Innovation</title>
     <meta content="California Office of Innovation" name="description">
 
     <!-- CSS -->
@@ -30,6 +30,15 @@
           grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
         }
       </style>
+    {% endblock %}
+
+    {% block js %}
+      {% set js %}
+        {% include "../../_site_dist/built.js" %}
+      {% endset %}
+      <script type="module">
+        {{ js | safe }}
+      </script>
     {% endblock %}
   </head>
   <body>
