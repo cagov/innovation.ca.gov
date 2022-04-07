@@ -6,6 +6,7 @@
 
 # ignore wordpress generated images
 /_site/img/wordpress
+/_site_dist/index.css
 
 # Logs
 logs
