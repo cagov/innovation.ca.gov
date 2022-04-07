@@ -1,0 +1,24 @@
+.cagov-alernating-grid {
+  list-style: none;
+}
+.cagov-alernating-grid li {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 3rem;
+  margin-bottom: 2rem;
+}
+.cagov-alernating-grid li:nth-child(even) {
+  flex-direction: row-reverse;
+}
+.cagov-alernating-grid li div h3 {
+  margin-top: 0;
+}
+@media (max-width: 600px) {
+  .cagov-alernating-grid li {
+    flex-direction: column;
+  }
+  .cagov-alernating-grid li:nth-child(even) {
+    flex-direction: column;
+  }
+}
