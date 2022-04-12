@@ -19,7 +19,7 @@
     "@cagov/11ty-build-system": "^0.3.0",
     "@cagov/ds-accordion": "^2.0.0",
     "@cagov/ds-back-to-top": "^2.0.0",
-    "@cagov/ds-base-css": "^1.0.15",
+    "@cagov/ds-base-css": "^2.0.0-beta.1",
     "@cagov/ds-feature-card": "^1.0.6",
     "@cagov/ds-link-grid": "^2.1.0",
     "@cagov/ds-page-feedback": "^1.1.0",
