@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-12T21:13:32",
-    "updated_date": "2022-04-12T21:13:32",
+    "updated_date": "2022-04-12T21:15:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,13 +17,13 @@
     "date": "2022-04-12T14:13:32",
     "date_gmt": "2022-04-12T21:13:32",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
-    "modified": "2022-04-12T14:13:32",
-    "modified_gmt": "2022-04-12T21:13:32",
+    "modified": "2022-04-12T14:15:29",
+    "modified_gmt": "2022-04-12T21:15:29",
     "slug": "everybody-on-zoom",
     "status": "inherit",
     "type": "attachment",
     "link": "https://test-digital-ca-gov.pantheonsite.io/homepage/everybody-on-zoom/#main",
-    "title": "Everybody-on-zoom",
+    "title": "Everybody on zoom",
     "author": "Aaron Hans",
     "comment_status": "closed",
     "ping_status": "closed",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png'><img width=\"572\" height=\"336\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png'><img width=\"572\" height=\"336\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png\" class=\"attachment-medium size-medium\" alt=\"ODI staff on zoom\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "ODI staff on zoom",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
