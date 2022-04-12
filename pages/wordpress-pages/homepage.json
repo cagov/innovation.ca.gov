@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-03-16T19:21:18",
+    "updated_date": "2022-04-12T21:03:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-03-16T12:21:18",
-    "modified_gmt": "2022-03-16T19:21:18",
+    "modified": "2022-04-12T14:03:00",
+    "modified_gmt": "2022-04-12T21:03:00",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -71,15 +71,15 @@
     "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
     "media": [
       {
-        "id": 232,
+        "id": 286,
         "type": "large",
-        "path": "2022/03/32173552-948x1024.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
-        "file": "32173552-948x1024.jpg",
-        "width": 948,
-        "height": 1024,
-        "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
+        "path": "2022/04/Group-97-1024x649.png",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
+        "file": "Group-97-1024x649.png",
+        "width": 1024,
+        "height": 649,
+        "mime_type": "image/png",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
         "source_url_match": true,
         "featured": false
       }
