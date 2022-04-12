@@ -18,6 +18,8 @@
 @import '../../node_modules/@cagov/ds-statewide-footer/src/index.scss';
 @import '../../node_modules/@cagov/ds-site-navigation/src/index.scss';
 
+@import './blog';
+
 /* Feature card full bleed variation */
 .full-bleed {
   margin-left: calc(50% - 50vw);
