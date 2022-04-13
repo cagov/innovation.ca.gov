@@ -33,6 +33,12 @@
 /* temp */
 @import './temp-buttons';
 
+/* give homepage h1 space */
+@media (min-width: 1176px) {
+  .cagov-featured-sidebar {
+    max-width: 40%;
+  }
+}
 
 // theme overrides
 body {
