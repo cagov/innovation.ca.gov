@@ -1,0 +1,39 @@
+/* Cagov color scheme root variables */
+:root {
+  /* Theme colors */
+  --primary-color: #0D4F8C;
+  --primary-dark-color: #00315f;
+  --primary-light-color: #3f73a4;
+  --primary-lightest-color: #7fa1c2;
+  --primary-hover-color: #00315f;
+
+  --secondary-color: #704315;
+  --secondary-dark-color: #472a06;
+  --secondary-light-color: #a26016;
+  --secondary-lightest-color: #e4881e;
+  --secondary-hover-color: #472a06;
+
+  --highlight-color: #85341f;
+  --highlight-dark-color: #512317;
+  --highlight-light-color: #c24629;
+  --highlight-lightest-color: #e0866d;
+  --highlight-hover-color: #512317;
+
+  /* sitewide gradient */
+  --top-gradient: linear-gradient(#fbefe0, #fff 30%);
+}
+
+/* primary lightest shades not used 
+c7d6e4
+ecf1f6
+*/
+
+/* accent 1 lightest shades not used 
+fdcba0
+fbefe0
+*/
+
+/* accent  lightest shades not used 
+f7cbbe
+*/
+

@@ -1,6 +1,6 @@
 /* GLOBAL */
 // Site Colors
-@import '../../node_modules/@cagov/ds-base-css/src/colorschemes/cagov'; /* theme colors */
+@import 'theme'; /* theme colors */
 
 /* sitewide styles */
 @import '../../node_modules/@cagov/ds-base-css/src/core';
@@ -27,3 +27,32 @@
 @import './alternating-grid';
 
 @import './aligned-dual-group';
+
+
+
+/* temp */
+@import './temp-buttons';
+
+
+// theme overrides
+body {
+  background: var(--top-gradient)
+}
+.official-header {
+  background: var(--primary-dark-color, #00315f);
+  color: #fff;
+}
+cagov-site-navigation, .site-header {
+  background: transparent;
+}
+.official-header svg .gov {
+  fill: var(--white,#fff);
+}
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary0color, #0D4F8C);
+}
+
+/* need this globally, not sure why it was missing */
+a {
+  text-underline-position: under;
+}
