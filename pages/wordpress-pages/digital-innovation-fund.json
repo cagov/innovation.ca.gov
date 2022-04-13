@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-04-13T18:27:24",
+    "updated_date": "2022-04-13T18:27:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 300,
+    "date": "2022-04-13T11:27:24",
+    "date_gmt": "2022-04-13T18:27:24",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=300",
+    "modified": "2022-04-13T11:27:24",
+    "modified_gmt": "2022-04-13T18:27:24",
+    "slug": "digital-innovation-fund",
+    "status": "publish",
+    "type": "page",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+    "title": "Digital Innovation Fund",
+    "excerpt": "",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+      "page_title": "Digital Innovation Fund",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Digital Innovation Fund",
+      "meta_description": "Office of Digital Innovation",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+      "open_graph_title": "Digital Innovation Fund",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "Digital Innovation Fund",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/"
+  }
+}
