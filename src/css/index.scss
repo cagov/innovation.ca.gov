@@ -50,12 +50,13 @@ body {
 }
 cagov-site-navigation, .site-header {
   background: transparent;
+  border-bottom: solid 1px var(--primary-color, #0D4F8C);
 }
 .official-header svg .gov {
   fill: var(--white,#fff);
 }
 h1, h2, h3, h4, h5, h6 {
-  color: var(--primary0color, #0D4F8C);
+  color: var(--primary-color, #0D4F8C);
 }
 
 /* need this globally, not sure why it was missing */
@@ -64,4 +65,8 @@ a {
 }
 cagov-site-navigation .expanded-menu-section-header-link:hover {
   text-underline-position: under;
+}
+/* fixes bug with this is getting in the way */
+#skip-to-content {
+  margin-top: -1px;
 }
