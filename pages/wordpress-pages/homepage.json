@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-04-12T21:59:26",
+    "updated_date": "2022-04-13T21:49:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-04-12T14:59:26",
-    "modified_gmt": "2022-04-12T21:59:26",
+    "modified": "2022-04-13T14:49:16",
+    "modified_gmt": "2022-04-13T21:49:16",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
     "link": "https://test-digital-ca-gov.pantheonsite.io/",
     "title": "Office of Digital Innovation",
-    "excerpt": "<p>A team as diverse as the state we serve There’s no typical ODI team member. We come from all over California and bring lots of experiences to our work. What unites us? Our passion to make a difference in our communities. Who we work with Great people wanted We’re always looking for people who want &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
+    "excerpt": "<p>[Something about our work and DIF] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum ipsum quis odio bibendum, sed tempus arcu rhoncus. Etiam molestie ut ipsum eu scelerisque. Who we work with A team as diverse as the state we serve There’s no typical ODI team member. We come from all over California &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
     "author": "JP Petrucione",
     "featured_media": 0,
     "parent": 0,
@@ -70,6 +70,19 @@
     "headless_preview": [],
     "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
     "media": [
+      {
+        "id": 233,
+        "type": "full",
+        "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "width": 526,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "source_url_match": true,
+        "featured": false
+      },
       {
         "id": 289,
         "type": "full",
