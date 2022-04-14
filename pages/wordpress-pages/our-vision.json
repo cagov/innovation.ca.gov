@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:24:21",
-    "updated_date": "2022-03-25T21:35:49",
+    "updated_date": "2022-04-14T23:52:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,17 +17,17 @@
     "date": "2022-03-16T12:24:21",
     "date_gmt": "2022-03-16T19:24:21",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=240",
-    "modified": "2022-03-25T14:35:49",
-    "modified_gmt": "2022-03-25T21:35:49",
+    "modified": "2022-04-14T16:52:35",
+    "modified_gmt": "2022-04-14T23:52:35",
     "slug": "our-vision",
     "status": "publish",
     "type": "page",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/our-vision/",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
     "title": "Our vision",
-    "excerpt": "<p>We see a California where the state meets people where they are and everyone gets the services they need. Because services reflect the voices of Californians, they’re easy-to-use and accessible. Technology fosters open dialogue that powers continuous cycles of improvement. Our mission Our mission is to deliver better services to Californians through user research and &#8230; <a title=\"Our vision\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/our-vision/\" aria-label=\"More on Our vision\">Read more</a></p>\n",
+    "excerpt": "<p>We see a California where the state meets people where they are and everyone gets the services they need. Because services reflect the voices of Californians, they’re easy-to-use and accessible. Technology fosters open dialogue that powers continuous cycles of improvement. Our mission Our mission is to deliver better services to Californians through user research and &#8230; <a title=\"Our vision\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/\" aria-label=\"More on Our vision\">Read more</a></p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
-    "parent": 0,
+    "parent": 318,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -49,7 +49,7 @@
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
       "site_url": "https://test-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/our-vision/",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
       "page_title": "Our vision",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
@@ -58,7 +58,7 @@
       "page_social_image_alt": "",
       "meta_title": "Our vision",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/our-vision/",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
       "open_graph_title": "Our vision",
       "open_graph_description": "Office of Digital Innovation",
       "twitter_title": "Our vision",
@@ -68,6 +68,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/our-vision/"
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/"
   }
 }
