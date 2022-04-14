@@ -62,8 +62,11 @@
       <div id="page-container" class="page-container-ds">
         <div id="main-content" class="single-column">
           <main id="body-content">
+            {% if previewimage %}
+              <img src="/{{ previewimage }}" class="mb-2" />
+            {% endif %}
             <h1 class="page-title">{{ title | safe }}</h1>
-            <article id="post-{{ page.fileSlug }}-eh">       
+            <article id="post-{{ page.fileSlug }}">       
               <div id="body-content" class="category-label">{{ category | safe }}</div>
               <div class="entry-content">
                 {{ content | safe }}
