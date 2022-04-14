@@ -1,92 +1,23 @@
-<!doctype html>
-<html lang="en" xml:lang="en">
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <meta content="en" http-equiv="Content-Language">
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta content="width=device-width,initial-scale=1" name="viewport">
-    <meta content="Office of Innovation - State of California" name="author">
-    <link href="https://www.google-analytics.com" rel="preconnect">
-    <meta content="#000000" name="theme-color">
-    <meta content="https://alpha.ca.gov/img/thumbnail.png" property="og:image">
-    <meta content="630" property="og:image:height">
-    <meta content="630" property="og:image:width">
-    <meta content="California Office of Innovation" property="og:title">
-    <meta content="California Office of Innovation" property="og:description">
-    <meta content="https://digital.ca.gov/" property="og:url">
-    <meta content="summary_large_image" name="twitter:card">
-    <title>California Office of Innovation</title>
-    <meta content="California Office of Innovation" name="description">
+{% extends "base-layout.njk" %}
 
-    <!-- CSS -->
-    {% block css %}
-      {% set css %}
-        {% include "../../_site_dist/index.css" %}
-      {% endset %}
-      <!-- the inlined hardcoded grid css below is there because it was breaking sass compilation -->
-      <style>
-        {{ css | safe }}
-        .cagov-grid {
-          grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
-        }
-      </style>
-    {% endblock %}
+{% block content %}
+  <div id="page-container" class="page-container-ds">
+    <div id="main-content" class="single-column">
+      <main id="body-content">
+        <h1 class="page-title">{{ title | safe }}</h1>
 
-    {% block js %}
-      {% set js %}
-        {% include "../../_site_dist/built.js" %}
-      {% endset %}
-      <script type="module">
-        {{ js | safe }}
-      </script>
-    {% endblock %}
-  </head>
-  <body>
-    <div id="skip-to-content"><a href="#body-content">Skip to content</a></div>
-
-    <header class="header-container">
-      {% block statewideHeader %}
-        {% include "statewide-header.njk" %}
-      {% endblock %}
-
-      {% block siteHeader %}
-        {% include "site-header.njk" %}
-      {% endblock %}
-
-      {% block siteNavigation %}
-        {% include "site-navigation.njk" %}
-      {% endblock %}
-    </header>
-
-    {% block content %}
-      <div id="page-container" class="page-container-ds">
-        <div id="main-content" class="single-column">
-          <main id="body-content">
-            <h1 class="page-title">{{ title | safe }}</h1>
-
-            <div class="card-deck card-set row">
-              {%- for post in collections.mySort -%}
-                <div class="card-body">
-                  <h5 class="card-title ">
-                    <a href="{{ post.url }}">{{ post.data.title }}</a>
-                  </h5>
-                  <p class="card-text text-muted">{{ post.data.publishdate | dateformat }}</p>
-                  <p class="card-text">{{ post.data.meta | safe }}</p>
-                </div>
-              {%- endfor -%}
+        <div class="card-deck card-set row">
+          {%- for post in collections.mySort -%}
+            <div class="card-body">
+              <h5 class="card-title ">
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+              </h5>
+              <p class="card-text text-muted">{{ post.data.publishdate | dateformat }}</p>
+              <p class="card-text">{{ post.data.meta | safe }}</p>
             </div>
-          </main>
+          {%- endfor -%}
         </div>
-      </div>
-    {% endblock %}
-
-    <div class="footer-container">
-      {% block agencyFooter %}
-        {% include "site-footer.njk" %}
-      {% endblock %}
-      {% block statewideFooter %}
-        {% include "statewide-footer.njk" %}
-      {% endblock %}
+      </main>
     </div>
-  </body>
-</html>
+  </div>
+{% endblock %}

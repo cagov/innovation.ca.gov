@@ -96,7 +96,7 @@ module.exports = function (eleventyConfig) {
         item.data.page.url = item.url;
         item.data.layout = jsonData.template;
         if (!item.data.layout) {
-          item.data.layout = "content";
+          item.data.layout = "content-with-sidebar-nav";
         }
         item.data.title = jsonData.title;
         item.data.publishdate = jsonData.date.split("T")[0]; //new Date(jsonData.modified_gmt)
