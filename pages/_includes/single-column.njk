@@ -7,8 +7,10 @@
         <a class="crumb" href="https:\/\/ca.gov" title="CA.GOV">CA.GOV</a>
         <span class="crumb separator">/</span>
         <a class="crumb" href="/" title="Department of Digital Innovation">Department of Digital Innovation</a>
-        <span class="crumb separator">/</span>
-        <span class="crumb">{{ fileids[parentid] | safe }}</span>
+        {% if parentid %}
+          <span class="crumb separator">/</span>
+          <span class="crumb">{{ fileids[parentid] | safe }}</span>
+        {% endif %}
         <span class="crumb separator">/</span>
         <span class="crumb current">{{ title | safe }}</span>
       </div>
