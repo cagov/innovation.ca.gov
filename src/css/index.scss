@@ -89,3 +89,12 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
     display: none;
   }
 }
+
+
+/* beginnings of highlight box */
+.cagov-emphasized {
+  padding: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  border: solid 1px var(--primary-lightest-color);
+}
