@@ -53,6 +53,7 @@ module.exports = function (eleventyConfig) {
     let output = [];
 
     collection.getAll().forEach((item) => {
+      item.data.domain = 'digital.ca.gov';
       if (item.inputPath.includes(FolderNamePosts)) {
         item.outputPath = item.outputPath.replace(`/${FolderNamePosts}`, "");
         item.url = item.url.replace(`/${FolderNamePosts}`, "");
@@ -141,6 +142,25 @@ module.exports = function (eleventyConfig) {
       .reverse();
   });
   // eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addFilter("changeDomain", function (url, domain) {
+    return 'hello';
+    console.log(url)
+    console.log(domain)
+    try {
+      
+      let host = config.build.canonical_url.split("//"); // TEMP Cheat to get https
+      let changedUrl = url;
+      // There are multiple strings that we may need to replace because of how we merge and work with data. Use them.
+      config.build.replace_urls.map((item) => {
+        changedUrl = changedUrl.replace(item, host[0] + "//" + domain);
+      });
+      changedUrl = changedUrl.replace('test-digital-ca-gov.pantheonsite.io', host[0] + "//" + 'development.digital.ca.gov');
+      return changedUrl;
+    } catch {
+      return url;
+    }
+  });
 
   return {
     htmlTemplateEngine: "njk",
