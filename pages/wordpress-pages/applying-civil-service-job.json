@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T22:09:17",
-    "updated_date": "2022-04-15T17:41:19",
+    "updated_date": "2022-04-15T21:13:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-18T15:09:17",
     "date_gmt": "2022-03-18T22:09:17",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=246",
-    "modified": "2022-04-15T10:41:19",
-    "modified_gmt": "2022-04-15T17:41:19",
+    "modified": "2022-04-15T14:13:21",
+    "modified_gmt": "2022-04-15T21:13:21",
     "slug": "applying-civil-service-job",
     "status": "publish",
     "type": "page",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:22:34",
-    "updated_date": "2022-04-14T23:52:42",
+    "updated_date": "2022-04-15T21:25:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:22:34",
     "date_gmt": "2022-03-16T19:22:34",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=236",
-    "modified": "2022-04-14T16:52:42",
-    "modified_gmt": "2022-04-14T23:52:42",
+    "modified": "2022-04-15T14:25:55",
+    "modified_gmt": "2022-04-15T21:25:55",
     "slug": "how-we-work",
     "status": "publish",
     "type": "page",
