@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2022-04-16T14:27:54",
+    "updated_date": "2022-04-16T14:40:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2022-04-16T07:27:54",
-    "modified_gmt": "2022-04-16T14:27:54",
+    "modified": "2022-04-16T07:40:28",
+    "modified_gmt": "2022-04-16T14:40:28",
     "slug": "our-work",
     "status": "publish",
     "type": "page",
     "link": "https://test-digital-ca-gov.pantheonsite.io/our-work/",
     "title": "Our work",
-    "excerpt": "<p>The Office of Digital Innovation (ODI) works on projects where we can measurably improve state services. Featured projects Vaccine sentiment analytics When supplies were limited, officials wanted to get vaccines in arms fast. With equity as a top concern, we built a vaccine sentiment model to send limited resources where they were most needed. This &#8230; <a title=\"Our work\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/our-work/\" aria-label=\"More on Our work\">Read more</a></p>\n",
+    "excerpt": "<p>The Office of Digital Innovation (ODI) works on projects where we can measurably improve state services. Past projects Vaccine sentiment analytics When supplies were limited, officials wanted to get vaccines in arms fast. With equity as a top concern, we built a vaccine sentiment model to send limited resources where they were most needed. This &#8230; <a title=\"Our work\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/our-work/\" aria-label=\"More on Our work\">Read more</a></p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
     "parent": 0,
@@ -68,6 +68,21 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/our-work/"
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/our-work/",
+    "media": [
+      {
+        "id": 233,
+        "type": "full",
+        "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "width": 526,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
