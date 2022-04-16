@@ -1,0 +1,30 @@
+seven-minute-tabs {
+  [role="tablist"] {
+    border-bottom: 2px solid #7FA1C2;
+    margin-top: 3rem;
+  }
+  a[role="tab"] {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--black,#000);
+    margin-right: 3rem;
+    line-height: 3.5rem;
+    text-underline-offset: 0.6rem;
+    padding-bottom: 0.7rem;
+
+    &[aria-selected="false"] {
+      color: #0D4F8C;
+    }
+    &[aria-selected="true"] {
+      text-decoration: underline;
+      text-decoration-color: #E4881E;
+      text-decoration-thickness: 5px;
+    }
+  }
+}
+
+seven-minute-tabs .cagov-aligned-group>.wp-block-group__inner-container {
+  margin-top: 3rem;
+  border-bottom: 1px solid #C7D6E4;
+}

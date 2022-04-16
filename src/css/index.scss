@@ -33,9 +33,15 @@
 @import './aligned-dual-group';
 
 
+/* handle our work page layout requirements */
+@import './layouts-extra';
+
 
 /* temp */
 @import './temp-buttons';
+
+/* seven minute tab styles used on our work page */
+@import './seven-minute-tabs';
 
 /* give homepage h1 space */
 @media (min-width: 1176px) {

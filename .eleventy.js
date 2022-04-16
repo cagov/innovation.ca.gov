@@ -100,6 +100,9 @@ module.exports = function (eleventyConfig) {
         if (!item.data.layout) {
           item.data.layout = "content";
         }
+        if(item.url.indexOf('our-work') > -1) {
+          item.data.layout = 'single-column-conditional';
+        }
         item.data.title = jsonData.title;
         item.data.publishdate = jsonData.date.split("T")[0]; //new Date(jsonData.modified_gmt)
         item.data.meta = jsonData.excerpt;

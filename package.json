@@ -33,6 +33,7 @@
     "@cagov/ds-statewide-header": "^1.0.14",
     "@cagov/ds-step-list": "^2.0.1",
     "@cagov/ds-table": "^1.0.1",
+    "@zachleat/seven-minute-tabs": "^1.0.0",
     "cross-env": "^7.0.3",
     "glob": "^7.2.0",
     "sharp": "^0.29.3"

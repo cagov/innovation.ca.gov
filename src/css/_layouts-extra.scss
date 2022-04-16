@@ -1,0 +1,10 @@
+/* the our work page uses a special layout: single-column-conditional hardcoded to that url in .eleventy.js
+this class is applied to content on that page we want to be centered. Most content on that page is part of the tabs layout which needs full width */
+.cagov-single-column {
+  max-width: var(--w-page-content,876px);
+  margin: 0 auto;
+}
+
+main .cagov-single-column h2:first-child {
+  margin-top: calc(var(--s-4) + var(--ratio));
+}
