@@ -1,0 +1,27 @@
+// theme overrides
+body {
+  background: var(--top-gradient)
+}
+.official-header {
+  background: var(--primary-dark-color, #00315f);
+  color: #fff;
+}
+cagov-site-navigation, .site-header {
+  background: transparent;
+  border-bottom: solid 1px var(--primary-color, #0D4F8C);
+}
+.official-header svg .gov {
+  fill: var(--white,#fff);
+}
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color, #0D4F8C);
+  font-family: 'Noto Serif', serif;
+  font-weight: 700;
+}
+
+/* give homepage h1 space */
+@media (min-width: 1176px) {
+  .cagov-featured-sidebar {
+    max-width: 40%;
+  }
+}

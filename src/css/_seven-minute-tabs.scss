@@ -28,3 +28,13 @@ seven-minute-tabs .cagov-aligned-group>.wp-block-group__inner-container {
   margin-top: 3rem;
   border-bottom: 1px solid #C7D6E4;
 }
+
+@media only screen and (max-width: 1176px) {
+  seven-minute-tabs {
+    [role="tablist"], [role="tabpanel"] {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+}
+

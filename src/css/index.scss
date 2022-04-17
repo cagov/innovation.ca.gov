@@ -1,6 +1,6 @@
 /* GLOBAL */
 // Site Colors
-@import 'theme'; /* theme colors */
+@import 'theme-tokens'; /* theme colors */
 
 /* noto serif font used for headers */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
@@ -36,40 +36,13 @@
 /* handle our work page layout requirements */
 @import './layouts-extra';
 
-
-/* temp */
+/* temp, this will be published as design system component soon (it was removed from the base-css-beta version */
 @import './temp-buttons';
 
 /* seven minute tab styles used on our work page */
 @import './seven-minute-tabs';
 
-/* give homepage h1 space */
-@media (min-width: 1176px) {
-  .cagov-featured-sidebar {
-    max-width: 40%;
-  }
-}
-
-// theme overrides
-body {
-  background: var(--top-gradient)
-}
-.official-header {
-  background: var(--primary-dark-color, #00315f);
-  color: #fff;
-}
-cagov-site-navigation, .site-header {
-  background: transparent;
-  border-bottom: solid 1px var(--primary-color, #0D4F8C);
-}
-.official-header svg .gov {
-  fill: var(--white,#fff);
-}
-h1, h2, h3, h4, h5, h6 {
-  color: var(--primary-color, #0D4F8C);
-  font-family: 'Noto Serif', serif;
-  font-weight: 700;
-}
+@import 'theme-overrides'; /* theme colors */
 
 /* need this globally, not sure why it was missing */
 a {
@@ -78,7 +51,8 @@ a {
 cagov-site-navigation .expanded-menu-section-header-link:hover {
   text-underline-position: under;
 }
-/* fixes bug with this is getting in the way */
+
+/* fixes bug with this is getting in the way, taking up 1px at top */
 #skip-to-content {
   margin-top: -1px;
 }
@@ -89,6 +63,7 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
   background: #fff;
   padding: 0.625rem;
 }
+
 /* this looks like it should be part of breadcrumb, not having it is a bug */
 @media only screen and (max-width: 992px) {
   .breadcrumb {
@@ -96,6 +71,12 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
   }
 }
 
+/* this is a minor bug in page feedback, should be applied there, then won't need important */
+@media only screen and (max-width: 1176px) {
+  cagov-page-feedback .feedback-form {
+	  border-radius: 0 !important;
+  }
+}
 
 /* beginnings of highlight box */
 .cagov-emphasized {
