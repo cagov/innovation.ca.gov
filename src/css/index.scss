@@ -80,8 +80,17 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
 
 /* beginnings of highlight box */
 .cagov-emphasized {
-  padding: 2rem;
-  font-size: 2rem;
-  font-weight: bold;
-  border: solid 1px var(--primary-lightest-color);
+  font-size: 1.5rem;
+}
+
+/* bug in page feedback, this shouldn't be an h2 */
+cagov-page-feedback h2 {
+  font-size: 1.15rem;
+  font-family: var(--site-font, "Public Sans", sans-serif);
+  font-weight: normal;
+}
+
+/* bug in site header */
+cagov-site-navigation .expanded-menu-section-header-arrow-svg {
+  fill: var(--primary-color,#064e66);
 }
