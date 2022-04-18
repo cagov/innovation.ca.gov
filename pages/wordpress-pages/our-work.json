@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2022-04-18T16:52:18",
+    "updated_date": "2022-04-18T21:19:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2022-04-18T09:52:18",
-    "modified_gmt": "2022-04-18T16:52:18",
+    "modified": "2022-04-18T14:19:56",
+    "modified_gmt": "2022-04-18T21:19:56",
     "slug": "our-work",
     "status": "publish",
     "type": "page",
@@ -80,6 +80,19 @@
         "height": 360,
         "mime_type": "image/jpeg",
         "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 365,
+        "type": "full",
+        "path": "2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "file": "vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
         "source_url_match": true,
         "featured": false
       }
