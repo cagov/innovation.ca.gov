@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T14:51:37",
-    "updated_date": "2022-04-15T21:24:51",
+    "updated_date": "2022-04-18T16:57:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-11-09T06:51:37",
     "date_gmt": "2021-11-09T14:51:37",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=116",
-    "modified": "2022-04-15T14:24:51",
-    "modified_gmt": "2022-04-15T21:24:51",
+    "modified": "2022-04-18T09:57:23",
+    "modified_gmt": "2022-04-18T16:57:23",
     "slug": "contact-us",
     "status": "publish",
     "type": "page",
@@ -31,12 +31,12 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "single-column",
     "meta": [],
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "single-column"
     },
     "og_meta": {
       "editor": {
