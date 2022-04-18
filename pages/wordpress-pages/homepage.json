@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-04-18T19:53:47",
+    "updated_date": "2022-04-18T21:48:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-04-18T12:53:47",
-    "modified_gmt": "2022-04-18T19:53:47",
+    "modified": "2022-04-18T14:48:56",
+    "modified_gmt": "2022-04-18T21:48:56",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -71,19 +71,6 @@
     "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
     "media": [
       {
-        "id": 233,
-        "type": "full",
-        "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-        "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-        "width": 526,
-        "height": 360,
-        "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 289,
         "type": "full",
         "path": "2022/04/connections.png",
@@ -93,6 +80,58 @@
         "height": 388,
         "mime_type": "image/png",
         "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "full",
+        "path": "2022/04/dif-how-might-we-1.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.jpg",
+        "file": "dif-how-might-we-1.jpg",
+        "width": 1104,
+        "height": 632,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "large",
+        "path": "2022/04/dif-how-might-we-1-1024x586.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-1024x586.jpg",
+        "file": "dif-how-might-we-1-1024x586.jpg",
+        "width": 1024,
+        "height": 586,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-1024x586.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "medium_large",
+        "path": "2022/04/dif-how-might-we-1-768x440.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-768x440.jpg",
+        "file": "dif-how-might-we-1-768x440.jpg",
+        "width": 768,
+        "height": 440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-768x440.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "medium",
+        "path": "2022/04/dif-how-might-we-1-576x330.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-576x330.jpg",
+        "file": "dif-how-might-we-1-576x330.jpg",
+        "width": 576,
+        "height": 330,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-576x330.jpg",
         "source_url_match": true,
         "featured": false
       },
