@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-13T18:27:24",
-    "updated_date": "2022-04-18T15:42:44",
+    "updated_date": "2022-04-18T17:08:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,26 +17,26 @@
     "date": "2022-04-13T11:27:24",
     "date_gmt": "2022-04-13T18:27:24",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=300",
-    "modified": "2022-04-18T08:42:44",
-    "modified_gmt": "2022-04-18T15:42:44",
+    "modified": "2022-04-18T10:08:52",
+    "modified_gmt": "2022-04-18T17:08:52",
     "slug": "digital-innovation-fund",
     "status": "publish",
     "type": "page",
     "link": "https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
     "title": "Digital Innovation Fund",
-    "excerpt": "<p>The Digital Innovation Fund (DIF) is a path to partnership between your department and ODI. Together, we will use human-centered design to identify problems and fund solutions that work for all Californians.</p>\n",
+    "excerpt": "<p>The Digital Innovation Fund (DIF) is a path to partnership between your department and the Office of Digital Innovation (ODI). Together, we will use human-centered design to identify problems and fund solutions that work for all Californians. What makes a good DIF candidate ODI looks for four qualities when reviewing DIF applications. You want to &#8230; <a title=\"Digital Innovation Fund\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/digital-innovation-fund/\" aria-label=\"More on Digital Innovation Fund\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "single-column",
+    "template": "",
     "meta": [],
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
