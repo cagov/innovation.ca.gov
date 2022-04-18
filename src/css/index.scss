@@ -94,3 +94,9 @@ cagov-page-feedback h2 {
 cagov-site-navigation .expanded-menu-section-header-arrow-svg {
   fill: var(--primary-color,#064e66);
 }
+
+/* possible bugs in feature card */
+.cagov-featured-image {
+  min-height: 0;
+  max-height: 500rem;
+}

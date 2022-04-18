@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* make buttons not bold */
-.wp-block-button__link {
+.wp-block-button__link, .wp-block-button__link:hover {
   font-weight: normal;
   padding-left: 1rem;
   padding-right: 1rem;
