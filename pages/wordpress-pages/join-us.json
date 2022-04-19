@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:23:31",
-    "updated_date": "2022-04-18T16:54:46",
+    "updated_date": "2022-04-19T20:55:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:23:31",
     "date_gmt": "2022-03-16T19:23:31",
     "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=238",
-    "modified": "2022-04-18T09:54:46",
-    "modified_gmt": "2022-04-18T16:54:46",
+    "modified": "2022-04-19T13:55:06",
+    "modified_gmt": "2022-04-19T20:55:06",
     "slug": "join-us",
     "status": "publish",
     "type": "page",
