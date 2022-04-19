@@ -95,8 +95,9 @@ cagov-site-navigation .expanded-menu-section-header-arrow-svg {
   fill: var(--primary-color,#064e66);
 }
 
-/* possible bugs in feature card */
+/* possible bugs in feature card which were making our wide rectangular image get cutoff */
 .cagov-featured-image {
   min-height: 0;
   max-height: 500rem;
+  height: auto;
 }

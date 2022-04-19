@@ -4,7 +4,7 @@ this class is applied to content on that page we want to be centered. Most conte
   max-width: var(--w-page-content,876px);
   margin: 0 auto;
 }
-@media only screen and (max-width: 876px) {
+@media only screen and (max-width: 1176px) {
   .cagov-single-column, .single-column {
     padding-left: 1rem;
     padding-right: 1rem;

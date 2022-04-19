@@ -1,11 +1,11 @@
 .cagov-horizontal-list {
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 .cagov-horizontal-list li {
-  margin: 0;
+  margin: 0 0 1rem 0;
 }
 
 .centered-logo-link {
@@ -19,15 +19,11 @@
 	max-height: 172px;
 	overflow: hidden;
 
-  a {
-    text-decoration: none;
-    display: flex;
-    flex-flow: column;
-    justify-content: space-around;
-    align-items: center;
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
 
-    span {
-      text-align: center;
-    }
+  span {
+    text-align: center;
   }
 }
