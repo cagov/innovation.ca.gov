@@ -13,3 +13,7 @@ this class is applied to content on that page we want to be centered. Most conte
 main .cagov-single-column h2:first-child {
   margin-top: calc(var(--s-4) + var(--ratio));
 }
+
+.single-column img {
+  max-width: 100%;
+}
