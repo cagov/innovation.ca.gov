@@ -8,7 +8,7 @@
     <meta content="Office of Innovation - State of California" name="author">
     <link href="https://www.google-analytics.com" rel="preconnect">
     <meta content="#000000" name="theme-color">
-    <title>{% if title %}{{ title }}{% else %}California Office of Digital Innovation{% endif %} | Office of Digital Innovation</title>
+    <title>{% if title %}{{ title }}{% else %}California Office of Digital Innovation{% endif %}{% if title != "Office of Digital Innovation" %} | Office of Digital Innovation{% endif %}</title>
 
     <meta name="description" content="{{ data.og_meta.page_description | striptags }}" />
 
