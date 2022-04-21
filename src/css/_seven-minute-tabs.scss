@@ -38,3 +38,23 @@ seven-minute-tabs .cagov-aligned-group>.wp-block-group__inner-container {
   }
 }
 
+/* our work content alignment */
+seven-minute-tabs {
+  h3 {
+    margin-top: 0;
+    line-height: calc(var(--font-size-6) + var(--ratio)); /* same as font-size */
+  }
+  .cagov-aligned-group {
+    margin-top: 4rem;
+    padding-bottom: 3rem; /* 4 is desired but we get 1rem frm the longer of the paragraph or img */
+    border-bottom: 1px solid #c7d6e4;
+  }
+  .cagov-aligned-group>.wp-block-group__inner-container {
+    margin-top: 0;
+    border-bottom: none;
+    align-items: flex-start;
+    figure { /* the paragraph has this padding so pic needs it too */
+      margin-bottom: 1rem;
+    }
+  }
+}
