@@ -6,15 +6,13 @@
       <main id="body-content">
         <h1 class="page-title">{{ title | safe }}</h1>
 
-        <div class="card-deck card-set row">
+        <div class="cagov-article-list row">
           {%- for post in collections.mySort -%}
-            <div class="card-body">
-              <h5 class="card-title ">
-                <a href="{{ post.url }}">{{ post.data.title }}</a>
-              </h5>
-              <p class="card-text text-muted">{{ post.data.publishdate | dateformat }}</p>
-              <p class="card-text">{{ post.data.meta | safe }}</p>
-            </div>
+            <h3 class="cagov-mt-3">
+              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            </h3>
+            <p class="text-mute">{{ post.data.publishdate | dateformat }}</p>
+            {{ post.data.meta | safe }}
           {%- endfor -%}
         </div>
       </main>
