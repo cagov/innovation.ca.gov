@@ -11,7 +11,7 @@
 .centered-logo-link {
   display: flex;
 	background-color: #ECF1F6;
-	font-size: .75rem;
+	font-size: .875rem;
 	border-radius: .75rem;
 	padding: .75rem;
 	max-width: 216px;
@@ -19,7 +19,7 @@
 	overflow: hidden;
 
   flex-flow: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 
   span {
