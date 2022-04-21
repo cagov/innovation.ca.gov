@@ -12,7 +12,6 @@
   display: flex;
 	background-color: #ECF1F6;
 	font-size: .75rem;
-	color: black;
 	border-radius: .75rem;
 	padding: .75rem;
 	max-width: 216px;
@@ -26,4 +25,18 @@
   span {
     text-align: center;
   }
+}
+
+.cagov-horizontal-list--left {
+  justify-content: flex-start;
+}
+.centered-logo-link--medium {
+  background: none;
+  max-width: 240px;
+  min-width: 240px;
+  max-height: 222px;
+  min-height: 222px;
+  border: 1px solid #BCBBC1;
+  padding: 1rem;
+  margin: 0 1.5rem 1.5rem 0;
 }
