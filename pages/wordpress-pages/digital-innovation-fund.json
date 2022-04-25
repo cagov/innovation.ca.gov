@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-13T18:27:24",
-    "updated_date": "2022-04-25T02:50:23",
+    "updated_date": "2022-04-25T18:15:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-04-13T11:27:24",
     "date_gmt": "2022-04-13T18:27:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=300",
-    "modified": "2022-04-24T19:50:23",
-    "modified_gmt": "2022-04-25T02:50:23",
+    "modified": "2022-04-25T11:15:38",
+    "modified_gmt": "2022-04-25T18:15:38",
     "slug": "digital-innovation-fund",
     "status": "publish",
     "type": "page",
