@@ -55,22 +55,22 @@
 
 <p>Think your department has a service that could be improved? Tell us about it and we’ll see if it&#8217;s a good fit for DIF.</p>
 
-<form class="dif-info-form">
+<form class="dif-info-form" method="post" action="https://rdqvsuv67a.execute-api.us-west-1.amazonaws.com/info">
   <div class="required form-field">
     <label class="required" for="name">Name</label>
-    <input type="text" id="name" name="name" placeholder="" required="">
+    <input type="text" id="name" name="name" placeholder="" > <!--required=""-->
   </div>
   <div class="required form-field">
     <label for="email">Email</label>
-    <input type="email" id="email" name="email" placeholder="" required="">
+    <input type="email" id="email" name="email" placeholder="" > <!--required=""-->
   </div>
   <div class="required form-field">
     <label class="required" for="name">State entity</label>
-    <input type="text" id="state-entity" name="state-entity" placeholder="" required="">
+    <input type="text" id="state-entity" name="state-entity" placeholder="" > <!--required=""-->
   </div>  
   <div class="required form-field">
     <label for="comments">Tell us about the problem you&#8217;re trying to solve</label>
-    <textarea id="comments" name="comments" required=""></textarea>
+    <textarea id="comments" name="comments"></textarea> <!--required=""-->
   </div>
   <div class="wp-block-button">
     <button class="wp-block-button__link">
@@ -78,3 +78,29 @@
     </button>
   </div>
 </form>
+<script type="text/javascript">
+let difForm = document.querySelector('.dif-info-form');
+let successMessage = 'Thank you for your interest';
+difForm.addEventListener('submit', async function(e) {
+  e.preventDefault();
+
+  let formData = new FormData(difForm);
+  let formBody = '';
+  for(var pair of formData.entries()) {
+    if(formBody !== '') {
+      formBody += '&';
+    }
+   formBody += `${pair[0]}=${encodeURIComponent(pair[1])}`;
+  }
+
+  let infoResponse = await fetch(difForm.action, {
+    method: 'post',
+    body: formBody,
+  })
+
+  difForm.innerHTML = `${successMessage}`;
+
+  console.log(await infoResponse.json())
+
+})
+</script>
