@@ -1,0 +1,29 @@
+.cagov-aligned-group > .wp-block-group__inner-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(min(576px ,100%),1fr));
+  grid-gap: 1.5rem;
+  margin-top: 5rem;
+  align-items: center;
+
+  figure {
+    display: flex;
+    margin-bottom: 0;
+
+    img {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.cagov-align-right, .cagov-align-left {
+  img{
+    border: none;
+    max-width: none;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .cagov-align-left img, .cagov-align-right img {
+    max-width: 100%;
+    height: auto;
+  }
+}

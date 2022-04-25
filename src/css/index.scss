@@ -1,0 +1,111 @@
+/* GLOBAL */
+// Site Colors
+@import 'theme-tokens'; /* theme colors */
+
+/* noto serif font used for headers */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+/* sitewide styles */
+@import '../../node_modules/@cagov/ds-base-css/src/core';
+
+/* COMPONENTS/BLOCKS */
+@import '../../node_modules/@cagov/ds-site-header/src/index.scss';
+@import '../../node_modules/@cagov/ds-link-grid/src/index.scss'; /* copied from blocks */
+@import '../../node_modules/@cagov/ds-feature-card/src/index.scss'; /* copied from block */
+@import '../../node_modules/@cagov/ds-skip-to-content/src/index.scss';
+@import '../../node_modules/@cagov/ds-table/src/index.scss';
+@import 'step-list-patch';
+
+/* NAVIGATION ELEMENTS */
+@import '../../node_modules/@cagov/ds-statewide-header/src/index.scss';
+@import '../../node_modules/@cagov/ds-site-footer/src/index.scss';
+@import '../../node_modules/@cagov/ds-statewide-footer/src/index.scss';
+@import '../../node_modules/@cagov/ds-site-navigation/src/index.scss';
+
+@import './blog';
+
+@import './feature-card-variation';
+
+@import './horizontal-list';
+
+@import './alternating-grid';
+
+@import './aligned-dual-group';
+
+
+/* handle our work page layout requirements */
+@import './layouts-extra';
+
+/* temp, this will be published as design system component soon (it was removed from the base-css-beta version */
+@import './temp-buttons';
+
+/* seven minute tab styles used on our work page */
+@import './seven-minute-tabs';
+
+@import 'theme-overrides'; /* theme colors */
+
+@import 'dif-form'; /* theme colors */
+
+/* need this globally, not sure why it was missing */
+a {
+  text-underline-position: under;
+}
+cagov-site-navigation .expanded-menu-section-header-link:hover {
+  text-underline-position: under;
+}
+
+/* fixes bug with this is getting in the way, taking up 1px at top */
+#skip-to-content {
+  margin-top: -1px;
+}
+
+/* site specific breadcrumb overrides */
+.breadcrumb {
+  font-size: calc(.875rem + var(--ratio));
+  background: #fff;
+  padding: 0.625rem;
+}
+
+/* this looks like it should be part of breadcrumb, not having it is a bug */
+@media only screen and (max-width: 992px) {
+  .breadcrumb {
+    display: none;
+  }
+}
+
+/* this is a minor bug in page feedback, should be applied there, then won't need important */
+@media only screen and (max-width: 1176px) {
+  cagov-page-feedback .feedback-form {
+	  border-radius: 0 !important;
+  }
+}
+
+/* beginnings of highlight box */
+.cagov-emphasized {
+  font-size: 1.5rem;
+}
+
+/* bug in page feedback, this shouldn't be an h2 */
+cagov-page-feedback h2 {
+  font-size: 1.15rem;
+  font-family: var(--site-font, "Public Sans", sans-serif);
+  font-weight: normal;
+}
+
+/* bug in site header */
+cagov-site-navigation .expanded-menu-section-header-arrow-svg {
+  fill: var(--primary-color,#064e66);
+}
+
+/* possible bugs in feature card which were making our wide rectangular image get cutoff */
+.cagov-featured-image {
+  min-height: 0;
+  max-height: 500rem;
+  height: auto;
+}
+
+
+/* missing utility class */
+.cagov-mt-3 {
+  margin-top: 3rem;
+}

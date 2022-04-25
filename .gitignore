@@ -1,5 +1,6 @@
 # 11ty generated folder
 /_site/*
+/_site_dist/*
 # unignore img and css
 !/_site/css
 !/_site/img

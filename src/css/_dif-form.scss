@@ -1,0 +1,31 @@
+.dif-info-form {
+  background-color: #ecf1f6;
+  padding: 1rem;
+  border-radius: .5rem;
+
+  .required label:after {
+    color: var(--secondary-color, #704315);
+    content: " *";
+    display: inline;
+  }
+
+  .form-field {
+    display: flex;
+    flex-flow: column;
+    padding-bottom: 1rem;
+
+    label {
+      margin: 1rem 0 .5rem 0;
+    }
+    label:first-child {
+      margin-top: 0;
+    }
+  }
+  .wp-block-button {
+    margin-top: 1rem;
+  }
+
+  input, textarea {
+    padding: .3rem 1rem;
+  }
+}
