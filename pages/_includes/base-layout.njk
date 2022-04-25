@@ -11,6 +11,7 @@
     <title>{% if title %}{{ title }}{% else %}California Office of Digital Innovation{% endif %}{% if title != "Office of Digital Innovation" %} | Office of Digital Innovation{% endif %}</title>
 
     <meta name="description" content="{{ data.og_meta.page_description | striptags }}" />
+    <link rel="icon" href="/img/favicon.png">
 
     <!-- OG tags -->
     <link rel="canonical" href="{{ data.og_meta.canonical_url | changeDomain(domain) }}" />
