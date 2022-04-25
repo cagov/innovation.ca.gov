@@ -131,9 +131,6 @@ module.exports = function (eleventyConfig) {
         }
       }
 
-      // this is a one off replacement for an image controlled by the content team, need to do this with a sitewide process
-      item.template.frontMatter.content = item.template.frontMatter.content.replace('src="/img/wordpress/2022/04/Group-97-1024x649.png"','src="/img/Group-97-1024x649.webp"');
-      
     });
 
     return output;
