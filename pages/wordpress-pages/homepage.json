@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-04-25T23:01:53",
+    "updated_date": "2022-04-25T23:39:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-04-25T16:01:53",
-    "modified_gmt": "2022-04-25T23:01:53",
+    "modified": "2022-04-25T16:39:09",
+    "modified_gmt": "2022-04-25T23:39:09",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/",
     "title": "Office of Digital Innovation",
-    "excerpt": "<p>Changing state government through the Digital Innovation Fund This fund is a key part of how we’re improving services for Californians. When paired with the innovative approach of ODI&#8217;s cross-functional teams, we make a real impact on people’s lives. Who we work with California Governor&#8217;s Office of Emergency Services California Department of Technology Department of &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
+    "excerpt": "<p>Changing state government through the Digital Innovation Fund This fund is a key part of how we’re improving services for Californians. When paired with the innovative approach of ODI&#8217;s cross-functional teams, we make a real impact on people’s lives. Who we work with California Governor’s Office of Emergency Services California Department of Technology Department of &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
     "author": "JP Petrucione",
     "featured_media": 0,
     "parent": 0,
@@ -110,15 +110,15 @@
         "featured": false
       },
       {
-        "id": 286,
+        "id": 430,
         "type": "large",
-        "path": "2022/04/Group-97-1024x649.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
-        "file": "Group-97-1024x649.png",
+        "path": "2022/04/odi-hero-1024x649.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "file": "odi-hero-1024x649.webp",
         "width": 1024,
         "height": 649,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
         "source_url_match": true,
         "featured": false
       }
