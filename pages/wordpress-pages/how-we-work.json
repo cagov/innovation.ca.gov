@@ -4,11 +4,11 @@
     "updated_date": "2022-04-19T20:49:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,15 +16,15 @@
     "id": 236,
     "date": "2022-03-16T12:22:34",
     "date_gmt": "2022-03-16T19:22:34",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=236",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=236",
     "modified": "2022-04-19T13:49:35",
     "modified_gmt": "2022-04-19T20:49:35",
     "slug": "how-we-work",
     "status": "publish",
     "type": "page",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
     "title": "How we work",
-    "excerpt": "<p>The Office of Digital Innovation (ODI) uses focused project teams to solve big problems. We use best practices in human-centered design and technology to improve services for everyone. Start with problems, not solutions We are changing the way government traditionally works. State departments tackle complex problems that don’t have a one-size-fits-all solution. While technology can &#8230; <a title=\"How we work\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/\" aria-label=\"More on How we work\">Read more</a></p>\n",
+    "excerpt": "<p>The Office of Digital Innovation (ODI) uses focused project teams to solve big problems. We use best practices in human-centered design and technology to improve services for everyone. Start with problems, not solutions We are changing the way government traditionally works. State departments tackle complex problems that don’t have a one-size-fits-all solution. While technology can &#8230; <a title=\"How we work\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/\" aria-label=\"More on How we work\">Read more</a></p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
     "parent": 318,
@@ -44,12 +44,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
       },
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
-      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
       "page_title": "How we work",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
@@ -58,7 +58,7 @@
       "page_social_image_alt": "",
       "meta_title": "How we work",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
       "open_graph_title": "How we work",
       "open_graph_description": "Office of Digital Innovation",
       "twitter_title": "How we work",
@@ -68,6 +68,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/"
   }
 }

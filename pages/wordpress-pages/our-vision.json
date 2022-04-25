@@ -4,11 +4,11 @@
     "updated_date": "2022-04-19T15:41:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,15 +16,15 @@
     "id": 240,
     "date": "2022-03-16T12:24:21",
     "date_gmt": "2022-03-16T19:24:21",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=240",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=240",
     "modified": "2022-04-19T08:41:58",
     "modified_gmt": "2022-04-19T15:41:58",
     "slug": "our-vision",
     "status": "publish",
     "type": "page",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
     "title": "Our vision",
-    "excerpt": "<p>We see a California where the state meets people where they are and everyone gets the services they need. Because services reflect the voices of Californians, they’re easy-to-use and accessible. Technology fosters open dialogue that powers continuous cycles of improvement. Our mission Our mission is to deliver better services to Californians through human-centered design and &#8230; <a title=\"Our vision\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/\" aria-label=\"More on Our vision\">Read more</a></p>\n",
+    "excerpt": "<p>We see a California where the state meets people where they are and everyone gets the services they need. Because services reflect the voices of Californians, they’re easy-to-use and accessible. Technology fosters open dialogue that powers continuous cycles of improvement. Our mission Our mission is to deliver better services to Californians through human-centered design and &#8230; <a title=\"Our vision\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/\" aria-label=\"More on Our vision\">Read more</a></p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
     "parent": 318,
@@ -44,12 +44,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
       },
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
-      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
       "page_title": "Our vision",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
@@ -58,7 +58,7 @@
       "page_social_image_alt": "",
       "meta_title": "Our vision",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
       "open_graph_title": "Our vision",
       "open_graph_description": "Office of Digital Innovation",
       "twitter_title": "Our vision",
@@ -68,6 +68,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/"
   }
 }

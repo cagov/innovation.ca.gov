@@ -4,11 +4,11 @@
     "updated_date": "2022-04-14T23:51:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 318,
     "date": "2022-04-14T16:51:48",
     "date_gmt": "2022-04-14T23:51:48",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=318",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=318",
     "modified": "2022-04-14T16:51:48",
     "modified_gmt": "2022-04-14T23:51:48",
     "slug": "who-we-are",
     "status": "publish",
     "type": "page",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/",
     "title": "Who we are",
     "excerpt": "<p>Top level placeholder page, not actually linked to</p>\n",
     "author": "Aaron Hans",
@@ -44,12 +44,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
       },
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
-      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/",
       "page_title": "Who we are",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
@@ -58,7 +58,7 @@
       "page_social_image_alt": "",
       "meta_title": "Who we are",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/",
       "open_graph_title": "Who we are",
       "open_graph_description": "Office of Digital Innovation",
       "twitter_title": "Who we are",
@@ -68,6 +68,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/who-we-are/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/"
   }
 }
