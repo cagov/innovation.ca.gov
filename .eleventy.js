@@ -85,7 +85,6 @@ module.exports = function (eleventyConfig) {
         }
         if(item.url.indexOf('our-work') > -1) {
           item.data.layout = 'single-column-conditional';
-          console.log(item)
         }
         item.data.title = jsonData.title;
         item.data.publishdate = jsonData.date.split("T")[0]; //new Date(jsonData.modified_gmt)
