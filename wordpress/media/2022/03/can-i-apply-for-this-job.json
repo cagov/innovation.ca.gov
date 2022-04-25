@@ -4,11 +4,11 @@
     "updated_date": "2022-03-18T22:05:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 247,
     "date": "2022-03-18T14:52:47",
     "date_gmt": "2022-03-18T21:52:47",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
     "modified": "2022-03-18T15:05:59",
     "modified_gmt": "2022-03-18T22:05:59",
     "slug": "can-i-apply-for-this-job",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/can-i-apply-for-this-job/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/can-i-apply-for-this-job/",
     "title": "can-i-apply-for-this-job",
     "author": "Michael Sullivan",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png'><img width=\"482\" height=\"295\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png\" class=\"attachment-medium size-medium\" alt=\"The Can I apply for this job section of the job application. The option &quot;I have eligibility&quot; is circled.\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png'><img width=\"482\" height=\"295\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png\" class=\"attachment-medium size-medium\" alt=\"The Can I apply for this job section of the job application. The option &quot;I have eligibility&quot; is circled.\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
     "alt_text": "The Can I apply for this job section of the job application. The option \"I have eligibility\" is circled.",
     "media_type": "image",
@@ -47,14 +47,14 @@
           "width": 150,
           "height": 150,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png"
         },
         "full": {
           "file": "can-i-apply-for-this-job.png",
           "width": 482,
           "height": 295,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png"
         }
       },
       "image_meta": {
@@ -73,28 +73,28 @@
       }
     },
     "post": null,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
     "sizes": [
       {
         "type": "full",
         "path": "2022/03/can-i-apply-for-this-job.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png",
         "file": "can-i-apply-for-this-job.png",
         "width": 482,
         "height": 295,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job.png"
       },
       {
         "type": "thumbnail",
         "path": "2022/03/can-i-apply-for-this-job-150x150.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png",
         "file": "can-i-apply-for-this-job-150x150.png",
         "width": 150,
         "height": 150,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/can-i-apply-for-this-job-150x150.png"
       }
     ],
     "path": "2022/03/can-i-apply-for-this-job.png"

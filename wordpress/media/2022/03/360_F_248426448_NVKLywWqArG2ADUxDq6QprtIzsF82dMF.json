@@ -4,11 +4,11 @@
     "updated_date": "2022-03-16T19:18:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 233,
     "date": "2022-03-16T12:17:25",
     "date_gmt": "2022-03-16T19:17:25",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
     "modified": "2022-03-16T12:18:22",
     "modified_gmt": "2022-03-16T19:18:22",
     "slug": "360_f_248426448_nvklywwqarg2aduxdq6qprtizsf82dmf",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/homepage/360_f_248426448_nvklywwqarg2aduxdq6qprtizsf82dmf/#main",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/homepage/360_f_248426448_nvklywwqarg2aduxdq6qprtizsf82dmf/#main",
     "title": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF",
     "author": "Aaron Hans",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg'><img width=\"526\" height=\"360\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg\" class=\"attachment-medium size-medium\" alt=\"place holder\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg'><img width=\"526\" height=\"360\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg\" class=\"attachment-medium size-medium\" alt=\"place holder\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
     "alt_text": "place holder",
     "media_type": "image",
@@ -47,14 +47,14 @@
           "width": 150,
           "height": 150,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg"
         },
         "full": {
           "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
           "width": 526,
           "height": 360,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg"
         }
       },
       "image_meta": {
@@ -73,28 +73,28 @@
       }
     },
     "post": 113,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
     "sizes": [
       {
         "type": "full",
         "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
         "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg",
         "width": 526,
         "height": 360,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg"
       },
       {
         "type": "thumbnail",
         "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg",
         "file": "360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg",
         "width": 150,
         "height": 150,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF-150x150.jpeg"
       }
     ],
     "path": "2022/03/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpeg"

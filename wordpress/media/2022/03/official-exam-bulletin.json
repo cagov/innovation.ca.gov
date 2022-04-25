@@ -4,11 +4,11 @@
     "updated_date": "2022-03-18T22:04:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 249,
     "date": "2022-03-18T14:52:48",
     "date_gmt": "2022-03-18T21:52:48",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
     "modified": "2022-03-18T15:04:55",
     "modified_gmt": "2022-03-18T22:04:55",
     "slug": "official-exam-bulletin",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/official-exam-bulletin/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/official-exam-bulletin/",
     "title": "official-exam-bulletin",
     "author": "Michael Sullivan",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png'><img width=\"538\" height=\"105\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png\" class=\"attachment-medium size-medium\" alt=\"The Official Exam Bulletin section. It reads, &quot;Click here to view an official copy of the examination bulletin.&quot; The words &quot;Click here&quot; is a hyperlink.\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png'><img width=\"538\" height=\"105\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png\" class=\"attachment-medium size-medium\" alt=\"The Official Exam Bulletin section. It reads, &quot;Click here to view an official copy of the examination bulletin.&quot; The words &quot;Click here&quot; is a hyperlink.\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
     "alt_text": "The Official Exam Bulletin section. It reads, \"Click here to view an official copy of the examination bulletin.\" The words \"Click here\" is a hyperlink.",
     "media_type": "image",
@@ -47,14 +47,14 @@
           "width": 150,
           "height": 105,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png"
         },
         "full": {
           "file": "official-exam-bulletin.png",
           "width": 538,
           "height": 105,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png"
         }
       },
       "image_meta": {
@@ -73,28 +73,28 @@
       }
     },
     "post": null,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
     "sizes": [
       {
         "type": "full",
         "path": "2022/03/official-exam-bulletin.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
         "file": "official-exam-bulletin.png",
         "width": 538,
         "height": 105,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png"
       },
       {
         "type": "thumbnail",
         "path": "2022/03/official-exam-bulletin-150x105.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png",
         "file": "official-exam-bulletin-150x105.png",
         "width": 150,
         "height": 105,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin-150x105.png"
       }
     ],
     "path": "2022/03/official-exam-bulletin.png"

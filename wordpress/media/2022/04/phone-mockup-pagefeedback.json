@@ -4,11 +4,11 @@
     "updated_date": "2022-04-18T22:52:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 373,
     "date": "2022-04-18T15:52:46",
     "date_gmt": "2022-04-18T22:52:46",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
     "modified": "2022-04-18T15:52:46",
     "modified_gmt": "2022-04-18T22:52:46",
     "slug": "woman-using-tablet-mockup-for-your-own-content-at-home-blank-em",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/our-work/woman-using-tablet-mockup-for-your-own-content-at-home-blank-em/#main",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/woman-using-tablet-mockup-for-your-own-content-at-home-blank-em/#main",
     "title": "Woman using tablet Mockup for your own content  at home blank em",
     "author": "Kimberly Losenara",
     "comment_status": "closed",
@@ -30,7 +30,7 @@
     "template": "",
     "meta": [],
     "categories": [],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg'><img width=\"576\" height=\"384\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg 1024w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg 1076w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg'><img width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg 1076w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "<p>Woman using tablet Mockup for your own content  at home blank empty screen</p>\n",
     "alt_text": "",
     "media_type": "image",
@@ -45,35 +45,35 @@
           "width": 576,
           "height": 384,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg"
         },
         "large": {
           "file": "phone-mockup-pagefeedback-1024x682.jpg",
           "width": 1024,
           "height": 682,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg"
         },
         "thumbnail": {
           "file": "phone-mockup-pagefeedback-150x150.jpg",
           "width": 150,
           "height": 150,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg"
         },
         "medium_large": {
           "file": "phone-mockup-pagefeedback-768x512.jpg",
           "width": 768,
           "height": 512,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg"
         },
         "full": {
           "file": "phone-mockup-pagefeedback.jpg",
           "width": 1076,
           "height": 717,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg"
         }
       },
       "image_meta": {
@@ -143,58 +143,58 @@
       }
     },
     "post": 242,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
     "sizes": [
       {
         "type": "full",
         "path": "2022/04/phone-mockup-pagefeedback.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
         "file": "phone-mockup-pagefeedback.jpg",
         "width": 1076,
         "height": 717,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg"
       },
       {
         "type": "large",
         "path": "2022/04/phone-mockup-pagefeedback-1024x682.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
         "file": "phone-mockup-pagefeedback-1024x682.jpg",
         "width": 1024,
         "height": 682,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg"
       },
       {
         "type": "medium_large",
         "path": "2022/04/phone-mockup-pagefeedback-768x512.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
         "file": "phone-mockup-pagefeedback-768x512.jpg",
         "width": 768,
         "height": 512,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg"
       },
       {
         "type": "medium",
         "path": "2022/04/phone-mockup-pagefeedback-576x384.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
         "file": "phone-mockup-pagefeedback-576x384.jpg",
         "width": 576,
         "height": 384,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg"
       },
       {
         "type": "thumbnail",
         "path": "2022/04/phone-mockup-pagefeedback-150x150.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg",
         "file": "phone-mockup-pagefeedback-150x150.jpg",
         "width": 150,
         "height": 150,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-150x150.jpg"
       }
     ],
     "path": "2022/04/phone-mockup-pagefeedback.jpg"

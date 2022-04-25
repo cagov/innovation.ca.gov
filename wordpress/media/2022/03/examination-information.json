@@ -4,11 +4,11 @@
     "updated_date": "2022-03-18T22:05:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 250,
     "date": "2022-03-18T14:52:49",
     "date_gmt": "2022-03-18T21:52:49",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
     "modified": "2022-03-18T15:05:40",
     "modified_gmt": "2022-03-18T22:05:40",
     "slug": "examination-information",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/examination-information/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/examination-information/",
     "title": "examination-information",
     "author": "Michael Sullivan",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png'><img width=\"576\" height=\"70\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png\" class=\"attachment-medium size-medium\" alt=\"The examination information section of a job posting. It reads, &quot;To obtain list eligibility for the Information Technology Specialist I position(s), you must first take the online Information Technology Specialist I exam.&quot; The words &quot;Information Technology Specialist I exam&quot; are a hyperlink.\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png 1024w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png 1103w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png'><img width=\"576\" height=\"70\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png\" class=\"attachment-medium size-medium\" alt=\"The examination information section of a job posting. It reads, &quot;To obtain list eligibility for the Information Technology Specialist I position(s), you must first take the online Information Technology Specialist I exam.&quot; The words &quot;Information Technology Specialist I exam&quot; are a hyperlink.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png 1103w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
     "alt_text": "The examination information section of a job posting. It reads, \"To obtain list eligibility for the Information Technology Specialist I position(s), you must first take the online Information Technology Specialist I exam.\" The words \"Information Technology Specialist I exam\" are a hyperlink.",
     "media_type": "image",
@@ -47,35 +47,35 @@
           "width": 576,
           "height": 70,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png"
         },
         "large": {
           "file": "examination-information-1024x125.png",
           "width": 1024,
           "height": 125,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png"
         },
         "thumbnail": {
           "file": "examination-information-150x135.png",
           "width": 150,
           "height": 135,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png"
         },
         "medium_large": {
           "file": "examination-information-768x94.png",
           "width": 768,
           "height": 94,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png"
         },
         "full": {
           "file": "examination-information.png",
           "width": 1103,
           "height": 135,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png"
         }
       },
       "image_meta": {
@@ -94,58 +94,58 @@
       }
     },
     "post": null,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
     "sizes": [
       {
         "type": "full",
         "path": "2022/03/examination-information.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
         "file": "examination-information.png",
         "width": 1103,
         "height": 135,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png"
       },
       {
         "type": "large",
         "path": "2022/03/examination-information-1024x125.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png",
         "file": "examination-information-1024x125.png",
         "width": 1024,
         "height": 125,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png"
       },
       {
         "type": "medium_large",
         "path": "2022/03/examination-information-768x94.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png",
         "file": "examination-information-768x94.png",
         "width": 768,
         "height": 94,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png"
       },
       {
         "type": "medium",
         "path": "2022/03/examination-information-576x70.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png",
         "file": "examination-information-576x70.png",
         "width": 576,
         "height": 70,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png"
       },
       {
         "type": "thumbnail",
         "path": "2022/03/examination-information-150x135.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png",
         "file": "examination-information-150x135.png",
         "width": 150,
         "height": 135,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-150x135.png"
       }
     ],
     "path": "2022/03/examination-information.png"

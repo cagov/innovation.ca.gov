@@ -4,11 +4,11 @@
     "updated_date": "2022-04-12T21:02:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 286,
     "date": "2022-04-12T14:02:12",
     "date_gmt": "2022-04-12T21:02:12",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
     "modified": "2022-04-12T14:02:47",
     "modified_gmt": "2022-04-12T21:02:47",
     "slug": "group-97",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/homepage/group-97/#main",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/homepage/group-97/#main",
     "title": "ODI projects in action",
     "author": "Aaron Hans",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png'><img width=\"576\" height=\"365\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png\" class=\"attachment-medium size-medium\" alt=\"Shape of state, user visiting covid19.ca.gov on phone, vaccine delivery worker\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png 1024w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png 1536w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png 1552w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png'><img width=\"576\" height=\"365\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png\" class=\"attachment-medium size-medium\" alt=\"Shape of state, user visiting covid19.ca.gov on phone, vaccine delivery worker\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png 1552w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
     "alt_text": "Shape of state, user visiting covid19.ca.gov on phone, vaccine delivery worker",
     "media_type": "image",
@@ -47,42 +47,42 @@
           "width": 576,
           "height": 365,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png"
         },
         "large": {
           "file": "Group-97-1024x649.png",
           "width": 1024,
           "height": 649,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png"
         },
         "thumbnail": {
           "file": "Group-97-150x150.png",
           "width": 150,
           "height": 150,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png"
         },
         "medium_large": {
           "file": "Group-97-768x487.png",
           "width": 768,
           "height": 487,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png"
         },
         "1536x1536": {
           "file": "Group-97-1536x974.png",
           "width": 1536,
           "height": 974,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png"
         },
         "full": {
           "file": "Group-97.png",
           "width": 1552,
           "height": 984,
           "mime_type": "image/png",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png"
         }
       },
       "image_meta": {
@@ -101,68 +101,68 @@
       }
     },
     "post": 113,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
     "sizes": [
       {
         "type": "full",
         "path": "2022/04/Group-97.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png",
         "file": "Group-97.png",
         "width": 1552,
         "height": 984,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97.png"
       },
       {
         "type": "1536x1536",
         "path": "2022/04/Group-97-1536x974.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png",
         "file": "Group-97-1536x974.png",
         "width": 1536,
         "height": 974,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1536x974.png"
       },
       {
         "type": "large",
         "path": "2022/04/Group-97-1024x649.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
         "file": "Group-97-1024x649.png",
         "width": 1024,
         "height": 649,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png"
       },
       {
         "type": "medium_large",
         "path": "2022/04/Group-97-768x487.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png",
         "file": "Group-97-768x487.png",
         "width": 768,
         "height": 487,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-768x487.png"
       },
       {
         "type": "medium",
         "path": "2022/04/Group-97-576x365.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png",
         "file": "Group-97-576x365.png",
         "width": 576,
         "height": 365,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-576x365.png"
       },
       {
         "type": "thumbnail",
         "path": "2022/04/Group-97-150x150.png",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png",
         "file": "Group-97-150x150.png",
         "width": 150,
         "height": 150,
         "mime_type": "image/png",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-150x150.png"
       }
     ],
     "path": "2022/04/Group-97.png"

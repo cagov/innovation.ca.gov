@@ -4,11 +4,11 @@
     "updated_date": "2022-03-16T19:15:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 232,
     "date": "2022-03-16T12:14:57",
     "date_gmt": "2022-03-16T19:14:57",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
     "modified": "2022-03-16T12:15:08",
     "modified_gmt": "2022-03-16T19:15:08",
     "slug": "placeholder-rgb-color-icon",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/homepage/placeholder-rgb-color-icon/#main",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/homepage/placeholder-rgb-color-icon/#main",
     "title": "Placeholder RGB color icon",
     "author": "Aaron Hans",
     "comment_status": "closed",
@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg'><img width=\"533\" height=\"576\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg\" class=\"attachment-medium size-medium\" alt=\"placeholder\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg 533w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg 948w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg 768w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg 1000w\" sizes=\"(max-width: 533px) 100vw, 533px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg'><img width=\"533\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg\" class=\"attachment-medium size-medium\" alt=\"placeholder\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg 533w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg 948w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg 1000w\" sizes=\"(max-width: 533px) 100vw, 533px\" /></a></p>\n",
     "caption": "<p>Placeholder RGB color icon. Image gallery. Photo thumbnail. Available album. Digital media. Multimedia file. Visual content. Photo snapshot. Artwork on canvas. Isolated vector illustration</p>\n",
     "alt_text": "placeholder",
     "media_type": "image",
@@ -47,35 +47,35 @@
           "width": 533,
           "height": 576,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg"
         },
         "large": {
           "file": "32173552-948x1024.jpg",
           "width": 948,
           "height": 1024,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg"
         },
         "thumbnail": {
           "file": "32173552-150x150.jpg",
           "width": 150,
           "height": 150,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg"
         },
         "medium_large": {
           "file": "32173552-768x829.jpg",
           "width": 768,
           "height": 829,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg"
         },
         "full": {
           "file": "32173552.jpg",
           "width": 1000,
           "height": 1080,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg"
         }
       },
       "image_meta": {
@@ -145,58 +145,58 @@
       }
     },
     "post": 113,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
     "sizes": [
       {
         "type": "full",
         "path": "2022/03/32173552.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg",
         "file": "32173552.jpg",
         "width": 1000,
         "height": 1080,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552.jpg"
       },
       {
         "type": "large",
         "path": "2022/03/32173552-948x1024.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg",
         "file": "32173552-948x1024.jpg",
         "width": 948,
         "height": 1024,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-948x1024.jpg"
       },
       {
         "type": "medium_large",
         "path": "2022/03/32173552-768x829.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg",
         "file": "32173552-768x829.jpg",
         "width": 768,
         "height": 829,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-768x829.jpg"
       },
       {
         "type": "medium",
         "path": "2022/03/32173552-533x576.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg",
         "file": "32173552-533x576.jpg",
         "width": 533,
         "height": 576,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-533x576.jpg"
       },
       {
         "type": "thumbnail",
         "path": "2022/03/32173552-150x150.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg",
         "file": "32173552-150x150.jpg",
         "width": 150,
         "height": 150,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/32173552-150x150.jpg"
       }
     ],
     "path": "2022/03/32173552.jpg"

@@ -4,11 +4,11 @@
     "updated_date": "2022-04-18T22:51:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,13 +16,13 @@
     "id": 372,
     "date": "2022-04-18T15:51:38",
     "date_gmt": "2022-04-18T22:51:38",
-    "guid": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
     "modified": "2022-04-18T15:51:38",
     "modified_gmt": "2022-04-18T22:51:38",
     "slug": "man-using-mobile-phone-at-street-night",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://test-digital-ca-gov.pantheonsite.io/our-work/man-using-mobile-phone-at-street-night/#main",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/man-using-mobile-phone-at-street-night/#main",
     "title": "Man using mobile phone at street night.",
     "author": "Kimberly Losenara",
     "comment_status": "closed",
@@ -30,7 +30,7 @@
     "template": "",
     "meta": [],
     "categories": [],
-    "description": "<p class=\"attachment\"><a href='https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg'><img width=\"576\" height=\"384\" src=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg 576w, https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg 676w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg'><img width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg 676w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "<p>Man using mobile phone at street night.</p>\n",
     "alt_text": "",
     "media_type": "image",
@@ -45,21 +45,21 @@
           "width": 576,
           "height": 384,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg"
         },
         "thumbnail": {
           "file": "phone-mockup-covid19-150x150.jpg",
           "width": 150,
           "height": 150,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg"
         },
         "full": {
           "file": "phone-mockup-covid19.jpg",
           "width": 676,
           "height": 451,
           "mime_type": "image/jpeg",
-          "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg"
         }
       },
       "image_meta": {
@@ -128,38 +128,38 @@
       }
     },
     "post": 242,
-    "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
-    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
     "sizes": [
       {
         "type": "full",
         "path": "2022/04/phone-mockup-covid19.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
         "file": "phone-mockup-covid19.jpg",
         "width": 676,
         "height": 451,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg"
       },
       {
         "type": "medium",
         "path": "2022/04/phone-mockup-covid19-576x384.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
         "file": "phone-mockup-covid19-576x384.jpg",
         "width": 576,
         "height": 384,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg"
       },
       {
         "type": "thumbnail",
         "path": "2022/04/phone-mockup-covid19-150x150.jpg",
-        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg",
         "file": "phone-mockup-covid19-150x150.jpg",
         "width": 150,
         "height": 150,
         "mime_type": "image/jpeg",
-        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-150x150.jpg"
       }
     ],
     "path": "2022/04/phone-mockup-covid19.jpg"
