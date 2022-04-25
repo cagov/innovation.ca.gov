@@ -1,0 +1,42 @@
+.cagov-horizontal-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.cagov-horizontal-list li {
+  margin: 0 0 1rem 0;
+}
+
+.centered-logo-link {
+  display: flex;
+	background-color: #ECF1F6;
+	font-size: .875rem;
+	border-radius: .75rem;
+	padding: .75rem;
+	max-width: 216px;
+	max-height: 172px;
+	overflow: hidden;
+
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+
+  span {
+    text-align: center;
+  }
+}
+
+.cagov-horizontal-list--left {
+  justify-content: flex-start;
+}
+.centered-logo-link--medium {
+  background: none;
+  max-width: 240px;
+  min-width: 240px;
+  max-height: 222px;
+  min-height: 222px;
+  border: 1px solid #BCBBC1;
+  padding: 1rem;
+  margin: 0 1.5rem 1.5rem 0;
+}

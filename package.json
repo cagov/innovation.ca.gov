@@ -3,13 +3,48 @@
   "version": "1.0.0",
   "description": "Office of Digital Innovation website",
   "main": "index.js",
+  "devDependencies": {
+    "@open-wc/eslint-config": "^4.3.0",
+    "@playwright/test": "^1.18.1",
+    "@web/dev-server": "^0.1.17",
+    "aws-sdk": "^2.1055.0",
+    "axe-playwright": "^1.1.9",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1",
+    "rollup-plugin-import-css": "^2.0.1"
+  },
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
-    "moment-timezone": "^0.5.33"
+    "@cagov/11ty-build-system": "^0.3.0",
+    "@cagov/ds-accordion": "^2.0.0",
+    "@cagov/ds-back-to-top": "^2.0.0",
+    "@cagov/ds-base-css": "^2.0.0-beta.1",
+    "@cagov/ds-feature-card": "^1.0.6",
+    "@cagov/ds-link-grid": "^2.1.0",
+    "@cagov/ds-page-feedback": "^1.1.0",
+    "@cagov/ds-page-navigation": "^2.1.0",
+    "@cagov/ds-pagination": "^2.0.0",
+    "@cagov/ds-site-footer": "^1.1.0",
+    "@cagov/ds-site-header": "^1.1.0",
+    "@cagov/ds-site-navigation": "^2.1.2",
+    "@cagov/ds-skip-to-content": "^1.0.2",
+    "@cagov/ds-statewide-footer": "^1.0.8",
+    "@cagov/ds-statewide-header": "^1.0.14",
+    "@cagov/ds-step-list": "^2.0.1",
+    "@cagov/ds-table": "^1.0.1",
+    "@zachleat/seven-minute-tabs": "^1.0.0",
+    "cross-env": "^7.0.3",
+    "glob": "^7.2.0",
+    "sharp": "^0.29.3"
   },
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve"
+    "dev": "npm run site:watch:dev",
+    "site:build:dev": "cross-env NODE_ENV=development eleventy",
+    "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
+    "site:watch": "eleventy --serve",
+    "start": "npm run site:watch"
   },
   "repository": {
     "type": "git",

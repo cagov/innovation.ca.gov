@@ -1,14 +1,14 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-04-12T21:49:27",
+    "updated_date": "2022-04-22T18:20:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "api_url": "https://test-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
-      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+      "source_data": "https://test-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/development"
     },
     "refresh_frequency": "as needed"
   },
@@ -16,15 +16,15 @@
     "id": 113,
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-04-12T14:49:27",
-    "modified_gmt": "2022-04-12T21:49:27",
+    "guid": "https://test-digital-ca-gov.pantheonsite.io/?page_id=113",
+    "modified": "2022-04-22T11:20:42",
+    "modified_gmt": "2022-04-22T18:20:42",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/",
+    "link": "https://test-digital-ca-gov.pantheonsite.io/",
     "title": "Office of Digital Innovation",
-    "excerpt": "<p>The Office of Digital Innovation (ODI) partners with state departments to improve government services. Our vision is to create programs that put Californians first. We use people-centered design to discover technological innovation that serves Californians’ needs. We see a California that is equitable, efficient, and data-inspired. Careers at ODI We’re looking for great people to &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
+    "excerpt": "<p>Changing state government through the Digital Innovation Fund This fund is a key part of how we’re improving services for Californians. When paired with the innovative approach of ODI&#8217;s cross-functional teams, we make a real impact on people’s lives. Who we work with California Governor&#8217;s Office of Emergency Services California Department of Technology Department of &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://test-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
     "author": "JP Petrucione",
     "featured_media": 0,
     "parent": 0,
@@ -44,12 +44,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+        "editor_url": "https://test-digital-ca-gov.pantheonsite.io"
       },
       "site_name": "digital.ca.gov",
       "site_description": "Office of Digital Innovation",
-      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/",
+      "site_url": "https://test-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://test-digital-ca-gov.pantheonsite.io/",
       "page_title": "Office of Digital Innovation",
       "page_description": "Office of Digital Innovation",
       "page_social_image_url": "",
@@ -58,7 +58,7 @@
       "page_social_image_alt": "",
       "meta_title": "Office of Digital Innovation",
       "meta_description": "Office of Digital Innovation",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/",
+      "meta_canonical_url": "https://test-digital-ca-gov.pantheonsite.io/",
       "open_graph_title": "Office of Digital Innovation",
       "open_graph_description": "Office of Digital Innovation",
       "twitter_title": "Office of Digital Innovation",
@@ -68,6 +68,99 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/"
+    "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/",
+    "media": [
+      {
+        "id": 289,
+        "type": "full",
+        "path": "2022/04/connections.png",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "file": "connections.png",
+        "width": 576,
+        "height": 388,
+        "mime_type": "image/png",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "full",
+        "path": "2022/04/dif-how-might-we-1.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.jpg",
+        "file": "dif-how-might-we-1.jpg",
+        "width": 1104,
+        "height": 632,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "large",
+        "path": "2022/04/dif-how-might-we-1-1024x586.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-1024x586.jpg",
+        "file": "dif-how-might-we-1-1024x586.jpg",
+        "width": 1024,
+        "height": 586,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-1024x586.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "medium_large",
+        "path": "2022/04/dif-how-might-we-1-768x440.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-768x440.jpg",
+        "file": "dif-how-might-we-1-768x440.jpg",
+        "width": 768,
+        "height": 440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-768x440.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 369,
+        "type": "medium",
+        "path": "2022/04/dif-how-might-we-1-576x330.jpg",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-576x330.jpg",
+        "file": "dif-how-might-we-1-576x330.jpg",
+        "width": 576,
+        "height": 330,
+        "mime_type": "image/jpeg",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1-576x330.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 290,
+        "type": "full",
+        "path": "2022/04/Everybody-on-zoom.png",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
+        "file": "Everybody-on-zoom.png",
+        "width": 572,
+        "height": 336,
+        "mime_type": "image/png",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 286,
+        "type": "large",
+        "path": "2022/04/Group-97-1024x649.png",
+        "wordpress_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
+        "file": "Group-97-1024x649.png",
+        "width": 1024,
+        "height": 649,
+        "mime_type": "image/png",
+        "source_url": "https://test-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Group-97-1024x649.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
