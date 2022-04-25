@@ -40,7 +40,7 @@
         <a href="https://www.ca.gov/accessibility/">Accessibility</a>
       </div>
       <p class="copyright">Copyright &copy;&nbsp;
-        <script>document.write(new Date().getFullYear())</script>&nbsp;State of California
+        <span class="js-cagov-current-year"></span> <script>document.querySelector('.js-cagov-current-year').innerHTML = new Date().getFullYear();</script>&nbsp;State of California
       </p>
     </div>
   </div>
