@@ -1,6 +1,6 @@
 .dif-info-form {
   background-color: #ecf1f6;
-  padding: 0 1rem;
+  padding: 1rem;
   border-radius: .5rem;
 
   .required label:after {
@@ -12,9 +12,13 @@
   .form-field {
     display: flex;
     flex-flow: column;
+    padding-bottom: 1rem;
 
     label {
       margin: 1rem 0 .5rem 0;
+    }
+    label:first-child {
+      margin-top: 0;
     }
   }
   .wp-block-button {

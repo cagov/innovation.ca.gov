@@ -49,3 +49,8 @@ figcaption {
 .cagov-article-list .cagov-mt-3:first-child {
   margin-top: 2rem;
 }
+
+// hide the read more links on the blog index page because the excerpt contains HTML with links back to pantheon
+.blog-excerpt .read-more {
+  display: none;
+}
