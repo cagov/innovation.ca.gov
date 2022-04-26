@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T14:51:37",
-    "updated_date": "2022-04-18T16:57:23",
+    "updated_date": "2022-04-26T16:26:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,26 +17,26 @@
     "date": "2021-11-09T06:51:37",
     "date_gmt": "2021-11-09T14:51:37",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=116",
-    "modified": "2022-04-18T09:57:23",
-    "modified_gmt": "2022-04-18T16:57:23",
+    "modified": "2022-04-26T09:26:31",
+    "modified_gmt": "2022-04-26T16:26:31",
     "slug": "contact-us",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/contact-us/",
     "title": "Contact us",
-    "excerpt": "<p>We love sharing about what we do and exploring new project opportunities. Email us at info@digital.ca.gov. Reach our talent team We&#8217;re happy to answer questions about getting a job at the Office of Digital Innovation. Reach the team at ODI-Talent-Team@digital.ca.gov.</p>\n",
+    "excerpt": "<p>We love sharing about what we do and exploring new project opportunities. Email us at info@digital.ca.gov. Reach our talent team We&#8217;re happy to answer questions about getting a job at the Office of Digital Innovation. Reach the team at ODI-Talent-Team@digital.ca.gov. Mailing address Our mailing address is 401 I Street, Ste 200, Sacramento, CA 95814. We &#8230; <a title=\"Contact us\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/contact-us/\" aria-label=\"More on Contact us\">Read more</a></p>\n",
     "author": "Chacha Sikes",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "single-column",
+    "template": "",
     "meta": [],
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
