@@ -1,6 +1,6 @@
 .cagov-aligned-group > .wp-block-group__inner-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(min(576px ,100%),1fr));
+  grid-template-columns: repeat(auto-fit,minmax(min(555px ,100%),1fr));
   grid-gap: 1.5rem;
   margin-top: 5rem;
   align-items: center;
@@ -21,7 +21,12 @@
     max-width: none;
   }
 }
-@media only screen and (max-width: 576px) {
+@media (max-width: 1176px) {
+  .cagov-aligned-group .wp-block-group__inner-container > figure {
+    order: -1;
+  }
+}
+@media only screen and (max-width: 555px) {
   .cagov-align-left img, .cagov-align-right img {
     max-width: 100%;
     height: auto;

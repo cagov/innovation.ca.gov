@@ -18,3 +18,10 @@ main .cagov-single-column h2:first-child {
   max-width: 100%;
   height: auto;
 }
+
+main.landing-page {
+  padding-left: 1rem;
+  .cagov-featured-sidebar {
+    padding-left: 0;
+  }
+}
