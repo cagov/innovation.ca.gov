@@ -40,6 +40,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media": wordpressImagePath });
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
+  eleventyConfig.addPassthroughCopy({ "src/pdf": "pdf" });
   eleventyConfig.addPassthroughCopy({ "src/css/fonts": "fonts" });
 
   eleventyConfig.addFilter("dateformat", function (dateString) {
