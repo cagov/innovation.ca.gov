@@ -73,16 +73,24 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
   }
 }
 
-.footer-container section[aria-label="feedback"] {
-  max-width: var(--w-lg, 1176px);
-  margin: 0 auto;  
-}
 /* this is a minor bug in page feedback, it shouldn't have widths inside it */
 .footer-container cagov-page-feedback .feedback-form {
   max-width: none;
   margin: 0 var(--s-2, 1rem);
 }
+.footer-container section[aria-label="feedback"] {
+  max-width: var(--w-lg, 1176px);
+  margin: 0 auto;  
+}
 
+/* this is a bug in feature card, should expand when in column mode */
+@media only screen and (max-width: 767px) {
+  main.landing-page {
+    .cagov-featured-sidebar {
+      max-width: none;
+    }
+  }
+}
 
 /* beginnings of highlight box */
 .cagov-emphasized {
