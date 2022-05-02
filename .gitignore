@@ -2,11 +2,6 @@
 /_site/*
 /_site_dist/*
 # unignore img and css
-!/_site/css
-!/_site/img
-
-# ignore wordpress generated images
-/_site/img/wordpress
 
 # Logs
 logs

@@ -18,3 +18,33 @@ main .cagov-single-column h2:first-child {
   max-width: 100%;
   height: auto;
 }
+
+main.landing-page {
+  padding-left: 1rem;
+  .cagov-featured-sidebar {
+    padding-left: 0;
+  }
+}
+
+/* get crazy with grid layout so we don't need duplicate h1 tags in the markup */
+@media only screen and (max-width: 767px) {
+  .single-column .ds-content-layout {
+    display: grid;
+    grid-template-rows: [first-row] auto [second-row] auto [third-row] auto;
+    aside {
+      grid-row: second-row;
+    }
+    .everylayout {
+      display: contents;
+      .main-primary {
+        display: contents;
+        article {
+          display: contents;
+        }
+      }
+    }
+    cagov-page-navigation #page-navigation-label {
+      display: none;
+    }
+  }
+}
