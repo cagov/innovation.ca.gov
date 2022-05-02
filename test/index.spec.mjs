@@ -6,11 +6,15 @@ import {
 
 let testLocation = "http://localhost:8080";
 
-let pageUrls = ["/", "/our-work/?activeTab=past-projects-btn", "/blog/"];
+let pageUrls = ["/", "/our-work/?activeTab=past-projects-btn", "/blog/", "/digital-innovation-fund/"];
 
 pageUrls.forEach(pageUrl => {
 
-  test("a11y page tests "+pageUrl, async ({ page }) => {
+  test("mobile: a11y page tests "+pageUrl, async ({ page }) => {
+    await page.setViewportSize({
+      width: 360,
+      height: 740,
+    });
 
     await page.goto(testLocation+pageUrl);
   
