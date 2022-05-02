@@ -5,10 +5,10 @@
   "main": "index.js",
   "devDependencies": {
     "@open-wc/eslint-config": "^4.3.0",
-    "@playwright/test": "^1.18.1",
+    "@playwright/test": "^1.21.1",
     "@web/dev-server": "^0.1.17",
     "aws-sdk": "^2.1055.0",
-    "axe-playwright": "^1.1.9",
+    "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.4.1",
@@ -44,7 +44,10 @@
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
-    "start": "npm run site:watch"
+    "start": "npm run site:watch",
+    "test": "npx playwright test test/index.spec.mjs",
+    "test:serve": "npm run build && npx http-server _site/",
+    "test:setup": "npx playwright install-deps chromium && npx playwright install"
   },
   "repository": {
     "type": "git",
