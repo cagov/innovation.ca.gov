@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-21T20:54:32",
-    "updated_date": "2022-04-21T23:42:46",
+    "updated_date": "2022-05-06T22:59:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2022-04-21T13:54:32",
     "date_gmt": "2022-04-21T20:54:32",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=408",
-    "modified": "2022-04-21T16:42:46",
-    "modified_gmt": "2022-04-21T23:42:46",
+    "modified": "2022-05-06T15:59:18",
+    "modified_gmt": "2022-05-06T22:59:18",
     "slug": "deputy-director-appointments-strengthen-odi-mission",
     "status": "publish",
     "type": "post",
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/04/21/deputy-director-appointments-strengthen-odi-mission/",
     "title": "Deputy director appointments strengthen ODI mission",
-    "excerpt": "<p>We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI). Jeffery is now our Deputy Director of Service Innovation. He previously served as ODI’s Insights Program Manager. JP is now our Deputy Director of User Research. He was formerly ODI’s Deputy Director of Communications. User &#8230; <a title=\"Deputy director appointments strengthen ODI mission\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2022/04/21/deputy-director-appointments-strengthen-odi-mission/\" aria-label=\"More on Deputy director appointments strengthen ODI mission\">Read more</a></p>\n",
+    "excerpt": "<p>We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI).</p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "comment_status": "closed",
@@ -40,6 +40,14 @@
     "design_system_fields": {
       "template": "post"
     },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
     "og_meta": {
       "editor": {
         "platform": "WordPress",
@@ -53,18 +61,18 @@
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/04/21/deputy-director-appointments-strengthen-odi-mission/",
       "page_title": "Deputy director appointments strengthen ODI mission",
-      "page_description": "Office of Digital Innovation",
+      "page_description": "We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI).",
       "page_social_image_url": "",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Deputy director appointments strengthen ODI mission",
-      "meta_description": "Office of Digital Innovation",
+      "meta_description": "We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI).",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/04/21/deputy-director-appointments-strengthen-odi-mission/",
       "open_graph_title": "Deputy director appointments strengthen ODI mission",
-      "open_graph_description": "Office of Digital Innovation",
+      "open_graph_description": "We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI).",
       "twitter_title": "Deputy director appointments strengthen ODI mission",
-      "twitter_description": "Office of Digital Innovation"
+      "twitter_description": "We’re excited to congratulate Jeffery Marino and JP Petrucione on their new roles at the Office of Digital Innovation (ODI)."
     },
     "headless_categories": [
       {
@@ -87,14 +95,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "event": null,
-    "custom_post_date": "",
-    "meta_": {
-      "0": "",
-      "custom_post_link": "",
-      "custom_post_date": "",
-      "custom_post_location": ""
-    },
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/04/21/deputy-director-appointments-strengthen-odi-mission/"
   }
 }

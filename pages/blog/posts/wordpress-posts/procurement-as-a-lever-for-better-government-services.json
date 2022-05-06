@@ -45,6 +45,14 @@
     "design_system_fields": {
       "template": "post"
     },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
     "og_meta": {
       "editor": {
         "platform": "WordPress",
@@ -137,14 +145,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "event": null,
-    "custom_post_date": "",
-    "meta_": {
-      "0": "",
-      "custom_post_link": "",
-      "custom_post_date": "",
-      "custom_post_location": ""
-    },
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",
     "media": [
       {
