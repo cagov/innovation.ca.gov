@@ -83,12 +83,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/pdf": "pdf" });
   eleventyConfig.addPassthroughCopy({ "src/css/fonts": "fonts" });
 
-  // eleventyConfig.addFilter("dateformat", function (dateString) {
-  //   let d = new Date(dateString);
-  //   return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
-  // });
   eleventyConfig.addFilter("dateformat", function (dateIn) {
     return moment(dateIn).tz('America/Los_Angeles').format('M/D/YYYY');
+  })
 
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function (collection) {
