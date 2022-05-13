@@ -97,6 +97,13 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
   font-size: var(--s-3, 1.5rem);
 }
 
+/* temp hack until we enable tabs on our work page again */
+@media only screen and (min-width: 767px) {
+  .page-title.p-l-2 {
+    padding-left: 0 !important;
+  }
+}
+
 /* bug in page feedback, this shouldn't be an h2 */
 cagov-page-feedback h2 {
   font-size: 1.15rem;
