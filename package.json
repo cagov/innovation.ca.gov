@@ -11,7 +11,6 @@
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "linkedom": "^0.14.9",
     "prettier": "^2.4.1",
     "rollup-plugin-import-css": "^2.0.1"
   },
@@ -37,6 +36,7 @@
     "@zachleat/seven-minute-tabs": "^1.0.0",
     "cross-env": "^7.0.3",
     "glob": "^7.2.0",
+    "linkedom": "^0.14.9",
     "sharp": "^0.29.3"
   },
   "scripts": {
