@@ -1,4 +1,5 @@
 const cagovBuildSystem = require("@cagov/11ty-build-system");
+const linkedom = require("linkedom");
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 //Replaces content to rendered
@@ -113,6 +114,26 @@ module.exports = function (eleventyConfig) {
         // WordPress will lazy load everything and you have to put php code in your theme to override it. We don't want to lazy load our featuref image
         item.template.frontMatter.content = item.template.frontMatter.content.replace('loading="lazy" class="cagov-featured-image','class="cagov-featured-image');
 
+
+        let html = item.template.frontMatter.content;
+        // Temporary rewrite of feature card h2 tag to h1. This is fixed in newer version of Gutenberg blocks plugin still under review so can be deleted when this no longer comes through as h2 causing a11y test failures
+        if (html.indexOf('cagov-featured-sidebar') > -1) {
+          const {
+            window, document, customElements,
+            HTMLElement,
+            Event, CustomEvent
+          } = linkedom.parseHTML(html);
+          let targetHeader = document.querySelector('.cagov-featured-sidebar h2');
+          if(targetHeader) {
+            const newHeader = document.createElement('h1')
+            newHeader.innerHTML = targetHeader.innerHTML;
+            targetHeader.replaceWith(newHeader);
+            html = document.toString();
+            item.template.frontMatter.content = html;
+          }
+        }
+
+
         if (jsonData.media) {
           const featuredMedia = jsonData.media.find((x) => x.featured);
           if (featuredMedia) {
@@ -153,11 +174,7 @@ module.exports = function (eleventyConfig) {
   // eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addFilter("changeDomain", function (url, domain) {
-    return 'hello';
-    console.log(url)
-    console.log(domain)
-    try {
-      
+    try {      
       let host = config.build.canonical_url.split("//"); // TEMP Cheat to get https
       let changedUrl = url;
       // There are multiple strings that we may need to replace because of how we merge and work with data. Use them.

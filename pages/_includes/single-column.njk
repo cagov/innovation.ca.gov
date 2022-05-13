@@ -16,7 +16,7 @@
     <main id="body-content">
       <div class="single-column">
         {% if previewimage %}
-          <img src="/{{ previewimage }}" class="mb-2" />
+          <img src="/{{ previewimage }}" class="mb-2" alt="" />
         {% endif %}
         <h1 class="page-title">{{ title | safe }}</h1>
         <article id="post-{{ page.fileSlug }}">       
