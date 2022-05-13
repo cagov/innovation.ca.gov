@@ -14,12 +14,10 @@
       <span class="crumb current">{{ title | safe }}</span>
     </div>
     <main id="body-content">
-      <div class="cagov-single-column">
-        {% if previewimage %}
-          <img src="/{{ previewimage }}" class="mb-2" alt="" />
-        {% endif %}
-        <h1 class="page-title">{{ title | safe }}</h1>
-      </div>
+      {% if previewimage %}
+        <img src="/{{ previewimage }}" class="mb-2" alt="" />
+      {% endif %}
+      <h1 class="page-title">{{ title | safe }}</h1>
       <article id="post-{{ page.fileSlug }}">       
         <div id="body-content" class="category-label">{{ category | safe }}</div>
         <div class="entry-content">
