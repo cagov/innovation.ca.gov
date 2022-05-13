@@ -6,7 +6,7 @@
       <main id="body-content">
         <h1 class="page-title">{{ title | safe }}</h1>
         <article id="post-{{ page.fileSlug }}">       
-          <div id="body-content" class="category-label">{{ category | safe }}</div>
+          <div class="category-label">{{ category | safe }}</div>
           <div class="entry-content">
             {% if author %}
               <p class="text-muted byline">By {{author}}<br>{{publishdate | dateformat}}</p>
