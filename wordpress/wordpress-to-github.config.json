@@ -5,23 +5,11 @@
     "description": "wordpress-to-github endpoints config file"
   },
   "data": {
-    "wordpress_source_url": "https://live-odi-content-api.pantheonsite.io",
-    "github_targets": [
-      {
-        "outputBranch": "main",
-        "disabled": false,
-        "PostPath": "pages/blog/posts/wordpress-posts",
-        "PagePath": "wordpress/pages",
-        "MediaPath": "wordpress/media",
-        "GeneralFilePath": "wordpress/general/general.json",
-        "ExcludeProperties": [
-          "content",
-          "_links"
-        ],
-        "tags_exclude":[
-          "Preview-Mode"
-        ]
-      }
-    ]
+    "disabled": false,
+    "PostPath": "pages/blog/posts/wordpress-posts",
+    "PagePath": "pages/wordpress-pages",
+    "MediaPath": "wordpress/media",
+    "GeneralFilePath": "wordpress/general/general.json",
+    "ExcludeProperties": ["content", "_links"]
   }
 }

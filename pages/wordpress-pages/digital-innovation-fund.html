@@ -1,0 +1,106 @@
+<figure class="wp-block-image size-full"><img loading="lazy" width="876" height="481" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg" alt="A person in an office showing their screen to a team of people. " class="wp-image-411" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg 876w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-576x316.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-768x422.jpg 768w" sizes="(max-width: 876px) 100vw, 876px" /></figure>
+
+<p class="cagov-emphasized">The Digital Innovation Fund (DIF) is a path to partnership between your department and the Office of Digital Innovation (ODI).</p>
+
+<p>Together, we will use human-centered design to identify problems and fund solutions that improve services for all Californians.</p>
+
+<h2>What makes a good DIF candidate</h2>
+
+<p>ODI looks for four qualities when reviewing DIF applications. </p>
+
+<h3>1. Your service needs improvement</h3>
+
+<p>You have an awareness and curiosity about what’s not working now. You’re focused on desired outcomes and not solutions. You see opportunities to improve outcomes for Californians.</p>
+
+<h3>2. You&#8217;re excited to collaborate</h3>
+
+<p>You see yourselves as co-designers of the service. Your team is willing to participate and collaborate with ODI to guarantee success that lasts.</p>
+
+<h3>3. You&#8217;re open to new solutions</h3>
+
+<p>You’re ready to discover, innovate, and experiment. You learn from failures to springboard to success. You’re flexible and willing to adopt new processes and technologies.</p>
+
+<h3>4. You&#8217;re committed to putting users first</h3>
+
+<p>You prioritize the needs of the end user over all else. You’re guided by user feedback and research. You want to remove the struggle from using the service.&nbsp;</p>
+
+<h2>Pilot partners</h2>
+
+<p>We’re collaborating with these partners for the first phase of DIF projects:</p>
+
+<div class="cagov-horizontal-list cagov-horizontal-list--left">
+  <a href="https://www.gov.ca.gov/" class="centered-logo-link centered-logo-link--medium">
+    <img loading="lazy" src="/img/dif-partner-image-4.png" alt="Office of Governor logo"> 
+    <span>Office of Governor</span>
+  </a>
+  <a href="https://www.cpuc.ca.gov/" class="centered-logo-link centered-logo-link--medium">
+    <img loading="lazy" src="/img/dif-partner-image-5.png" alt="CPUC logo"> 
+    <span>California Public Utilities Commission</span>
+  </a>
+  <a href="https://www.calhr.ca.gov/" class="centered-logo-link centered-logo-link--medium">
+    <img loading="lazy" src="/img/dif-partner-image-6.png" alt="CalHR logo"> 
+    <span>Department of Human Resources (CalHR)</span>
+  </a>
+  <a href="https://www.cde.ca.gov/" class="centered-logo-link centered-logo-link--medium">
+    <img loading="lazy" src="/img/dif-partner-image-7.png" alt="DOE logo"> 
+    <span>Department of Education</span>
+  </a>
+  <a href="https://dtsc.ca.gov/" class="centered-logo-link centered-logo-link--medium">
+    <img loading="lazy" src="/img/dif-partner-image-dtsc.png" alt="DTSC logo"> 
+    <span>Department of Toxic Substances Control</span>
+  </a>
+</div>
+
+<h2>Find out more about DIF</h2>
+
+<p>Think your department has a service that could be improved? Tell us about it and we’ll see if it&#8217;s a good fit for DIF.</p>
+
+<form class="dif-info-form" method="post" action="https://rdqvsuv67a.execute-api.us-west-1.amazonaws.com/info">
+  <div class="required form-field">
+    <label class="required" for="name">Name</label>
+    <input type="text" id="name" name="name" placeholder="" required="">
+  </div>
+  <div class="required form-field">
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="" required="">
+  </div>
+  <div class="required form-field">
+    <label class="required" for="state-entity">State entity</label>
+    <input type="text" id="state-entity" name="state-entity" placeholder="" required="">
+  </div>  
+  <div class="required form-field">
+    <label for="comments">Tell us about the problem you’re trying to solve</label>
+    <textarea id="comments" name="comments" required=""></textarea>
+  </div>
+  <div class="wp-block-button">
+    <button class="wp-block-button__link">
+      Submit
+    </button>
+  </div>
+</form>
+<script type="text/javascript">
+let difForm = document.querySelector('.dif-info-form');
+let successMessage = 'Thank you for your interest';
+difForm.addEventListener('submit', async function(e) {
+  e.preventDefault();
+
+  let formData = new FormData(difForm);
+  let formBody = '';
+  for(var pair of formData.entries()) {
+    if(formBody !== '') {
+      formBody += '&';
+    }
+   formBody += `${pair[0]}=${encodeURIComponent(pair[1])}`;
+  }
+
+  let infoResponse = await fetch(difForm.action, {
+    method: 'post',
+    body: formBody,
+  })
+
+  difForm.innerHTML = `${successMessage}`;
+
+  console.log(await infoResponse.json())
+
+})
+</script>

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "created_date": "2022-04-13T18:27:24",
+    "updated_date": "2022-05-02T23:47:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 300,
+    "date": "2022-04-13T11:27:24",
+    "date_gmt": "2022-04-13T18:27:24",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=300",
+    "modified": "2022-05-02T16:47:23",
+    "modified_gmt": "2022-05-02T23:47:23",
+    "slug": "digital-innovation-fund",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+    "title": "Digital Innovation Fund",
+    "excerpt": "<p>The Digital Innovation Fund (DIF) is a path to partnership between your department and the Office of Digital Innovation (ODI). Together, we will use human-centered design to identify problems and fund solutions that improve services for all Californians. What makes a good DIF candidate ODI looks for four qualities when reviewing DIF applications. 1. Your &#8230; <a title=\"Digital Innovation Fund\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/digital-innovation-fund/\" aria-label=\"More on Digital Innovation Fund\">Read more</a></p>\n",
+    "author": "Kimberly Losenara",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+      "page_title": "Digital Innovation Fund",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Digital Innovation Fund",
+      "meta_description": "Office of Digital Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+      "open_graph_title": "Digital Innovation Fund",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "Digital Innovation Fund",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/digital-innovation-fund/",
+    "media": [
+      {
+        "id": 411,
+        "type": "full",
+        "path": "2022/04/odi-collab.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg",
+        "file": "odi-collab.jpg",
+        "width": 876,
+        "height": 481,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 411,
+        "type": "medium_large",
+        "path": "2022/04/odi-collab-768x422.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-768x422.jpg",
+        "file": "odi-collab-768x422.jpg",
+        "width": 768,
+        "height": 422,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-768x422.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 411,
+        "type": "medium",
+        "path": "2022/04/odi-collab-576x316.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-576x316.jpg",
+        "file": "odi-collab-576x316.jpg",
+        "width": 576,
+        "height": 316,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-576x316.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
