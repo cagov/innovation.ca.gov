@@ -50,6 +50,40 @@ figcaption {
   margin-top: 2rem;
 }
 
+// wordpress table styles
+.wp-block-table {
+  td {
+    padding: 1rem;
+    
+    img {
+      border: none;
+    }
+  }
+}
+
+// this is a hack to make wordpress table markup responsive
+.cagov-reponsive-note {
+  display: none;
+}
+@media screen and (max-width: 600px) {	
+  figure.wp-block-table {
+
+    thead { display: none; }
+    
+    tbody td {
+      display: block; 
+      text-align:center;
+
+      .cagov-reponsive-note {
+        display: block;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+
+
 // hide the read more links on the blog index page because the excerpt contains HTML with links back to pantheon
 .blog-excerpt .read-more {
   display: none;
