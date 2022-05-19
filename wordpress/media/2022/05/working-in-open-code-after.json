@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-19T16:08:53",
-    "updated_date": "2022-05-19T16:08:53",
+    "updated_date": "2022-05-19T16:10:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-05-19T09:08:53",
     "date_gmt": "2022-05-19T16:08:53",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-after.png",
-    "modified": "2022-05-19T09:08:53",
-    "modified_gmt": "2022-05-19T16:08:53",
+    "modified": "2022-05-19T09:10:20",
+    "modified_gmt": "2022-05-19T16:10:20",
     "slug": "working-in-open-code-after",
     "status": "inherit",
     "type": "attachment",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-after.png'><img width=\"520\" height=\"290\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-after.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-after.png'><img width=\"520\" height=\"290\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-after.png\" class=\"attachment-medium size-medium\" alt=\"The revised accordion component code. It&#039;s short, 11 lines long.\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "The revised accordion component code. It's short, 11 lines long.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
