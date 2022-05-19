@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-19T19:52:42",
-    "updated_date": "2022-05-19T19:53:57",
+    "updated_date": "2022-05-19T19:54:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-05-19T12:52:42",
     "date_gmt": "2022-05-19T19:52:42",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature.png",
-    "modified": "2022-05-19T12:53:57",
-    "modified_gmt": "2022-05-19T19:53:57",
+    "modified": "2022-05-19T12:54:06",
+    "modified_gmt": "2022-05-19T19:54:06",
     "slug": "hero-bear-nature",
     "status": "inherit",
     "type": "attachment",
@@ -33,7 +33,7 @@
       1
     ],
     "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature.png'><img width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature-576x302.png\" class=\"attachment-medium size-medium\" alt=\"Working in the open on the California Design System\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature-576x302.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature-1024x538.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature-768x403.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/hero-bear-nature.png 1200w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>California Design System mascot vector bear</p>\n",
-    "caption": "<p>Working in the open on the California Design System</p>\n",
+    "caption": "<p>Working in the open is important to the California Office of Digital Innovation. Here&#8217;s what that looks like in our work on the California Design System.</p>\n",
     "alt_text": "Working in the open on the California Design System",
     "media_type": "image",
     "mime_type": "image/png",
