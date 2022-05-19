@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2022-05-19T15:58:33",
+    "updated_date": "2022-05-19T15:58:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 476,
+    "date": "2022-05-19T08:58:33",
+    "date_gmt": "2022-05-19T15:58:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png",
+    "modified": "2022-05-19T08:58:33",
+    "modified_gmt": "2022-05-19T15:58:33",
+    "slug": "working-in-open",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/working-in-open/",
+    "title": "working-in-open",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png'><img width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-576x384.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-576x384.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-768x512.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png 876w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 876,
+      "height": 584,
+      "file": "2022/05/working-in-open.png",
+      "sizes": {
+        "medium": {
+          "file": "working-in-open-576x384.png",
+          "width": 576,
+          "height": 384,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-576x384.png"
+        },
+        "thumbnail": {
+          "file": "working-in-open-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-150x150.png"
+        },
+        "medium_large": {
+          "file": "working-in-open-768x512.png",
+          "width": 768,
+          "height": 512,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-768x512.png"
+        },
+        "full": {
+          "file": "working-in-open.png",
+          "width": 876,
+          "height": 584,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/05/working-in-open.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png",
+        "file": "working-in-open.png",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/05/working-in-open-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-768x512.png",
+        "file": "working-in-open-768x512.png",
+        "width": 768,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-768x512.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/05/working-in-open-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-576x384.png",
+        "file": "working-in-open-576x384.png",
+        "width": 576,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-576x384.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/05/working-in-open-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-150x150.png",
+        "file": "working-in-open-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-150x150.png"
+      }
+    ],
+    "path": "2022/05/working-in-open.png"
+  }
+}
