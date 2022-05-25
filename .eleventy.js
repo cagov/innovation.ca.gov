@@ -111,6 +111,7 @@ module.exports = function (eleventyConfig) {
         item.data.publishdate = jsonData.date.split("T")[0]; //new Date(jsonData.modified_gmt)
         item.data.meta = jsonData.excerpt;
         item.data.description = jsonData.excerpt;
+        item.data.tags = jsonData.tags;
 
         // WordPress will lazy load everything and you have to put php code in your theme to override it. We don't want to lazy load our featuref image
         item.template.frontMatter.content = item.template.frontMatter.content.replace('loading="lazy" class="cagov-featured-image','class="cagov-featured-image');
@@ -174,6 +175,9 @@ module.exports = function (eleventyConfig) {
   });
   // eleventyConfig.addPlugin(pluginRss);
 
+  eleventyConfig.addFilter('includes', (items, value) => {
+    return (items || []).includes(value);
+  });
   eleventyConfig.addFilter("changeDomain", function (url, domain) {
     try {      
       let host = config.build.canonical_url.split("//"); // TEMP Cheat to get https
