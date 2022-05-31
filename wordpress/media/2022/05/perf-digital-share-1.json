@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-31T20:28:37",
-    "updated_date": "2022-05-31T20:28:49",
+    "updated_date": "2022-05-31T20:31:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-05-31T13:28:37",
     "date_gmt": "2022-05-31T20:28:37",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png",
-    "modified": "2022-05-31T13:28:49",
-    "modified_gmt": "2022-05-31T20:28:49",
+    "modified": "2022-05-31T13:31:48",
+    "modified_gmt": "2022-05-31T20:31:48",
     "slug": "perf-digital-share-2",
     "status": "inherit",
     "type": "attachment",
@@ -32,8 +32,8 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png'><img width=\"576\" height=\"271\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png\" class=\"attachment-medium size-medium\" alt=\"digital.ca.gov lighthouse\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1024x482.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-768x362.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1536x723.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png 1555w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
-    "caption": "",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png'><img width=\"576\" height=\"271\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png\" class=\"attachment-medium size-medium\" alt=\"digital.ca.gov lighthouse\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1024x482.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-768x362.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1536x723.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png 1555w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>97 performance, 100 accessibility 100 best practices, 100 SEO</p>\n",
+    "caption": "<p>Lighthouse scores of site built with the California Design system</p>\n",
     "alt_text": "digital.ca.gov lighthouse",
     "media_type": "image",
     "mime_type": "image/png",
