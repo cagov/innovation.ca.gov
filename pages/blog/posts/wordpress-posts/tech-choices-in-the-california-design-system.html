@@ -1,0 +1,97 @@
+<p>Building the <a href="https://designsystem.webstandards.ca.gov/">California Design System</a> required a lot of decisions. We made many of them with our partners at the Department of Technology (CDT). Some involved new ways of doing things in state government.&nbsp;</p>
+
+<p>Here are the key decisions we made and the benefits each brings.</p>
+
+<h2>Web components</h2>
+
+<p>When a component requires JavaScript for interactivity we use <a href="https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements">custom elements</a>. This allows us to take advantage of the component model built into the browser. This makes the Design System framework agnostic. The state has a lot of web services running on a variety of tech stacks. Web components make the Design System work smoothly on any of them. We describe our <a href="https://designsystem.webstandards.ca.gov/why-web-components/">web components approach in more detail</a> on the Design System site.</p>
+
+<h2>Minimizing tech in each component</h2>
+
+<p>Many components don’t need JavaScript. We use only CSS &amp; HTML where we can. This limits complexity for teams who want to use a few components or even just one. We aren’t relying on an underlying CSS framework. We provide a well-tested set of tools that work without requiring underlying dependencies.</p>
+
+<h2>Prioritizing performance</h2>
+
+<p>Delivering fast, reliable sites to everyone is a priority for the Office of Digital Innovation. Performance affects everybody and for some it makes all the difference. Faster pages also have higher conversion levels and better user satisfaction.</p>
+
+<p>Performance is also an equity issue. One scenario we thought about is people who get phones through <a href="https://www.californialifeline.com/en">LifeLine</a>. People can get phones based on their income or if they’re in certain state programs. For example, you can get an incredibly capable Android device running the latest version of the Android OS for $20.</p>
+
+<p>But there’s a huge difference in CPU capability between these phones and the latest iPhone. In some cases they are executing client-side JavaScript 60 times slower! This can create huge delays for people on cheaper phones and with limited data plans. Waiting over a minute for a webpage to let you click on stuff is a major barrier to meeting your needs.</p>
+
+<p>We tested the Design System to make sure it will not weigh your site down and inconvenience your visitors.</p>
+
+<p>We’ve built several fast sites using Design System components:</p>
+
+<figure class="wp-block-table"><table><thead><tr><th class="has-text-align-center" data-align="center">drought.ca.gov</th><th class="has-text-align-center" data-align="center">covid19.ca.gov</th><th class="has-text-align-center" data-align="center">digital.ca.gov</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">drought.ca.gov</p><img loading="lazy" width="2048" height="776" class="wp-image-515" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance.png" alt="drought.ca.gov audit results: performance 94, accessibility 91, best practices 100, SEO 100" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance.png 2048w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance-576x218.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance-1024x388.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance-768x291.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-drought-performance-1536x582.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></td><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">covid19.ca.gov</p><img loading="lazy" width="2048" height="759" class="wp-image-516" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance.png" alt="covid19.ca.gov audit results: performance 94, accessibility 98, best practices 100, SEO 100" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance.png 2048w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance-576x213.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance-1024x380.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance-768x285.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-covid-performance-1536x569.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></td><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">digital.ca.gov</p><img loading="lazy" width="2048" height="772" class="wp-image-517" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance.png" alt="digital.ca.gov audit results: performance 92, accessibility 100, best practices 100, SEO 100" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance.png 2048w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance-576x217.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance-1024x386.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance-768x290.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-digital-performance-1536x579.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></td></tr></tbody></table></figure>
+
+<p>Progressive enhancement</p>
+
+<p>Browser popularity changes over time, but there’s always a long tail of browsers people will use. Many teams aren’t going to have time to test them all.</p>
+
+<p>We make sure Design System components provide basic functionality to everybody. We&nbsp; focus on basic features that work without JavaScript. We also level up interactivity when browsers support improved capabilities. This gives us the best chance of not excluding visitors using a rare device or browser.</p>
+
+<h2>ES6</h2>
+
+<p>We take advantage of recent ES6 features in JavaScript such as <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules">modules</a>. We don’t provide <a href="https://en.wiktionary.org/wiki/transcompile#English">transpiled</a> bundles to support older browsers. Instead we focus on progressive enhancement. We include component code with <code>&lt;script type=module…&gt;</code>. This lets rarer, older devices that don’t support ES6 modules ignore it. Developers can integrate components into their pipelines and output the bundles they need.</p>
+
+<p>Focus on documentation</p>
+
+<p>We have extensive documentation on each component in a README. We use this markdown file for both:</p>
+
+<ul><li>The content on the component’s detail page on the Design System website</li><li>Its package homepage on npm</li></ul>
+
+<p>For example:</p>
+
+<figure class="wp-block-table"><table><thead><tr><th class="has-text-align-center" data-align="center">Feature card component README</th><th class="has-text-align-center" data-align="center">Feature card component page on Design System site. It uses the README with activated live demos</th><th class="has-text-align-center" data-align="center">Feature card component package page on npm</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">Feature card component README</p><a rel="noreferrer noopener" href="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github.png" target="_blank"><img loading="lazy" width="739" height="2048" class="wp-image-518" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github.png" alt="" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github.png 739w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github-208x576.png 208w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github-370x1024.png 370w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-github-554x1536.png 554w" sizes="(max-width: 739px) 100vw, 739px" /></a></td><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">Feature card component page on Design System site. It uses the README with activated live demos</p><a href="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-web.png"><img loading="lazy" width="455" height="2048" class="wp-image-519" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-web.png" alt="" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-web.png 455w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-web-128x576.png 128w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-readme-web-341x1536.png 341w" sizes="(max-width: 455px) 100vw, 455px" /></a></td><td class="has-text-align-center" data-align="center"><p class="cagov-reponsive-note">Feature card component package page on npm</p><a href="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png"><img loading="lazy" width="615" height="2048" class="wp-image-520" style="width: 300px;" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png" alt="" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png 615w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png 173w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-461x1536.png 461w" sizes="(max-width: 615px) 100vw, 615px" /></a></td></tr></tbody></table></figure>
+
+<p>Accessibility testing</p>
+
+<p>It’s wonderful that state law says state web services must be accessible. Teams throughout the state are constantly making sure their services work for everybody.&nbsp;</p>
+
+<p>We built Design System components to make that easier for state developers. We test each component rigorously&nbsp; so you can integrate it anywhere and have it work for any visitor.</p>
+
+<p>Our <a href="https://designsystem.webstandards.ca.gov/components/#component-maturity">component maturity model</a> describes how we ensure each component is accessible. The automated steps run during each commit to the Design System repository. Our accessibility verification process for each component includes:</p>
+
+<ul><li>Testing with the <a href="https://www.deque.com/axe/">axe</a> accessibility tool and passes all automated AA level checks</li><li>Reviewing with the <a href="https://www.apple.com/voiceover/info/guide/_1121.html">VoiceOver screen reader</a> on desktop</li><li>Reviewing with the <a href="https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack screen reader</a> on mobile</li><li>Verifying you can reach all all actionable elements via keyboard commands only</li><li>Reviewing the component layout on a variety of screen sizes</li><li>Reviewing the component display using content in:<ul><li>English</li><li>Spanish</li><li>Simplified Chinese</li><li>German</li><li>Arabic (using right to left display)</li></ul></li></ul>
+
+<h2>Individual component management</h2>
+
+<p>All components are published as separate packages to npm. This means you can integrate them individually and manage them as a single integration. This lets you use a single component without adopting the entire Design System.</p>
+
+<p>We’re doing this right now on one of California’s most viewed pages: the <a href="http://www.ca.gov">ca.gov homepage</a>. We added the page feedback widget at the bottom of the page. It’s the first Design System component used on that site.</p>
+
+<p>It doesn’t use the npm package. Instead, it retrieves the versioned source code from our CDN. This means you can upgrade by changing the version in the URL. We recommend you use a bot in your GitHub repo when you install components as npm packages. This will alert you to new versions of components. (Our current favorite is <a href="https://github.com/dependabot">dependabot</a>.)</p>
+
+<h2>User-driven development</h2>
+
+<p>We know we’re not the only people in California with good ideas. That’s why we get feedback from Californians and other state teams.</p>
+
+<p>In particular, CDT has provided great thoughts on how to make the Design System better. They’re now driving the development of the Design System. CDT’s goal is to replace the <a href="https://webstandards.ca.gov/template/">State Web Template</a> with the Design System. We’re really excited about this future for state websites!</p>
+
+<p>Our GitHub repo is open to public view and comment. Many people have contributed to the Design System through it.&nbsp;</p>
+
+<p>Outside thoughts help us improve the usability of Design System components. We’ve learned from state digital teams:</p>
+
+<ul><li>How they manage their services</li><li>What web components they use</li><li>How the Design System can best support them</li></ul>
+
+<p>We regularly glean insights from the staff attending Digital Web Services Network meetings. For example, we learned recently that teams need to be able to customize components.&nbsp;</p>
+
+<h2>Publicizing component maturity</h2>
+
+<p>Components move through maturity levels based on user testing and other requirements. We display the status at the top of component pages on the Design System site:</p>
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="191" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-maturity-tracker-1024x191.png" alt="The development stage for a component. There are four options: 1. In research, 2. Alpha (selected), 3. Beta, 4. Production" class="wp-image-525" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-maturity-tracker-1024x191.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-maturity-tracker-576x107.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-maturity-tracker-768x143.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-maturity-tracker.png 1138w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+<p>This clearly flags early versions of components as not yet fully baked. This gives us the freedom to use an iterative development process where we:</p>
+
+<ol><li>Ship versions of components on real sites</li><li>Do user testing</li><li>Gather feedback from developers</li><li>Improve components based on what we learned</li></ol>
+
+<p>Our promotion requirements are strict, especially in the later stages. If we make radical changes to a component we might even move it backwards on the maturity scale. This gives developers confidence that mature components are fully vetted for:</p>
+
+<ul><li>Accessibility</li><li>User experience</li><li>Performance</li><li>Ease of use</li></ul>
+
+<p>The entire Design System is still in Beta status (though many components are still in Alpha). We’re still gathering more feedback from people and improving these tools.</p>
+
+<h2>We want your ideas</h2>
+
+<p>We’re interested in hearing about widgets that might be useful for state teams! If you have something you think would be a good candidate to be part of California’s open source design system, <a href="https://github.com/cagov/design-system/issues">let us know</a>. We’d love to collaborate!</p>
