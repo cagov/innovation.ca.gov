@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-31T17:25:07",
-    "updated_date": "2022-05-31T18:35:59",
+    "updated_date": "2022-05-31T18:57:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-05-31T10:25:07",
     "date_gmt": "2022-05-31T17:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=513",
-    "modified": "2022-05-31T11:35:59",
-    "modified_gmt": "2022-05-31T18:35:59",
+    "modified": "2022-05-31T11:57:19",
+    "modified_gmt": "2022-05-31T18:57:19",
     "slug": "tech-choices-in-the-california-design-system",
     "status": "publish",
     "type": "post",
