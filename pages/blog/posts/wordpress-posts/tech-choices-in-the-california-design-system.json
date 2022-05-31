@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-31T17:25:07",
-    "updated_date": "2022-05-31T18:57:19",
+    "updated_date": "2022-05-31T20:34:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-05-31T10:25:07",
     "date_gmt": "2022-05-31T17:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=513",
-    "modified": "2022-05-31T11:57:19",
-    "modified_gmt": "2022-05-31T18:57:19",
+    "modified": "2022-05-31T13:34:05",
+    "modified_gmt": "2022-05-31T20:34:05",
     "slug": "tech-choices-in-the-california-design-system",
     "status": "publish",
     "type": "post",
@@ -26,7 +26,7 @@
     "title": "Tech choices in the California Design System",
     "excerpt": "<p>Learn about the decisions we made (and why we made them) in putting the Design System together.</p>\n",
     "author": "Aaron Hans",
-    "featured_media": 545,
+    "featured_media": 554,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -62,7 +62,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/05/31/tech-choices-in-the-california-design-system/",
       "page_title": "Tech choices in the California Design System",
       "page_description": "Learn about the decisions we made (and why we made them) in putting the Design System together.",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital.png",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -186,7 +186,7 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital.png",
         "source_url_match": true,
-        "featured": true
+        "featured": false
       },
       {
         "id": 545,
@@ -199,7 +199,7 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-2048x727.png",
         "source_url_match": true,
-        "featured": true
+        "featured": false
       },
       {
         "id": 545,
@@ -212,7 +212,7 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-1536x545.png",
         "source_url_match": true,
-        "featured": true
+        "featured": false
       },
       {
         "id": 545,
@@ -225,7 +225,7 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-1024x364.png",
         "source_url_match": true,
-        "featured": true
+        "featured": false
       },
       {
         "id": 545,
@@ -238,7 +238,7 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-768x273.png",
         "source_url_match": true,
-        "featured": true
+        "featured": false
       },
       {
         "id": 545,
@@ -251,18 +251,83 @@
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-576x204.png",
         "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 554,
+        "type": "full",
+        "path": "2022/05/perf-digital-share-1.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png",
+        "file": "perf-digital-share-1.png",
+        "width": 1555,
+        "height": 732,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1.png",
+        "source_url_match": false,
         "featured": true
       },
       {
-        "id": 545,
+        "id": 554,
+        "type": "1536x1536",
+        "path": "2022/05/perf-digital-share-1-1536x723.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1536x723.png",
+        "file": "perf-digital-share-1-1536x723.png",
+        "width": 1536,
+        "height": 723,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1536x723.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 554,
+        "type": "large",
+        "path": "2022/05/perf-digital-share-1-1024x482.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1024x482.png",
+        "file": "perf-digital-share-1-1024x482.png",
+        "width": 1024,
+        "height": 482,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-1024x482.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 554,
+        "type": "medium_large",
+        "path": "2022/05/perf-digital-share-1-768x362.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-768x362.png",
+        "file": "perf-digital-share-1-768x362.png",
+        "width": 768,
+        "height": 362,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-768x362.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 554,
+        "type": "medium",
+        "path": "2022/05/perf-digital-share-1-576x271.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png",
+        "file": "perf-digital-share-1-576x271.png",
+        "width": 576,
+        "height": 271,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-576x271.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 554,
         "type": "thumbnail",
-        "path": "2022/05/perf-digital-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-150x150.png",
-        "file": "perf-digital-150x150.png",
+        "path": "2022/05/perf-digital-share-1-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-150x150.png",
+        "file": "perf-digital-share-1-150x150.png",
         "width": 150,
         "height": 150,
         "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-150x150.png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/perf-digital-share-1-150x150.png",
         "source_url_match": false,
         "featured": true
       },
