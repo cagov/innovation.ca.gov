@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2022-06-01T21:09:37",
+    "updated_date": "2022-06-01T21:09:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 560,
+    "date": "2022-06-01T14:09:37",
+    "date_gmt": "2022-06-01T21:09:37",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award.pdf",
+    "modified": "2022-06-01T14:09:37",
+    "modified_gmt": "2022-06-01T21:09:37",
+    "slug": "odi-21-06-__-intent-to-award",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/odi-21-06-__-intent-to-award/",
+    "title": "ODI 21-06 __ Intent to Award",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award.pdf'><img width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "ODI-21-06-__-Intent-to-Award-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf.jpg"
+        },
+        "medium": {
+          "file": "ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg"
+        }
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/06/ODI-21-06-__-Intent-to-Award-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf.jpg",
+        "file": "ODI-21-06-__-Intent-to-Award-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2022/06/ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg",
+        "file": "ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2022/06/ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg",
+        "file": "ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/06/ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg",
+        "file": "ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/ODI-21-06-__-Intent-to-Award-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2022/06/ODI-21-06-__-Intent-to-Award.pdf"
+  }
+}
