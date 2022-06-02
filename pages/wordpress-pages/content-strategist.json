@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-06-02T22:13:58",
+    "updated_date": "2022-06-02T22:13:59",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 576,
+    "date": "2022-06-02T15:13:58",
+    "date_gmt": "2022-06-02T22:13:58",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=576",
+    "modified": "2022-06-02T15:13:59",
+    "modified_gmt": "2022-06-02T22:13:59",
+    "slug": "content-strategist",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/content-strategist/",
+    "title": "Content Strategist",
+    "excerpt": "<p>We&#8217;re looking for an experienced Content Strategist to join the team. You will be responsible for the creation and maintenance of clear and accessible content of varying types and on varying channels for the Office of Digital Innovation (ODI) and our agency partners. You will collaborate with agency partners, product managers, other designers, and engineers &#8230; <a title=\"Content Strategist\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/content-strategist/\" aria-label=\"More on Content Strategist\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "digital.ca.gov",
+      "site_description": "Office of Digital Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/content-strategist/",
+      "page_title": "Content Strategist",
+      "page_description": "Office of Digital Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Content Strategist",
+      "meta_description": "We're looking for an experienced Content Strategist who will be responsible for the creation and maintenance of clear and accessible content.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/content-strategist/",
+      "open_graph_title": "Content Strategist",
+      "open_graph_description": "Office of Digital Innovation",
+      "twitter_title": "Content Strategist",
+      "twitter_description": "Office of Digital Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/content-strategist/"
+  }
+}
