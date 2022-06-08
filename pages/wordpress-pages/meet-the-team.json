@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:26:12",
-    "updated_date": "2022-06-08T17:19:12",
+    "updated_date": "2022-06-08T17:44:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:26:12",
     "date_gmt": "2022-03-16T19:26:12",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=244",
-    "modified": "2022-06-08T10:19:12",
-    "modified_gmt": "2022-06-08T17:19:12",
+    "modified": "2022-06-08T10:44:12",
+    "modified_gmt": "2022-06-08T17:44:12",
     "slug": "meet-the-team",
     "status": "publish",
     "type": "page",
@@ -26,7 +26,7 @@
     "title": "Meet the team",
     "excerpt": "<p>We’re a team that’s passionate about making California a better place for everyone. Office of Digital Innovation (ODI) staff have backgrounds in: Tech Design Data Policy Strategy Analytics Research We’re longtime public servants, entrepreneurs, and private sector veterans. Some of us never even thought of ourselves as “tech people” until we joined ODI. We come &#8230; <a title=\"Meet the team\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/\" aria-label=\"More on Meet the team\">Read more</a></p>\n",
     "author": "Aaron Hans",
-    "featured_media": 311,
+    "featured_media": 0,
     "parent": 318,
     "menu_order": 0,
     "comment_status": "closed",
@@ -52,7 +52,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
       "page_title": "Meet the team",
       "page_description": "Office of Digital Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1.png",
+      "page_social_image_url": "",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -68,60 +68,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
-    "media": [
-      {
-        "id": 311,
-        "type": "full",
-        "path": "2022/04/pexels-aphiwat-chuangchoem-2178565-1.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1.png",
-        "file": "pexels-aphiwat-chuangchoem-2178565-1.png",
-        "width": 876,
-        "height": 481,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 311,
-        "type": "medium_large",
-        "path": "2022/04/pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
-        "file": "pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
-        "width": 768,
-        "height": 422,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 311,
-        "type": "medium",
-        "path": "2022/04/pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
-        "file": "pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
-        "width": 576,
-        "height": 316,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 311,
-        "type": "thumbnail",
-        "path": "2022/04/pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
-        "file": "pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
-        "width": 150,
-        "height": 150,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
-        "source_url_match": false,
-        "featured": true
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/"
   }
 }
