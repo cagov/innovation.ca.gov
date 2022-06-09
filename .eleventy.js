@@ -107,6 +107,9 @@ module.exports = function (eleventyConfig) {
         if(item.url.indexOf('our-work') > -1 || item.url.indexOf('meet-the-team') > -1) {
           item.data.layout = 'single-column';
         }
+        if(item.data.page.url == "/") {
+          item.data.layout = "landing";
+        }
         item.data.title = jsonData.title;
         item.data.publishdate = jsonData.date.split("T")[0]; //new Date(jsonData.modified_gmt)
         item.data.meta = jsonData.excerpt;
