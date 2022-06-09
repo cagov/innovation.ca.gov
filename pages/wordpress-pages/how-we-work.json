@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:22:34",
-    "updated_date": "2022-04-19T20:49:35",
+    "updated_date": "2022-06-09T16:05:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:22:34",
     "date_gmt": "2022-03-16T19:22:34",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=236",
-    "modified": "2022-04-19T13:49:35",
-    "modified_gmt": "2022-04-19T20:49:35",
+    "modified": "2022-06-09T09:05:28",
+    "modified_gmt": "2022-06-09T16:05:28",
     "slug": "how-we-work",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "How we work",
-      "meta_description": "Office of Digital Innovation",
+      "meta_description": "The Office of Digital Innovation uses best practices in human&#x2d;centered design and technology to solve big problems.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
       "open_graph_title": "How we work",
       "open_graph_description": "Office of Digital Innovation",
