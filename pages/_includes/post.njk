@@ -9,7 +9,7 @@
           <div class="category-label">{{ category | safe }}</div>
           <div class="entry-content">
             {% if author %}
-              <p class="text-muted byline">By {{author}}<br>{{publishdate | dateformat}}</p>
+              <p class="text-muted byline">By {{author | safe }}<br>{{publishdate | dateformat}}</p>
             {% endif %}
             {% if lead %}<p class="lead">{{ lead | safe }}</p>{% endif %}
             {{ content | safe }}
