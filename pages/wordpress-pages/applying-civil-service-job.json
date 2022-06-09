@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T22:09:17",
-    "updated_date": "2022-05-05T17:42:38",
+    "updated_date": "2022-06-09T16:02:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-18T15:09:17",
     "date_gmt": "2022-03-18T22:09:17",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=246",
-    "modified": "2022-05-05T10:42:38",
-    "modified_gmt": "2022-05-05T17:42:38",
+    "modified": "2022-06-09T09:02:14",
+    "modified_gmt": "2022-06-09T16:02:14",
     "slug": "applying-civil-service-job",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Applying for a civil service job",
-      "meta_description": "Office of Digital Innovation",
+      "meta_description": "We put together this walkthrough of applying for a civil service job at the State of California to help you apply for jobs.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/applying-civil-service-job/",
       "open_graph_title": "Applying for a civil service job",
       "open_graph_description": "Office of Digital Innovation",
