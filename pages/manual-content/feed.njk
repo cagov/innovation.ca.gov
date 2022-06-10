@@ -21,7 +21,6 @@ metadata:
   <id>{{ metadata.url }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
-    <email>{{ metadata.author.email }}</email>
   </author>
   {%- for post in collections.mySort %} {% set absolutePostUrl %} {{ post.url |
   url | absoluteUrl(metadata.url) }} {% endset %}
@@ -29,9 +28,9 @@ metadata:
     <title>{{ post.data.title }}</title>
     <link>{{ absolutePostUrl }}</link>
     <id>{{ absolutePostUrl }}</id>
-    <content type="html">
+    <summary type="html">
       {{ post.data.meta | htmlToAbsoluteUrls(absolutePostUrl) }}
-    </content>
+    </summary>
   </entry>
   {%- endfor %}
 </feed>
