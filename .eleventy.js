@@ -1,6 +1,6 @@
 const cagovBuildSystem = require("@cagov/11ty-build-system");
 const linkedom = require("linkedom");
-// const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 //Replaces content to rendered
 const replaceContent = (item, searchValue, replaceValue) => {
@@ -120,7 +120,6 @@ module.exports = function (eleventyConfig) {
         // WordPress will lazy load everything and you have to put php code in your theme to override it. We don't want to lazy load our featuref image
         item.template.frontMatter.content = item.template.frontMatter.content.replace('loading="lazy" class="cagov-featured-image','class="cagov-featured-image');
 
-
         let html = item.template.frontMatter.content;
         // Temporary rewrite of feature card h2 tag to h1. This is fixed in newer version of Gutenberg blocks plugin still under review so can be deleted when this no longer comes through as h2 causing a11y test failures
         if (html.indexOf('cagov-featured-sidebar') > -1) {
@@ -138,7 +137,6 @@ module.exports = function (eleventyConfig) {
             item.template.frontMatter.content = html;
           }
         }
-
 
         if (jsonData.media) {
           const featuredMedia = jsonData.media.find((x) => x.featured);
@@ -177,7 +175,8 @@ module.exports = function (eleventyConfig) {
       })
       .reverse();
   });
-  // eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
