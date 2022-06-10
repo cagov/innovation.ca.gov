@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-10T18:42:09",
-    "updated_date": "2022-06-10T18:42:12",
+    "updated_date": "2022-06-10T22:57:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-06-10T11:42:09",
     "date_gmt": "2022-06-10T18:42:09",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=612",
-    "modified": "2022-06-10T11:42:12",
-    "modified_gmt": "2022-06-10T18:42:12",
+    "modified": "2022-06-10T15:57:04",
+    "modified_gmt": "2022-06-10T22:57:04",
     "slug": "introducing-the-data-innovation-fund-dif",
     "status": "publish",
     "type": "post",
