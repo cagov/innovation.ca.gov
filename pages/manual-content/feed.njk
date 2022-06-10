@@ -14,10 +14,8 @@ metadata:
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ metadata.title }}</title>
   <subtitle>{{ metadata.subtitle }}</subtitle>
-  <link>{{ metadata.feedUrl }}</link>
-  <updated>
-    {{ collections.wordpressposts | getNewestCollectionItemDate | dateToRfc3339 }}
-  </updated>
+  <link href="{{ metadata.feedUrl }}" />
+  <updated>{{ collections.wordpressposts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
@@ -25,9 +23,10 @@ metadata:
   {%- for post in collections.mySort %} {% set absolutePostUrl %} {{ post.url |
   url | absoluteUrl(metadata.url) }} {% endset %}
   <entry>
-    <title>{{ post.data.title }}</title>
-    <link>{{ absolutePostUrl }}</link>
-    <id>{{ absolutePostUrl }}</id>
+    <title>{{ post.data.title | safe }}</title>
+    <link href="{{ absolutePostUrl.trim() }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl.trim() }}</id>
     <summary type="html">
       {{ post.data.meta | htmlToAbsoluteUrls(absolutePostUrl) }}
     </summary>
