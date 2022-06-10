@@ -1,0 +1,37 @@
+---
+permalink: 'feed.xml'
+eleventyExcludeFromCollections: true
+outputPath: './_site/feed.xml'
+metadata:
+  title: ODI blog
+  subtitle: State of California Office of Digital Innovation articles
+  url: 'https://digital.ca.gov/blob/'
+  feedUrl: 'https://digital.ca.gov/feed.xml'
+  author:
+    name: 'ODI'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link>{{ metadata.feedUrl }}</link>
+  <updated>
+    {{ collections.wordpressposts | getNewestCollectionItemDate | dateToRfc3339 }}
+  </updated>
+  <id>{{ metadata.url }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for post in collections.mySort %} {% set absolutePostUrl %} {{ post.url |
+  url | absoluteUrl(metadata.url) }} {% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link>{{ absolutePostUrl }}</link>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">
+      {{ post.data.meta | htmlToAbsoluteUrls(absolutePostUrl) }}
+    </content>
+  </entry>
+  {%- endfor %}
+</feed>

@@ -12,6 +12,7 @@
 
     <meta name="description" content="{{ data.og_meta.page_description | striptags }}" />
     <link rel="icon" href="/img/favicon.png">
+    <link rel="alternate" type="application/atom+xml" title="RSS Feed ODI Blog" href="/feed.xml" />
     {%- if tags | includes("do-not-crawl") %}
     <meta name="robots" content="noindex">
     {%- endif %}

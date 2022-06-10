@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^1.0.1",
-    "@cagov/11ty-build-system": "^0.3.0",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@cagov/11ty-build-system": "^0.3.1",
     "@cagov/ds-accordion": "^2.0.0",
     "@cagov/ds-back-to-top": "^2.0.0",
     "@cagov/ds-base-css": "^2.0.0-beta.1",
