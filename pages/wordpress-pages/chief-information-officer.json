@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-08T22:53:06",
-    "updated_date": "2022-06-08T22:53:08",
+    "updated_date": "2022-06-17T23:48:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-06-08T15:53:06",
     "date_gmt": "2022-06-08T22:53:06",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=597",
-    "modified": "2022-06-08T15:53:08",
-    "modified_gmt": "2022-06-08T22:53:08",
+    "modified": "2022-06-17T16:48:40",
+    "modified_gmt": "2022-06-17T23:48:40",
     "slug": "chief-information-officer",
     "status": "publish",
     "type": "page",
