@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Amy Tong",
+    "title": "Acting Director"
+  },
+  {
+    "name": "Aaron Hans",
+    "pronouns": "he/him",
+    "title": "Tech Lead",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aaronhans/"
+    }
+  },
+  {
+    "name": "Adam Little",
+    "pronouns": "he/him",
+    "title": "Designer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nonlocal/"
+    }
+  },
+  {
+    "name": "Aradhna Sharma",
+    "pronouns": "she/her",
+    "title": "Talent Engagement Specialist",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aradhna-sharma-88a373a5"
+    }
+  },
+  {
+    "name": "Ashley Lanham",
+    "pronouns": "she/her",
+    "title": "Talent Engagement Specialist",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ashley-lanham-54071645/"
+    }
+  },
+  {
+    "name": "Becki Gibson",
+    "pronouns": "she/her",
+    "title": "Chief Counsel",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/becki-gibson/"
+    }
+  },
+  {
+    "name": "Britt Allen",
+    "pronouns": "she/her",
+    "title": "Data Strategist",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/britt-allen/"
+    }
+  },
+  {
+    "name": "Carter Medlin",
+    "pronouns": "",
+    "title": "Senior Full Stack Developer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/carter-medlin-b1839b15/"
+    }
+  },
+  {
+    "name": "Chach Sikes",
+    "pronouns": "she/her",
+    "title": "Senior Engineer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chachasikes/"
+    }
+  },
+  {
+    "name": "Chad Bratton",
+    "pronouns": "",
+    "title": "Head of IT",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chadbratton/"
+    }
+  },
+  {
+    "name": "Christian Crumlish",
+    "pronouns": "he/him/they",
+    "title": "Product Manager",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mediajunkie/"
+    }
+  },
+  {
+    "name": "Clara Gonzalez Sueyro",
+    "pronouns": "she/her",
+    "title": "User Researcher",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/claragonzalezsueyro/"
+    }
+  },  
+  {
+    "name": "Daniel Yu",
+    "pronouns": "he/him",
+    "title": "Researcher",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/danielsyu/"
+    }
+  },
+  {
+    "name": "Debra Waltman",
+    "pronouns": "",
+    "title": "Administration Chief",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/debra-waltman/"
+    }
+  },
+  {
+    "name": "Jeffery Marino",
+    "pronouns": "",
+    "title": "Deputy Director of Service Innovation",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
+    }
+  },
+  {
+    "name": "Jenn Moran",
+    "pronouns": "she/her",
+    "title": "Deputy Director of Operations",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jenniferfmoran/"
+    }
+  },
+  {
+    "name": "Jim Bumgardner",
+    "pronouns": "",
+    "title": "Senior Engineer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/krazydad/"
+    }
+  },
+  {
+    "name": "Jon Jensen",
+    "pronouns": "",
+    "title": "Full Stack Developer",
+    "social": {
+      "linkedin": ""
+    }
+  },
+  {
+    "name": "JP Petrucione",
+    "pronouns": "",
+    "title": "Deputy Director of User Research",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jpetrucione/"
+    }
+  },
+  {
+    "name": "Kimberly Losenara",
+    "pronouns": "she/her/siya",
+    "title": "Visual Designer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/klosenara/"
+    }
+  },
+  {
+    "name": "Liz Nobriga",
+    "pronouns": "she/her",
+    "title": "Content Designer",
+    "social": {
+      "linkedin": ""
+    }
+  },
+  {
+    "name": "Michael Sullivan",
+    "pronouns": "he/him",
+    "title": "Content Designer",
+    "social": {
+      "linkedin": ""
+    }
+  },
+  {
+    "name": "Nathan Barnes",
+    "pronouns": "",
+    "title": "Systems Administrator",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nathanpbarnes/"
+    }
+  },
+  {
+    "name": "Peggy Gartin",
+    "pronouns": "she/her",
+    "title": "Content Designer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/peggygartin/"
+    }
+  },
+  {
+    "name": "Regan King",
+    "pronouns": "he/him",
+    "title": "Website Performance Analyst",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/reganking/"
+    }
+  },
+  {
+    "name": "Sarah Letson",
+    "pronouns": "she/her",
+    "title": "Rsearcher",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sarahletson/"
+    }
+  },
+  {
+    "name": "Zakiya Khabir",
+    "pronouns": "she/her",
+    "title": "Senior Full Stack Developer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/zakiyakhabir/"
+    }
+  }
+]

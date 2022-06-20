@@ -54,7 +54,9 @@
 
 @import 'theme-overrides'; /* theme colors */
 
-@import 'dif-form'; /* theme colors */
+@import 'dif-form'; /* single page */
+
+@import 'meet-team'; /* single page */
 
 /* need this globally, not sure why it was missing */
 a {
