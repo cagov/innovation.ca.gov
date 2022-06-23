@@ -123,14 +123,6 @@
     }
   },
   {
-    "name": "Debra Waltman",
-    "pronouns": "",
-    "title": "Administration Chief",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/debra-waltman/"
-    }
-  },
-  {
     "name": "Jeffery Marino",
     "pronouns": "he/him",
     "title": "Deputy Director of Service Innovation",
@@ -237,7 +229,7 @@
   {
     "name": "Sarah Letson",
     "pronouns": "she/her",
-    "title": "Rsearcher",
+    "title": "Researcher",
     "pic": "s-letson.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/sarahletson/",
