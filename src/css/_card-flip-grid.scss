@@ -1,0 +1,73 @@
+.cagov-flip-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
+  gap: 1rem;
+  justify-content: center;
+  list-style: none;
+
+  li {
+    margin: 0;
+    position: relative;
+    min-height: 194px;
+    min-width: 275px;
+  }
+  li:hover {
+    .card-front {
+      opacity: 0;
+      transition-property: opacity;
+      transition-duration: .2s;
+    }
+    .card-back {
+      opacity: 1;
+      transition-property: opacity;
+      transition-duration: .2s;
+    }
+  }
+  .card-front, .card-back {
+    min-height: 194px;
+    min-width: 275px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    position: absolute;
+    text-align: center;
+  }
+  .card-front {
+    background-color: #000;
+    opacity: 1;
+
+    .initials {
+      color: #fff;
+      background-color: var(--primary-light-color, #3f73a4);;
+      font-size: 3rem;
+      height: 100px;
+      width: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 5px;
+    }
+  }
+  .card-back {
+    background-color: #ecf1f6;
+    padding: 1rem;
+    flex-flow: column;
+    opacity: 0;
+
+    .employee-name {
+      font-weight: bold;
+    }
+
+    .social-links a svg path {
+      fill: var(--primary-color,#064e66);
+    }
+
+    .social-links a:last-child {
+      padding-right: 0;
+    }
+    .social-links a {
+      padding-right: 1rem;
+    }
+  }
+}

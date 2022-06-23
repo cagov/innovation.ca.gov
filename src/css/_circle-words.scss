@@ -27,37 +27,3 @@
     border-color: var(--secondary-lightest-color, #e4881e);
   }
 }
-
-.cagov-flip-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
-  gap: 1rem;
-  justify-content: center;
-  list-style: none;
-
-  li {
-    margin: 0;
-  }
-  .card-front {
-    background-color: #000;
-    min-height: 194px;
-    min-width: 275px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .card-back {
-    background-color: #000;
-    display: none;
-  }
-  .initials {
-    color: #fff;
-    background-color: var(--primary-light-color, #3f73a4);;
-    font-size: 3rem;
-    height: 100px;
-    width: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-}

@@ -56,7 +56,8 @@
 
 @import 'dif-form'; /* single page */
 
-@import 'meet-team'; /* single page */
+@import 'circle-words'; /* used on team page for words in big circles in bowling pin layout */
+@import 'card-flip-grid'; /* used on team page for employee profiles */
 
 /* need this globally, not sure why it was missing */
 a {
