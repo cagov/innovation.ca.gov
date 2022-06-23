@@ -49,6 +49,19 @@
       border-radius: 5px;
     }
   }
+  .card-front.card-you {
+    .employee-emoji {
+      font-size: 2rem;
+      position: absolute;
+      top: 0;
+      left: 1rem;
+    }
+    .initials {
+      border-radius: 50%;
+      font-size: 2rem;
+    }
+  }
+
   .card-back {
     background-color: #ecf1f6;
     padding: 1rem;
@@ -58,16 +71,25 @@
     .employee-name {
       font-weight: bold;
     }
-
+    .employee-pronouns {
+      font-style: italic;
+    }
     .social-links a svg path {
       fill: var(--primary-color,#064e66);
     }
 
-    .social-links a:last-child {
-      padding-right: 0;
-    }
-    .social-links a {
-      padding-right: 1rem;
+    .social-links {
+      display: flex;
+      min-height: 2.25rem;
+
+      a {
+        padding-right: 1rem;
+        display: flex;
+        align-items: center;
+      }
+      a:last-child {
+        padding-right: 0;
+      }
     }
   }
 }

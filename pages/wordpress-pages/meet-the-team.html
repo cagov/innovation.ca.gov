@@ -11,17 +11,24 @@
 <ul class="cagov-flip-cards">
   {%- for emp in employees -%}
   <li>
-    <div class="card-front">
-      {% if emp.pic %}
-        <img src="/img/headshots/{{ emp.pic }}" />
-      {% else %}
-        <span class="initials">{{ emp.name.split(" ")[0] | first }}{{ emp.name.split(" ")[1] | first }}</span>
-      {% endif %}
-    </div>
+    {% if emp.name==="Want to join the team?" %}
+      <div class="card-front card-you">
+        <span class="employee-emoji">👀</span>
+        <span class="initials">You</span>
+      </div>
+    {% else %}
+      <div class="card-front">
+        {% if emp.pic %}
+          <img src="/img/headshots/{{ emp.pic }}" />
+        {% else %}
+          <span class="initials">{{ emp.name.split(" ")[0] | first }}{{ emp.name.split(" ")[1] | first }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
     <div class="card-back">
       <span class="employee-name">{{ emp.name }}</span>
       <span class="employee-pronouns">{{ emp.pronouns }}</span>
-      <span class="employee-title">{{ emp.title }}</span>
+      <span class="employee-title">{{ emp.title | safe }}</span>
       <span class="social-links">
         {% if emp.social.linkedin %}
           <a href="{{ emp.social.linkedin }}"><svg aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 1024 1024" style="enable-background:new 0 0 24 24;" xml:space="preserve"><path d="M320.56 198.313c0 55.063-44.637 99.71-99.71 99.71s-99.71-44.637-99.71-99.71c0-55.063 44.637-99.71 99.71-99.71s99.71 44.637 99.71 99.71zm-183.46 171.5h167.51V908.24H137.1V369.813zm594.26-15.96c-79.77 0-135.6 43.87-155.55 87.74v-75.78H408.3V904.24h167.51V637.02c0-67.8 11.97-135.6 99.71-135.6s87.74 79.77 87.74 143.58v263.23h167.51V613.09c0-143.58-31.91-259.24-199.42-259.24z"></path></svg></a>
@@ -46,7 +53,7 @@
 		c0.1,0.4,0.1,0.8,0.2,1.2c0,0.1,0,0.2,0,0.2C23.3,11.9,23.3,12.3,23.3,12.8z"></path></g></svg></a>
         {% endif %}
         {% if emp.social.email %}
-          <a href="{{ emp.social.email }}">
+          <a href="mailto:{{ emp.social.email }}">
             <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M23.4192 6.35196C23.3552 5.36596 22.5742 4.58596 21.5892 4.51996C21.5462 4.51796 21.5052 4.50696 21.4622 4.50696V4.51996L3.50423 4.50696C3.46123 4.50696 3.42023 4.51796 3.37723 4.51996C2.37923 4.58596 1.59023 5.38396 1.54223 6.38596C1.54123 6.41596 1.53223 6.44796 1.53223 6.47896C1.53223 6.50996 1.54123 6.53996 1.54223 6.56996V19.341H23.4192V6.60496C23.4222 6.56196 23.4332 6.52196 23.4332 6.47896C23.4332 6.43496 23.4232 6.39496 23.4202 6.35196H23.4192ZM19.8352 6.46696L12.4802 12.73L5.12723 6.46696H19.8352ZM3.48823 8.44896C3.49323 8.44896 3.49923 8.44996 3.50423 8.44996V7.64196L8.33223 11.753L3.48823 16.313V8.44896ZM4.47823 17.395L9.34923 12.547L12.4802 15.284L15.6312 12.529L20.4762 17.396H4.47823V17.395ZM21.4742 16.312L16.6292 11.752L21.4612 7.63796V8.44996C21.4662 8.44996 21.4712 8.44896 21.4752 8.44896V16.313L21.4742 16.312Z" fill="#0D4F8C"/>
             </svg></a>
