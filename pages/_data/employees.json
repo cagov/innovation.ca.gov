@@ -63,14 +63,6 @@
     }
   },
   {
-    "name": "Carter Medlin",
-    "pronouns": "",
-    "title": "Senior Full Stack Developer",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/carter-medlin-b1839b15/"
-    }
-  },
-  {
     "name": "Chach Sikes",
     "pronouns": "she/her",
     "title": "Senior Engineer",
@@ -101,7 +93,7 @@
       "linkedin": "https://www.linkedin.com/in/mediajunkie/",
       "twitter": "https://twitter.com/mediajunkie",
       "github": "https://github.com/mediajunkie",
-      "email": "xian@innovation.ca.gov"
+      "email": "xian@digital.ca.gov"
     }
   },
   {

@@ -11,7 +11,8 @@
     min-height: 194px;
     min-width: 275px;
   }
-  li:hover {
+  li:hover, li:focus {
+
     .card-front {
       opacity: 0;
       transition-property: opacity;
