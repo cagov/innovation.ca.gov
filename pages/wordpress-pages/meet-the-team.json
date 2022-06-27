@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:26:12",
-    "updated_date": "2022-06-27T19:27:31",
+    "updated_date": "2022-06-27T19:32:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:26:12",
     "date_gmt": "2022-03-16T19:26:12",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=244",
-    "modified": "2022-06-27T12:27:31",
-    "modified_gmt": "2022-06-27T19:27:31",
+    "modified": "2022-06-27T12:32:35",
+    "modified_gmt": "2022-06-27T19:32:35",
     "slug": "meet-the-team",
     "status": "publish",
     "type": "page",
