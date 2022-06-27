@@ -17,13 +17,19 @@
         <span class="initials">You</span>
       </div>
     <!--{% else %}-->
-      <div class="card-front">
-        <!--{% if emp.pic %}-->
+      <!--{% if emp.pic %}-->
+        <div class="card-front emp-image-present">
           <img src="/img/headshots/{{ emp.pic }}" alt="{{ emp.name }}, {{ emp.pronouns }}, {{ emp.title | safe }}" />
-        <!--{% else %}-->
-          <span class="initials">{{ emp.name.split(" ")[0] | first }}{{ emp.name.split(" ")[1] | first }}</span>
-        <!--{% endif %}-->
-      </div>
+        </div>
+      <!--{% else %}-->
+        <div class="card-front">
+          <!--{% set initials = emp.name.split(" ") %}
+          {% for words in initials %}
+          {% set letters = letters + words[0] %}
+          {% endfor %}-->
+          <span class="initials">{{ letters }}</span>
+        </div>
+      <!--{% endif %}-->
     <!--{% endif %}-->
     <div class="card-back">
       <span class="employee-name">{{ emp.name }}</span>
