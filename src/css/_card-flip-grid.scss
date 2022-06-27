@@ -1,0 +1,106 @@
+.cagov-flip-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
+  gap: 1rem;
+  justify-content: center;
+  list-style: none;
+
+  li {
+    margin: 0;
+    position: relative;
+    min-height: 194px;
+    min-width: 275px;
+  }
+  li:hover, li:focus {
+
+    .card-front {
+      opacity: 0;
+      transition-property: opacity;
+      transition-duration: .2s;
+    }
+    .card-back {
+      opacity: 1;
+      transition-property: opacity;
+      transition-duration: .2s;
+    }
+  }
+  .card-front, .card-back {
+    min-height: 194px;
+    min-width: 275px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    position: absolute;
+    text-align: center;
+  }
+  .card-front {
+    background-color: #000;
+    opacity: 1;
+
+    &.emp-image-present {
+      background: transparent;
+    }
+
+    .initials {
+      color: #fff;
+      background-color: var(--primary-light-color, #3f73a4);;
+      font-size: 3rem;
+      height: 100px;
+      width: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 5px;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+    }
+  }
+  .card-front.card-you {
+    .employee-emoji {
+      font-size: 2rem;
+      position: absolute;
+      top: 0;
+      left: 1rem;
+    }
+    .initials {
+      border-radius: 50%;
+      font-size: 2rem;
+    }
+  }
+
+  .card-back {
+    background-color: #ecf1f6;
+    padding: 0 1rem;
+    flex-flow: column;
+    opacity: 0;
+
+    .employee-name {
+      font-weight: bold;
+    }
+    .employee-pronouns {
+      font-style: italic;
+    }
+    .social-links a svg path {
+      fill: var(--primary-color,#064e66);
+    }
+
+    .social-links {
+      display: flex;
+      min-height: 2.25rem;
+
+      a {
+        padding-right: 1rem;
+        display: flex;
+        align-items: center;
+      }
+      a:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}

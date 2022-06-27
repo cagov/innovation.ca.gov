@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Amy Tong",
+    "title": "Director"
+  },
+  {
+    "name": "Aaron Hans",
+    "pronouns": "he/him",
+    "title": "Senior Engineer - Technical Lead",
+    "pic": "a-hans.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aaronhans/",
+      "twitter": "https://twitter.com/nopatternaaron",
+      "github": "https://github.com/aaronhans"
+    }
+  },
+  {
+    "name": "Adam Little",
+    "pronouns": "he/him",
+    "title": "Designer",
+    "pic": "a-little.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nonlocal/"
+    }
+  },
+  {
+    "name": "Aradhna Sharma",
+    "pronouns": "she/her",
+    "title": "Talent Engagement Specialist",
+    "pic": "a-sharma.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aradhna-sharma-88a373a5"
+    }
+  },
+  {
+    "name": "Ashley Lanham",
+    "pronouns": "she/her",
+    "pic": "a-lanham.jpg",
+    "title": "Talent Engagement Specialist",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ashley-lanham-54071645/",
+      "email": "ashley.lanham@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Becki Gibson",
+    "pronouns": "she/her",
+    "title": "Chief Counsel",
+    "pic": "b-gibson.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/becki-gibson/"
+    }
+  },
+  {
+    "name": "Britt Allen",
+    "pronouns": "she/her",
+    "title": "Data Strategist",
+    "pic": "b-allen.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/britt-allen/",
+      "twitter": "https://twitter.com/brittughknee",
+      "github": "https://github.com/britt-allen"
+    }
+  },
+  {
+    "name": "Chach Sikes",
+    "pronouns": "she/her",
+    "title": "Senior Engineer",
+    "pic": "c-sikes.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chachasikes/",
+      "twitter": "https://twitter.com/chachasikes",
+      "github": "https://github.com/chachasikes"
+    }
+  },
+  {
+    "name": "Chad Bratton",
+    "pronouns": "",
+    "title": "Head of IT",
+    "pic": "c-bratton.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chadbratton/",
+      "twitter": "https://twitter.com/chad_bratton",
+      "email": "chad.bratton@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Christian Crumlish",
+    "pronouns": "he/him/they",
+    "title": "Product Manager",
+    "pic": "c-crumlish.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mediajunkie/",
+      "twitter": "https://twitter.com/mediajunkie",
+      "github": "https://github.com/mediajunkie",
+      "email": "xian@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Clara Gonzalez Sueyro",
+    "pronouns": "she/her",
+    "title": "User Researcher",
+    "pic": "c-gonzalez-sueyro.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/claragonzalezsueyro/"
+    }
+  },  
+  {
+    "name": "Daniel Yu",
+    "pronouns": "he/him",
+    "title": "Researcher",
+    "pic": "d-yu.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/danielsyu/"
+    }
+  },
+  {
+    "name": "Jeffery Marino",
+    "pronouns": "he/him",
+    "title": "Deputy Director of Service Innovation",
+    "pic": "j-marino.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
+    }
+  },
+  {
+    "name": "Jenn Moran",
+    "pronouns": "she/her",
+    "title": "Deputy Director of Operations",
+    "pic": "j-moran.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jenniferfmoran/"
+    }
+  },
+  {
+    "name": "Jim Bumgardner",
+    "pronouns": "",
+    "title": "Senior Engineer",
+    "pic": "j-bumgardner.jpg",
+    "social": {
+      "twitter": "https://twitter.com/jbum",
+      "github": "https://github.com/jbum"
+    }
+  },
+  {
+    "name": "Jon Jensen",
+    "pronouns": "",
+    "title": "Full Stack Developer",
+    "pic": "j-jensen.jpg",
+    "social": {
+      "github": "https://github.com/xjensen",
+      "email": "jon.jensen@digital.ca.gov"
+    }
+  },
+  {
+    "name": "JP Petrucione",
+    "pronouns": "",
+    "title": "Deputy Director of User Research",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jpetrucione/"
+    }
+  },
+  {
+    "name": "Kimberly Losenara",
+    "pronouns": "she/her/siya",
+    "title": "Visual Designer",
+    "pic": "k-losenara.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/klosenara/"
+    }
+  },
+  {
+    "name": "Liz Nobriga",
+    "pronouns": "she/her",
+    "title": "Content Designer",
+    "pic": "l-nobriga.png",
+    "social": {
+      "github": "https://github.com/LizNobriga",
+      "email": "elisabeth.nobriga@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Michael Sullivan",
+    "pronouns": "he/him",
+    "title": "Content Designer",
+    "pic": "m-sullivan.png",
+    "social": {
+      "github": "https://github.com/m-sullivan7",
+      "email": "michael@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Nathan Barnes",
+    "pronouns": "",
+    "title": "Systems Administrator",
+    "pic": "n-barnes.png",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nathanpbarnes/"
+    }
+  },
+  {
+    "name": "Peggy Gartin",
+    "pronouns": "she/her",
+    "title": "Content Designer",
+    "pic": "p-gartin.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/peggygartin/",
+      "twitter": "https://twitter.com/thepegisin",
+      "github": "https://github.com/thepegisin"
+    }
+  },
+  {
+    "name": "Regan King",
+    "pronouns": "he/him",
+    "title": "Website Performance Analyst",
+    "pic": "r-king.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/reganking/"
+    }
+  },
+  {
+    "name": "Sarah Letson",
+    "pronouns": "she/her",
+    "title": "Researcher",
+    "pic": "s-letson.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sarahletson/",
+      "email": "sarah.letson@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Zakiya Khabir",
+    "pronouns": "she/her",
+    "title": "Senior Full Stack Developer",
+    "pic": "z-khabir.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/zakiyakhabir/",
+      "twitter": "https://twitter.com/zakiyarules",
+      "github": "https://github.com/zakiya"
+    }
+  },
+  {
+    "name": "Want to join the team?",
+    "title": "Check out our <a href='/join-us/'>open roles</a>"
+  }
+]

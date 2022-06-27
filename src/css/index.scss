@@ -54,7 +54,10 @@
 
 @import 'theme-overrides'; /* theme colors */
 
-@import 'dif-form'; /* theme colors */
+@import 'dif-form'; /* single page */
+
+@import 'circle-words'; /* used on team page for words in big circles in bowling pin layout */
+@import 'card-flip-grid'; /* used on team page for employee profiles */
 
 /* need this globally, not sure why it was missing */
 a {
