@@ -23,11 +23,8 @@
         </div>
       <!--{% else %}-->
         <div class="card-front">
-          <!--{% set initials = emp.name.split(" ") %}
-          {% for words in initials %}
-          {% set letters = letters + words[0] %}
-          {% endfor %}-->
-          <span class="initials">{{ letters }}</span>
+          <span class="initials"><!--{% set initials = emp.name.split(" ") %}
+          {% for words in initials %}-->{{ words | first }}<!--{% endfor %}--></span>
         </div>
       <!--{% endif %}-->
     <!--{% endif %}-->
