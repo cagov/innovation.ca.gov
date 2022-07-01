@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-07-01T18:56:53",
-    "updated_date": "2022-07-01T18:56:53",
+    "updated_date": "2022-07-01T20:25:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-07-01T11:56:53",
     "date_gmt": "2022-07-01T18:56:53",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf",
-    "modified": "2022-07-01T11:56:53",
-    "modified_gmt": "2022-07-01T18:56:53",
+    "modified": "2022-07-01T13:25:54",
+    "modified_gmt": "2022-07-01T20:25:54",
     "slug": "notice-of-intent-to-award-ux-researcher",
     "status": "inherit",
     "type": "attachment",
