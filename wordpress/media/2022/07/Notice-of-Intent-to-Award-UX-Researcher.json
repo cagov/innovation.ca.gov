@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2022-07-01T18:56:53",
+    "updated_date": "2022-07-01T18:56:53",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 676,
+    "date": "2022-07-01T11:56:53",
+    "date_gmt": "2022-07-01T18:56:53",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf",
+    "modified": "2022-07-01T11:56:53",
+    "modified_gmt": "2022-07-01T18:56:53",
+    "slug": "notice-of-intent-to-award-ux-researcher",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/notice-of-intent-to-award-ux-researcher/",
+    "title": "Notice of Intent to Award &#8211; UX Researcher",
+    "author": "Aaron Hans",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf'><img width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg"
+        },
+        "medium": {
+          "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg"
+        }
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg",
+        "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg",
+        "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg",
+        "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg",
+        "file": "Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/Notice-of-Intent-to-Award-UX-Researcher-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2022/07/Notice-of-Intent-to-Award-UX-Researcher.pdf"
+  }
+}
