@@ -24,6 +24,14 @@
     }
   },
   {
+    "name": "Alanna Williams",
+    "title": "Senior Data and Policy Analyst",
+    "pic": "a-williams.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/alanna-williams"
+    }
+  },
+  {
     "name": "Aradhna Sharma",
     "pronouns": "she/her",
     "title": "Talent Engagement Specialist",
@@ -49,6 +57,16 @@
     "pic": "b-gibson.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/becki-gibson/"
+    }
+  },
+  {
+    "name": "Blake Valenta",
+    "pronouns": "he/him",
+    "title": "Statewide Data Programs Manager",
+    "pic": "b-valenta.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dblakev/",
+      "twitter": "https://twitter.com/dblakev"
     }
   },
   {
@@ -115,6 +133,16 @@
     }
   },
   {
+    "name": "Jason Lally",
+    "pronouns": "he/him",
+    "title": "Deputy Chief Data Officer",
+    "pic": "j-lally.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jasonlally/",
+      "twitter": "https://twitter.com/synchronouscity"
+    }
+  },
+  {
     "name": "Jeffery Marino",
     "pronouns": "he/him",
     "title": "Deputy Director of Service Innovation",
@@ -150,6 +178,16 @@
     "social": {
       "github": "https://github.com/xjensen",
       "email": "jon.jensen@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Joy Bonaguro",
+    "pronouns": "she/her",
+    "title": "Chief Data Officer",
+    "pic": "j-bonaguro.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/joybonaguro/",
+      "twitter": "https://twitter.com/JoyBonaguro"
     }
   },
   {
