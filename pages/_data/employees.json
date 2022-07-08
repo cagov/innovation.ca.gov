@@ -143,16 +143,6 @@
     }
   },
   {
-    "name": "Joy Bonaguro",
-    "pronouns": "she/her",
-    "title": "Chief Data Officer",
-    "pic": "j-bonaguro.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/joybonaguro/",
-      "twitter": "https://twitter.com/JoyBonaguro"
-    }
-  },
-  {
     "name": "Jeffery Marino",
     "pronouns": "he/him",
     "title": "Deputy Director of Service Innovation",
@@ -188,6 +178,16 @@
     "social": {
       "github": "https://github.com/xjensen",
       "email": "jon.jensen@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Joy Bonaguro",
+    "pronouns": "she/her",
+    "title": "Chief Data Officer",
+    "pic": "j-bonaguro.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/joybonaguro/",
+      "twitter": "https://twitter.com/JoyBonaguro"
     }
   },
   {
