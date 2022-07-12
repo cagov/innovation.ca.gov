@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2022-06-09T16:04:22",
+    "updated_date": "2022-07-12T16:58:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2022-06-09T09:04:22",
-    "modified_gmt": "2022-06-09T16:04:22",
+    "modified": "2022-07-12T09:58:07",
+    "modified_gmt": "2022-07-12T16:58:07",
     "slug": "our-work",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Our work",
-      "meta_description": "Learn about what the Office of Digital Innovation has done to improve state services for Californians.",
+      "meta_description": "Learn about what the Office of Data & Innovation has done to improve state services for Californians.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/",
       "open_graph_title": "Our work",
       "open_graph_description": "Office of Data &amp; Innovation",
