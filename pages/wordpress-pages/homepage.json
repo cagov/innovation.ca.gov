@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2022-07-12T16:46:29",
+    "updated_date": "2022-07-12T17:21:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-11-09T05:26:02",
     "date_gmt": "2021-11-09T13:26:02",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-07-12T09:46:29",
-    "modified_gmt": "2022-07-12T16:46:29",
+    "modified": "2022-07-12T10:21:25",
+    "modified_gmt": "2022-07-12T17:21:25",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Office of Data & Innovation",
-      "meta_description": "The Office of Digital Innovation use human&#x2d;centered design and technology to create services that are easier for all Californians to use.",
+      "meta_description": "The Office of Data & Innovation use human&#x2d;centered design and technology to create services that are easier for all Californians to use.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/",
       "open_graph_title": "Office of Data & Innovation",
       "open_graph_description": "Office of Data &amp; Innovation",
