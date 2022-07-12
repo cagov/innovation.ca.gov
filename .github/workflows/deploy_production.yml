@@ -27,52 +27,6 @@ jobs:
         with:
           args: --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: 'digital.ca.gov'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
-          SOURCE_DIR: ./_site # only move built directory
-
-      # Reset the cache-control headers on static assets on production S3 bucket
-      - name: Reset cache-control on static files
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws_region: 'us-west-1'   # optional: defaults to us-east-1
-          source: './_site/fonts'
-          dest: 's3://digital.ca.gov/fonts'
-          flags: --recursive --cache-control max-age=15552000
-
-      # Reset the cache-control headers on static assets on production S3 bucket
-      - name: Reset cache-control on static files
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws_region: 'us-west-1'   # optional: defaults to us-east-1
-          source: './_site/img'
-          dest: 's3://digital.ca.gov/img'
-          flags: --recursive --cache-control max-age=15552000
-
-      # Invalidate Cloudfront production distribution
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@v1.3
-        env:
-          DISTRIBUTION: 'E1KO87RQFUTIBK'
-          PATHS: '/*'
-          AWS_REGION: 'us-west-1'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}             
-
-
-      # Following deploy steps duplicate AWS setup on the innovation.ca.gov buckets
-      # Push built site files to S3 production bucket    
-      - name: Deploy to S3
-        uses: jakejarvis/s3-sync-action@v0.5.1
-        with:
-          args: --follow-symlinks --delete
-        env:
           AWS_S3_BUCKET: 'innovation.ca.gov'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
