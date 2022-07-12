@@ -1,5 +1,5 @@
 # digital.ca.gov
-Office of Digital Innovation website
+Office of Data & Innovation website
 
 
 ## Blog

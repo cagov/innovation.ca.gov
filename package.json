@@ -1,7 +1,7 @@
 {
   "name": "digital.ca.gov",
   "version": "1.0.0",
-  "description": "Office of Digital Innovation website",
+  "description": "Office of Data & Innovation website",
   "main": "index.js",
   "devDependencies": {
     "@open-wc/eslint-config": "^4.3.0",
