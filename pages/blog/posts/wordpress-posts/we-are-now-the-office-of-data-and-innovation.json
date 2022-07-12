@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-07-12T22:33:45",
-    "updated_date": "2022-07-12T23:17:24",
+    "updated_date": "2022-07-12T23:55:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-07-12T15:33:45",
     "date_gmt": "2022-07-12T22:33:45",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=702",
-    "modified": "2022-07-12T16:17:24",
-    "modified_gmt": "2022-07-12T23:17:24",
+    "modified": "2022-07-12T16:55:06",
+    "modified_gmt": "2022-07-12T23:55:06",
     "slug": "we-are-now-the-office-of-data-and-innovation",
     "status": "publish",
     "type": "post",
@@ -26,7 +26,7 @@
     "title": "We’re now the Office of Data &#038; Innovation",
     "excerpt": "<p>Same initials, new expanded team.</p>\n",
     "author": "Jennifer Moran",
-    "featured_media": 0,
+    "featured_media": 713,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -62,7 +62,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/",
       "page_title": "We’re now the Office of Data & Innovation",
       "page_description": "Same initials, new expanded team.",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -95,6 +95,73 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/",
+    "media": [
+      {
+        "id": 713,
+        "type": "full",
+        "path": "2022/07/office-of-data-and-innovation-featured.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured.png",
+        "file": "office-of-data-and-innovation-featured.png",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 713,
+        "type": "large",
+        "path": "2022/07/office-of-data-and-innovation-featured-1024x538.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-1024x538.png",
+        "file": "office-of-data-and-innovation-featured-1024x538.png",
+        "width": 1024,
+        "height": 538,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-1024x538.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 713,
+        "type": "medium_large",
+        "path": "2022/07/office-of-data-and-innovation-featured-768x403.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-768x403.png",
+        "file": "office-of-data-and-innovation-featured-768x403.png",
+        "width": 768,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-768x403.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 713,
+        "type": "medium",
+        "path": "2022/07/office-of-data-and-innovation-featured-576x302.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-576x302.png",
+        "file": "office-of-data-and-innovation-featured-576x302.png",
+        "width": 576,
+        "height": 302,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-576x302.png",
+        "source_url_match": false,
+        "featured": true
+      },
+      {
+        "id": 713,
+        "type": "thumbnail",
+        "path": "2022/07/office-of-data-and-innovation-featured-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-150x150.png",
+        "file": "office-of-data-and-innovation-featured-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/office-of-data-and-innovation-featured-150x150.png",
+        "source_url_match": false,
+        "featured": true
+      }
+    ]
   }
 }
