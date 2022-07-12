@@ -26,7 +26,7 @@
     "title": "We’re now the Office of Data &#038; Innovation",
     "excerpt": "<p>Same initials, new expanded team.</p>\n",
     "author": "Jennifer Moran",
-    "featured_media": 708,
+    "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -62,7 +62,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/",
       "page_title": "We’re now the Office of Data & Innovation",
       "page_description": "Same initials, new expanded team.",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630.png",
+      "page_social_image_url": "",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -95,73 +95,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/",
-    "media": [
-      {
-        "id": 708,
-        "type": "full",
-        "path": "2022/07/odi-july-1-announcement_1200x630.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630.png",
-        "file": "odi-july-1-announcement_1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 708,
-        "type": "large",
-        "path": "2022/07/odi-july-1-announcement_1200x630-1024x538.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-1024x538.png",
-        "file": "odi-july-1-announcement_1200x630-1024x538.png",
-        "width": 1024,
-        "height": 538,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-1024x538.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 708,
-        "type": "medium_large",
-        "path": "2022/07/odi-july-1-announcement_1200x630-768x403.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-768x403.png",
-        "file": "odi-july-1-announcement_1200x630-768x403.png",
-        "width": 768,
-        "height": 403,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-768x403.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 708,
-        "type": "medium",
-        "path": "2022/07/odi-july-1-announcement_1200x630-576x302.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-576x302.png",
-        "file": "odi-july-1-announcement_1200x630-576x302.png",
-        "width": 576,
-        "height": 302,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-576x302.png",
-        "source_url_match": false,
-        "featured": true
-      },
-      {
-        "id": 708,
-        "type": "thumbnail",
-        "path": "2022/07/odi-july-1-announcement_1200x630-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-150x150.png",
-        "file": "odi-july-1-announcement_1200x630-150x150.png",
-        "width": 150,
-        "height": 150,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/07/odi-july-1-announcement_1200x630-150x150.png",
-        "source_url_match": false,
-        "featured": true
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/"
   }
 }
