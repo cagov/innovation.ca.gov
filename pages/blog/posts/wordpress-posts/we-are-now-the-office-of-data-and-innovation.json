@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-07-12T22:33:45",
-    "updated_date": "2022-07-12T23:11:35",
+    "updated_date": "2022-07-12T23:17:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-07-12T15:33:45",
     "date_gmt": "2022-07-12T22:33:45",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=702",
-    "modified": "2022-07-12T16:11:35",
-    "modified_gmt": "2022-07-12T23:11:35",
+    "modified": "2022-07-12T16:17:24",
+    "modified_gmt": "2022-07-12T23:17:24",
     "slug": "we-are-now-the-office-of-data-and-innovation",
     "status": "publish",
     "type": "post",
