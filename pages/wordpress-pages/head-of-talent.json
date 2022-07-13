@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-07-13T17:51:31",
-    "updated_date": "2022-07-13T17:51:32",
+    "updated_date": "2022-07-13T18:00:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-07-13T10:51:31",
     "date_gmt": "2022-07-13T17:51:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=717",
-    "modified": "2022-07-13T10:51:32",
-    "modified_gmt": "2022-07-13T17:51:32",
+    "modified": "2022-07-13T11:00:31",
+    "modified_gmt": "2022-07-13T18:00:31",
     "slug": "head-of-talent",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Head of Talent",
-      "meta_description": "We’re looking for an open and dynamic leader to manage the talent function as the Head of Talent.",
+      "meta_description": "We’re looking for an open and dynamic leader to manage ODI's talent function as the Head of Talent.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent/",
       "open_graph_title": "Head of Talent",
       "open_graph_description": "Office of Data &amp; Innovation",
