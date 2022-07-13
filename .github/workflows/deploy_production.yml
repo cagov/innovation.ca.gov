@@ -1,5 +1,5 @@
-name: Deploy PROD digital.ca.gov
-# site:  development.digital.ca.gov
+name: Deploy PROD innovation.ca.gov
+# site:  development.innovation.ca.gov
 on:
   push:
     branches:

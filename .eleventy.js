@@ -59,7 +59,7 @@ module.exports = function (eleventyConfig) {
     let output = [];
 
     collection.getAll().forEach((item) => {
-      item.data.domain = 'digital.ca.gov';
+      item.data.domain = 'innovation.ca.gov';
       if (item.inputPath.includes(FolderNamePosts)) {
         item.outputPath = item.outputPath.replace(`/${FolderNamePosts}`, "");
         item.url = item.url.replace(`/${FolderNamePosts}`, "");

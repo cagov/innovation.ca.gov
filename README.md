@@ -1,16 +1,16 @@
-# digital.ca.gov
+# innovation.ca.gov
 Office of Data & Innovation website
 
 
 ## Blog
 
-Our blog originally on news.alpha.ca.gov has been moved here so it is deployed to [digital.ca.gov/blog](https://digital.ca.gov/blog/)
+Our blog originally on news.alpha.ca.gov has been moved here so it is deployed to [innovation.ca.gov/blog](https://innovation.ca.gov/blog/)
 
 ### Writing posts
 
 To write a new post:
 
-- Add it here...[Wordpress for digital.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
+- Add it here...[Wordpress for innovation.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
 
 ## Deployment
 
