@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-07-18T19:01:13",
+    "updated_date": "2022-07-18T19:01:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 731,
+    "date": "2022-07-18T12:01:13",
+    "date_gmt": "2022-07-18T19:01:13",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=731",
+    "modified": "2022-07-18T12:01:14",
+    "modified_gmt": "2022-07-18T19:01:14",
+    "slug": "data-analytics-governance-lead",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/data-analytics-governance-lead/",
+    "title": "Data &#038; Analytics Governance Lead",
+    "excerpt": "<p>About the team: The mission of the Office of the Chief Data Officer, known as CalData, is to empower use of data by ensuring the state has the infrastructure, processes, and people to manage, access, and use data efficiently, effectively, securely, and responsibly. By acting on our mission, we will realize our vision of better &#8230; <a title=\"Data &#038; Analytics Governance Lead\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/data-analytics-governance-lead/\" aria-label=\"More on Data &#038; Analytics Governance Lead\">Read more</a></p>\n",
+    "author": "Jennifer Moran",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/data-analytics-governance-lead/",
+      "page_title": "Data & Analytics Governance Lead",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Data & Analytics Governance Lead",
+      "meta_description": "The Data & Governance Lead will lead major initiatives to develop and shape new data and analytics policies and standards.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/data-analytics-governance-lead/",
+      "open_graph_title": "Data & Analytics Governance Lead",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Data & Analytics Governance Lead",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/data-analytics-governance-lead/"
+  }
+}
