@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-08-04T22:30:31",
+    "updated_date": "2022-08-04T22:30:32",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 767,
+    "date": "2022-08-04T15:30:31",
+    "date_gmt": "2022-08-04T22:30:31",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=767",
+    "modified": "2022-08-04T15:30:32",
+    "modified_gmt": "2022-08-04T22:30:32",
+    "slug": "deputy-director-data-programs-policy",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-programs-policy/",
+    "title": "Deputy Director, Data Programs and Policy",
+    "excerpt": "<p>As our Deputy Director for Data Programs and Policy, you will lead the team that builds and extends statewide capacity through shared programs, policies, and standards. Your mission will be to harmonize and modernize data and analytics approaches across the state using a mix of programs, standards and policy, and capacity building. Through this work, &#8230; <a title=\"Deputy Director, Data Programs and Policy\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-programs-policy/\" aria-label=\"More on Deputy Director, Data Programs and Policy\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-programs-policy/",
+      "page_title": "Deputy Director, Data Programs and Policy",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Deputy Director, Data Programs and Policy",
+      "meta_description": "As Deputy Director, Data Programs and Policy, you will lead a team to build and extend statewide capacity through shared programs, policies, and standards.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-programs-policy/",
+      "open_graph_title": "Deputy Director, Data Programs and Policy",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Deputy Director, Data Programs and Policy",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-programs-policy/"
+  }
+}
