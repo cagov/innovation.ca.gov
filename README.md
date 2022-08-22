@@ -4,7 +4,7 @@ Office of Data & Innovation website
 
 ## Blog
 
-Our blog originally on news.alpha.ca.gov has been moved here so it is deployed to [innovation.ca.gov/blog](https://innovation.ca.gov/blog/)
+Our blog originally on news.alpha.ca.gov has been moved here and is viewable at [innovation.ca.gov/blog](https://innovation.ca.gov/blog/)
 
 ### Writing posts
 
