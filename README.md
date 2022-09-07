@@ -18,7 +18,7 @@ Deployment is handled by a [wordpress-to-github](https://www.npmjs.com/package/@
 
 ## Preview Mode
 
-### Currently under reconstruction 
+### Under reconstruction 
 <!--
 You can preview content updates [here](https://fa-go-wp-prev-01.azurewebsites.net/).
 
