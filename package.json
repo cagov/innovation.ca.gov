@@ -23,6 +23,7 @@
     "@cagov/ds-base-css": "^2.0.0-beta.1",
     "@cagov/ds-feature-card": "^1.0.6",
     "@cagov/ds-link-grid": "^2.1.0",
+    "@cagov/ds-page-alert": "^2.0.2",
     "@cagov/ds-page-feedback": "^1.1.0",
     "@cagov/ds-page-navigation": "^2.1.0",
     "@cagov/ds-pagination": "^2.0.0",
