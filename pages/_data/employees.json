@@ -240,12 +240,13 @@
   {
     "name": "Peggy Gartin",
     "pronouns": "she/her",
-    "title": "Content Designer",
+    "title": "Content Strategist",
     "pic": "p-gartin.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/peggygartin/",
       "twitter": "https://twitter.com/thepegisin",
-      "github": "https://github.com/thepegisin"
+      "github": "https://github.com/thepegisin",
+      "email": "peggy.gartin@innovation.ca.gov"
     }
   },
   {
@@ -265,6 +266,13 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/sarahletson/",
       "email": "sarah.letson@digital.ca.gov"
+    }
+  },
+  {
+    "name": "Thea Man",
+    "pronouns": "she/her",
+    "title": "Information Security Officer",
+    "pic": "t-man.jpg"
     }
   },
   {
