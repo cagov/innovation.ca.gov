@@ -21,6 +21,7 @@ jobs:
         run: |
           npm install
           npm run build
+          npm test
       # Push built site files to S3 production bucket    
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@v0.5.1
