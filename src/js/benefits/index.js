@@ -10,7 +10,7 @@ var CaGovBenefitsRecs = class extends window.HTMLElement {
     super(template_default, css_default);
     this.html = template_default;
     this.css = css_default;
-    this.benefitsAPI = "http://localhost:3333/";
+    this.benefitsAPI = "https://7ksmy2xna5.execute-api.us-west-1.amazonaws.com/";
   }
   connectedCallback() {
     this.language = navigator.language;
@@ -27,7 +27,7 @@ var CaGovBenefitsRecs = class extends window.HTMLElement {
     this.widgetEnvData.userAgent = navigator.userAgent;
     this.widgetEnvData.language = this.language;
     this.widgetEnvData.income = this.income;
-    fetch(`${this.benefitsAPI}benefits/`, {
+    fetch(`${this.benefitsAPI}benefits`, {
       headers: {
         "Content-Type": "application/json"
       }
@@ -79,7 +79,7 @@ var CaGovBenefitsRecs = class extends window.HTMLElement {
       delete this.widgetEnvData.link;
       delete this.widgetEnvData.linktext;
     }
-    fetch(`${this.benefitsAPI}event/`, {
+    fetch(`${this.benefitsAPI}event`, {
       method: "POST",
       mode: "no-cors",
       headers: {
@@ -87,6 +87,7 @@ var CaGovBenefitsRecs = class extends window.HTMLElement {
       },
       body: JSON.stringify(this.widgetEnvData)
     }).then((response) => response.json()).then((data) => {
+      console.log(data);
     });
   }
   applyListeners() {
