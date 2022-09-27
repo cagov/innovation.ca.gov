@@ -46,6 +46,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
   eleventyConfig.addPassthroughCopy({ "src/pdf": "pdf" });
   eleventyConfig.addPassthroughCopy({ "src/css/fonts": "fonts" });
+  eleventyConfig.addPassthroughCopy({ "src/js/benefits": "js/benefits" });
 
   eleventyConfig.addFilter("dateformat", function (dateString) {
     let d = new Date(dateString);
