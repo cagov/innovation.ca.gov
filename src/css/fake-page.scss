@@ -1,3 +1,6 @@
+.application-feedback-form {
+  margin: 1rem 0 2rem 0;
+}
 #application-feedback {
   width: 70%;
   height: 7rem;
@@ -5,4 +8,15 @@
   display: block;
   margin: 1rem 0;
   padding: 1rem;
+}
+.emoji-buttons {
+  margin: 2rem 0 2rem -1rem;
+}
+.emoji-buttons button {
+  font-size: 5rem;
+  margin: 0 1rem;
+  border: solid 1px;
+  line-height: 5rem;
+  padding: 1rem;
+  background: #fff;
 }
