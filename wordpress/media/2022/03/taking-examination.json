@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-04T22:54:18",
-    "updated_date": "2022-10-04T23:13:50",
+    "updated_date": "2022-10-04T23:14:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-04T15:54:18",
     "date_gmt": "2022-10-04T22:54:18",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/taking-examination.png",
-    "modified": "2022-10-04T16:13:50",
-    "modified_gmt": "2022-10-04T23:13:50",
+    "modified": "2022-10-04T16:14:02",
+    "modified_gmt": "2022-10-04T23:14:02",
     "slug": "taking-examination",
     "status": "inherit",
     "type": "attachment",
