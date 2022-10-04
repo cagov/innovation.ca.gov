@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T21:52:49",
-    "updated_date": "2022-03-18T22:05:40",
+    "updated_date": "2022-10-04T22:41:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-18T14:52:49",
     "date_gmt": "2022-03-18T21:52:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
-    "modified": "2022-03-18T15:05:40",
-    "modified_gmt": "2022-03-18T22:05:40",
+    "modified": "2022-10-04T15:41:35",
+    "modified_gmt": "2022-10-04T22:41:35",
     "slug": "examination-information",
     "status": "inherit",
     "type": "attachment",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png'><img width=\"576\" height=\"70\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png\" class=\"attachment-medium size-medium\" alt=\"The examination information section of a job posting. It reads, &quot;To obtain list eligibility for the Information Technology Specialist I position(s), you must first take the online Information Technology Specialist I exam.&quot; The words &quot;Information Technology Specialist I exam&quot; are a hyperlink.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png 1103w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png'><img width=\"576\" height=\"70\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png\" class=\"attachment-medium size-medium\" alt=\"The examination information section of a job posting. It reads, &quot;To obtain list eligibility for the Information Technology Manager II position(s), you must first take the online Information Technology Manager II exam.&quot; The words &quot;Information Technology Manager II exam&quot; are a hyperlink.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x70.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x125.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x94.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png 1103w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "The examination information section of a job posting. It reads, \"To obtain list eligibility for the Information Technology Specialist I position(s), you must first take the online Information Technology Specialist I exam.\" The words \"Information Technology Specialist I exam\" are a hyperlink.",
+    "alt_text": "The examination information section of a job posting. It reads, \"To obtain list eligibility for the Information Technology Manager II position(s), you must first take the online Information Technology Manager II exam.\" The words \"Information Technology Manager II exam\" are a hyperlink.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
