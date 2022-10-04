@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2022-10-04T23:20:23",
+    "updated_date": "2022-10-04T23:20:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 850,
+    "date": "2022-10-04T16:20:23",
+    "date_gmt": "2022-10-04T23:20:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png",
+    "modified": "2022-10-04T16:20:28",
+    "modified_gmt": "2022-10-04T23:20:28",
+    "slug": "job-posting-minimum-qualifications-2022-10",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/job-posting-minimum-qualifications-2022-10/",
+    "title": "job-posting-minimum-qualifications-2022-10",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png'><img width=\"576\" height=\"68\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-576x68.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job posting. It includes the text, &quot;You will find the Minimum Requirements in the Class Specification.&quot; This is followed by &quot;Information Technology Manger II&quot;, which is a hyperlink.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-576x68.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-1024x121.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-768x91.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png 1310w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The Minimum Requirements section of a job posting. It includes the text, \"You will find the Minimum Requirements in the Class Specification.\" This is followed by \"Information Technology Manger II\", which is a hyperlink.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1310,
+      "height": 155,
+      "file": "2022/10/job-posting-minimum-qualifications-2022-10.png",
+      "sizes": {
+        "medium": {
+          "file": "job-posting-minimum-qualifications-2022-10-576x68.png",
+          "width": 576,
+          "height": 68,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-576x68.png"
+        },
+        "large": {
+          "file": "job-posting-minimum-qualifications-2022-10-1024x121.png",
+          "width": 1024,
+          "height": 121,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-1024x121.png"
+        },
+        "thumbnail": {
+          "file": "job-posting-minimum-qualifications-2022-10-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-150x150.png"
+        },
+        "medium_large": {
+          "file": "job-posting-minimum-qualifications-2022-10-768x91.png",
+          "width": 768,
+          "height": 91,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-768x91.png"
+        },
+        "full": {
+          "file": "job-posting-minimum-qualifications-2022-10.png",
+          "width": 1310,
+          "height": 155,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/10/job-posting-minimum-qualifications-2022-10.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png",
+        "file": "job-posting-minimum-qualifications-2022-10.png",
+        "width": 1310,
+        "height": 155,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/10/job-posting-minimum-qualifications-2022-10-1024x121.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-1024x121.png",
+        "file": "job-posting-minimum-qualifications-2022-10-1024x121.png",
+        "width": 1024,
+        "height": 121,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-1024x121.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/10/job-posting-minimum-qualifications-2022-10-768x91.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-768x91.png",
+        "file": "job-posting-minimum-qualifications-2022-10-768x91.png",
+        "width": 768,
+        "height": 91,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-768x91.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/10/job-posting-minimum-qualifications-2022-10-576x68.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-576x68.png",
+        "file": "job-posting-minimum-qualifications-2022-10-576x68.png",
+        "width": 576,
+        "height": 68,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-576x68.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/10/job-posting-minimum-qualifications-2022-10-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-150x150.png",
+        "file": "job-posting-minimum-qualifications-2022-10-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/job-posting-minimum-qualifications-2022-10-150x150.png"
+      }
+    ],
+    "path": "2022/10/job-posting-minimum-qualifications-2022-10.png"
+  }
+}
