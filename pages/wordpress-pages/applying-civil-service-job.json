@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T22:09:17",
-    "updated_date": "2022-10-04T23:25:15",
+    "updated_date": "2022-10-04T23:39:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-03-18T15:09:17",
     "date_gmt": "2022-03-18T22:09:17",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=246",
-    "modified": "2022-10-04T16:25:15",
-    "modified_gmt": "2022-10-04T23:25:15",
+    "modified": "2022-10-04T16:39:57",
+    "modified_gmt": "2022-10-04T23:39:57",
     "slug": "applying-civil-service-job",
     "status": "publish",
     "type": "page",
@@ -262,6 +262,19 @@
         "height": 105,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 849,
+        "type": "full",
+        "path": "2022/10/taking-examination-2022-10-e1664926502349.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-2022-10-e1664926502349.png",
+        "file": "taking-examination-2022-10-e1664926502349.png",
+        "width": 1560,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-2022-10-e1664926502349.png",
         "source_url_match": true,
         "featured": false
       }
