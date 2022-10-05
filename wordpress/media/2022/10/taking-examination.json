@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-05T20:23:57",
-    "updated_date": "2022-10-05T20:23:57",
+    "updated_date": "2022-10-05T20:24:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-05T13:23:57",
     "date_gmt": "2022-10-05T20:23:57",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination.png",
-    "modified": "2022-10-05T13:23:57",
-    "modified_gmt": "2022-10-05T20:23:57",
+    "modified": "2022-10-05T13:24:12",
+    "modified_gmt": "2022-10-05T20:24:12",
     "slug": "taking-examination",
     "status": "inherit",
     "type": "attachment",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination.png'><img width=\"576\" height=\"57\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-576x57.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-576x57.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-1024x101.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-768x76.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination.png 1420w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination.png'><img width=\"576\" height=\"57\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-576x57.png\" class=\"attachment-medium size-medium\" alt=\"The Taking the Examination section of the PDF. It includes the text, &quot;Take the Information Technology Manger 2 examination.&quot; The words &quot;the Information Technology Manager 2 examination&quot; are a hyperlink.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-576x57.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-1024x101.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination-768x76.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/taking-examination.png 1420w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "The Taking the Examination section of the PDF. It includes the text, \"Take the Information Technology Manger 2 examination.\" The words \"the Information Technology Manager 2 examination\" are a hyperlink.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
