@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-11T22:44:26",
-    "updated_date": "2022-10-11T23:35:27",
+    "updated_date": "2022-10-11T23:37:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-11T15:44:26",
     "date_gmt": "2022-10-11T22:44:26",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022.jpg",
-    "modified": "2022-10-11T16:35:27",
-    "modified_gmt": "2022-10-11T23:35:27",
+    "modified": "2022-10-11T16:37:44",
+    "modified_gmt": "2022-10-11T23:37:44",
     "slug": "it-collaboration-award-2022",
     "status": "inherit",
     "type": "attachment",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg'><img width=\"576\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Blaine Wasylkiw and Aaron Hans accept Best IT Collaboration award at the .Digital Government Summit.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg 150w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg 1920w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg'><img width=\"576\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Blaine Wasylkiw and Aaron Hans accept Best IT Collaboration award at the Digital Government Summit.\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg 150w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg 1920w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "Blaine Wasylkiw and Aaron Hans accept Best IT Collaboration award at the .Digital Government Summit.",
+    "alt_text": "Blaine Wasylkiw and Aaron Hans accept Best IT Collaboration award at the Digital Government Summit.",
     "media_type": "image",
     "mime_type": "image/jpeg",
     "media_details": {
