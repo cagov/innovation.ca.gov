@@ -121,6 +121,15 @@
     }
   },
   {
+    "name": "Erica Stivison",
+    "pronouns": "she/her",
+    "title": "UX Designer",
+    "pic": "e-stivison.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ericastivison"
+    }
+  },
+  {
     "name": "Hayley Figeroid",
     "title": "Government Relations Manager",
     "pic": "h-figeroid.jpg",
