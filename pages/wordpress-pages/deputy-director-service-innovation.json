@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-28T16:52:37",
-    "updated_date": "2022-10-28T16:52:38",
+    "updated_date": "2022-10-28T20:47:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-28T09:52:37",
     "date_gmt": "2022-10-28T16:52:37",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=893",
-    "modified": "2022-10-28T09:52:38",
-    "modified_gmt": "2022-10-28T16:52:38",
+    "modified": "2022-10-28T13:47:51",
+    "modified_gmt": "2022-10-28T20:47:51",
     "slug": "deputy-director-service-innovation",
     "status": "publish",
     "type": "page",
