@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-26T16:38:03",
-    "updated_date": "2022-10-26T16:38:05",
+    "updated_date": "2022-11-09T22:06:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-26T09:38:03",
     "date_gmt": "2022-10-26T16:38:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=889",
-    "modified": "2022-10-26T09:38:05",
-    "modified_gmt": "2022-10-26T16:38:05",
+    "modified": "2022-11-09T14:06:01",
+    "modified_gmt": "2022-11-09T22:06:01",
     "slug": "head-of-administration",
     "status": "publish",
     "type": "page",
