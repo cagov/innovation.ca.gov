@@ -138,6 +138,17 @@
     }
   },
   {
+    "name": "Ian Rose",
+    "pronouns": "he/him",
+    "title": "Senior Data Engineer",
+    "pic": "i-rose.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ian-rose-961a39240/",
+      "twitter": "https://twitter.com/ianrrose",
+      "github": "https://github.com/ian-r-rose"
+    }
+  },
+  {
     "name": "Jason Lally",
     "pronouns": "he/him",
     "title": "Deputy Chief Data Officer",
@@ -201,6 +212,15 @@
     "pic": "jp-petrucione.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/jpetrucione/"
+    }
+  },
+  {
+    "name": "Kellie Longo Flores",
+    "pronouns": "she/her",
+    "title": "Legislative & External Affairs Manager",
+    "pic": "k-longo-flores.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kellie-longo-flores-364a2725/"
     }
   },
   {
