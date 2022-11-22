@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-11-22T00:30:27",
+    "updated_date": "2022-11-22T00:30:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 926,
+    "date": "2022-11-21T16:30:27",
+    "date_gmt": "2022-11-22T00:30:27",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=926",
+    "modified": "2022-11-21T16:30:28",
+    "modified_gmt": "2022-11-22T00:30:28",
+    "slug": "tribal-consultation-policy",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/",
+    "title": "Tribal consultation policy",
+    "excerpt": "<p>Purpose This Policy implements Executive Order B-10-11 and is intended to improve ODI’s internal management and communication. It is not a regulation and does not supersede, create, expand, limit, waive or interpret any state or federal legal rights or obligations including but not limited to treaty rights, immunities or jurisdiction of any Tribe or the &#8230; <a title=\"Tribal consultation policy\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/\" aria-label=\"More on Tribal consultation policy\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/",
+      "page_title": "Tribal consultation policy",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Tribal consultation policy",
+      "meta_description": "Office of Data &amp; Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/",
+      "open_graph_title": "Tribal consultation policy",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Tribal consultation policy",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/"
+  }
+}
