@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2022-12-05T22:47:20",
+    "updated_date": "2022-12-05T22:47:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 947,
+    "date": "2022-12-05T14:47:20",
+    "date_gmt": "2022-12-05T22:47:20",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png",
+    "modified": "2022-12-05T14:47:20",
+    "modified_gmt": "2022-12-05T22:47:20",
+    "slug": "cea-job-posting-header",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cea-job-posting-header/",
+    "title": "cea-job-posting-header",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png'><img width=\"576\" height=\"171\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-768x228.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png 933w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 933,
+      "height": 277,
+      "file": "2022/12/cea-job-posting-header.png",
+      "sizes": {
+        "medium": {
+          "file": "cea-job-posting-header-576x171.png",
+          "width": 576,
+          "height": 171,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png"
+        },
+        "thumbnail": {
+          "file": "cea-job-posting-header-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-150x150.png"
+        },
+        "medium_large": {
+          "file": "cea-job-posting-header-768x228.png",
+          "width": 768,
+          "height": 228,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-768x228.png"
+        },
+        "full": {
+          "file": "cea-job-posting-header.png",
+          "width": 933,
+          "height": 277,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/12/cea-job-posting-header.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png",
+        "file": "cea-job-posting-header.png",
+        "width": 933,
+        "height": 277,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/12/cea-job-posting-header-768x228.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-768x228.png",
+        "file": "cea-job-posting-header-768x228.png",
+        "width": 768,
+        "height": 228,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-768x228.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/12/cea-job-posting-header-576x171.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png",
+        "file": "cea-job-posting-header-576x171.png",
+        "width": 576,
+        "height": 171,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/12/cea-job-posting-header-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-150x150.png",
+        "file": "cea-job-posting-header-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-150x150.png"
+      }
+    ],
+    "path": "2022/12/cea-job-posting-header.png"
+  }
+}
