@@ -85,8 +85,13 @@
     .employee-pronouns {
       font-style: italic;
     }
-    .social-links a svg path {
-      fill: var(--primary-color,#064e66);
+    .social-links a svg {
+      path {
+        fill: var(--primary-color,#064e66);
+      }
+      path.fill-override-light {
+        fill: #ffffff ;
+      }
     }
 
     .social-links {
@@ -94,12 +99,13 @@
       min-height: 2.25rem;
 
       a {
-        padding-right: 1rem;
+        margin-right: 1rem;
+        padding: 0 .3rem;
         display: flex;
         align-items: center;
       }
       a:last-child {
-        padding-right: 0;
+        margin-right: 0;
       }
     }
   }
