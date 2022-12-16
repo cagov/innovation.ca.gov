@@ -176,58 +176,6 @@
         "featured": false
       },
       {
-        "id": 948,
-        "type": "full",
-        "path": "2022/12/cea-job-posting-minimum-qualifications.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications.png",
-        "file": "cea-job-posting-minimum-qualifications.png",
-        "width": 1516,
-        "height": 290,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 948,
-        "type": "large",
-        "path": "2022/12/cea-job-posting-minimum-qualifications-1024x196.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-1024x196.png",
-        "file": "cea-job-posting-minimum-qualifications-1024x196.png",
-        "width": 1024,
-        "height": 196,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-1024x196.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 948,
-        "type": "medium_large",
-        "path": "2022/12/cea-job-posting-minimum-qualifications-768x147.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-768x147.png",
-        "file": "cea-job-posting-minimum-qualifications-768x147.png",
-        "width": 768,
-        "height": 147,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-768x147.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 948,
-        "type": "medium",
-        "path": "2022/12/cea-job-posting-minimum-qualifications-576x110.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-576x110.png",
-        "file": "cea-job-posting-minimum-qualifications-576x110.png",
-        "width": 576,
-        "height": 110,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-minimum-qualifications-576x110.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 950,
         "type": "full",
         "path": "2022/12/cea-knowledge-abilities.png",
