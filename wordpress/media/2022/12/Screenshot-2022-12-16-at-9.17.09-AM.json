@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-16T17:25:36",
-    "updated_date": "2022-12-16T17:25:49",
+    "updated_date": "2022-12-16T17:28:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,13 +17,13 @@
     "date": "2022-12-16T09:25:36",
     "date_gmt": "2022-12-16T17:25:36",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM.png",
-    "modified": "2022-12-16T09:25:49",
-    "modified_gmt": "2022-12-16T17:25:49",
+    "modified": "2022-12-16T09:28:01",
+    "modified_gmt": "2022-12-16T17:28:01",
     "slug": "screenshot-2022-12-16-at-9-17-09-am",
     "status": "inherit",
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/screenshot-2022-12-16-at-9-17-09-am/",
-    "title": "Screenshot 2022-12-16 at 9.17.09 AM",
+    "title": "cea-minimum-requirements",
     "author": "Michael Sullivan",
     "comment_status": "closed",
     "ping_status": "closed",
@@ -32,9 +32,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM.png'><img width=\"576\" height=\"110\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-576x110.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-576x110.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-1024x196.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-768x147.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM.png 1516w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM.png'><img width=\"576\" height=\"110\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-576x110.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job posting. It includes the text, &quot;This position does not have a Classification Specification. Requirements and qualifications for this position can be found in this announcement.&quot;\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-576x110.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-1024x196.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM-768x147.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/Screenshot-2022-12-16-at-9.17.09-AM.png 1516w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "The Minimum Requirements section of a job",
+    "alt_text": "The Minimum Requirements section of a job posting. It includes the text, \"This position does not have a Classification Specification. Requirements and qualifications for this position can be found in this announcement.\"",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
