@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2022-12-16T18:16:26",
+    "updated_date": "2022-12-16T18:16:34",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 979,
+    "date": "2022-12-16T10:16:26",
+    "date_gmt": "2022-12-16T18:16:26",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+    "modified": "2022-12-16T10:16:34",
+    "modified_gmt": "2022-12-16T18:16:34",
+    "slug": "cea-knowledge-abilities-3-52-16-pm",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cea-knowledge-abilities-3-52-16-pm/",
+    "title": "cea-knowledge-abilities 3.52.16 PM",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png'><img width=\"576\" height=\"477\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png\" class=\"attachment-medium size-medium\" alt=\"The Knowledge and Abilities section of a CEA job posting. The key sentence is that &quot;Applicants must demonstrate the ability to perform high administrative and policy-influencing functions effectively.&quot;\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-1024x848.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-768x636.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png 1532w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The Knowledge and Abilities section of a CEA job posting. The key sentence is that \"Applicants must demonstrate the ability to perform high administrative and policy-influencing functions effectively.\"",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1532,
+      "height": 1268,
+      "file": "2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+      "sizes": {
+        "medium": {
+          "file": "cea-knowledge-abilities-3.52.16-PM-576x477.png",
+          "width": 576,
+          "height": 477,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png"
+        },
+        "large": {
+          "file": "cea-knowledge-abilities-3.52.16-PM-1024x848.png",
+          "width": 1024,
+          "height": 848,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-1024x848.png"
+        },
+        "thumbnail": {
+          "file": "cea-knowledge-abilities-3.52.16-PM-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-150x150.png"
+        },
+        "medium_large": {
+          "file": "cea-knowledge-abilities-3.52.16-PM-768x636.png",
+          "width": 768,
+          "height": 636,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-768x636.png"
+        },
+        "full": {
+          "file": "cea-knowledge-abilities-3.52.16-PM.png",
+          "width": 1532,
+          "height": 1268,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png",
+        "file": "cea-knowledge-abilities-3.52.16-PM.png",
+        "width": 1532,
+        "height": 1268,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/12/cea-knowledge-abilities-3.52.16-PM-1024x848.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-1024x848.png",
+        "file": "cea-knowledge-abilities-3.52.16-PM-1024x848.png",
+        "width": 1024,
+        "height": 848,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-1024x848.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/12/cea-knowledge-abilities-3.52.16-PM-768x636.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-768x636.png",
+        "file": "cea-knowledge-abilities-3.52.16-PM-768x636.png",
+        "width": 768,
+        "height": 636,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-768x636.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png",
+        "file": "cea-knowledge-abilities-3.52.16-PM-576x477.png",
+        "width": 576,
+        "height": 477,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-576x477.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/12/cea-knowledge-abilities-3.52.16-PM-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-150x150.png",
+        "file": "cea-knowledge-abilities-3.52.16-PM-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-knowledge-abilities-3.52.16-PM-150x150.png"
+      }
+    ],
+    "path": "2022/12/cea-knowledge-abilities-3.52.16-PM.png"
+  }
+}
