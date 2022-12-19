@@ -10,7 +10,7 @@
     "pic": "a-hans.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/aaronhans/",
-      "twitter": "https://twitter.com/nopatternaaron",
+      "mastodon": "https://indieweb.social/@nopattern",
       "github": "https://github.com/aaronhans"
     }
   },
@@ -97,7 +97,7 @@
     "pic": "c-crumlish.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mediajunkie/",
-      "twitter": "https://twitter.com/mediajunkie",
+      "mastodon": "https://indieweb.social/@xian",
       "github": "https://github.com/mediajunkie"
     }
   },
@@ -181,7 +181,7 @@
     "title": "Senior Engineer",
     "pic": "j-bumgardner.jpg",
     "social": {
-      "twitter": "https://twitter.com/jbum",
+      "mastodon": "https://mastodon.social/@jbum",
       "github": "https://github.com/jbum"
     }
   },
