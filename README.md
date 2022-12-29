@@ -16,10 +16,9 @@ To write a new post:
 
 Deployment is handled by a [wordpress-to-github](https://www.npmjs.com/package/@cagov/wordpress-to-github) instance; the repository that controls it is [here](https://github.com/cagov/services-wordpress-to-github-digital-ca-gov).
 
+<!--
 ## Preview Mode
 
-### Under reconstruction 
-<!--
 You can preview content updates [here](https://fa-go-wp-prev-01.azurewebsites.net/).
 
 - The Preview instance will give you a rendering of the page as it will look in production.
