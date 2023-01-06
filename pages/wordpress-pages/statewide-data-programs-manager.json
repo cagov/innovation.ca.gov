@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-01-06T18:20:26",
+    "updated_date": "2023-01-06T18:20:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 994,
+    "date": "2023-01-06T10:20:26",
+    "date_gmt": "2023-01-06T18:20:26",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=994",
+    "modified": "2023-01-06T10:20:28",
+    "modified_gmt": "2023-01-06T18:20:28",
+    "slug": "statewide-data-programs-manager",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/",
+    "title": "Statewide Data Programs Manager",
+    "excerpt": "<p>As the Statewide Data Programs Manager, you will develop, manage, and grow statewide data programs. You will manage a portfolio of existing programs and develop new programs. Through these programs you will help speed up and streamline data access and the use of data in decision making. You will also collaborate with the wider Data &#8230; <a title=\"Statewide Data Programs Manager\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/\" aria-label=\"More on Statewide Data Programs Manager\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/",
+      "page_title": "Statewide Data Programs Manager",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Statewide Data Programs Manager",
+      "meta_description": "As the Statewide Data Programs Manager, you will develop, manage, and grow statewide data programs.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/",
+      "open_graph_title": "Statewide Data Programs Manager",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Statewide Data Programs Manager",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/"
+  }
+}
