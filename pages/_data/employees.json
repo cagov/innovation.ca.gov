@@ -223,6 +223,15 @@
     }
   },
   {
+    "name": "Kim Hicks",
+    "pronouns": "she/her",
+    "title": "Deputy Director, Advanced Analytics & Evaluation",
+    "pic": "k-hicks.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kimberlyjhicks/"
+    }
+  },
+  {
     "name": "Kimberly Losenara",
     "pronouns": "she/her/siya",
     "title": "Visual Designer",
