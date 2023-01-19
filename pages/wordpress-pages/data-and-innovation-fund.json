@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-13T18:27:24",
-    "updated_date": "2023-01-19T20:33:31",
+    "updated_date": "2023-01-19T20:40:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-04-13T11:27:24",
     "date_gmt": "2022-04-13T18:27:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=300",
-    "modified": "2023-01-19T12:33:31",
-    "modified_gmt": "2023-01-19T20:33:31",
+    "modified": "2023-01-19T12:40:10",
+    "modified_gmt": "2023-01-19T20:40:10",
     "slug": "data-and-innovation-fund",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Data & Innovation Fund",
-      "meta_description": "The DIF funds collaboration between agencies and ODI. It helps teams identify, understand, and solve business problems.",
+      "meta_description": "The DIF funds collaboration between departments and ODI. It helps teams identify, understand, and solve business problems.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
       "open_graph_title": "Data & Innovation Fund",
       "open_graph_description": "Office of Data &amp; Innovation",
