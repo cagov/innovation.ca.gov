@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-06T18:20:26",
-    "updated_date": "2023-01-06T18:20:28",
+    "updated_date": "2023-01-20T23:02:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-01-06T10:20:26",
     "date_gmt": "2023-01-06T18:20:26",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=994",
-    "modified": "2023-01-06T10:20:28",
-    "modified_gmt": "2023-01-06T18:20:28",
+    "modified": "2023-01-20T15:02:00",
+    "modified_gmt": "2023-01-20T23:02:00",
     "slug": "statewide-data-programs-manager",
     "status": "publish",
     "type": "page",
