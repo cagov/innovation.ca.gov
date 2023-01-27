@@ -106,7 +106,7 @@ module.exports = function (eleventyConfig) {
         if (!item.data.layout) {
           item.data.layout = "content";
         }
-        if(item.url.indexOf('our-work') > -1 || item.url.indexOf('meet-the-team') > -1 || item.url.indexOf('pilot-benefits-recommend') > -1) {
+        if(jsonData.tags.indexOf('layout-no-sidebar') > -1) {
           item.data.layout = 'single-column';
         }
         if(item.data.page.url == "/") {
