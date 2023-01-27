@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-27T00:02:38",
-    "updated_date": "2023-01-27T00:11:35",
+    "updated_date": "2023-01-27T00:30:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-01-26T16:02:38",
     "date_gmt": "2023-01-27T00:02:38",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1010",
-    "modified": "2023-01-26T16:11:35",
-    "modified_gmt": "2023-01-27T00:11:35",
+    "modified": "2023-01-26T16:30:15",
+    "modified_gmt": "2023-01-27T00:30:15",
     "slug": "pilot-benefits-recommender",
     "status": "publish",
     "type": "page",
@@ -35,7 +35,8 @@
     "meta": [],
     "categories": [],
     "tags": [
-      "do-not-crawl"
+      "do-not-crawl",
+      "layout-no-sidebar"
     ],
     "design_system_fields": {
       "template": "page"
@@ -74,6 +75,17 @@
         "slug": "do-not-crawl",
         "term_group": 0,
         "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
