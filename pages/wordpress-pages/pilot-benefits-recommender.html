@@ -20,18 +20,39 @@
     align-items: center;
     justify-content: space-between;
     margin: 2rem auto;
-    width: 90%
+    flex-flow: column;
   }
-  .widget-screenshot {
-    width: 60%;
-  }
-  .drawing-area svg {
-    position: absolute;
+  @media (min-width: 720px) {
+    .drawing-area {
+      width: 90%;
+      flex-flow: row;
+    }
+    .widget-screenshot {
+      width: 60%;
+    }
   }
   .widget-attribute-list {
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+  @media (max-width: 720px) {
+    .widget-attribute-list {
+      margin: 1rem 0 0 0;
+      align-items: center;
+      display: flex;
+      flex-flow: column;
+    }
+    .bignums {
+      flex-flow: column;
+    }
+    .bignums .bignum {
+      width: 90%;
+      margin: 1rem;
+    }
+  }
+  .drawing-area svg {
+    position: absolute;
   }
   .widget-attribute-list li {
     font-weight: 700;
@@ -41,18 +62,20 @@
   let leftItem = document.querySelector(".widget-screenshot");
 
   var drawConnector = function () {
-    document
-      .querySelectorAll(".widget-attribute-list li")
-      .forEach((rightItem, counter) => {
-        document
-          .querySelector('.drawing-area')
-          .insertAdjacentHTML('afterbegin', `<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-        <path id="connector${counter}" fill="none" stroke="#3F73A4" stroke-width="3"/>
-      </svg>`);
-        let connector = document.querySelector(`#connector${counter}`);
+    if(window.innerWidth > 720) {
+      document
+        .querySelectorAll(".widget-attribute-list li")
+        .forEach((rightItem, counter) => {
+          document
+            .querySelector('.drawing-area')
+            .insertAdjacentHTML('afterbegin', `<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+          <path id="connector${counter}" fill="none" stroke="#3F73A4" stroke-width="3"/>
+        </svg>`);
+          let connector = document.querySelector(`#connector${counter}`);
 
-        calculateLine(connector, leftItem, rightItem);
-      })
+          calculateLine(connector, leftItem, rightItem);
+        })
+    }
   };
 
   window.addEventListener("resize", resetLines);
