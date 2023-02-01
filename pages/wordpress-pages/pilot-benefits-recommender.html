@@ -1,13 +1,93 @@
-<p>The Benefits Recommender is a new way to get people to apply for more California state benefits.</p>
+<p class="cagov-emphasized">The Benefits Recommender is a new way to get people to apply for more California state benefits.</p>
 
 <p>It meets people where they are on a benefits journey, and offers more aid they may not know about.</p>
-<ul>
-  <li>Compelling</li>
-  <li>Targeted</li>
-  <li>User-centered</li>
-  <li>Easy to install</li>
-</ul>
 
+<p>The Benefits Recommender is a small amount of HTML added to the confirmation page of a completed benefits application. It looks like this:</p>
+
+<div class="drawing-area">
+  <img class="widget-screenshot" src="/img/benefits-recommender-example.png">
+  <ul class="widget-attribute-list">
+    <li>Compelling</li>
+    <li>Targeted</li>
+    <li>User-centered</li>
+    <li>Easy to install</li>
+  </ul>
+</div>
+<style>
+  .drawing-area {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem auto;
+    width: 90%
+  }
+  .widget-screenshot {
+    width: 60%;
+  }
+  .drawing-area svg {
+    position: absolute;
+  }
+  .widget-attribute-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .widget-attribute-list li {
+    font-weight: 700;
+  }
+</style>
+<script>
+  let leftItem = document.querySelector(".widget-screenshot");
+
+  var drawConnector = function () {
+    document
+      .querySelectorAll(".widget-attribute-list li")
+      .forEach((rightItem, counter) => {
+        document
+          .querySelector('.drawing-area')
+          .insertAdjacentHTML('afterbegin', `<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+        <path id="connector${counter}" fill="none" stroke="#3F73A4" stroke-width="3"/>
+      </svg>`);
+        let connector = document.querySelector(`#connector${counter}`);
+
+        calculateLine(connector, leftItem, rightItem);
+      })
+  };
+
+  window.addEventListener("resize", resetLines);
+
+  window.addEventListener("load", drawConnector);
+
+  function resetLines() {
+    document.querySelectorAll('.drawing-area svg').forEach(el => {
+      el.remove();
+    });
+    drawConnector();
+  }
+
+  function calculateLine(connector, leftItem, rightItem) {
+    var posnA = {
+      x: leftItem.offsetLeft + leftItem.offsetWidth,
+      y: leftItem.offsetTop + leftItem.offsetHeight / 2
+    };
+    var posnB = {
+      x: rightItem.offsetLeft - 10,
+      y: rightItem.offsetTop + rightItem.offsetHeight / 2
+    };
+
+    let dStr = "M" + (
+      posnA.x) + "," + (
+      posnA.y) + " " + "C" + (
+      posnA.x + 100) + "," + (
+      posnA.y) + " " + (
+      posnB.x - 100) + "," + (
+      posnB.y) + " " + (
+      posnB.x) + "," + (
+      posnB.y);
+    connector.setAttribute("d", dStr);
+  }
+</script>
 <p>The results:</p>
 
 <style>
@@ -21,7 +101,9 @@
     display: flex;
     align-items: center;
     flex-flow: column;
-    margin: 2rem auto;
+    border: solid 1px #3F73A4;
+    border-radius: 1rem;
+    padding-top: 1rem;
   }
   .bignums svg {
     fill: none;
@@ -30,7 +112,7 @@
     height: 50%;
   }
   .bignums .svg-back {
-    background-color: #397eba;
+    background-color: #3F73A4;
     width: 100px;
     height: 100px;
     display: flex;
@@ -40,26 +122,23 @@
   }
   .bignums .data-point {
     color: #397eba;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 3rem;
-    margin-bottom: 0;
+    line-height: 5.25rem;    
   }
-  .explanation {
+  .bignums .explanation {
     font-size: 1.5rem;
+    line-height: 2.5rem;
   }
-  .breadcrumb, .footer-container cagov-page-feedback {
-    display: none !important;
+  .benefits-recommender-demo {
+    max-width: 90%;
   }
 </style>
 <div class="bignums">
   <span class="bignum">
     <div class="svg-back">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" width="24" height="24" color="#000000">
-        <g id="eye">
-          <path d="M22.5,12A12.24,12.24,0,0,1,12,17.73,12.24,12.24,0,0,1,1.5,12,12.24,12.24,0,0,1,12,6.27,12.24,12.24,0,0,1,22.5,12Z"></path>
-          <circle cx="12" cy="12" r="5.73"></circle>
-          <circle cx="12" cy="12" r="1.91"></circle>
-        </g>
+      <svg width="59" height="30" viewBox="0 0 59 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.3448 0.269958C41.2356 0.269958 51.7616 5.47557 57.8171 13.5914C58.4747 14.4747 58.4747 15.6982 57.8171 16.584C51.7622 24.7002 41.2362 29.9251 29.3448 29.9251C17.4534 29.9251 6.92798 24.7002 0.872446 16.584C0.214881 15.6982 0.214881 14.4747 0.872446 13.5914C6.92737 5.47508 17.4534 0.269958 29.3448 0.269958ZM30.5704 5.92683C31.6829 7.23247 32.3617 8.92183 32.3617 10.7729C32.3617 14.8369 29.0926 18.1867 25.1211 18.1867C23.318 18.1867 21.6611 17.4868 20.3883 16.3525C20.9752 20.9041 24.7298 24.365 29.3449 24.365C34.3723 24.365 38.3956 20.2454 38.3956 15.0977C38.3956 10.3796 35.0063 6.53538 30.5704 5.92683ZM40.8846 7.22042C42.3671 9.47929 43.2227 12.1847 43.2227 15.0976C43.2227 18.0105 42.3671 20.7352 40.8846 22.9939C45.6409 21.2587 49.7042 18.4786 52.6879 15.0976C49.704 11.7141 45.6404 8.95562 40.8846 7.22042ZM17.8052 7.22042C13.0489 8.95562 8.98563 11.7141 6.00191 15.0976C8.98581 18.4787 13.0494 21.2589 17.8052 22.9939C16.3227 20.7351 15.4671 18.0104 15.4671 15.0976C15.4671 12.1848 16.3227 9.47929 17.8052 7.22042ZM25.1212 8.3016C23.7589 8.3016 22.7077 9.37796 22.7077 10.7729C22.7077 12.1678 23.7589 13.2442 25.1212 13.2442C26.4836 13.2442 27.5348 12.1678 27.5348 10.7729C27.5348 9.37796 26.4836 8.3016 25.1212 8.3016Z" fill="white"/>
       </svg>
     </div>
     <p class="data-point">1.5M</p>
@@ -67,9 +146,8 @@
   </span>
   <span class="bignum">
     <div class="svg-back">
-      <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" width="24" height="24" color="#000000">
-        <path d="M13.72,9.1h5a3.82,3.82,0,1,0,0-7.64H5.32a3.82,3.82,0,0,0,0,7.64H8.84"></path>
-        <polygon points="21.94 18.25 17.54 13.85 21.3 11.72 8.18 7.19 12.71 20.31 14.84 16.55 19.24 20.95 21.94 18.25"></polygon>
+      <svg width="52" height="51" viewBox="0 0 52 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20.8176 0.614777C19.9991 0.614777 19.3369 1.26798 19.3369 2.07521V10.8378C19.3369 11.6451 19.9992 12.2983 20.8176 12.2983C21.6361 12.2983 22.2983 11.6451 22.2983 10.8378V2.07521C22.2983 1.26796 21.6361 0.614777 20.8176 0.614777ZM7.72196 5.95449C7.34309 5.95449 6.97004 6.10282 6.68085 6.38806C6.10244 6.95854 6.10244 7.89413 6.68085 8.46465L11.9097 13.6218C12.4881 14.1923 13.4367 14.1923 14.0152 13.6218C14.5936 13.0513 14.5936 12.1157 14.0152 11.5452L8.78631 6.38806C8.49711 6.10282 8.10089 5.95449 7.72203 5.95449H7.72196ZM33.9125 5.95449C33.5337 5.95449 33.1374 6.10282 32.8482 6.38806L27.6194 11.5452C27.041 12.1157 27.041 13.0513 27.6194 13.6218C28.1978 14.1923 29.1464 14.1923 29.7248 13.6218L34.9537 8.46465C35.5321 7.89417 35.5321 6.95858 34.9537 6.38806C34.6645 6.10282 34.2914 5.95449 33.9126 5.95449H33.9125ZM15.7505 15.3334L29.1927 50.27L34.0745 39.6132L43.5142 48.9008L49.7843 42.7167L40.3675 33.4064L51.1725 28.5915L15.7505 15.3334ZM2.30838 18.8704C1.4899 18.8704 0.827637 19.5236 0.827637 20.3309C0.827637 21.1381 1.48992 21.7913 2.30838 21.7913H11.1928C12.0113 21.7913 12.6735 21.1381 12.6735 20.3309C12.6735 19.5236 12.0113 18.8704 11.1928 18.8704H2.30838ZM12.9741 26.6064C12.5953 26.6064 12.199 26.7547 11.9099 27.0399L6.681 32.1971C6.10258 32.7676 6.10258 33.7032 6.681 34.2737C7.25941 34.8442 8.20801 34.8442 8.78646 34.2737L14.0153 29.1165C14.5937 28.546 14.5937 27.6105 14.0153 27.0399C13.7261 26.7547 13.353 26.6064 12.9742 26.6064H12.9741Z" fill="white"/>
       </svg>
     </div>
     <p class="data-point">128.7K</p>
@@ -77,28 +155,22 @@
   </span>
   <span class="bignum">
     <div class="svg-back">
-      <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" width="24" height="24" color="#000000">
-        <rect x="2.45" y="14.86" width="3.82" height="7.64"></rect>
-        <rect x="17.73" y="1.5" width="3.82" height="21"></rect>
-        <rect x="10.09" y="9.14" width="3.82" height="13.36"></rect>
-        <line x1="0.55" y1="22.5" x2="23.45" y2="22.5"></line>
+      <svg width="47" height="43" viewBox="0 0 47 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0.586182 0.752716H12.8193V42.0361H0.586182V0.752716Z" fill="white"/>
+        <path d="M17.4062 8.39874H29.6393V42.0361H17.4062V8.39874Z" fill="white"/>
+        <path d="M34.2236 14.514H46.4567V42.0363H34.2236V14.514Z" fill="white"/>
       </svg>
     </div>
     <p class="data-point">8.9%</p>
     <p class="explanation">Click thru rate</p>
   </span>
 </div>
+<p> (11/29/22-1/23/23)</p>
 
 <p>See how a  user experiences it:</p>
 
-<style type="text/css">
-  video {
-    max-width: 90%;
-  }
-</style>
-
 <figure class="wp-block-video">
-  <video poster="/img/pilot-benefits-intro-screen.png" controls src="https://s3.us-west-1.amazonaws.com/video.innovation.ca.gov/projects/benefits-recommender/benefits-demo-video-r5.mp4"></video>
+  <video class="benefits-recommender-demo" poster="/img/pilot-benefits-intro-screen.png" controls src="https://s3.us-west-1.amazonaws.com/video.innovation.ca.gov/projects/benefits-recommender/benefits-demo-video-r5.mp4"></video>
 </figure>
 
 <p>Benefits recommender demonstration</p>
