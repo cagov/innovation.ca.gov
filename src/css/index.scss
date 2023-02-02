@@ -111,6 +111,12 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
 .cagov-emphasized {
   font-size: var(--s-3, 1.5rem);
 }
+@media only screen and (max-width: 720px) {
+  .cagov-emphasized {
+    font-size: 1.125rem;
+    line-height: 2.0625rem;  
+  }
+}
 
 /* temp hack until we enable tabs on our work page again */
 @media only screen and (min-width: 767px) {

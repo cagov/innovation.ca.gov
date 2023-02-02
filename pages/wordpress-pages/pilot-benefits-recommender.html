@@ -43,13 +43,6 @@
       display: flex;
       flex-flow: column;
     }
-    .bignums {
-      flex-flow: column;
-    }
-    .bignums .bignum {
-      width: 90%;
-      margin: 1rem;
-    }
   }
   .drawing-area svg {
     position: absolute;
@@ -129,6 +122,18 @@
     border-radius: 1rem;
     padding-top: 1rem;
     width: 30%;
+  }
+  @media (max-width: 720px) {
+    .bignum {
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+    .bignums {
+      flex-flow: column;
+    }
+    .bignum:last-child {
+      margin-bottom: 0;
+    }
   }
   .bignums svg {
     fill: none;
