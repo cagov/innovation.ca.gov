@@ -69,7 +69,7 @@
           document
             .querySelector('.drawing-area')
             .insertAdjacentHTML('afterbegin', `<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-          <path id="connector${counter}" fill="none" stroke="#3F73A4" stroke-width="3"/>
+          <path id="connector${counter}" fill="none" stroke="#3F73A4" stroke-width="2"/>
         </svg>`);
           let connector = document.querySelector(`#connector${counter}`);
 
@@ -145,17 +145,18 @@
     border-radius: 50%;
   }
   .bignums .data-point {
-    color: #397eba;
+    color: #3F73A4;
     font-weight: 700;
     font-size: 3rem;
-    line-height: 5.25rem;    
+    line-height: 5.25rem; 
+    margin-bottom: calc(var(--s-1) + var(--ratio))
   }
   .bignums .explanation {
     font-size: 1.5rem;
     line-height: 2.5rem;
   }
   .benefits-recommender-demo {
-    max-width: 90%;
+    max-width: 100%;
   }
 </style>
 <div class="bignums">
