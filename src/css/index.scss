@@ -61,6 +61,8 @@
 
 @import 'svg-icons';
 
+@import 'project-page';
+
 /* need this globally, not sure why it was missing */
 a {
   text-underline-position: under;
@@ -110,6 +112,12 @@ cagov-site-navigation .expanded-menu-section-header-link:hover {
 /* beginnings of highlight box */
 .cagov-emphasized {
   font-size: var(--s-3, 1.5rem);
+}
+@media only screen and (max-width: 720px) {
+  .cagov-emphasized {
+    font-size: 1.125rem;
+    line-height: 2.0625rem;  
+  }
 }
 
 /* temp hack until we enable tabs on our work page again */
