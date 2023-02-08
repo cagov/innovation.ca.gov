@@ -1,0 +1,34 @@
+.img-hover-container {
+  .img-hover-second {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .img-hover-container {
+    position: relative;
+    width: 572px;
+    max-width: 100%;
+    height: 338px;
+
+    .img-hover-initial {
+      position: absolute;
+      opacity: 1;
+    }
+    .img-hover-second {
+      position: absolute;
+      display: inline;
+      opacity: 0;
+    }
+  }
+  .img-hoverable-container:hover {
+    .img-hover-container {
+      .img-hover-initial {
+        opacity: 0;
+      }
+      .img-hover-second {
+        opacity: 1;
+      }
+    }
+  }
+}

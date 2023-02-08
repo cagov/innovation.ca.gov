@@ -1,6 +1,6 @@
 {
   "name": "innovation.ca.gov",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Office of Data & Innovation website",
   "main": "index.js",
   "devDependencies": {
