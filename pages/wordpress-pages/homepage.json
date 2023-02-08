@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-09T21:39:14",
-    "updated_date": "2022-11-01T20:04:44",
+    "updated_date": "2023-02-08T20:06:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-09-09T14:39:14",
     "date_gmt": "2022-09-09T21:39:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2022-11-01T13:04:44",
-    "modified_gmt": "2022-11-01T20:04:44",
+    "modified": "2023-02-08T12:06:48",
+    "modified_gmt": "2023-02-08T20:06:48",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -93,19 +93,6 @@
         "height": 315,
         "mime_type": "image/webp",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.webp",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 290,
-        "type": "full",
-        "path": "2022/04/Everybody-on-zoom.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
-        "file": "Everybody-on-zoom.png",
-        "width": 572,
-        "height": 336,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
         "source_url_match": true,
         "featured": false
       },
