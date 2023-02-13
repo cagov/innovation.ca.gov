@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-02-13T17:40:31",
+    "updated_date": "2023-02-13T17:40:32",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1033,
+    "date": "2023-02-13T09:40:31",
+    "date_gmt": "2023-02-13T17:40:31",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1033",
+    "modified": "2023-02-13T09:40:32",
+    "modified_gmt": "2023-02-13T17:40:32",
+    "slug": "deputy-director-service-innovation",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-service-innovation/",
+    "title": "Deputy Director, Service Innovation",
+    "excerpt": "<p>As the Deputy Director, Service Innovation, you’ll lead our work on service and product innovation for the CalInnovate team. You’ll be at the forefront of modernizing government services. You’ll help improve services for Californians, such as the&nbsp; social safety net,&nbsp; public health,&nbsp; natural disaster mitigation, and&nbsp; infrastructure improvements.&nbsp; Your work will help improve awareness of &#8230; <a title=\"Deputy Director, Service Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-service-innovation/\" aria-label=\"More on Deputy Director, Service Innovation\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-service-innovation/",
+      "page_title": "Deputy Director, Service Innovation",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Deputy Director, Service Innovation",
+      "meta_description": "You’ll lead our work on service and product innovation for the CalInnovate team. You’ll be at the forefront of modernizing government services.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-service-innovation/",
+      "open_graph_title": "Deputy Director, Service Innovation",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Deputy Director, Service Innovation",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-service-innovation/"
+  }
+}
