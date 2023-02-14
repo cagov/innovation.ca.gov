@@ -120,6 +120,15 @@
     }
   },
   {
+    "name": "Erica Krimmel",
+    "pronouns": "she/her",
+    "title": "Research Assistant",
+    "pic": "e-krimmel.jpg",
+    "social": {
+      "github": "https://github.com/erica-krimmel"
+    }
+  },
+  {
     "name": "Erica Stivison",
     "pronouns": "she/her",
     "title": "UX Designer",
@@ -331,6 +340,16 @@
     "pronouns": "she/her",
     "title": "Information Security Officer",
     "pic": "t-man.jpg"
+  },
+  {
+    "name": "Yesenia Gutiérrez",
+    "pronouns": "she/her",
+    "title": "Product Manager",
+    "pic": "y-gutierrez.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yesenia-gutierrez-640a5915",
+      "twitter": "https://twitter.com/eslayes"
+    }
   },
   {
     "name": "Zakiya Khabir",
