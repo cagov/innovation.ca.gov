@@ -288,10 +288,11 @@
   },
   {
     "name": "Nathan Barnes",
-    "pronouns": "",
+    "pronouns": "he/him",
     "title": "Systems Administrator",
     "pic": "n-barnes.png",
     "social": {
+      "github": "https://github.com/NathanPBarnes",
       "linkedin": "https://www.linkedin.com/in/nathanpbarnes/"
     }
   },
