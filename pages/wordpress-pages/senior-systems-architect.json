@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-02-21T20:31:38",
+    "updated_date": "2023-02-21T20:31:40",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1048,
+    "date": "2023-02-21T12:31:38",
+    "date_gmt": "2023-02-21T20:31:38",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1048",
+    "modified": "2023-02-21T12:31:40",
+    "modified_gmt": "2023-02-21T20:31:40",
+    "slug": "senior-systems-architect",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-systems-architect/",
+    "title": "Senior Systems Architect",
+    "excerpt": "<p>As the Senior Systems Architect, you will be responsible for developing and administering the most critical information technology and telecommunications systems, policies, and programs for ODI. You will serve as an expert advisor for all technology platforms and infrastructure initiatives and a technical advisor to the Chief Information Officer, executive management, and staff on all &#8230; <a title=\"Senior Systems Architect\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-systems-architect/\" aria-label=\"More on Senior Systems Architect\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-systems-architect/",
+      "page_title": "Senior Systems Architect",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Senior Systems Architect",
+      "meta_description": "You'll develop and administer the most critical information technology and telecommunications systems, policies, and programs for ODI.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-systems-architect/",
+      "open_graph_title": "Senior Systems Architect",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Senior Systems Architect",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-systems-architect/"
+  }
+}
