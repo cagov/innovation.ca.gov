@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-11T23:38:03",
-    "updated_date": "2022-10-21T00:00:18",
+    "updated_date": "2023-02-24T23:46:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2022-10-11T16:38:03",
     "date_gmt": "2022-10-11T23:38:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=865",
-    "modified": "2022-10-20T17:00:18",
-    "modified_gmt": "2022-10-21T00:00:18",
+    "modified": "2023-02-24T15:46:29",
+    "modified_gmt": "2023-02-24T23:46:29",
     "slug": "successful-software-development-is-a-collaborative-process",
     "status": "publish",
     "type": "post",
