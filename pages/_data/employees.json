@@ -1,8 +1,12 @@
 [
   {
     "name": "Nolwenn Godard",
+    "pronouns": "she/her",
     "title": "Director",
-      "pic": "n-godard.jpg"
+     "pic": "n-godard.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nolwenngodard"
+    }
   },
   {
     "name": "Aaron Hans",
