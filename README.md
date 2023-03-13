@@ -16,7 +16,7 @@ To write a new post:
 
 Deployment is handled by a [wordpress-to-github](https://www.npmjs.com/package/@cagov/wordpress-to-github) instance; the repository that controls it is [here](https://github.com/cagov/services-wordpress-to-github-digital-ca-gov).
 
-<!--
+<!---
 ## Preview Mode
 
 You can preview content updates [here](https://fa-go-wp-prev-01.azurewebsites.net/).
@@ -26,4 +26,4 @@ You can preview content updates [here](https://fa-go-wp-prev-01.azurewebsites.ne
 - If you publish a new page in WordPress and are not ready to go live but want to see how it will look live use the ```Preview-Mode``` tag on the content before publishing
 - The presence of the Preview-Mode tag will prevent it from going live but will allow it to be browsable on the [preview instance](https://fa-go-wp-prev-01.azurewebsites.net/)
 - When ready to go live remove the Preview-Mode tag from the content and publish again
--->
+--->
