@@ -10,7 +10,7 @@ Our blog originally on news.alpha.ca.gov has been moved here and is viewable at 
 
 To write a new post:
 
-- Add it here...[Wordpress for innovation.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
+- Add it here... [Wordpress for innovation.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
 
 ## Deployment
 
