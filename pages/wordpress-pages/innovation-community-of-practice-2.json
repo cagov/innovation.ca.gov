@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "created_date": "2023-03-29T21:54:54",
+    "updated_date": "2023-03-29T21:54:54",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1113,
+    "date": "2023-03-29T14:54:54",
+    "date_gmt": "2023-03-29T21:54:54",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1113",
+    "modified": "2023-03-29T14:54:54",
+    "modified_gmt": "2023-03-29T21:54:54",
+    "slug": "innovation-community-of-practice-2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/",
+    "title": "Innovation Community of Practice",
+    "excerpt": "<p>The Innovation Community of Practice spotlights and amplifies the innovation happening throughout the State of California. The Community promotes: Sharing successes and lessons learned to inspire departments across the state Learning through networking, training, and self-service resources Enabling positions that drive innovation and upward mobility The Community is open to all state employees. You don’t &#8230; <a title=\"Innovation Community of Practice\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/\" aria-label=\"More on Innovation Community of Practice\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data &amp; Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/",
+      "page_title": "Innovation Community of Practice",
+      "page_description": "Office of Data &amp; Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Innovation Community of Practice",
+      "meta_description": "Office of Data &amp; Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/",
+      "open_graph_title": "Innovation Community of Practice",
+      "open_graph_description": "Office of Data &amp; Innovation",
+      "twitter_title": "Innovation Community of Practice",
+      "twitter_description": "Office of Data &amp; Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/",
+    "media": [
+      {
+        "id": 1114,
+        "type": "full",
+        "path": "2023/03/innovation-community-of-practice.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice.png",
+        "file": "innovation-community-of-practice.png",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1114,
+        "type": "large",
+        "path": "2023/03/innovation-community-of-practice-1024x538.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-1024x538.png",
+        "file": "innovation-community-of-practice-1024x538.png",
+        "width": 1024,
+        "height": 538,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-1024x538.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1114,
+        "type": "medium_large",
+        "path": "2023/03/innovation-community-of-practice-768x403.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-768x403.png",
+        "file": "innovation-community-of-practice-768x403.png",
+        "width": 768,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-768x403.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1114,
+        "type": "medium",
+        "path": "2023/03/innovation-community-of-practice-576x302.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-576x302.png",
+        "file": "innovation-community-of-practice-576x302.png",
+        "width": 576,
+        "height": 302,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/03/innovation-community-of-practice-576x302.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
