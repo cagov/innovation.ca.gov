@@ -6,7 +6,7 @@ import {
 
 let testLocation = "http://localhost:8080";
 
-let pageUrls = ["/", "/who-we-are/our-vision/", "/who-we-are/how-we-work/", "/our-work/?activeTab=past-projects-btn", "/blog/", "/data-and-innovation-fund/", "/join-us/", "/contact-us/"];
+let pageUrls = ["/", "/who-we-are/our-vision/", "/who-we-are/how-we-work/", "/our-work/projects/?activeTab=past-projects-btn", "/our-work/innovation-community-of-practice/", "/blog/", "/data-and-innovation-fund/", "/join-us/", "/contact-us/"];
 
 pageUrls.forEach(pageUrl => {
 
