@@ -11,8 +11,7 @@
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.4.1",
-    "rollup-plugin-import-css": "^2.0.1"
+    "prettier": "^2.4.1"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
