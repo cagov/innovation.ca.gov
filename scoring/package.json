@@ -1,0 +1,21 @@
+{
+  "name": "scoring",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "readability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "automated-readability": "^2.0.1",
+    "html-to-formatted-text": "^2.7.0",
+    "node-fetch": "^3.3.1",
+    "readability-scores": "^1.0.8",
+    "text-readability": "^1.0.5",
+    "unfluff": "^3.2.0"
+  }
+}
