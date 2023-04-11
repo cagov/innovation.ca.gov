@@ -1,6 +1,7 @@
 const cagovBuildSystem = require("@cagov/11ty-build-system");
 const linkedom = require("linkedom");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const fs = require('fs');
 
 //Replaces content to rendered
 const replaceContent = (item, searchValue, replaceValue) => {
@@ -51,6 +52,8 @@ module.exports = function (eleventyConfig) {
     let d = new Date(dateString);
     return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
   });
+
+  let fileList = [];
 
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function (collection) {
@@ -158,7 +161,14 @@ module.exports = function (eleventyConfig) {
         }
       }
 
+      let newFile = {};
+      newFile.outputPath =  item.outputPath;
+      newFile.inputPath =  item.inputPath;
+      fileList.push(newFile);
+
     });
+
+    fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(fileList),'utf8');
 
     return output;
   });
