@@ -189,6 +189,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginRss);
 
+  eleventyConfig.addFilter('calculateReadabilityGrade', (value) => {
+    return (100 - (Math.max(0,(value - 6.99))) * 10);
+  })
+
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
   });

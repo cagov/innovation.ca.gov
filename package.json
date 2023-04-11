@@ -11,6 +11,7 @@
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
+    "performance-leaderboard": "^10.0.0",
     "prettier": "^2.4.1"
   },
   "dependencies": {

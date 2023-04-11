@@ -17,11 +17,10 @@ pageList.forEach(page => {
   
   let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
 
-  if(ppaScores[outputUrl]) {
-    ppaScores[outputUrl].readability = readabilityResults;
-  } else {
-    // todo: add an entry to ppaScores
+  if(!ppaScores[outputUrl]) {
+    ppaScores[outputUrl] = {};
   }
+  ppaScores[outputUrl].readability = readabilityResults;
 
 });
 
