@@ -4,8 +4,6 @@ import PerfLeaderboard from "performance-leaderboard";
 (async function() {
 
   let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
-  let ppaScores = JSON.parse(fs.readFileSync('./pages/_data/ppaScores.json'));
-  let evaluationTime = new Date().getTime();
 
   let urls = [];
   let host = "http://localhost:8080";
@@ -31,6 +29,4 @@ import PerfLeaderboard from "performance-leaderboard";
 	let perfData = await PerfLeaderboard(urls, 1, options);
 
   fs.writeFileSync('./perfdata.json',JSON.stringify(perfData),'utf8');
-
-  // merge perfdata with ppaScores
 })();
