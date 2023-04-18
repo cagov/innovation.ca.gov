@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-18T18:17:52",
-    "updated_date": "2023-04-18T18:17:55",
+    "updated_date": "2023-04-18T18:25:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-04-18T11:17:52",
     "date_gmt": "2023-04-18T18:17:52",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1138",
-    "modified": "2023-04-18T11:17:55",
-    "modified_gmt": "2023-04-18T18:17:55",
+    "modified": "2023-04-18T11:25:15",
+    "modified_gmt": "2023-04-18T18:25:15",
     "slug": "ux-design-manager",
     "status": "publish",
     "type": "page",
