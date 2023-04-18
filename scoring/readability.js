@@ -31,6 +31,11 @@ pageList.forEach(page => {
         format: 'fooBlockFormatter',
         options: { leadingLineBreaks: 1, trailingLineBreaks: 2 }
       },
+      {
+        selector: 'br',
+        format: 'fooBlockFormatter',
+        options: { leadingLineBreaks: 1, trailingLineBreaks: 2 }
+      },
       { selector: 'img', format: 'skip'},
     ] 
   });
@@ -47,7 +52,8 @@ pageList.forEach(page => {
     }
   }
   readabilityResults.timestamp = evaluationTime;
-  
+  console.log(readabilityResults);
+
   let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
 
   if(!ppaScores[outputUrl]) {

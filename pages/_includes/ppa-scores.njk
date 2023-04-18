@@ -15,6 +15,8 @@
   color: #088645;
 }
 </style>
+{% if ppaScores[page.url].readability.ari %}
 <p>Plain language: <span class="speedlify-score">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>ARI: {{ppaScores[page.url].readability.ari}}</p>
+{% endif %}
 <p>Performance: <span class="speedlify-score">{{ppaScores[page.url].lighthouse.performance * 100}}</span></p>
 <p>Accessibility: <span class="speedlify-score">{{ppaScores[page.url].lighthouse.accessibility  * 100}}</span></p>

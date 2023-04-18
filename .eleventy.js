@@ -168,7 +168,11 @@ module.exports = function (eleventyConfig) {
 
     });
 
-    fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(fileList),'utf8');
+    // /blog/index.html is a generated page, remove it from the list
+    let abbrevFileList = fileList.filter(item => { return item.outputPath != "_site/blog/index.html";})
+    
+    // store file list in build gen files directory
+    fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(abbrevFileList),'utf8');
 
     return output;
   });

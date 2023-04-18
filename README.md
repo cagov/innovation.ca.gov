@@ -1,5 +1,5 @@
 # innovation.ca.gov
-Office of Data & Innovation website
+Office of Data and Innovation website
 
 
 ## Blog
