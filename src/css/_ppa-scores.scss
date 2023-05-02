@@ -17,6 +17,9 @@
   flex-grow: 1;
   display: flex;
   flex-flow: column;
+  a {
+    font-size: 1rem;
+  }
 }
 .page-score-block {
   background-color: #fff;
