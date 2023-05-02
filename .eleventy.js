@@ -197,6 +197,16 @@ module.exports = function (eleventyConfig) {
     return (100 - (Math.max(0,(value - 6.99))) * 10).toFixed();
   })
 
+  eleventyConfig.addFilter('getScoreColor', (value) => {
+    if(parseInt(value) > 89) {
+      return 'speedlify-score-good';
+    }
+    if(value > 49) {
+      return 'speedlify-score-ok';
+    }
+    return 'speedlify-score-bad'
+  })
+
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
   });

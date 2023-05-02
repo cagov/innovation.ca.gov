@@ -6,12 +6,14 @@ import PerfLeaderboard from "performance-leaderboard";
   let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
   let urls = [];
-  let host = "http://localhost:8080";
+  let host = "https://innovation.ca.gov";
 
   pageList.forEach(page => {
     let outputUrl = host + page.outputPath.replace('_site/','/').replace('/index.html','/');
-    urls.push(outputUrl);
+		urls.push(outputUrl);
   });
+
+
 
 	// Create the options object (not required)
 	const options = {

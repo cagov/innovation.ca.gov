@@ -9,7 +9,7 @@ perfData.forEach(page => {
   // find matching ppaScores
   // add a perfData node
 
-  let outputUrl = page.url.replace('http://localhost:8080/','/');
+  let outputUrl = page.url.replace('https://innovation.ca.gov/','/');
 
   if(!ppaScores[outputUrl]) {
     ppaScores[outputUrl] = {};

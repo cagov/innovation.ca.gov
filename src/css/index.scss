@@ -42,15 +42,11 @@
 
 @import './aligned-dual-group';
 
-
 /* handle our work page layout requirements */
 @import './layouts-extra';
 
 /* temp, this will be published as design system component soon (it was removed from the base-css-beta version */
 @import './temp-buttons';
-
-/* seven minute tab styles used on our work page */
-@import './seven-minute-tabs';
 
 @import 'theme-overrides'; /* theme colors */
 
@@ -64,6 +60,8 @@
 @import 'project-page';
 
 @import 'img-switch-hover';
+
+@import 'ppa-scores';
 
 /* need this globally, not sure why it was missing */
 a {

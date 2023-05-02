@@ -1,22 +1,34 @@
-<p>Page score info:</p>
+  <div class="page-score-info">
+  <p>Page score info:</p>
 
-<!--<p>Last modified: {{ppaScores[page.url].lastmod}}</p>-->
-<style>
-.speedlify-score {
-  font-size: 0.8125em;
-  min-width: 2.6em;
-  height: 2.6em;
-  line-height: 1;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  border: 2px solid #0cce6b;
-  color: #088645;
-}
-</style>
-{% if ppaScores[page.url].readability.ari %}
-<p>Plain language: <span class="speedlify-score">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>ARI: {{ppaScores[page.url].readability.ari}}</p>
-{% endif %}
-<p>Performance: <span class="speedlify-score">{{ppaScores[page.url].lighthouse.performance * 100}}</span></p>
-<p>Accessibility: <span class="speedlify-score">{{ppaScores[page.url].lighthouse.accessibility  * 100}}</span></p>
+  <div class="score-display">
+    {% if ppaScores[page.url].readability.ari %}
+      <span class="page-score-details">
+        <span class="page-score-block p-a-2">
+          <!--ARI: {{ppaScores[page.url].readability.ari}}--> 
+          <span class="speedlify-score {{ ppaScores[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>
+          <span>Plain language</span>
+        </span>
+        <a href="/page-score-info/#plain-language">Why is plain language important</a>
+      </span>
+    {% endif %}
+    {% if ppaScores[page.url].lighthouse.performance %}
+      <span class="page-score-details">
+        <span class="page-score-block p-a-2">
+          <span class="speedlify-score {{(ppaScores[page.url].lighthouse.performance * 100) | getScoreColor }}">{{ppaScores[page.url].lighthouse.performance * 100}}</span>
+          <span>Performance</span>
+        </span>
+        <a href="/page-score-info/#performance">Why is performance important</a>
+      </span>
+    {% endif %}
+    {% if ppaScores[page.url].lighthouse.accessibility %}
+      <span class="page-score-details">
+        <span class="page-score-block p-a-2">
+          <span class="speedlify-score {{ (ppaScores[page.url].lighthouse.accessibility  * 100) | getScoreColor }}">{{ppaScores[page.url].lighthouse.accessibility  * 100}}</span>
+          <span>Accessibility</span>
+        </span>
+        <a href="/page-score-info/#accessibility">Why is accessibility important</a>
+      </span>
+    {% endif %}
+  </div>
+</div>
