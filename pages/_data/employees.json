@@ -68,6 +68,17 @@
     }
   },
   {
+    "name": "Arman Madani",
+    "pronouns": "he/him,
+    "title": "Sr. Data Scientist",
+    "pic": "a-madani.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/armanmadani/",
+      "twitter": "https://twitter.com/thearmanmadani",
+      "github": "https://github.com/ArmanMadani"
+    }
+  },
+  {
     "name": "Ashley Lanham",
     "pronouns": "she/her",
     "pic": "a-lanham.jpg",
