@@ -307,6 +307,15 @@
     }
   },
   {
+    "name": "Monica Bobra",
+    "pronouns": "she/her",
+    "title": "Principal Data Scientist",
+    "pic": "m-bobra.jpg",
+    "social": {
+      "github": "https://github.com/mbobra"
+    }
+  },
+  {
     "name": "Peggy Gartin",
     "pronouns": "she/her",
     "title": "Content Strategist",
