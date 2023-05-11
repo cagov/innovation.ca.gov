@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-05-11T21:11:14",
+    "updated_date": "2023-05-11T21:11:16",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1164,
+    "date": "2023-05-11T14:11:14",
+    "date_gmt": "2023-05-11T21:11:14",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1164",
+    "modified": "2023-05-11T14:11:16",
+    "modified_gmt": "2023-05-11T21:11:16",
+    "slug": "communications-manager",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/communications-manager/",
+    "title": "Communications Manager",
+    "excerpt": "<p>As the Communications Manager, you’ll tell the Office of Data and Innovation’s (ODI) story to state agencies, key stakeholders, and Californians. You’ll distill complex issues into easy-to-understand content and materials. You love figuring out the best way to engage diverse audiences. You&#8217;ll market, brand, and message content through traditional and digital channels. You&#8217;re excited to &#8230; <a title=\"Communications Manager\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/communications-manager/\" aria-label=\"More on Communications Manager\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/communications-manager/",
+      "page_title": "Communications Manager",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Communications Manager",
+      "meta_description": "As the Communications Manager, you’ll tell ODI's story to state agencies, key stakeholders, and Californians.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/communications-manager/",
+      "open_graph_title": "Communications Manager",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Communications Manager",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/communications-manager/"
+  }
+}
