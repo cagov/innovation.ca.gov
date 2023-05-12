@@ -5,8 +5,7 @@
     {% if ppaScores[page.url].readability.ari %}
       <span class="page-score-details">
         <span class="page-score-block p-a-2">
-          <!--ARI: {{ppaScores[page.url].readability.ari}}--> 
-          <span class="speedlify-score {{ ppaScores[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>
+          <span data-ari-score="{{ppaScores[page.url].readability.ari}}" class="speedlify-score {{ ppaScores[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>
           <span>Readability</span>
         </span>
         <a href="/page-score-info/#plain-language">Why is readability important</a>
