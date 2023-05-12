@@ -1,5 +1,5 @@
   <div class="page-score-info">
-  <p>Page score info:</p>
+  <p>ODI grades the reading level, performance, and accessibility of all our webpages. Here are this page’s scores as of the last update:</p>
 
   <div class="score-display">
     {% if ppaScores[page.url].readability.ari %}
@@ -7,9 +7,9 @@
         <span class="page-score-block p-a-2">
           <!--ARI: {{ppaScores[page.url].readability.ari}}--> 
           <span class="speedlify-score {{ ppaScores[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ ppaScores[page.url].readability.ari | calculateReadabilityGrade }}</span>
-          <span>Plain language</span>
+          <span>Readability</span>
         </span>
-        <a href="/page-score-info/#plain-language">Why is plain language important</a>
+        <a href="/page-score-info/#plain-language">Why is readability important</a>
       </span>
     {% endif %}
     {% if ppaScores[page.url].lighthouse.performance %}
