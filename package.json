@@ -43,7 +43,7 @@
   },
   "scripts": {
     "build": "eleventy",
-    "dev": "npm run readability && npm run site:watch:dev",
+    "dev": "npm run site:watch:dev",
     "readability": "node scoring/readability.js",
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",

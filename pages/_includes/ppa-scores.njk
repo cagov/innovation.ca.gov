@@ -2,15 +2,6 @@
   <p>ODI grades the reading level, performance, and accessibility of all our webpages. Here are this page’s scores as of the last update:</p>
 
   <div class="score-display">
-    {% if readability[page.url].readability.ari %}
-      <span class="page-score-details">
-        <span class="page-score-block p-a-2">
-          <span data-ari-score="{{readability[page.url].readability.ari}}" class="speedlify-score {{ readability[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ readability[page.url].readability.ari | calculateReadabilityGrade }}</span>
-          <span>Readability</span>
-        </span>
-        <a href="/page-score-info/#plain-language">Why is readability important</a>
-      </span>
-    {% endif %}
     {% if performance[page.url].lighthouse.performance %}
       <span class="page-score-details">
         <span class="page-score-block p-a-2">
@@ -27,6 +18,15 @@
           <span>Accessibility</span>
         </span>
         <a href="/page-score-info/#accessibility">Why is accessibility important</a>
+      </span>
+    {% endif %}
+    {% if readability[page.url].readability.ari %}
+      <span class="page-score-details">
+        <span class="page-score-block p-a-2">
+          <span data-ari-score="{{readability[page.url].readability.ari}}" class="speedlify-score {{ readability[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ readability[page.url].readability.ari | calculateReadabilityGrade }}</span>
+          <span>Readability</span>
+        </span>
+        <a href="/page-score-info/#readability">Why is readability important</a>
       </span>
     {% endif %}
   </div>
