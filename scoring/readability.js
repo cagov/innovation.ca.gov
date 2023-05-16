@@ -4,7 +4,7 @@ import { convert } from 'html-to-text';
 
 let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
-let ppaScores = JSON.parse(fs.readFileSync('./pages/_data/ppaScores.json'));
+let ppaScores = [];
 let evaluationTime = new Date().getTime();
 
 pageList.forEach(page => {
