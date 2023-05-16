@@ -1,3 +1,15 @@
+/*
+ * Readability analysis 
+ * This is called as part of the build process (not in dev)
+ * It runs an Automated Readability score analysis similar to hemingwayapp
+ * Results are saved to an 11ty data file and used to display readability scores on the footer
+ * 
+ * The url list is created by 11ty
+ * The latest version of this analyzes the page content file fragment to score the page
+ * This is much easier than parsing the page body from the fully built html
+ * Previous versions worked with the full html, pulling the body with unfluff but ran into issues with determining sentence fragments without punctuation. Sentence count is important for ARI scoring
+*/
+
 import fs from 'fs';
 import readabilityScores from 'readability-scores';
 import { convert } from 'html-to-text';

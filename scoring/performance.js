@@ -1,3 +1,11 @@
+/*
+ * This can run a performance analysis on files
+ * This file is no longer used, it was retired in favor of an AWS Lambda hosted version
+ * This process is kind of slow, takes several seconds for each url so won't work in the build process
+ * 
+ * The performance scores are retrieved during build in 11ty's _data/performance.js which calls the lambda which does the evaluations on a daily cron and stores results in dynamodb
+*/
+
 import fs from 'fs';
 import PerfLeaderboard from "performance-leaderboard";
 
