@@ -52,15 +52,17 @@ pageList.forEach(page => {
     }
   }
   readabilityResults.timestamp = evaluationTime;
-  console.log(readabilityResults);
+  // console.log(readabilityResults);
 
   let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
 
   if(!ppaScores[outputUrl]) {
+    console.log(outputUrl)
     ppaScores[outputUrl] = {};
   }
   ppaScores[outputUrl].readability = readabilityResults;
 
 });
 
+console.log(ppaScores);
 fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(ppaScores),'utf8')

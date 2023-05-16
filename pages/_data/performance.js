@@ -5,11 +5,16 @@ module.exports = function () {
     const perfData = await perfAudits.json();
     let pagePerformanceData = {};
     perfData.forEach(item => {
-      pagePerformanceData[item.pageURL.replace('https://innovation.ca.gov/','/')] = {
-        lighthouse: {
-          performance: item.performance,
-          accessibility: 1
+      if(item.performance) {
+        pagePerformanceData[item.pageURL.replace('https://innovation.ca.gov/','/')] = {
+          lighthouse: {
+            performance: item.performance,
+            accessibility: 1
+          }
         }
+      }
+      if(item.accessibility) {
+        pagePerformanceData[item.pageURL.replace('https://innovation.ca.gov/','/')].lighthouse.accessibility = item.accessibility;
       }
     })
   
