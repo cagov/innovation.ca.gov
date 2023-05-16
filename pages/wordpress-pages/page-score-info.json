@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-05-16T16:02:16",
+    "updated_date": "2023-05-16T16:10:41",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1168,
+    "date": "2023-05-16T09:02:16",
+    "date_gmt": "2023-05-16T16:02:16",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1168",
+    "modified": "2023-05-16T09:10:41",
+    "modified_gmt": "2023-05-16T16:10:41",
+    "slug": "page-score-info",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/page-score-info/",
+    "title": "Performance, accessibility, and readability",
+    "excerpt": "<p>The Office of Data &amp; Innovation focuses on creating services that: Perform well on all devices Are accessible by all Californians Are easy to read We grade every page on our website by these standards. Our widget scores a page every time we change it. We measure these 3 areas because they’re important parts of &#8230; <a title=\"Performance, accessibility, and readability\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/page-score-info/\" aria-label=\"More on Performance, accessibility, and readability\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/page-score-info/",
+      "page_title": "Performance, accessibility, and readability",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Performance, accessibility, and readability",
+      "meta_description": "The California Office of Data & Innovation focuses creating services that perform well on all devices, are accessible by everyone, and are easy to read.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/page-score-info/",
+      "open_graph_title": "Performance, accessibility, and readability",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Performance, accessibility, and readability",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/page-score-info/"
+  }
+}

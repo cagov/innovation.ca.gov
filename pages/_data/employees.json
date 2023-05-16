@@ -68,6 +68,17 @@
     }
   },
   {
+    "name": "Arman Madani",
+    "pronouns": "he/him",
+    "title": "Sr. Data Scientist",
+    "pic": "a-madani.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/armanmadani/",
+      "twitter": "https://twitter.com/thearmanmadani",
+      "github": "https://github.com/ArmanMadani"
+    }
+  },
+  {
     "name": "Ashley Lanham",
     "pronouns": "she/her",
     "pic": "a-lanham.jpg",
@@ -286,16 +297,6 @@
       "twitter": "https://twitter.com/matthewyzhou"
     }
   },
-   {
-    "name": "Megan White",
-    "pronouns": "she/her",
-    "title": "Communications Manager",
-    "pic": "m-white.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/meganpatriciawhite/",
-      "twitter": "https://twitter.com/meganpwhite"
-    }
-  },
   {
     "name": "Michael Sullivan",
     "pronouns": "he/him",
@@ -303,6 +304,15 @@
     "pic": "m-sullivan.png",
     "social": {
       "github": "https://github.com/m-sullivan7"
+    }
+  },
+  {
+    "name": "Monica Bobra",
+    "pronouns": "she/her",
+    "title": "Principal Data Scientist",
+    "pic": "m-bobra.jpg",
+    "social": {
+      "github": "https://github.com/mbobra"
     }
   },
   {
