@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "html-to-text": "^9.0.5",
     "readability-scores": "^1.0.8"
   }
 }
