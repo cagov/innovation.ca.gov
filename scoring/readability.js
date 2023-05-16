@@ -63,4 +63,4 @@ pageList.forEach(page => {
 
 });
 
-fs.writeFileSync('./pages/_data/ppaScores.json',JSON.stringify(ppaScores),'utf8')
+fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(ppaScores),'utf8')
