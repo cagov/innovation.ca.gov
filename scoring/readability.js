@@ -4,7 +4,7 @@ import { convert } from 'html-to-text';
 
 let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
-let ppaScores = [];
+let ppaScores = {};
 let evaluationTime = new Date().getTime();
 
 pageList.forEach(page => {
@@ -57,12 +57,11 @@ pageList.forEach(page => {
   let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
 
   if(!ppaScores[outputUrl]) {
-    console.log(outputUrl)
     ppaScores[outputUrl] = {};
   }
   ppaScores[outputUrl].readability = readabilityResults;
 
 });
 
-console.log(ppaScores);
+// console.log(JSON.stringify(ppaScores));
 fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(ppaScores),'utf8')
