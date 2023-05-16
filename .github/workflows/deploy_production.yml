@@ -20,8 +20,8 @@ jobs:
       - name: Build Site
         run: |
           npm install
-          npm run readability
           npm run build
+          npm run readability
           npx playwright install
           npm test
       # Push built site files to S3 production bucket    
