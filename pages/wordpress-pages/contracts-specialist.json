@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-05-17T16:51:48",
+    "updated_date": "2023-05-17T16:51:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1176,
+    "date": "2023-05-17T09:51:48",
+    "date_gmt": "2023-05-17T16:51:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1176",
+    "modified": "2023-05-17T09:51:50",
+    "modified_gmt": "2023-05-17T16:51:50",
+    "slug": "contracts-specialist",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/contracts-specialist/",
+    "title": "Contracts Specialist",
+    "excerpt": "<p>We are looking for a Contracts Specialist to join the Administration team! You know how to share contract processes and best practices in a way that is easy to understand. You&#8217;re excited to manage a full-service contracting program for a newer State department. You know how IT and non-IT contracts work. You have partnered with &#8230; <a title=\"Contracts Specialist\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/contracts-specialist/\" aria-label=\"More on Contracts Specialist\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/contracts-specialist/",
+      "page_title": "Contracts Specialist",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Contracts Specialist",
+      "meta_description": "We're looking for a Contracts Specialist who knows how to share contract processes and best practices in a way that is easy to understand.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/contracts-specialist/",
+      "open_graph_title": "Contracts Specialist",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Contracts Specialist",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/contracts-specialist/"
+  }
+}
