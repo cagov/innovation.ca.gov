@@ -1,6 +1,7 @@
 module.exports = function () {
   return new Promise(async (resolve, reject) => {
 
+    // see details about this API in readme
     const perfAudits = await fetch("https://qdrfvq20o2.execute-api.us-west-1.amazonaws.com/?site=innovation.ca.gov");
     const perfData = await perfAudits.json();
     let pagePerformanceData = {};
