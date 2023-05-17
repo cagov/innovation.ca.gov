@@ -16,7 +16,7 @@ import { convert } from 'html-to-text';
 
 let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
-let ppaScores = {};
+let parScores = {};
 let evaluationTime = new Date().getTime();
 
 pageList.forEach(page => {
@@ -68,12 +68,12 @@ pageList.forEach(page => {
 
   let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
 
-  if(!ppaScores[outputUrl]) {
-    ppaScores[outputUrl] = {};
+  if(!parScores[outputUrl]) {
+    parScores[outputUrl] = {};
   }
-  ppaScores[outputUrl].readability = readabilityResults;
+  parScores[outputUrl].readability = readabilityResults;
 
 });
 
-// console.log(JSON.stringify(ppaScores));
-fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(ppaScores),'utf8')
+// console.log(JSON.stringify(parScores));
+fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(parScores),'utf8')
