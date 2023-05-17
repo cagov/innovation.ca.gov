@@ -1,6 +1,7 @@
 const cagovBuildSystem = require("@cagov/11ty-build-system");
 const linkedom = require("linkedom");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const fs = require('fs');
 
 //Replaces content to rendered
 const replaceContent = (item, searchValue, replaceValue) => {
@@ -51,6 +52,8 @@ module.exports = function (eleventyConfig) {
     let d = new Date(dateString);
     return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
   });
+
+  let fileList = [];
 
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function (collection) {
@@ -158,7 +161,18 @@ module.exports = function (eleventyConfig) {
         }
       }
 
+      let newFile = {};
+      newFile.outputPath =  item.outputPath;
+      newFile.inputPath =  item.inputPath;
+      fileList.push(newFile);
+
     });
+
+    // /blog/index.html is a generated page, remove it from the list
+    let abbrevFileList = fileList.filter(item => { return item.outputPath != "_site/blog/index.html";})
+    
+    // store file list in build gen files directory
+    fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(abbrevFileList),'utf8');
 
     return output;
   });
@@ -178,6 +192,34 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addFilter('calculateReadabilityGrade', (value) => {
+    // This readability score grading scale was created with these thresholds intentionally by the ODI content team. These score display values represent the desired values corresponding to the ARI analysis. Using these round numbers is preferable to an equation that returns any integer because it matches hemingwayapp's scoring where grade levels are only returned as whole numbers.
+    let readabilityScore = 100;
+    if(value >= 16) { readabilityScore = 0; }
+    if(value < 16) { readabilityScore = 10; }
+    if(value < 15) { readabilityScore = 20; }
+    if(value < 14) { readabilityScore = 30; }
+    if(value < 13) { readabilityScore = 40; }
+    if(value < 12) { readabilityScore = 50; }
+    // there is no slot for a score of 60
+    if(value < 11) { readabilityScore = 70; }
+    if(value < 10) { readabilityScore = 80; }
+    if(value < 9) { readabilityScore = 90; }
+    if(value < 8) { readabilityScore = 95; }
+    if(value < 7) { readabilityScore = 100; }
+    return readabilityScore;
+  })
+
+  eleventyConfig.addFilter('getScoreColor', (value) => {
+    if(parseInt(value) > 89) {
+      return 'speedlify-score-good';
+    }
+    if(value > 49) {
+      return 'speedlify-score-ok';
+    }
+    return 'speedlify-score-bad'
+  })
 
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);

@@ -42,8 +42,12 @@
       <p class="copyright">Copyright &copy;&nbsp;
         <span class="js-cagov-current-year"></span> <script>document.querySelector('.js-cagov-current-year').innerHTML = new Date().getFullYear();</script>&nbsp;State of California
       </p>
+
+      {% block par %}
+        {% include "par-scores.njk" %}
+      {% endblock %}
+
     </div>
   </div>
   <cagov-back-to-top data-hide-after="7000" data-label="Back to top"></cagov-back-to-top>
 </footer>
-<!--end official header-->

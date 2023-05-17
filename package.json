@@ -1,7 +1,7 @@
 {
   "name": "innovation.ca.gov",
-  "version": "1.0.4",
-  "description": "Office of Data & Innovation website",
+  "version": "2.1.0",
+  "description": "Office of Data and Innovation website",
   "main": "index.js",
   "devDependencies": {
     "@open-wc/eslint-config": "^4.3.0",
@@ -11,13 +11,13 @@
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.4.1",
-    "rollup-plugin-import-css": "^2.0.1"
+    "performance-leaderboard": "^10.0.0",
+    "prettier": "^2.4.1"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "@cagov/11ty-build-system": "^0.3.1",
+    "@cagov/11ty-build-system": "^1.0.0-beta.3",
     "@cagov/ds-accordion": "^2.0.0",
     "@cagov/ds-back-to-top": "^2.0.0",
     "@cagov/ds-base-css": "^2.0.0-beta.1",
@@ -38,16 +38,19 @@
     "@zachleat/seven-minute-tabs": "^1.0.0",
     "cross-env": "^7.0.3",
     "glob": "^7.2.0",
+    "html-to-text": "^9.0.5",
     "linkedom": "^0.14.9",
+    "readability-scores": "^1.0.8",
     "sharp": "^0.29.3"
   },
   "scripts": {
     "build": "eleventy",
     "dev": "npm run site:watch:dev",
+    "readability": "node scoring/readability.mjs",
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
-    "start": "npm run site:watch",
+    "start": "npm run readability && npm run site:watch",
     "test": "npx playwright test test/index.spec.mjs",
     "test:serve": "npm run build && npx http-server _site/",
     "test:setup": "npx playwright install-deps chromium && npx playwright install"

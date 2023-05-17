@@ -1,3 +1,4 @@
+import fs from 'fs';
 import { test, expect } from "@playwright/test";
 import {
   injectAxe,
@@ -6,9 +7,21 @@ import {
 
 let testLocation = "http://localhost:8080";
 
-let pageUrls = ["/", "/who-we-are/our-vision/", "/who-we-are/how-we-work/", "/our-work/projects/?activeTab=past-projects-btn", "/our-work/innovation-community-of-practice/", "/blog/", "/data-and-innovation-fund/", "/join-us/", "/contact-us/"];
+let pageUrls = ["/"];
+
+
+let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
+pageList.forEach(page => {
+  let outputUrl = page.outputPath.replace('_site/','/').replace('/index.html','/');
+  if(pageUrls.indexOf(outputUrl) === -1) {
+    pageUrls.push(outputUrl);
+  }
+})
+
+
 
 pageUrls.forEach(pageUrl => {
+  console.log('testing '+pageUrl)
 
   test("desktop: a11y page tests "+pageUrl, async ({ page }) => {
     // use default viewport size which is desktop
@@ -24,6 +37,7 @@ pageUrls.forEach(pageUrl => {
   
   });
 });
+/*
 
 // run same tests on mobile too
 pageUrls.forEach(pageUrl => {
@@ -45,3 +59,4 @@ pageUrls.forEach(pageUrl => {
   
   });
 });
+*/

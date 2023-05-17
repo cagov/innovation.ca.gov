@@ -14,10 +14,10 @@ jobs:
         with: 
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@master
-      - name: Use Node.js 16
+      - name: Use Node.js 18
         uses: actions/setup-node@v1
         with:
-          node-version: 16
+          node-version: 18.15.0
       - name: Get branch name (merge)
         if: github.event_name != 'pull_request'
         shell: bash
@@ -36,6 +36,8 @@ jobs:
         run: |
           mkdir dist
           npm ci --production
+          DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
+          npm run readability
           DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
       - name: Write robots.txt
         run: |
