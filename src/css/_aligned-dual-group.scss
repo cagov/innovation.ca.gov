@@ -1,3 +1,4 @@
+/* used on homepage and project page for side by side img + text */
 .cagov-aligned-group > .wp-block-group__inner-container {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(min(555px ,100%),1fr));
@@ -30,5 +31,17 @@
   .cagov-align-left img, .cagov-align-right img {
     max-width: 100%;
     height: auto;
+  }
+}
+
+/* project page has different alignment and spacing than homepage */
+#post-projects .cagov-aligned-group > .wp-block-group__inner-container {
+  align-items: flex-start;
+  border-bottom: 1px solid var(--gray-500, #c4c3c8);
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  
+  figure {
+    margin-top: 2rem;;
   }
 }

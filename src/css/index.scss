@@ -16,7 +16,24 @@
 }
   
 /* sitewide styles */
-@import '../../node_modules/@cagov/ds-base-css/src/core';
+// @import '../../node_modules/@cagov/ds-base-css/src/core';
+/* sitewide styles, these are mostly blank but will be wrapped up into components/base-css */
+/* These are imported individually instead of with a single include commented out above so we can exclude the large CaGov font stuff */
+@import "../../node_modules/@cagov/ds-base-css/src/_variables"; /* spacing, margin and padding values */
+@import "../../node_modules/@cagov/ds-base-css/src/_mixins"; /* mixins */
+@import "../../node_modules/@cagov/ds-base-css/src/_fonts"; /* website global fonts */
+// @import "../../node_modules/@cagov/ds-base-css/src/_cagov-font"; /* website global fonts */
+@import "../../node_modules/@cagov/ds-base-css/src/_normalize"; /* html, body, main and all the website level base styes */
+@import "../../node_modules/@cagov/ds-base-css/src/_page"; /* html, body, main and all the website level base styes */
+@import "../../node_modules/@cagov/ds-base-css/src/_code"; /* pre, code, var generic styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_forms"; /* input, textarea, select generic styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_links"; /* a, a:hover, a:focus */
+@import "../../node_modules/@cagov/ds-base-css/src/_breadcrumbs"; /* copied from blocks */
+@import "../../node_modules/@cagov/ds-base-css/src/_typography"; /* headings, p, blockqute, font styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_utility-classes"; /* all utility css classes that can be used (shortcodes) */
+@import "../../node_modules/@cagov/ds-base-css/src/_grid"; /* grid classes */
+/* all of the above will become part of base-css component */
+
 
 /* COMPONENTS/BLOCKS */
 @import '../../node_modules/@cagov/ds-site-header/src/index.scss';
