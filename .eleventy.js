@@ -110,8 +110,6 @@ module.exports = function (eleventyConfig) {
           item.data.layout = "content";
         }
         if(jsonData.tags.indexOf('layout-no-sidebar') > -1) {
-          console.log("FOUND")
-          console.log(item.data.page.url);
           item.data.layout = 'single-column';
         }
         if(item.data.page.url == "/") {

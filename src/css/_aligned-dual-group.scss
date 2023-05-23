@@ -35,13 +35,30 @@
 }
 
 /* project page has different alignment and spacing than homepage */
-#post-projects .cagov-aligned-group > .wp-block-group__inner-container {
-  align-items: flex-start;
-  border-bottom: 1px solid var(--gray-500, #c4c3c8);
-  margin-top: 2rem;
-  padding-bottom: 2rem;
-  
-  figure {
-    margin-top: 2rem;;
+
+
+
+#past-projects {
+
+  .cagov-aligned-group > .wp-block-group__inner-container {
+    align-items: flex-start;
+    border-bottom: 1px solid var(--gray-500, #c4c3c8);
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    
+    figure {
+      margin: 2rem 0 0 0;
+    }
   }
+}
+
+
+@media only screen and (min-width: 1159px) {
+
+    
+  .expansion-width-full {
+    width: 1160px;
+    margin-left: -142px;
+  }
+
 }
