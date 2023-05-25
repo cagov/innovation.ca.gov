@@ -42,8 +42,12 @@
   .cagov-aligned-group > .wp-block-group__inner-container {
     align-items: flex-start;
     border-bottom: 1px solid var(--gray-500, #c4c3c8);
-    margin-top: 2rem;
-    padding-bottom: 2rem;
+    margin-top: 4rem;
+    padding-bottom: 4rem;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
 
     figure {
       margin: .5rem 0 0 0;
