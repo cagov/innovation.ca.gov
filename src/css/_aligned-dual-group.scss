@@ -38,7 +38,7 @@
 
 /* project page has different alignment and spacing than homepage */
 
-#past-projects {
+.expansion-width-full {
   .cagov-aligned-group > .wp-block-group__inner-container {
     align-items: flex-start;
     border-bottom: 1px solid var(--gray-500, #c4c3c8);
@@ -46,7 +46,7 @@
     padding-bottom: 2rem;
 
     figure {
-      margin: 2rem 0 0 0;
+      margin: .5rem 0 0 0;
       position: relative;
 
       &.dif-project::after {
