@@ -1,6 +1,7 @@
+/* used on homepage and project page for side by side img + text */
 .cagov-aligned-group > .wp-block-group__inner-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(min(555px ,100%),1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(555px, 100%), 1fr));
   grid-gap: 1.5rem;
   margin-top: 5rem;
   align-items: center;
@@ -15,8 +16,9 @@
   }
 }
 
-.cagov-align-right, .cagov-align-left {
-  img{
+.cagov-align-right,
+.cagov-align-left {
+  img {
     border: none;
     max-width: none;
   }
@@ -27,8 +29,44 @@
   }
 }
 @media only screen and (max-width: 555px) {
-  .cagov-align-left img, .cagov-align-right img {
+  .cagov-align-left img,
+  .cagov-align-right img {
     max-width: 100%;
     height: auto;
+  }
+}
+
+/* project page has different alignment and spacing than homepage */
+
+.expansion-width-full {
+  .cagov-aligned-group > .wp-block-group__inner-container {
+    align-items: flex-start;
+    border-bottom: 1px solid var(--gray-500, #c4c3c8);
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+
+    figure {
+      margin: .5rem 0 0 0;
+      position: relative;
+
+      &.dif-project::after {
+        content: "Data and Innovation Fund";
+        background-color: #C24629;
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: white;
+        padding: 0.5rem 0.75rem;
+        border-bottom-left-radius: 1.25rem;
+        font-size: .75rem;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1159px) {
+  .expansion-width-full {
+    width: 1160px;
+    margin-left: -142px;
   }
 }
