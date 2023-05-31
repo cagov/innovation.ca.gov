@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "created_date": "2023-05-31T22:51:57",
+    "updated_date": "2023-05-31T22:51:57",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1209,
+    "date": "2023-05-31T15:51:57",
+    "date_gmt": "2023-05-31T22:51:57",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+    "modified": "2023-05-31T15:51:57",
+    "modified_gmt": "2023-05-31T22:51:57",
+    "slug": "pexels-aphiwat-chuangchoem-2178565-1-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/pexels-aphiwat-chuangchoem-2178565-1-2/#main",
+    "title": "pexels-aphiwat-chuangchoem-2178565-1",
+    "author": "Aaron Hans",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png'><img width=\"576\" height=\"316\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-768x422.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png 876w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 876,
+      "height": 481,
+      "file": "2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+      "filesize": 797590,
+      "sizes": {
+        "medium": {
+          "file": "pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
+          "width": 576,
+          "height": 316,
+          "filesize": 309984,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png"
+        },
+        "thumbnail": {
+          "file": "pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 43753,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-150x150.png"
+        },
+        "medium_large": {
+          "file": "pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
+          "width": 768,
+          "height": 422,
+          "filesize": 535252,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-768x422.png"
+        },
+        "full": {
+          "file": "pexels-aphiwat-chuangchoem-2178565-1.png",
+          "width": 876,
+          "height": 481,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 1196,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png",
+        "file": "pexels-aphiwat-chuangchoem-2178565-1.png",
+        "width": 876,
+        "height": 481,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2023/05/pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
+        "file": "pexels-aphiwat-chuangchoem-2178565-1-768x422.png",
+        "width": 768,
+        "height": 422,
+        "filesize": 535252,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-768x422.png"
+      },
+      {
+        "type": "medium",
+        "path": "2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
+        "file": "pexels-aphiwat-chuangchoem-2178565-1-576x316.png",
+        "width": 576,
+        "height": 316,
+        "filesize": 309984,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-576x316.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/05/pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
+        "file": "pexels-aphiwat-chuangchoem-2178565-1-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 43753,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/pexels-aphiwat-chuangchoem-2178565-1-150x150.png"
+      }
+    ],
+    "path": "2023/05/pexels-aphiwat-chuangchoem-2178565-1.png"
+  }
+}
