@@ -1,0 +1,75 @@
+.project-page-summary-list {
+  padding: 1.5rem;
+  background-color: #ECF1F6;
+  font-size: .875rem;
+}
+.project-page-summary-list > .wp-block-group__inner-container {
+  display: flex;
+}
+.project-page-summary-list > .wp-block-group__inner-container > .wp-block-group {
+  margin-right: 2rem;
+  max-width: 50%;
+}
+.project-page-summary-section-title {
+  font-weight: bold;
+  font-size: 1.45rem;
+}
+
+.project-spotlight {
+  border: 1px solid #7fa1c2;
+  padding: 0 1.5rem;
+  margin: 1rem 0 2rem 0;
+}
+.cagov-project-bubble-points {
+  margin: 3rem auto;
+}
+.cagov-project-bubble-points > .wp-block-group__inner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .cagov-project-bubble-point {
+    background: #ccc;
+    color: #000;
+    width: 238px;
+    height: 238px;
+    border-radius: 50%;
+    padding: 1.5rem;
+    margin: 1rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    font-size: 1.125rem;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+.cagov-pull-quote {
+  padding: 1.5rem;
+  background-color: #ECF1F6;
+  border-left: 4px solid #00315F;
+  margin: 3rem 0;
+}
+.cagov-pull-quote .wp-block-group__inner-container::before {
+  content: "";
+  background-image: url(/img/pull-quote-curls.svg);
+  width: 25px;
+  height: 25px;
+  display: block;
+  background-repeat: no-repeat;
+}
+.cagov-pull-quote-content {
+  font-size: 1.42rem;
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: #00315F;
+}
+.cagov-pull-quote-attribution {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
