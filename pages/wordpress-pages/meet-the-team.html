@@ -19,7 +19,7 @@
     <!--{% else %}-->
       <!--{% if emp.pic %}-->
         <div class="card-front emp-image-present">
-          <img src="/img/headshots/{{ emp.pic }}" alt="{{ emp.name }}, {{ emp.pronouns }}, {{ emp.title | safe }}">
+          <img decoding="async" src="/img/headshots/{{ emp.pic }}" alt="{{ emp.name }}, {{ emp.pronouns }}, {{ emp.title | safe }}">
         </div>
       <!--{% else %}-->
         <div class="card-front">
