@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png'><img width=\"538\" height=\"105\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png\" class=\"attachment-medium size-medium\" alt=\"The Official Exam Bulletin section. It reads, &quot;Click here to view an official copy of the examination bulletin.&quot; The words &quot;Click here&quot; is a hyperlink.\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png'><img width=\"538\" height=\"105\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/official-exam-bulletin.png\" class=\"attachment-medium size-medium\" alt=\"The Official Exam Bulletin section. It reads, &quot;Click here to view an official copy of the examination bulletin.&quot; The words &quot;Click here&quot; is a hyperlink.\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
     "alt_text": "The Official Exam Bulletin section. It reads, \"Click here to view an official copy of the examination bulletin.\" The words \"Click here\" is a hyperlink.",
     "media_type": "image",

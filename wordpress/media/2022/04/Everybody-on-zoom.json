@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png'><img width=\"572\" height=\"336\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png\" class=\"attachment-medium size-medium\" alt=\"ODI staff on zoom\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png'><img width=\"572\" height=\"336\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png\" class=\"attachment-medium size-medium\" alt=\"ODI staff on zoom\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
     "alt_text": "ODI staff on zoom",
     "media_type": "image",
