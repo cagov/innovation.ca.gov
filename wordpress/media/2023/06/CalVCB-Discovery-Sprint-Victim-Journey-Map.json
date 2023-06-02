@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "created_date": "2023-06-02T22:06:22",
+    "updated_date": "2023-06-02T22:06:22",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1221,
+    "date": "2023-06-02T15:06:22",
+    "date_gmt": "2023-06-02T22:06:22",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+    "modified": "2023-06-02T15:06:22",
+    "modified_gmt": "2023-06-02T22:06:22",
+    "slug": "calvcb-discovery-sprint-victim-journey-map",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/calvcb-discovery-sprint-victim-journey-map/#main",
+    "title": "CalVCB-Discovery-Sprint-Victim-Journey-Map",
+    "author": "Kimberly Losenara",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png'><img width=\"576\" height=\"278\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png 1440w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1440,
+      "height": 696,
+      "file": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+      "filesize": 165804,
+      "sizes": {
+        "medium": {
+          "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png",
+          "width": 576,
+          "height": 278,
+          "filesize": 98588,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png"
+        },
+        "large": {
+          "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png",
+          "width": 1024,
+          "height": 495,
+          "filesize": 238556,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png"
+        },
+        "thumbnail": {
+          "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 20884,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png"
+        },
+        "medium_large": {
+          "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png",
+          "width": 768,
+          "height": 371,
+          "filesize": 153612,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png"
+        },
+        "full": {
+          "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+          "width": 1440,
+          "height": 696,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 1196,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+        "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map.png",
+        "width": 1440,
+        "height": 696,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png"
+      },
+      {
+        "type": "large",
+        "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png",
+        "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png",
+        "width": 1024,
+        "height": 495,
+        "filesize": 238556,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-1024x495.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png",
+        "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png",
+        "width": 768,
+        "height": 371,
+        "filesize": 153612,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-768x371.png"
+      },
+      {
+        "type": "medium",
+        "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png",
+        "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png",
+        "width": 576,
+        "height": 278,
+        "filesize": 98588,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-576x278.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png",
+        "file": "CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 20884,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map-150x150.png"
+      }
+    ],
+    "path": "2023/06/CalVCB-Discovery-Sprint-Victim-Journey-Map.png"
+  }
+}
