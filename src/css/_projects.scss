@@ -9,6 +9,10 @@
 .project-page-summary-list > .wp-block-group__inner-container > .wp-block-group {
   margin-right: 2rem;
   max-width: 50%;
+
+  li {
+    margin-bottom: 0;
+  }
 }
 .project-page-summary-section-title {
   font-weight: bold;
@@ -19,6 +23,10 @@
   border: 1px solid #7fa1c2;
   padding: 0 1.5rem;
   margin: 1rem 0 2rem 0;
+
+  figure img {
+    border: none;
+  }
 }
 .cagov-project-bubble-points {
   margin: 3rem auto;
@@ -29,7 +37,7 @@
   justify-content: center;
 
   .cagov-project-bubble-point {
-    background: #ccc;
+    background: #ecf1f6;
     color: #000;
     width: 238px;
     height: 238px;
@@ -44,6 +52,7 @@
 
     p {
       margin-bottom: 0;
+      line-height: 1.5rem;
     }
   }
 }

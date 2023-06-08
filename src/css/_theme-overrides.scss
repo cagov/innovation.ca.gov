@@ -19,6 +19,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Noto Serif', serif;
   font-weight: 700;
 }
+h3 {
+  color: #000;
+}
 
 /* give homepage h1 space */
 @media (min-width: 1176px) {
