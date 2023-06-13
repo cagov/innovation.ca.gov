@@ -65,5 +65,8 @@
   "bugs": {
     "url": "https://github.com/cagov/digital.ca.gov/issues"
   },
-  "homepage": "https://github.com/cagov/digital.ca.gov#readme"
+  "homepage": "https://github.com/cagov/digital.ca.gov#readme",
+  "volta": {
+    "node": "18.15.0"
+  }
 }
