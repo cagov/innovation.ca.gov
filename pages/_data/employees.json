@@ -35,6 +35,15 @@
     }
   },
   {
+    "name": "Aeri Shan",
+    "pronouns": "they/them",
+    "title": "Principal Analytics Engineer",
+    "pic": "a-shan.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aerishan"
+    }
+  },
+  {
     "name": "Adelina Zendejas",
     "pronouns": "she/her/ella",
     "title": "Special Advisor to the Director",
@@ -247,6 +256,15 @@
     "pic": "k-longo-flores.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/kellie-longo-flores-364a2725/"
+    }
+  },
+  {
+    "name": "Kevin Vellanoweth",
+    "pronouns": "he/him",
+    "title": "Senior Systems Architect",
+    "pic": "k-vellanoweth.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kvellano/"
     }
   },
   {
