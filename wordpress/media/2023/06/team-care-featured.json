@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "created_date": "2023-06-13T15:37:22",
+    "updated_date": "2023-06-13T15:37:22",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1236,
+    "date": "2023-06-13T08:37:22",
+    "date_gmt": "2023-06-13T15:37:22",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg",
+    "modified": "2023-06-13T08:37:22",
+    "modified_gmt": "2023-06-13T15:37:22",
+    "slug": "team-care-featured-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/team-care-featured-2/",
+    "title": "team-care-featured",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg'><img width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-576x302.jpg\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-576x302.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-1024x538.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-768x403.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg 1200w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1200,
+      "height": 630,
+      "file": "2023/06/team-care-featured.jpg",
+      "filesize": 104797,
+      "sizes": {
+        "medium": {
+          "file": "team-care-featured-576x302.jpg",
+          "width": 576,
+          "height": 302,
+          "filesize": 38059,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-576x302.jpg"
+        },
+        "large": {
+          "file": "team-care-featured-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "filesize": 106902,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-1024x538.jpg"
+        },
+        "thumbnail": {
+          "file": "team-care-featured-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 6678,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "team-care-featured-768x403.jpg",
+          "width": 768,
+          "height": 403,
+          "filesize": 64591,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-768x403.jpg"
+        },
+        "full": {
+          "file": "team-care-featured.jpg",
+          "width": 1200,
+          "height": 630,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/06/team-care-featured.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg",
+        "file": "team-care-featured.jpg",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2023/06/team-care-featured-1024x538.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-1024x538.jpg",
+        "file": "team-care-featured-1024x538.jpg",
+        "width": 1024,
+        "height": 538,
+        "filesize": 106902,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-1024x538.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2023/06/team-care-featured-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-768x403.jpg",
+        "file": "team-care-featured-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 64591,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-768x403.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2023/06/team-care-featured-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-576x302.jpg",
+        "file": "team-care-featured-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 38059,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-576x302.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/06/team-care-featured-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-150x150.jpg",
+        "file": "team-care-featured-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 6678,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/team-care-featured-150x150.jpg"
+      }
+    ],
+    "path": "2023/06/team-care-featured.jpg"
+  }
+}
