@@ -14,6 +14,7 @@ import fs from 'fs';
 import readabilityScores from 'readability-scores';
 import { convert } from 'html-to-text';
 
+// Get the list of pages to test.
 let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
 let parScores = {};
@@ -33,7 +34,9 @@ pageList.forEach(page => {
       }
     },
     selectors: [ 
-      { selector: 'a', options: { ignoreHref: true } },
+      { selector: 'a', 
+        format: 'skip', 
+        options: { ignoreHref: true} },
       {
         selector: 'div',
         options: { leadingLineBreaks: 1, trailingLineBreaks: 2 }
