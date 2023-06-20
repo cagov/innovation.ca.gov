@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "created_date": "2023-06-20T22:01:21",
+    "updated_date": "2023-06-20T22:01:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1246,
+    "date": "2023-06-20T15:01:21",
+    "date_gmt": "2023-06-20T22:01:21",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1246",
+    "modified": "2023-06-20T15:01:21",
+    "modified_gmt": "2023-06-20T22:01:21",
+    "slug": "engaging-californians-through-facebook",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
+    "title": "Engaging Californians through Facebook",
+    "excerpt": "<p>One duty of the Department of Toxic Substance Control (DTSC) is to oversee permitting and cleanups of toxic substances. This includes engaging with the communities near properties where environmental cleanup is necessary.&nbsp; In an effort to increase public comment, the Office of Data and Innovation (ODI) and DTSC worked on expanding engagement with Californians. We &#8230; <a title=\"Engaging Californians through Facebook\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/\" aria-label=\"More on Engaging Californians through Facebook\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
+      "page_title": "Engaging Californians through Facebook",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Engaging Californians through Facebook",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
+      "open_graph_title": "Engaging Californians through Facebook",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Engaging Californians through Facebook",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
+    "media": [
+      {
+        "id": 1258,
+        "type": "full",
+        "path": "2023/06/FB-ad-Ramona.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona.jpg",
+        "file": "FB-ad-Ramona.jpg",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1258,
+        "type": "large",
+        "path": "2023/06/FB-ad-Ramona-1024x538.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-1024x538.jpg",
+        "file": "FB-ad-Ramona-1024x538.jpg",
+        "width": 1024,
+        "height": 538,
+        "filesize": 90088,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-1024x538.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1258,
+        "type": "medium_large",
+        "path": "2023/06/FB-ad-Ramona-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-768x403.jpg",
+        "file": "FB-ad-Ramona-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 63717,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-768x403.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1258,
+        "type": "medium",
+        "path": "2023/06/FB-ad-Ramona-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-576x302.jpg",
+        "file": "FB-ad-Ramona-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 46028,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/FB-ad-Ramona-576x302.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1259,
+        "type": "full",
+        "path": "2023/06/IG-ad-video.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video.jpg",
+        "file": "IG-ad-video.jpg",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1259,
+        "type": "large",
+        "path": "2023/06/IG-ad-video-1024x538.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-1024x538.jpg",
+        "file": "IG-ad-video-1024x538.jpg",
+        "width": 1024,
+        "height": 538,
+        "filesize": 83866,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-1024x538.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1259,
+        "type": "medium_large",
+        "path": "2023/06/IG-ad-video-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-768x403.jpg",
+        "file": "IG-ad-video-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 61548,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-768x403.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1259,
+        "type": "medium",
+        "path": "2023/06/IG-ad-video-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-576x302.jpg",
+        "file": "IG-ad-video-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 47187,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/IG-ad-video-576x302.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
