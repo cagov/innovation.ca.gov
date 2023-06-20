@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-20T22:01:21",
-    "updated_date": "2023-06-20T22:50:23",
+    "updated_date": "2023-06-20T23:08:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-06-20T15:01:21",
     "date_gmt": "2023-06-20T22:01:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1246",
-    "modified": "2023-06-20T15:50:23",
-    "modified_gmt": "2023-06-20T22:50:23",
+    "modified": "2023-06-20T16:08:47",
+    "modified_gmt": "2023-06-20T23:08:47",
     "slug": "engaging-californians-through-facebook",
     "status": "publish",
     "type": "post",
@@ -62,7 +62,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
       "page_title": "Engaging Californians through Facebook",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/cropped-IG-ad-video.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
