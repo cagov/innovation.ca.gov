@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-20T22:01:21",
-    "updated_date": "2023-06-20T22:01:21",
+    "updated_date": "2023-06-20T22:50:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-06-20T15:01:21",
     "date_gmt": "2023-06-20T22:01:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1246",
-    "modified": "2023-06-20T15:01:21",
-    "modified_gmt": "2023-06-20T22:01:21",
+    "modified": "2023-06-20T15:50:23",
+    "modified_gmt": "2023-06-20T22:50:23",
     "slug": "engaging-californians-through-facebook",
     "status": "publish",
     "type": "post",
@@ -36,9 +36,7 @@
     "categories": [
       "Uncategorized"
     ],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -94,19 +92,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
