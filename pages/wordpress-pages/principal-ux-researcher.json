@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-06-21T17:28:48",
+    "updated_date": "2023-06-21T17:28:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1264,
+    "date": "2023-06-21T10:28:48",
+    "date_gmt": "2023-06-21T17:28:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1264",
+    "modified": "2023-06-21T10:28:48",
+    "modified_gmt": "2023-06-21T17:28:48",
+    "slug": "principal-ux-researcher",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/principal-ux-researcher/",
+    "title": "Principal UX Researcher",
+    "excerpt": "<p>We&#8217;re looking for a Principal UX Researcher to join the user research team. As the Principal UX Researcher, you will be responsible for mapping and driving organizational change that will improve government services for all Californians. You are a highly motivated individual who possesses both qualitative and quantitative skills. You will lead human-centered design (HCD) &#8230; <a title=\"Principal UX Researcher\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/principal-ux-researcher/\" aria-label=\"More on Principal UX Researcher\">Read more</a></p>\n",
+    "author": "Ashley Lanham",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/principal-ux-researcher/",
+      "page_title": "Principal UX Researcher",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Principal UX Researcher",
+      "meta_description": "As the Principal UX Researcher, you'll be responsible for mapping and driving organizational change that will improve government services for all Californians.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/principal-ux-researcher/",
+      "open_graph_title": "Principal UX Researcher",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Principal UX Researcher",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/principal-ux-researcher/"
+  }
+}
