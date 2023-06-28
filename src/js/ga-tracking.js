@@ -21,7 +21,21 @@ document.querySelectorAll('a').forEach((a) => {
 });
 
 window.reportGA = function(eventAction, eventLabel, eventCategory = 'click') {
-  if(typeof(ga) !== 'undefined') {
-    ga('send', 'event', eventCategory, eventAction, eventLabel);
+  // OLD METHOD
+  // if(typeof(ga) !== 'undefined') {
+  //   ga('send', 'event', eventCategory, eventAction, eventLabel);
+  // }
+
+  // GA4 METHOD
+  if (typeof gtag !== "undefined") {
+    gtag("event", eventAction, {
+      event_category: eventCategory,
+      event_label: eventLabel,
+    });
+  } else {
+    setTimeout(() => {
+      window.reportGA(eventAction, eventLabel, eventCategory);
+    }, 500);
   }
+
 }
