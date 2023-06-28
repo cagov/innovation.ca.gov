@@ -21,9 +21,12 @@ document.querySelectorAll('a').forEach((a) => {
 });
 
 window.reportGA = function(eventAction, eventLabel, eventCategory = 'click') {
+  // OLD METHOD
   // if(typeof(ga) !== 'undefined') {
   //   ga('send', 'event', eventCategory, eventAction, eventLabel);
   // }
+
+  // GA4 METHOD
   if (typeof gtag !== "undefined") {
     gtag("event", eventAction, {
       event_category: eventCategory,
