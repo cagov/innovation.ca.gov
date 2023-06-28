@@ -1,4 +1,5 @@
 <script>
+/**
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 ga('create', 'UA-20973992-35', 'auto'); // my specific site
 ga('create', 'UA-3419582-2', 'auto', 'tracker2'); // all ca.gov
@@ -11,4 +12,24 @@ window.onload = function() {
   s.src = "https://www.google-analytics.com/analytics.js";
   document.head.append(s);
 }
+**/
+
+
+// Based on template provided here:
+// https://webstandards.ca.gov/add-analytics-to-your-site/
+(function () {
+  const ga = document.createElement("script");
+  ga.async = true;
+  ga.src = "https://www.googletagmanager.com/gtag/js?id=G-PJDVH1C2JS";
+  const s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(ga, s);
+})();
+// Global site tag (gtag.js) - Google Analytics
+window.dataLayer = window.dataLayer || [];
+window.gtag = function () {
+  dataLayer.push(arguments);
+};
+gtag("js", new Date());
+gtag("config", "G-69TD0KNT0F"); // Statewide GA4 measurement ID
+// gtag("config", "G-????????"); // agency-specific ID
 </script>

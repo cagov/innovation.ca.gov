@@ -21,7 +21,18 @@ document.querySelectorAll('a').forEach((a) => {
 });
 
 window.reportGA = function(eventAction, eventLabel, eventCategory = 'click') {
-  if(typeof(ga) !== 'undefined') {
-    ga('send', 'event', eventCategory, eventAction, eventLabel);
+  // if(typeof(ga) !== 'undefined') {
+  //   ga('send', 'event', eventCategory, eventAction, eventLabel);
+  // }
+  if (typeof gtag !== "undefined") {
+    gtag("event", eventAction, {
+      event_category: eventCategory,
+      event_label: eventLabel,
+    });
+  } else {
+    setTimeout(() => {
+      window.reportGA(eventAction, eventLabel, eventCategory);
+    }, 500);
   }
+
 }
