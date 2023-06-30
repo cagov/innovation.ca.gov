@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T18:11:53",
-    "updated_date": "2023-06-30T18:23:54",
+    "updated_date": "2023-06-30T18:39:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-06-30T11:11:53",
     "date_gmt": "2023-06-30T18:11:53",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1291",
-    "modified": "2023-06-30T11:23:54",
-    "modified_gmt": "2023-06-30T18:23:54",
+    "modified": "2023-06-30T11:39:45",
+    "modified_gmt": "2023-06-30T18:39:45",
     "slug": "privacy-policy",
     "status": "publish",
     "type": "page",
@@ -57,7 +57,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Office of Data and Innovation privacy policy",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "The Office of Data and Innovation is committed to protecting the privacy of your information.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/privacy-policy/",
       "open_graph_title": "Office of Data and Innovation privacy policy",
       "open_graph_description": "Office of Data and Innovation",
