@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-06-30T18:48:33",
+    "updated_date": "2023-06-30T18:48:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1296,
+    "date": "2023-06-30T11:48:33",
+    "date_gmt": "2023-06-30T18:48:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1296",
+    "modified": "2023-06-30T11:48:33",
+    "modified_gmt": "2023-06-30T18:48:33",
+    "slug": "conditions-of-use",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/",
+    "title": "Conditions of use",
+    "excerpt": "<p>Updated: June 30, 2023 When you visit the Office of Data and Innovation (ODI) website, you accept our conditions of use. If you do not agree with these conditions of use, please exit this website. The conditions of use are subject to change without notice. They reflect ODI’s current business practices. If you leave our &#8230; <a title=\"Conditions of use\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/\" aria-label=\"More on Conditions of use\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/",
+      "page_title": "Conditions of use",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Conditions of use",
+      "meta_description": "Learn about the conditions of use for the California Office of Data and Innovation website.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/",
+      "open_graph_title": "Conditions of use",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Conditions of use",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/"
+  }
+}
