@@ -24,17 +24,6 @@
     }
   },
   {
-    "name": "Aaron Hans",
-    "pronouns": "he/him",
-    "title": "Senior Engineer - Technical Lead",
-    "pic": "a-hans.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/aaronhans/",
-      "mastodon": "https://indieweb.social/@nopattern",
-      "github": "https://github.com/aaronhans"
-    }
-  },
-  {
     "name": "Aeri Shan",
     "pronouns": "they/them",
     "title": "Principal Analytics Engineer",
@@ -55,6 +44,15 @@
     "pic": "a-williams.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/alanna-williams"
+    }
+  },
+  {
+    "name": "Anne Crew-Renzo",
+    "title": "CalAcademy Training Program Manager",
+    "pronouns": "she/her",
+    "pic": "a-crew-renzo.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/acrewrenzo/"
     }
   },
   {
