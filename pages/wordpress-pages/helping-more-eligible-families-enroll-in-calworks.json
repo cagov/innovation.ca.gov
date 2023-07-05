@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-05T20:12:40",
-    "updated_date": "2023-07-05T20:12:40",
+    "updated_date": "2023-07-05T20:29:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-05T13:12:40",
     "date_gmt": "2023-07-05T20:12:40",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1302",
-    "modified": "2023-07-05T13:12:40",
-    "modified_gmt": "2023-07-05T20:12:40",
+    "modified": "2023-07-05T13:29:11",
+    "modified_gmt": "2023-07-05T20:29:11",
     "slug": "helping-more-eligible-families-enroll-in-calworks",
     "status": "publish",
     "type": "page",
@@ -54,7 +54,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
       "page_title": "Helping more eligible families enroll in CalWORKs",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
