@@ -24,6 +24,12 @@
     }
   },
   {
+    "name": "Adelina Zendejas",
+    "pronouns": "she/her/ella",
+    "title": "Special Advisor to the Director",
+    "pic": "a-zendejas.jpg"
+  },
+  {
     "name": "Aeri Shan",
     "pronouns": "they/them",
     "title": "Principal Analytics Engineer",
@@ -31,12 +37,6 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/aerishan"
     }
-  },
-  {
-    "name": "Adelina Zendejas",
-    "pronouns": "she/her/ella",
-    "title": "Special Advisor to the Director",
-    "pic": "a-zendejas.jpg"
   },
   {
     "name": "Alanna Williams",
