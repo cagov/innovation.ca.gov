@@ -1,0 +1,117 @@
+<p>The Office of Data &amp; Innovation focuses on creating services that:</p>
+
+<ul>
+<li>Perform well on all devices</li>
+
+<li>Are accessible by all Californians</li>
+
+<li>Are easy to read</li>
+</ul>
+
+<p>We grade every page on our website by these standards. Our widget scores a page every time we change it.</p>
+
+<p>We measure these 3 areas because they’re important parts of the user experience. They’re also important to equitably delivering services to Californians.</p>
+
+<h2 class="wp-block-heading">Performance</h2>
+
+<p>Low performance results in a poor experience for visitors. Slower websites have:</p>
+
+<ul>
+<li><a href="https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/">Higher bounce rates</a></li>
+
+<li><a href="https://www.cloudflare.com/en-gb/learning/performance/more/website-performance-conversion-rates/">Lower conversion rates</a></li>
+
+<li><a href="https://www.neuronsinc.com/cases/ericsson">Physical stress for visitors</a></li>
+</ul>
+
+<p>MDN Web Docs talks about <a href="https://developer.mozilla.org/en-US/docs/Learn/Performance/why_web_performance">why performance matters</a>.</p>
+
+<h3 class="wp-block-heading">Performance is an equity issue</h3>
+
+<p>Websites that load fast on all devices serve all Californians.</p>
+
+<p>Cheaper mobile devices have slower processors. These devices take more time to load webpages with a lot of JavaScript. A page with a lot of JavaScript is 1,000% slower on a cheap phone versus a new laptop on the same internet connection. This is an example of <a href="https://infrequently.org/series/performance-inequality/">performance inequality</a>.</p>
+
+<p>Faster websites help everyone. Even modern devices sometimes connect to slow networks.</p>
+
+<h3 class="wp-block-heading">Page speed is a search ranking factor</h3>
+
+<p>Search engines like Google use page loading time to rank search results. Google has used <a href="https://developers.google.com/search/blog/2018/01/using-page-speed-in-mobile-search">mobile page speed as a ranking factor</a> since 2018.</p>
+
+<h3 class="wp-block-heading">How we calculate our scores</h3>
+
+<p>We use <a href="https://developer.chrome.com/en/docs/lighthouse/performance/performance-scoring/">Lighthouse</a> to give us a performance score for each page. It’s an open source web performance tool from Google. We installed it through the <a href="https://www.npmjs.com/package/performance-leaderboard-pagespeed-insights">performance-leaderboard-pagespeed-insights npm package</a>. We run it on Amazon Web Services Lambda against our production systems. Lighthouse’s criteria evolves with the web. Each release details the changes.</p>
+
+<h3 class="wp-block-heading">How to improve your website</h3>
+
+<p>Start by measuring your website’s performance. There are a few options:</p>
+
+<ul>
+<li><a href="https://pagespeed.web.dev/">PageSpeed Insights</a></li>
+
+<li>Lighthouse in Chrome’s developer tools</li>
+
+<li>Running your own <a href="https://www.npmjs.com/package/performance-leaderboard">performance-leaderboard</a> scripts</li>
+
+<li>A software-as-a-service tool like <a href="https://calibreapp.com/">Calibre</a>, <a href="https://www.siteimprove.com/">Siteimprove</a>, or <a href="https://www.speedcurve.com/">SpeedCurve</a></li>
+</ul>
+
+<p>Delivering too much JavaScript is a common cause of performance problems. Forcing every client device to receive, parse, and execute a ton of code before painting the page can cause massive delays.</p>
+
+<p>Performance analysis tools like <a href="https://www.webpagetest.org/">WebPageTest</a> and Lighthouse can recommend changes to improve performance. They’ll highlight the changes that will have the most impact on site speed. Following their guidelines will get you into the top tier of state website speed rankings.</p>
+
+<p>Free courses like <a href="https://www.webpagetest.org/learn/lightning-fast-web-performance/">Lightning-Fast Web Performance</a> offer deep dives into performance optimization.</p>
+
+<h2 class="wp-block-heading">Accessibility</h2>
+
+<p>Everyone deserves access to information and services. Your group status or individual ability shouldn’t be a barrier to government services.</p>
+
+<p>Accessibility is about removing barriers. Some people rely on assistive technology or experience things like color blindness. If your web services aren’t accessible, they may not work for people with disabilities.</p>
+
+<p>All state websites must meet <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines 2.1</a> at Level AA. This addresses many common problems that stop webpages from working with assistive technologies.</p>
+
+<p>Accessible websites help everyone, not just people with disabilities. For example, increasing color contrast helps people with poor eyesight read the website. It also makes it easier for everybody to read content. Similarly, making your website work on a screen reader helps people who need it read aloud. But websites that work for screen readers also work on a wider variety of devices.</p>
+
+<h3 class="wp-block-heading">How we calculate our scores</h3>
+
+<p>We use Lighthouse’s accessibility audit for our scores. It spots many categories of bugs that make sites inaccessible. Our goal is a perfect score.</p>
+
+<p>We use axe in our build system to run headless puppeteer tests on our pages. It uses <a href="https://www.npmjs.com/package/@axe-core/puppeteer">@axe-core/puppeteer</a> to make sure there are no violations. If it detects an issue, the build does not go to production. Lighthouse and axe cover many of the same issues.</p>
+
+<p>These tools can’t tell the whole story. We also test new pages using screen readers. We also navigate them without using the mouse to find other problems.</p>
+
+<h3 class="wp-block-heading">How to improve your website</h3>
+
+<p>Many state departments already do well in accessibility. Our statewide audits find many perfect scores.</p>
+
+<p>The most common challenge is introducing bugs during content updates or code changes. Automated tools help you check your site’s accessibility. Tools like SiteImprove or CalibreApp constantly audit sites to catch regressions in real time. Tools like axe and Lighthouse can catch issues before release.</p>
+
+<h2 class="wp-block-heading">Readability</h2>
+
+<p>Readability measures how easy a page is to read. We use the <a href="https://en.wikipedia.org/wiki/Automated_readability_index">Automated Readability Index</a> to grade our content. It measures the letters per word and words per sentence. The result is a grade level needed to understand the content.</p>
+
+<p>Our widget gives a reading level of 6th grade or lower a score of 100. We aim for 6th grade because:</p>
+
+<ul>
+<li>6th grade content is usually written in plain language. It’s clear to everyone, including readers with disabilities and limited English fluency. <a href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6219.&amp;lawCode=GOV">State law</a> requires departments to write in plain language, a major part of readability.</li>
+
+<li>The familiar words of this reading level let people read with less effort.</li>
+
+<li>Kids who translate English content for their family can do so more easily at this level. 44% of Californians over the age of 5 speak a language other than English at home.</li>
+
+<li>Machine translation at this reading level is more accurate</li>
+</ul>
+
+<p>Our tool can’t measure some aspects of readability. They include font, font size, space between lines, and space between characters. We thought about these things when we designed this website.</p>
+
+<h3 class="wp-block-heading">How we calculate our scores</h3>
+
+<p>We turn Automated Readability Index grade levels into 0-100 scores.</p>
+
+<figure class="wp-block-table is-style-regular"><table><thead><tr><th><strong>Reading level</strong></th><th><strong>Score</strong></th></tr></thead><tbody><tr><td>0-6</td><td>100</td></tr><tr><td>7</td><td>95</td></tr><tr><td>8</td><td>90</td></tr><tr><td>9</td><td>80</td></tr><tr><td>10</td><td>70</td></tr><tr><td>11</td><td>50</td></tr><tr><td>12</td><td>40</td></tr><tr><td>13</td><td>30</td></tr><tr><td>14</td><td>20</td></tr><tr><td>15</td><td>10</td></tr><tr><td>16+</td><td>0</td></tr></tbody></table></figure>
+
+<h3 class="wp-block-heading">How to improve your website</h3>
+
+<p>Start by measuring the reading level of webpage content in <a href="https://hemingwayapp.com/">Hemingway Editor</a>. It offers suggestions for where you can make improvements.</p>
+
+<p>ODI&#8217;s <a href="https://docs.data.ca.gov/calinnovate-toolkit/NQUp2SeHnvd3YF16tw4N/readme/plain-language-guidance">service innovation toolkit</a> has guides about how to write content that is easy to understand.</p>

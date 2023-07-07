@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2023-03-29T23:45:52",
+    "updated_date": "2023-03-30T00:11:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1123,
+    "date": "2023-03-29T16:45:52",
+    "date_gmt": "2023-03-29T23:45:52",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1123",
+    "modified": "2023-03-29T17:11:25",
+    "modified_gmt": "2023-03-30T00:11:25",
+    "slug": "our-work",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/",
+    "title": "Our work",
+    "excerpt": "",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/",
+      "page_title": "Our work",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Our work",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/",
+      "open_graph_title": "Our work",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Our work",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/"
+  }
+}

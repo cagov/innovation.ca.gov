@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2022-12-16T17:38:34",
+    "updated_date": "2022-12-16T17:38:38",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 974,
+    "date": "2022-12-16T09:38:34",
+    "date_gmt": "2022-12-16T17:38:34",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png",
+    "modified": "2022-12-16T09:38:38",
+    "modified_gmt": "2022-12-16T17:38:38",
+    "slug": "cea-minimum-requirements",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cea-minimum-requirements/",
+    "title": "cea-minimum-requirements",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png'><img width=\"576\" height=\"110\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png\" class=\"attachment-medium size-medium\" alt=\"The Minimum Requirements section of a job posting. It includes the text, &quot;This position does not have a Classification Specification. Requirements and qualifications for this position can be found in this announcement.&quot;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-1024x196.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-768x147.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png 1516w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The Minimum Requirements section of a job posting. It includes the text, \"This position does not have a Classification Specification. Requirements and qualifications for this position can be found in this announcement.\"",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1516,
+      "height": 290,
+      "file": "2022/12/cea-minimum-requirements.png",
+      "sizes": {
+        "medium": {
+          "file": "cea-minimum-requirements-576x110.png",
+          "width": 576,
+          "height": 110,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png"
+        },
+        "large": {
+          "file": "cea-minimum-requirements-1024x196.png",
+          "width": 1024,
+          "height": 196,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-1024x196.png"
+        },
+        "thumbnail": {
+          "file": "cea-minimum-requirements-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-150x150.png"
+        },
+        "medium_large": {
+          "file": "cea-minimum-requirements-768x147.png",
+          "width": 768,
+          "height": 147,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-768x147.png"
+        },
+        "full": {
+          "file": "cea-minimum-requirements.png",
+          "width": 1516,
+          "height": 290,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/12/cea-minimum-requirements.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png",
+        "file": "cea-minimum-requirements.png",
+        "width": 1516,
+        "height": 290,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/12/cea-minimum-requirements-1024x196.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-1024x196.png",
+        "file": "cea-minimum-requirements-1024x196.png",
+        "width": 1024,
+        "height": 196,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-1024x196.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/12/cea-minimum-requirements-768x147.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-768x147.png",
+        "file": "cea-minimum-requirements-768x147.png",
+        "width": 768,
+        "height": 147,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-768x147.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/12/cea-minimum-requirements-576x110.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png",
+        "file": "cea-minimum-requirements-576x110.png",
+        "width": 576,
+        "height": 110,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/12/cea-minimum-requirements-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-150x150.png",
+        "file": "cea-minimum-requirements-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-150x150.png"
+      }
+    ],
+    "path": "2022/12/cea-minimum-requirements.png"
+  }
+}

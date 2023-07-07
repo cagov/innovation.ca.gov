@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "created_date": "2023-07-05T20:12:40",
+    "updated_date": "2023-07-06T18:26:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1302,
+    "date": "2023-07-05T13:12:40",
+    "date_gmt": "2023-07-05T20:12:40",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1302",
+    "modified": "2023-07-06T11:26:37",
+    "modified_gmt": "2023-07-06T18:26:37",
+    "slug": "helping-more-eligible-families-enroll-in-calworks",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
+    "title": "Helping more eligible families enroll in CalWORKs",
+    "excerpt": "<p>Our research found root problems that keep Californians from enrolling in a key program. Project scope Partners Methods Needs California Work Opportunity and Responsibility to Kids (CalWORKs) is a critical safety net program overseen by the California Department of Social Services (CDSS). It provides temporary cash aid and services to eligible families with children. California &#8230; <a title=\"Helping more eligible families enroll in CalWORKs\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/\" aria-label=\"More on Helping more eligible families enroll in CalWORKs\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
+      "page_title": "Helping more eligible families enroll in CalWORKs",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Helping more eligible families enroll in CalWORKs",
+      "meta_description": "ODI's research found root problems that keep Californians from enrolling in a key program.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
+      "open_graph_title": "Helping more eligible families enroll in CalWORKs",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Helping more eligible families enroll in CalWORKs",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
+    "media": [
+      {
+        "id": 1308,
+        "type": "full",
+        "path": "2023/07/calworks-case_study-cover.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover.jpg",
+        "file": "calworks-case_study-cover.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1308,
+        "type": "medium_large",
+        "path": "2023/07/calworks-case_study-cover-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover-768x384.jpg",
+        "file": "calworks-case_study-cover-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 48475,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1308,
+        "type": "medium",
+        "path": "2023/07/calworks-case_study-cover-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover-576x288.jpg",
+        "file": "calworks-case_study-cover-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 30769,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1309,
+        "type": "full",
+        "path": "2023/07/calworks-journeymap.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap.png",
+        "file": "calworks-journeymap.png",
+        "width": 1656,
+        "height": 888,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1309,
+        "type": "1536x1536",
+        "path": "2023/07/calworks-journeymap-1536x824.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-1536x824.png",
+        "file": "calworks-journeymap-1536x824.png",
+        "width": 1536,
+        "height": 824,
+        "filesize": 401293,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-1536x824.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1309,
+        "type": "large",
+        "path": "2023/07/calworks-journeymap-1024x549.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-1024x549.png",
+        "file": "calworks-journeymap-1024x549.png",
+        "width": 1024,
+        "height": 549,
+        "filesize": 223590,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-1024x549.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1309,
+        "type": "medium_large",
+        "path": "2023/07/calworks-journeymap-768x412.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-768x412.png",
+        "file": "calworks-journeymap-768x412.png",
+        "width": 768,
+        "height": 412,
+        "filesize": 143862,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-768x412.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1309,
+        "type": "medium",
+        "path": "2023/07/calworks-journeymap-576x309.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-576x309.png",
+        "file": "calworks-journeymap-576x309.png",
+        "width": 576,
+        "height": 309,
+        "filesize": 91171,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-journeymap-576x309.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}

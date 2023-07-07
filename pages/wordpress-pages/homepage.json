@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2021-11-09T13:26:02",
-    "updated_date": "2021-11-10T00:15:48",
+    "created_date": "2022-09-09T21:39:14",
+    "updated_date": "2023-02-24T23:44:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -14,29 +14,29 @@
   },
   "data": {
     "id": 113,
-    "date": "2021-11-09T05:26:02",
-    "date_gmt": "2021-11-09T13:26:02",
+    "date": "2022-09-09T14:39:14",
+    "date_gmt": "2022-09-09T21:39:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2021-11-09T16:15:48",
-    "modified_gmt": "2021-11-10T00:15:48",
+    "modified": "2023-02-24T15:44:09",
+    "modified_gmt": "2023-02-24T23:44:09",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/",
-    "title": "Office of Digital Innovation",
-    "excerpt": "<p>The Office of Digital Innovation (ODI) partners with state departments to improve government services. Our vision is to create programs that put Californians first. We use people-centered design to discover technological innovation that serves Californians’ needs. We see a California that is equitable, efficient, and data-inspired. Careers at ODI We’re looking for great people to &#8230; <a title=\"Office of Digital Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Digital Innovation\">Read more</a></p>\n",
-    "author": "Chacha Sikes",
+    "title": "Office of Data and Innovation",
+    "excerpt": "<p>Changing state government through the Data and Innovation Fund This fund is a key part of how we’re improving services for Californians. When paired with the innovative approach of ODI&#8217;s cross-functional teams, we make a real impact on people’s lives. Who we work with California Governor’s Office of Emergency Services California Department of Technology Department &#8230; <a title=\"Office of Data and Innovation\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/\" aria-label=\"More on Office of Data and Innovation\">Read more</a></p>\n",
+    "author": "Aaron Hans",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "landing",
+    "template": "",
     "meta": [],
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -46,28 +46,69 @@
         "plugin_version": "4.1.5.1",
         "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
       },
-      "site_name": "digital.ca.gov",
-      "site_description": "Office of Digital Innovation",
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/",
-      "page_title": "Office of Digital Innovation",
-      "page_description": "Office of Digital Innovation",
+      "page_title": "Office of Data and Innovation",
+      "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Office of Digital Innovation",
-      "meta_description": "Office of Digital Innovation",
+      "meta_title": "Office of Data and Innovation",
+      "meta_description": "The Office of Data and Innovation use human&#x2d;centered design and technology to create services that are easier for all Californians to use.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/",
-      "open_graph_title": "Office of Digital Innovation",
-      "open_graph_description": "Office of Digital Innovation",
-      "twitter_title": "Office of Digital Innovation",
-      "twitter_description": "Office of Digital Innovation"
+      "open_graph_title": "Office of Data and Innovation",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Office of Data and Innovation",
+      "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/",
+    "media": [
+      {
+        "id": 289,
+        "type": "full",
+        "path": "2022/04/connections.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "file": "connections.png",
+        "width": 576,
+        "height": 388,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 427,
+        "type": "full",
+        "path": "2022/04/dif-how-might-we-1.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.webp",
+        "file": "dif-how-might-we-1.webp",
+        "width": 550,
+        "height": 315,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/dif-how-might-we-1.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 430,
+        "type": "large",
+        "path": "2022/04/odi-hero-1024x649.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "file": "odi-hero-1024x649.webp",
+        "width": 1024,
+        "height": 649,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }

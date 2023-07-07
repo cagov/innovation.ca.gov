@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "created_date": "2023-01-27T00:02:38",
+    "updated_date": "2023-05-12T20:25:17",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1010,
+    "date": "2023-01-26T16:02:38",
+    "date_gmt": "2023-01-27T00:02:38",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1010",
+    "modified": "2023-05-12T13:25:17",
+    "modified_gmt": "2023-05-12T20:25:17",
+    "slug": "pilot-benefits-recommender",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/",
+    "title": "Pilot: Benefits Recommender",
+    "excerpt": "<p>The Benefits Recommender is a new way to get people to apply for more California state benefits. It meets people where they are on a benefits journey, and offers more aid they may not know about. The Recommender is a lightweight addition to an existing webpage. It is typically added to the confirmation page for &#8230; <a title=\"Pilot: Benefits Recommender\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/\" aria-label=\"More on Pilot: Benefits Recommender\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      "do-not-crawl",
+      "layout-no-sidebar"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/",
+      "page_title": "Pilot: Benefits Recommender",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Pilot: Benefits Recommender",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/",
+      "open_graph_title": "Pilot: Benefits Recommender",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Pilot: Benefits Recommender",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/"
+  }
+}

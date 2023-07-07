@@ -1,27 +1,25 @@
-# digital.ca.gov
-Office of Digital Innovation website
+# innovation.ca.gov
+Office of Data and Innovation website
 
 
 ## Blog
 
-Our blog originally on news.alpha.ca.gov has been moved here so it is deployed to [digital.ca.gov/blog](https://digital.ca.gov/blog/)
+Our blog originally on news.alpha.ca.gov has been moved here and is viewable at [innovation.ca.gov/blog](https://innovation.ca.gov/blog/)
 
 ### Writing posts
 
 To write a new post:
 
-- Add it here...[Wordpress for digital.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
+- Add it here... [Wordpress for innovation.ca.gov](https://live-digital-ca-gov.pantheonsite.io/.pantheonsite.io/wp-admin/edit.php)
 
 ## Deployment
 
 Deployment is handled by a [wordpress-to-github](https://www.npmjs.com/package/@cagov/wordpress-to-github) instance; the repository that controls it is [here](https://github.com/cagov/services-wordpress-to-github-digital-ca-gov).
 
-## Preview Mode
 
-You can preview content updates [here](https://fa-go-wp-prev-01.azurewebsites.net/).
+## PAR scores
 
-- The Preview instance will give you a rendering of the page as it will look in production.
-- It can create a preview for any page or post that is published
-- If you publish a new page in WordPress and are not ready to go live but want to see how it will look live use the ```Preview-Mode``` tag on the content before publishing
-- The presence of the Preview-Mode tag will prevent it from going live but will allow it to be browsable on the [preview instance](https://fa-go-wp-prev-01.azurewebsites.net/)
-- When ready to go live remove the Preview-Mode tag from the content and publish again
+The Performance, Accessibility and Readability scores are displayed in the page footers. These are determined by audits which evaluate:
+- The lighthouse performance score in the <a href="https://github.com/cagov/site-performance-review">site-performance-review API</a>
+- Accessibility issues will cause the site build to fail, all site urls are evaluated during the build process so we should always have 100% score on automated audits
+- Automated Readability Index. This process was evaluated to closely match hemingwayapp's grading also base don ARI. We discovered some interesting issues with hemingway during this process and opened bug reports with them to help them stop using a . in an email address or a curly apostrophe as word delimiters.

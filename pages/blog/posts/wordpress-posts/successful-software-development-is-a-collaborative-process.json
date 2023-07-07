@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "created_date": "2022-10-11T23:38:03",
+    "updated_date": "2023-05-17T20:46:41",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 865,
+    "date": "2022-10-11T16:38:03",
+    "date_gmt": "2022-10-11T23:38:03",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=865",
+    "modified": "2023-05-17T13:46:41",
+    "modified_gmt": "2023-05-17T20:46:41",
+    "slug": "successful-software-development-is-a-collaborative-process",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+    "title": "Successful software development is a collaborative process",
+    "excerpt": "<p>ODI and the California Department of Technology (CDT) won Best IT Collaboration for our combined efforts on the California Design System. We accepted the award at the Digital Government Summit in Sacramento.&nbsp; The Design System is a set of core principles, style guidelines, and components that makes it easier for state departments to develop user-friendly &#8230; <a title=\"Successful software development is a collaborative process\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/\" aria-label=\"More on Successful software development is a collaborative process\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+      "page_title": "Successful software development is a collaborative process",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Successful software development is a collaborative process",
+      "meta_description": "ODI and the California Department of Technology won Best IT Collaboration for our combined efforts on the California Design System.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+      "open_graph_title": "Successful software development is a collaborative process",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Successful software development is a collaborative process",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+    "media": [
+      {
+        "id": 867,
+        "type": "full",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422.jpg",
+        "width": 1920,
+        "height": 1920,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 867,
+        "type": "1536x1536",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg",
+        "width": 1536,
+        "height": 1536,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1536x1536.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 867,
+        "type": "large",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg",
+        "width": 1024,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-1024x1024.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 867,
+        "type": "medium_large",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg",
+        "width": 768,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-768x768.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 867,
+        "type": "medium",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg",
+        "width": 576,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-576x576.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 867,
+        "type": "thumbnail",
+        "path": "2022/10/it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/10/it-collaboration-award-2022-scaled-e1665529034422-150x150.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}

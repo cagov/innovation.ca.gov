@@ -1,0 +1,13 @@
+
+/* feature-card responsive resize using semantic order variation */
+@media (max-width: 719px) {
+  .cagov-with-sidebar.cagov-no-reverse >* {
+    flex-direction: column;
+  }  
+}
+
+/* The default gray bkgrd should be removed from wordpress custom block feature card */
+.cagov-featured-section.cagov-bkgrd-gry {
+  background: none;
+}
+

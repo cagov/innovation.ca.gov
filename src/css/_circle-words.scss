@@ -1,0 +1,30 @@
+.cagov-circled-terms {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem auto;
+  max-width: 720px;
+
+  li {
+    border: 4px solid #000;
+    border-radius: 50%;
+    display: inline-block;
+    min-width: 140px;
+    min-height: 140px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    margin: .5rem;
+  }
+  .primary-light-border {
+    border-color: var(--primary-light-color, #3f73a4);
+  }
+  .highlight-light-border {
+    border-color: var(--highlight-light-color, #c24269);
+  }
+  .secondary-lightest-border {
+    border-color: var(--secondary-lightest-color, #e4881e);
+  }
+}

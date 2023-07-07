@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-09-27T22:32:47",
+    "updated_date": "2023-03-16T23:27:27",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 836,
+    "date": "2022-09-27T15:32:47",
+    "date_gmt": "2022-09-27T22:32:47",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=836",
+    "modified": "2023-03-16T16:27:27",
+    "modified_gmt": "2023-03-16T23:27:27",
+    "slug": "thanks-for-your-application",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/thanks-for-your-application/",
+    "title": "Thanks for your application",
+    "excerpt": "<p>Your application for a position with ODI has been received. Thank you for considering joining our team! The ODI application process We hope you’re excited to join us! If you’ve never applied for a state job, we’ve got you covered. Our&nbsp;application process walkthrough&nbsp;explains the process so you know what to expect.</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/thanks-for-your-application/",
+      "page_title": "Thanks for your application",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Thanks for your application",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/thanks-for-your-application/",
+      "open_graph_title": "Thanks for your application",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Thanks for your application",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/thanks-for-your-application/"
+  }
+}

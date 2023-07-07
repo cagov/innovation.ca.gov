@@ -1,14 +1,59 @@
 {
-  "name": "digital.ca.gov",
-  "version": "1.0.0",
-  "description": "Office of Digital Innovation website",
+  "name": "innovation.ca.gov",
+  "version": "2.1.0",
+  "description": "Office of Data and Innovation website",
   "main": "index.js",
+  "devDependencies": {
+    "@open-wc/eslint-config": "^4.3.0",
+    "@playwright/test": "^1.21.1",
+    "@web/dev-server": "^0.1.17",
+    "aws-sdk": "^2.1055.0",
+    "axe-playwright": "^1.1.11",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "performance-leaderboard": "^10.0.0",
+    "prettier": "^2.4.1"
+  },
   "dependencies": {
-    "moment-timezone": "^0.5.33"
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@cagov/11ty-build-system": "^1.0.0-beta.3",
+    "@cagov/ds-accordion": "^2.0.0",
+    "@cagov/ds-back-to-top": "^2.0.0",
+    "@cagov/ds-base-css": "^2.0.0-beta.1",
+    "@cagov/ds-feature-card": "^1.0.6",
+    "@cagov/ds-link-grid": "^2.1.0",
+    "@cagov/ds-page-alert": "^2.0.2",
+    "@cagov/ds-page-feedback": "^1.1.0",
+    "@cagov/ds-page-navigation": "^2.1.0",
+    "@cagov/ds-pagination": "^2.0.0",
+    "@cagov/ds-site-footer": "^1.1.0",
+    "@cagov/ds-site-header": "^1.1.0",
+    "@cagov/ds-site-navigation": "^2.1.4",
+    "@cagov/ds-skip-to-content": "^1.0.2",
+    "@cagov/ds-statewide-footer": "^1.0.8",
+    "@cagov/ds-statewide-header": "^1.0.16",
+    "@cagov/ds-step-list": "^2.0.1",
+    "@cagov/ds-table": "^1.0.1",
+    "@zachleat/seven-minute-tabs": "^1.0.0",
+    "cross-env": "^7.0.3",
+    "glob": "^7.2.0",
+    "html-to-text": "^9.0.5",
+    "linkedom": "^0.14.9",
+    "readability-scores": "^1.0.8",
+    "sharp": "^0.29.3"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve"
+    "build": "eleventy",
+    "dev": "npm run site:watch:dev",
+    "readability": "node scoring/readability.mjs",
+    "site:build:dev": "cross-env NODE_ENV=development eleventy",
+    "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
+    "site:watch": "eleventy --serve",
+    "start": "npm run readability && npm run site:watch",
+    "test": "npx playwright test test/index.spec.mjs",
+    "test:serve": "npm run build && npx http-server _site/",
+    "test:setup": "npx playwright install-deps chromium && npx playwright install"
   },
   "repository": {
     "type": "git",
@@ -20,5 +65,8 @@
   "bugs": {
     "url": "https://github.com/cagov/digital.ca.gov/issues"
   },
-  "homepage": "https://github.com/cagov/digital.ca.gov#readme"
+  "homepage": "https://github.com/cagov/digital.ca.gov#readme",
+  "volta": {
+    "node": "18.15.0"
+  }
 }

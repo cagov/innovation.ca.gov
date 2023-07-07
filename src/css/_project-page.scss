@@ -1,0 +1,94 @@
+  .bignums {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: .5rem;
+  }
+  .bignum {
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    border: solid 1px #3F73A4;
+    border-radius: 1rem;
+    padding-top: 1rem;
+    width: 30%;
+  }
+  @media (max-width: 720px) {
+    .bignum {
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+    .bignums {
+      flex-flow: column;
+    }
+    .bignum:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .bignums svg {
+    fill: none;
+    stroke: #ffffff;
+    width: 50%;
+    height: 50%;
+  }
+  .bignums .svg-back {
+    background-color: #3F73A4;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+  .bignums .data-point {
+    color: #3F73A4;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 5.25rem; 
+    margin-bottom: calc(var(--s-1) + var(--ratio))
+  }
+  .bignums .explanation {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+  .benefits-recommender-demo {
+    max-width: 100%;
+  }
+
+  /* curvy lines */
+  .drawing-area {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem auto;
+    flex-flow: column;
+  }
+  @media (min-width: 720px) {
+    .drawing-area {
+      width: 90%;
+      flex-flow: row;
+    }
+    .widget-screenshot {
+      width: 60%;
+    }
+  }
+  .widget-attribute-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  @media (max-width: 720px) {
+    .widget-attribute-list {
+      margin: 1rem 0 0 0;
+      align-items: center;
+      display: flex;
+      flex-flow: column;
+    }
+  }
+  .drawing-area svg {
+    position: absolute;
+  }
+  .widget-attribute-list li {
+    font-weight: 700;
+  }

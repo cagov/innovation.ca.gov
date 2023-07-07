@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2022-05-31T16:30:37",
+    "updated_date": "2022-05-31T16:30:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 520,
+    "date": "2022-05-31T09:30:37",
+    "date_gmt": "2022-05-31T16:30:37",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png",
+    "modified": "2022-05-31T09:30:37",
+    "modified_gmt": "2022-05-31T16:30:37",
+    "slug": "tech-choices-feature-card-npm-package",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/tech-choices-feature-card-npm-package/",
+    "title": "tech-choices-feature-card-npm-package",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png'><img width=\"173\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png 173w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-308x1024.png 308w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-461x1536.png 461w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png 615w\" sizes=\"(max-width: 173px) 100vw, 173px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 615,
+      "height": 2048,
+      "file": "2022/05/tech-choices-feature-card-npm-package.png",
+      "sizes": {
+        "medium": {
+          "file": "tech-choices-feature-card-npm-package-173x576.png",
+          "width": 173,
+          "height": 576,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png"
+        },
+        "large": {
+          "file": "tech-choices-feature-card-npm-package-308x1024.png",
+          "width": 308,
+          "height": 1024,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-308x1024.png"
+        },
+        "thumbnail": {
+          "file": "tech-choices-feature-card-npm-package-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-150x150.png"
+        },
+        "1536x1536": {
+          "file": "tech-choices-feature-card-npm-package-461x1536.png",
+          "width": 461,
+          "height": 1536,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-461x1536.png"
+        },
+        "full": {
+          "file": "tech-choices-feature-card-npm-package.png",
+          "width": 615,
+          "height": 2048,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/05/tech-choices-feature-card-npm-package.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png",
+        "file": "tech-choices-feature-card-npm-package.png",
+        "width": 615,
+        "height": 2048,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2022/05/tech-choices-feature-card-npm-package-461x1536.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-461x1536.png",
+        "file": "tech-choices-feature-card-npm-package-461x1536.png",
+        "width": 461,
+        "height": 1536,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-461x1536.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/05/tech-choices-feature-card-npm-package-308x1024.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-308x1024.png",
+        "file": "tech-choices-feature-card-npm-package-308x1024.png",
+        "width": 308,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-308x1024.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/05/tech-choices-feature-card-npm-package-173x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png",
+        "file": "tech-choices-feature-card-npm-package-173x576.png",
+        "width": 173,
+        "height": 576,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-173x576.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/05/tech-choices-feature-card-npm-package-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-150x150.png",
+        "file": "tech-choices-feature-card-npm-package-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/tech-choices-feature-card-npm-package-150x150.png"
+      }
+    ],
+    "path": "2022/05/tech-choices-feature-card-npm-package.png"
+  }
+}

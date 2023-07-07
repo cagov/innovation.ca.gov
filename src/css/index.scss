@@ -1,0 +1,172 @@
+/* GLOBAL */
+// Site Colors
+@import 'theme-tokens'; /* theme colors */
+
+/* noto serif font used for headers */
+// the following lines would come from
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+/* latin */
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzfReece9LOoc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;  
+}
+  
+/* sitewide styles */
+// @import '../../node_modules/@cagov/ds-base-css/src/core';
+/* sitewide styles, these are mostly blank but will be wrapped up into components/base-css */
+/* These are imported individually instead of with a single include commented out above so we can exclude the large CaGov font stuff */
+@import "../../node_modules/@cagov/ds-base-css/src/_variables"; /* spacing, margin and padding values */
+@import "../../node_modules/@cagov/ds-base-css/src/_mixins"; /* mixins */
+@import "../../node_modules/@cagov/ds-base-css/src/_fonts"; /* website global fonts */
+// @import "../../node_modules/@cagov/ds-base-css/src/_cagov-font"; /* website global fonts */
+@import "../../node_modules/@cagov/ds-base-css/src/_normalize"; /* html, body, main and all the website level base styes */
+@import "../../node_modules/@cagov/ds-base-css/src/_page"; /* html, body, main and all the website level base styes */
+@import "../../node_modules/@cagov/ds-base-css/src/_code"; /* pre, code, var generic styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_forms"; /* input, textarea, select generic styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_links"; /* a, a:hover, a:focus */
+@import "../../node_modules/@cagov/ds-base-css/src/_breadcrumbs"; /* copied from blocks */
+@import "../../node_modules/@cagov/ds-base-css/src/_typography"; /* headings, p, blockqute, font styles */
+@import "../../node_modules/@cagov/ds-base-css/src/_utility-classes"; /* all utility css classes that can be used (shortcodes) */
+@import "../../node_modules/@cagov/ds-base-css/src/_grid"; /* grid classes */
+/* all of the above will become part of base-css component */
+
+
+/* COMPONENTS/BLOCKS */
+@import '../../node_modules/@cagov/ds-site-header/src/index.scss';
+@import '../../node_modules/@cagov/ds-link-grid/src/index.scss'; /* copied from blocks */
+@import '../../node_modules/@cagov/ds-feature-card/src/index.scss'; /* copied from block */
+@import '../../node_modules/@cagov/ds-skip-to-content/src/index.scss';
+@import '../../node_modules/@cagov/ds-table/src/index.scss';
+@import 'step-list-patch';
+
+/* NAVIGATION ELEMENTS */
+@import '../../node_modules/@cagov/ds-statewide-header/src/index.scss';
+@import '../../node_modules/@cagov/ds-site-footer/src/index.scss';
+@import '../../node_modules/@cagov/ds-statewide-footer/src/index.scss';
+@import '../../node_modules/@cagov/ds-site-navigation/src/index.scss';
+
+@import './blog';
+
+@import './feature-card-variation';
+
+@import './horizontal-list';
+
+@import './alternating-grid';
+
+@import './aligned-dual-group';
+
+/* handle our work page layout requirements */
+@import './layouts-extra';
+
+/* temp, this will be published as design system component soon (it was removed from the base-css-beta version */
+@import './temp-buttons';
+
+@import 'theme-overrides'; /* theme colors */
+
+@import 'dif-form'; /* single page */
+
+@import 'circle-words'; /* used on team page for words in big circles in bowling pin layout */
+@import 'card-flip-grid'; /* used on team page for employee profiles */
+
+@import 'svg-icons';
+
+@import 'project-page';
+
+@import 'img-switch-hover';
+
+@import 'par-scores';
+
+@import 'projects';
+
+/* need this globally, not sure why it was missing */
+a {
+  text-underline-position: under;
+}
+cagov-site-navigation .expanded-menu-section-header-link:hover {
+  text-underline-position: under;
+}
+
+/* fixes bug with this is getting in the way, taking up 1px at top */
+#skip-to-content {
+  margin-top: -1px;
+}
+
+/* site specific breadcrumb overrides */
+.breadcrumb {
+  font-size: calc(.875rem + var(--ratio));
+  background: #fff;
+  padding: 0.625rem;
+}
+
+/* this looks like it should be part of breadcrumb, not having it is a bug */
+@media only screen and (max-width: 992px) {
+  .breadcrumb {
+    display: none;
+  }
+}
+
+/* this is a minor bug in page feedback, it shouldn't have widths inside it */
+.footer-container cagov-page-feedback .feedback-form {
+  max-width: none;
+  margin: 0 var(--s-2, 1rem);
+}
+.footer-container section[aria-label="feedback"] {
+  max-width: var(--w-lg, 1176px);
+  margin: 0 auto;  
+}
+
+/* this is a bug in feature card, should expand when in column mode */
+@media only screen and (max-width: 767px) {
+  main.landing-page {
+    .cagov-featured-sidebar {
+      max-width: none;
+    }
+  }
+}
+
+/* beginnings of highlight box */
+.cagov-emphasized {
+  font-size: var(--s-3, 1.5rem);
+}
+@media only screen and (max-width: 720px) {
+  .cagov-emphasized {
+    font-size: 1.125rem;
+    line-height: 2.0625rem;  
+  }
+}
+
+/* temp hack until we enable tabs on our work page again */
+@media only screen and (min-width: 767px) {
+  .page-title.p-l-2 {
+    padding-left: 0 !important;
+  }
+}
+
+/* bug in page feedback, this shouldn't be an h2 */
+cagov-page-feedback h2 {
+  font-size: 1.15rem;
+  font-family: var(--site-font, "Public Sans", sans-serif);
+  font-weight: normal;
+}
+
+/* bug in site header */
+cagov-site-navigation .expanded-menu-section-header-arrow-svg {
+  fill: var(--primary-color,#064e66);
+}
+
+/* possible bugs in feature card which were making our wide rectangular image get cutoff */
+.cagov-featured-image {
+  min-height: 0;
+  max-height: 500rem;
+  height: auto;
+}
+
+
+/* missing utility class */
+.cagov-mt-3 {
+  margin-top: var(--s-5, 3rem);
+}

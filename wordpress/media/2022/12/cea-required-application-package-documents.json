@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2022-12-14T23:52:34",
+    "updated_date": "2022-12-14T23:53:56",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 962,
+    "date": "2022-12-14T15:52:34",
+    "date_gmt": "2022-12-14T23:52:34",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png",
+    "modified": "2022-12-14T15:53:56",
+    "modified_gmt": "2022-12-14T23:53:56",
+    "slug": "cea-required-application-package-documents",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cea-required-application-package-documents/",
+    "title": "cea-required-application-package-documents",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png'><img width=\"576\" height=\"202\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-576x202.png\" class=\"attachment-medium size-medium\" alt=\"The Required Application Package Documents section of a CEA job posting. The required items are a current version of the State Examination/Employment Application STD Form 678, resume, and Statement of Qualifications.\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-576x202.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-1024x360.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-768x270.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png 1532w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The Required Application Package Documents section of a CEA job posting. The required items are a current version of the State Examination/Employment Application STD Form 678, resume, and Statement of Qualifications.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1532,
+      "height": 538,
+      "file": "2022/12/cea-required-application-package-documents.png",
+      "sizes": {
+        "medium": {
+          "file": "cea-required-application-package-documents-576x202.png",
+          "width": 576,
+          "height": 202,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-576x202.png"
+        },
+        "large": {
+          "file": "cea-required-application-package-documents-1024x360.png",
+          "width": 1024,
+          "height": 360,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-1024x360.png"
+        },
+        "thumbnail": {
+          "file": "cea-required-application-package-documents-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-150x150.png"
+        },
+        "medium_large": {
+          "file": "cea-required-application-package-documents-768x270.png",
+          "width": 768,
+          "height": 270,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-768x270.png"
+        },
+        "full": {
+          "file": "cea-required-application-package-documents.png",
+          "width": 1532,
+          "height": 538,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/12/cea-required-application-package-documents.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png",
+        "file": "cea-required-application-package-documents.png",
+        "width": 1532,
+        "height": 538,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/12/cea-required-application-package-documents-1024x360.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-1024x360.png",
+        "file": "cea-required-application-package-documents-1024x360.png",
+        "width": 1024,
+        "height": 360,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-1024x360.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/12/cea-required-application-package-documents-768x270.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-768x270.png",
+        "file": "cea-required-application-package-documents-768x270.png",
+        "width": 768,
+        "height": 270,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-768x270.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/12/cea-required-application-package-documents-576x202.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-576x202.png",
+        "file": "cea-required-application-package-documents-576x202.png",
+        "width": 576,
+        "height": 202,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-576x202.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/12/cea-required-application-package-documents-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-150x150.png",
+        "file": "cea-required-application-package-documents-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-required-application-package-documents-150x150.png"
+      }
+    ],
+    "path": "2022/12/cea-required-application-package-documents.png"
+  }
+}

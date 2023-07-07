@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "created_date": "2022-07-12T20:13:12",
+    "updated_date": "2023-05-17T21:17:30",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 699,
+    "date": "2022-07-12T13:13:12",
+    "date_gmt": "2022-07-12T20:13:12",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=699",
+    "modified": "2023-05-17T14:17:30",
+    "modified_gmt": "2023-05-17T21:17:30",
+    "slug": "caldata",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/caldata/",
+    "title": "CalData",
+    "excerpt": "<p>CalData uses data to deliver better decisions, services, and outcomes for Californians. As the central data team for the state, we empower people to use data. We build infrastructure, develop processes, and train people to better manage and use data. We want the state’s data use to be: Efficient Effective Secure Responsible We’re hiring! If &#8230; <a title=\"CalData\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/caldata/\" aria-label=\"More on CalData\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 318,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/caldata/",
+      "page_title": "CalData",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CalData &#x2d; Office of Data & Innovation",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/caldata/",
+      "open_graph_title": "CalData",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "CalData",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/caldata/"
+  }
+}

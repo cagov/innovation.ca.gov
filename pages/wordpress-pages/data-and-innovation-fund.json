@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "created_date": "2022-04-13T18:27:24",
+    "updated_date": "2023-06-28T18:27:41",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 300,
+    "date": "2022-04-13T11:27:24",
+    "date_gmt": "2022-04-13T18:27:24",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=300",
+    "modified": "2023-06-28T11:27:41",
+    "modified_gmt": "2023-06-28T18:27:41",
+    "slug": "data-and-innovation-fund",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
+    "title": "Data and Innovation Fund",
+    "excerpt": "<p>The Office of Data and Innovation’s (ODI) mission is to help state government deliver better services to the people of California. The Data and Innovation Services Revolving Fund (DIF) is one way we improve state services.&nbsp; The DIF funds collaboration between your department and ODI. It helps teams like yours identify, understand, and solve business &#8230; <a title=\"Data and Innovation Fund\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/\" aria-label=\"More on Data and Innovation Fund\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
+      "page_title": "Data and Innovation Fund",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Data and Innovation Fund",
+      "meta_description": "The DIF funds collaboration between departments and ODI. It helps teams identify, understand, and solve business problems.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
+      "open_graph_title": "Data and Innovation Fund",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Data and Innovation Fund",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
+    "media": [
+      {
+        "id": 411,
+        "type": "full",
+        "path": "2022/04/odi-collab.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg",
+        "file": "odi-collab.jpg",
+        "width": 876,
+        "height": 481,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 411,
+        "type": "medium_large",
+        "path": "2022/04/odi-collab-768x422.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-768x422.jpg",
+        "file": "odi-collab-768x422.jpg",
+        "width": 768,
+        "height": 422,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-768x422.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 411,
+        "type": "medium",
+        "path": "2022/04/odi-collab-576x316.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-576x316.jpg",
+        "file": "odi-collab-576x316.jpg",
+        "width": 576,
+        "height": 316,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-collab-576x316.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+.page-score-info {
+  width: 100%;
+  font-size: 1.125rem;
+  padding: 1rem 0 2rem 0;
+}
+.score-display {
+  display: flex;
+  gap: 1rem;
+  flex-flow: column;
+}
+@media (min-width: 991px) {
+  .score-display {
+    flex-direction: row!important;
+  }
+}
+.page-score-details {
+  flex-grow: 1;
+  display: flex;
+  flex-flow: column;
+  a {
+    font-size: 1rem;
+  }
+}
+.page-score-block {
+  background-color: #fff;
+}
+.speedlify-score {
+  font-size: 0.8125em;
+  min-width: 2.6em;
+  height: 2.6em;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid #0cce6b;
+  margin-right: 1rem;
+}
+.speedlify-score-good {
+  color: #088645;
+  border-color: currentColor;
+}
+.speedlify-score-ok {
+  color: #000;
+  border-color: #ffa400;
+}
+.speedlify-score-bad {
+  color: #000;
+  border-color: currentColor;
+}

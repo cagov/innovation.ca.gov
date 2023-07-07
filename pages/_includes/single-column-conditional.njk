@@ -1,0 +1,30 @@
+{% extends "base-layout.njk" %}
+
+{% block content %}
+  <div id="page-container" class="page-container-ds">
+    <div class="breadcrumb" aria-label="Breadcrumb" role="region">
+      <a class="crumb" href="https://ca.gov" title="CA.gov">CA.gov</a>
+      <span class="crumb separator">/</span>
+      <a class="crumb" href="/" title="Office of Data and Innovation">Office of Data and Innovation</a>
+      {% if parentid %}
+        <span class="crumb separator">/</span>
+        <span class="crumb">{{ fileids[parentid] | safe }}</span>
+      {% endif %}
+      <span class="crumb separator">/</span>
+      <span class="crumb current">{{ title | safe }}</span>
+    </div>
+    <main id="body-content">
+      {% if previewimage %}
+        <img src="/{{ previewimage }}" class="mb-2" alt="" />
+      {% endif %}
+      <h1 class="page-title p-l-2">{{ title | safe }}</h1>
+      <article id="post-{{ page.fileSlug }}">       
+        <div class="category-label">{{ category | safe }}</div>
+        <div class="entry-content">
+          {{ content | safe }}
+        </div>
+      </article>
+      <span class="return-top hidden-print"></span>
+    </main>
+  </div>
+{% endblock %}

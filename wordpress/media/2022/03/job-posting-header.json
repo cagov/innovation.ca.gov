@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "created_date": "2022-10-04T22:33:52",
+    "updated_date": "2022-10-04T22:37:36",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 252,
+    "date": "2022-10-04T15:33:52",
+    "date_gmt": "2022-10-04T22:33:52",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png",
+    "modified": "2022-10-04T15:37:36",
+    "modified_gmt": "2022-10-04T22:37:36",
+    "slug": "job-posting-header",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/job-posting-header/",
+    "title": "job-posting-header",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png'><img width=\"576\" height=\"156\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-576x156.png\" class=\"attachment-medium size-medium\" alt=\"The top of a job posting page. The first line reads, &quot;Job Posting: Product Manager&quot; in large, orange text. Below that is &quot;Office of Data &amp; Innovation&quot; followed by the job posting number (JC-332140), the working title of Product Manager, and the California State Classification title (Information Technology Manager II). It also includes a salary range, final filing date, and the Apply Now button.\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-576x156.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1024x277.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-768x208.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1536x415.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-2048x554.png 2048w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The top of a job posting page. The first line reads, \"Job Posting: Product Manager\" in large, orange text. Below that is \"Office of Data & Innovation\" followed by the job posting number (JC-332140), the working title of Product Manager, and the California State Classification title (Information Technology Manager II). It also includes a salary range, final filing date, and the Apply Now button.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2418,
+      "height": 654,
+      "file": "2022/03/job-posting-header.png",
+      "sizes": {
+        "medium": {
+          "file": "job-posting-header-576x156.png",
+          "width": 576,
+          "height": 156,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-576x156.png"
+        },
+        "large": {
+          "file": "job-posting-header-1024x277.png",
+          "width": 1024,
+          "height": 277,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1024x277.png"
+        },
+        "thumbnail": {
+          "file": "job-posting-header-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-150x150.png"
+        },
+        "medium_large": {
+          "file": "job-posting-header-768x208.png",
+          "width": 768,
+          "height": 208,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-768x208.png"
+        },
+        "1536x1536": {
+          "file": "job-posting-header-1536x415.png",
+          "width": 1536,
+          "height": 415,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1536x415.png"
+        },
+        "2048x2048": {
+          "file": "job-posting-header-2048x554.png",
+          "width": 2048,
+          "height": 554,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-2048x554.png"
+        },
+        "full": {
+          "file": "job-posting-header.png",
+          "width": 2418,
+          "height": 654,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/03/job-posting-header.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png",
+        "file": "job-posting-header.png",
+        "width": 2418,
+        "height": 654,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header.png"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2022/03/job-posting-header-2048x554.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-2048x554.png",
+        "file": "job-posting-header-2048x554.png",
+        "width": 2048,
+        "height": 554,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-2048x554.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2022/03/job-posting-header-1536x415.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1536x415.png",
+        "file": "job-posting-header-1536x415.png",
+        "width": 1536,
+        "height": 415,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1536x415.png"
+      },
+      {
+        "type": "large",
+        "path": "2022/03/job-posting-header-1024x277.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1024x277.png",
+        "file": "job-posting-header-1024x277.png",
+        "width": 1024,
+        "height": 277,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-1024x277.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/03/job-posting-header-768x208.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-768x208.png",
+        "file": "job-posting-header-768x208.png",
+        "width": 768,
+        "height": 208,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-768x208.png"
+      },
+      {
+        "type": "medium",
+        "path": "2022/03/job-posting-header-576x156.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-576x156.png",
+        "file": "job-posting-header-576x156.png",
+        "width": 576,
+        "height": 156,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-576x156.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/03/job-posting-header-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-150x150.png",
+        "file": "job-posting-header-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/job-posting-header-150x150.png"
+      }
+    ],
+    "path": "2022/03/job-posting-header.png"
+  }
+}

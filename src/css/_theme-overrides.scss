@@ -1,0 +1,43 @@
+// theme overrides
+body {
+  background: var(--top-gradient);
+  line-height: 1.75; /* This is an interesting override, need to double check with design team */
+}
+.official-header {
+  background: var(--primary-dark-color, #00315f);
+  color: #fff;
+}
+cagov-site-navigation, .site-header {
+  background: transparent;
+  border-bottom: solid 1px var(--primary-color, #0D4F8C);
+}
+.official-header svg .gov {
+  fill: var(--white,#fff);
+}
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color, #0D4F8C);
+  font-family: 'Noto Serif', serif;
+  font-weight: 700;
+}
+h3 {
+  color: #000;
+}
+
+/* give homepage h1 space */
+@media (min-width: 1176px) {
+  .cagov-featured-sidebar {
+    max-width: 40%;
+  }
+}
+
+.site-header .org-name-dept {
+  font-family: 'Noto Serif', serif;
+  font-weight: 700;
+}
+
+/* make buttons not bold */
+.wp-block-button__link, .wp-block-button__link:hover {
+  font-weight: normal;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

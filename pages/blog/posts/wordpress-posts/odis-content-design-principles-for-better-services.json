@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-10T20:09:41",
-    "updated_date": "2021-11-12T16:32:31",
+    "updated_date": "2023-05-17T20:48:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-11-10T12:09:41",
     "date_gmt": "2021-11-10T20:09:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=138",
-    "modified": "2021-11-12T08:32:31",
-    "modified_gmt": "2021-11-12T16:32:31",
+    "modified": "2023-05-17T13:48:09",
+    "modified_gmt": "2023-05-17T20:48:09",
     "slug": "odis-content-design-principles-for-better-services",
     "status": "publish",
     "type": "post",
@@ -32,11 +32,7 @@
     "sticky": false,
     "template": "",
     "format": "standard",
-    "meta": {
-      "custom_post_link": "",
-      "custom_post_date": "",
-      "custom_post_location": ""
-    },
+    "meta": [],
     "categories": [
       "CA.gov"
     ],
@@ -48,6 +44,14 @@
     "design_system_fields": {
       "template": "post"
     },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
     "og_meta": {
       "editor": {
         "platform": "WordPress",
@@ -56,23 +60,23 @@
         "plugin_version": "4.1.5.1",
         "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
       },
-      "site_name": "digital.ca.gov",
-      "site_description": "Office of Digital Innovation",
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
       "page_title": "ODI’s content design principles for better services",
-      "page_description": "Office of Digital Innovation",
+      "page_description": "Office of Data and Innovation",
       "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/11/Group-45.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "ODI’s content design principles for better services",
-      "meta_description": "Office of Digital Innovation",
+      "meta_description": "Office of Data and Innovation",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
       "open_graph_title": "ODI’s content design principles for better services",
-      "open_graph_description": "Office of Digital Innovation",
+      "open_graph_description": "Office of Data and Innovation",
       "twitter_title": "ODI’s content design principles for better services",
-      "twitter_description": "Office of Digital Innovation"
+      "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [
       {
@@ -129,7 +133,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "custom_post_date": "",
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",
     "media": [
       {

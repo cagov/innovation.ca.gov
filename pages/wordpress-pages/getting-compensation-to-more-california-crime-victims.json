@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "created_date": "2023-05-31T23:50:14",
+    "updated_date": "2023-06-15T18:25:46",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1196,
+    "date": "2023-05-31T16:50:14",
+    "date_gmt": "2023-05-31T23:50:14",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1196",
+    "modified": "2023-06-15T11:25:46",
+    "modified_gmt": "2023-06-15T18:25:46",
+    "slug": "getting-compensation-to-more-california-crime-victims",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
+    "title": "Getting compensation to more California crime victims",
+    "excerpt": "<p>ODI used human-centered design to make it easier for crime victims to get funds for recovery. Project scope Partners Methods Needs The California Victim Compensation Board (CalVCB) approached the Office of Data and Innovation (ODI) in 2022 with a challenge. Violent crimes had gone up in California over time, but applications for victim’s compensation had &#8230; <a title=\"Getting compensation to more California crime victims\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/\" aria-label=\"More on Getting compensation to more California crime victims\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
+      "page_title": "Getting compensation to more California crime victims",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Getting compensation to more California crime victims",
+      "meta_description": "ODI used human&#x2d;centered design to make it easier for crime victims to get funds for recovery.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
+      "open_graph_title": "Getting compensation to more California crime victims",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Getting compensation to more California crime victims",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
+    "media": [
+      {
+        "id": 1222,
+        "type": "2048x2048",
+        "path": "2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-2048x989.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-2048x989.png",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-2048x989.png",
+        "width": 2048,
+        "height": 989,
+        "filesize": 581149,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-2048x989.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1222,
+        "type": "1536x1536",
+        "path": "2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1536x742.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1536x742.png",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-1536x742.png",
+        "width": 1536,
+        "height": 742,
+        "filesize": 399598,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1536x742.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1222,
+        "type": "large",
+        "path": "2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1024x495.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1024x495.png",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-1024x495.png",
+        "width": 1024,
+        "height": 495,
+        "filesize": 231147,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-1024x495.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1222,
+        "type": "medium_large",
+        "path": "2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-768x371.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-768x371.png",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-768x371.png",
+        "width": 768,
+        "height": 371,
+        "filesize": 149740,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-768x371.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1222,
+        "type": "medium",
+        "path": "2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-576x278.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-576x278.png",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-576x278.png",
+        "width": 576,
+        "height": 278,
+        "filesize": 94478,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/06/CalVCB_Discovery_Sprint-Victim_Journey_Map-576x278.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1210,
+        "type": "full",
+        "path": "2023/05/vcb-project-header-photo.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo.jpg",
+        "file": "vcb-project-header-photo.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1210,
+        "type": "medium_large",
+        "path": "2023/05/vcb-project-header-photo-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-768x384.jpg",
+        "file": "vcb-project-header-photo-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 39102,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1210,
+        "type": "medium",
+        "path": "2023/05/vcb-project-header-photo-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-576x288.jpg",
+        "file": "vcb-project-header-photo-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 25021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}

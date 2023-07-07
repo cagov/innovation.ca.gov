@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "created_date": "2022-03-16T19:26:12",
+    "updated_date": "2023-04-11T21:30:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 244,
+    "date": "2022-03-16T12:26:12",
+    "date_gmt": "2022-03-16T19:26:12",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=244",
+    "modified": "2023-04-11T14:30:24",
+    "modified_gmt": "2023-04-11T21:30:24",
+    "slug": "meet-the-team",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
+    "title": "Meet the team",
+    "excerpt": "<p>We’re a team that’s passionate about making California a better place for everyone. Office of Data and Innovation (ODI) staff have backgrounds in: Tech Design Data Policy Strategy Analytics Research We’re longtime public servants, entrepreneurs, and private sector veterans. Some of us never even thought of ourselves as “tech people” until we joined ODI. We &#8230; <a title=\"Meet the team\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/\" aria-label=\"More on Meet the team\">Read more</a></p>\n",
+    "author": "Kimberly Losenara",
+    "featured_media": 0,
+    "parent": 318,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      "layout-no-sidebar"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
+      "page_title": "Meet the team",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Meet the team",
+      "meta_description": "We’re a team that’s passionate about making California a better place for everyone.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
+      "open_graph_title": "Meet the team",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Meet the team",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/"
+  }
+}

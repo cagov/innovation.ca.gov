@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2022-06-27T22:09:41",
+    "updated_date": "2022-06-28T16:13:26",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 655,
+    "date": "2022-06-27T15:09:41",
+    "date_gmt": "2022-06-27T22:09:41",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg",
+    "modified": "2022-06-28T09:13:26",
+    "modified_gmt": "2022-06-28T16:13:26",
+    "slug": "team-care-i-wish-you-love",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/team-care-i-wish-you-love/",
+    "title": "team-care-i-wish-you-love",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg'><img width=\"576\" height=\"519\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-576x519.jpg\" class=\"attachment-medium size-medium\" alt=\"A Slack post with the text &quot;My song of the day: Nancy Wilson, I Wish You Love https://www.youtube.com/watch?v=YYn4KqaeAac,&quot; including an embedded YouTube video of that song\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-576x519.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-768x691.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg 772w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A Slack post with the text \"My song of the day: Nancy Wilson, I Wish You Love https://www.youtube.com/watch?v=YYn4KqaeAac,\" including an embedded YouTube video of that song",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 772,
+      "height": 695,
+      "file": "2022/06/team-care-i-wish-you-love.jpg",
+      "sizes": {
+        "medium": {
+          "file": "team-care-i-wish-you-love-576x519.jpg",
+          "width": 576,
+          "height": 519,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-576x519.jpg"
+        },
+        "thumbnail": {
+          "file": "team-care-i-wish-you-love-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "team-care-i-wish-you-love-768x691.jpg",
+          "width": 768,
+          "height": 691,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-768x691.jpg"
+        },
+        "full": {
+          "file": "team-care-i-wish-you-love.jpg",
+          "width": 772,
+          "height": 695,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2022/06/team-care-i-wish-you-love.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg",
+        "file": "team-care-i-wish-you-love.jpg",
+        "width": 772,
+        "height": 695,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2022/06/team-care-i-wish-you-love-768x691.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-768x691.jpg",
+        "file": "team-care-i-wish-you-love-768x691.jpg",
+        "width": 768,
+        "height": 691,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-768x691.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2022/06/team-care-i-wish-you-love-576x519.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-576x519.jpg",
+        "file": "team-care-i-wish-you-love-576x519.jpg",
+        "width": 576,
+        "height": 519,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-576x519.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2022/06/team-care-i-wish-you-love-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-150x150.jpg",
+        "file": "team-care-i-wish-you-love-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/06/team-care-i-wish-you-love-150x150.jpg"
+      }
+    ],
+    "path": "2022/06/team-care-i-wish-you-love.jpg"
+  }
+}

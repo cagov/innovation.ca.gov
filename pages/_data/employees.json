@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Nolwenn Godard",
+    "pronouns": "she/her",
+    "title": "Director",
+     "pic": "n-godard.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nolwenngodard"
+    }
+  },
+  {
+    "name": "Sergio Gutierrez",
+    "pronouns": "he/him",
+    "title": "Chief Deputy Director",
+    "pic": "s-gutierrez.jpg"
+  },
+  {
+    "name": "Becki Gibson",
+    "pronouns": "she/her",
+    "title": "Chief Counsel",
+    "pic": "b-gibson.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/becki-gibson/"
+    }
+  },
+  {
+    "name": "Adelina Zendejas",
+    "pronouns": "she/her/ella",
+    "title": "Special Advisor to the Director",
+    "pic": "a-zendejas.jpg"
+  },
+  {
+    "name": "Aeri Shan",
+    "pronouns": "they/them",
+    "title": "Principal Analytics Engineer",
+    "pic": "a-shan.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aerishan"
+    }
+  },
+  {
+    "name": "Alanna Williams",
+    "title": "Senior Data and Policy Analyst",
+    "pic": "a-williams.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/alanna-williams"
+    }
+  },
+  {
+    "name": "Anne Crew-Renzo",
+    "title": "CalAcademy Training Program Manager",
+    "pronouns": "she/her",
+    "pic": "a-crew-renzo.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/acrewrenzo/"
+    }
+  },
+  {
+    "name": "Aradhna Sharma",
+    "pronouns": "she/her",
+    "title": "Talent Engagement Specialist",
+    "pic": "a-sharma.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aradhna-sharma-88a373a5"
+    }
+  },
+  {
+    "name": "Arman Madani",
+    "pronouns": "he/him",
+    "title": "Sr. Data Scientist",
+    "pic": "a-madani.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/armanmadani/",
+      "twitter": "https://twitter.com/thearmanmadani",
+      "github": "https://github.com/ArmanMadani"
+    }
+  },
+  {
+    "name": "Ashley Lanham",
+    "pronouns": "she/her",
+    "pic": "a-lanham.jpg",
+    "title": "Talent Engagement Specialist",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ashley-lanham-54071645/"
+    }
+  },
+  {
+    "name": "Blake Valenta",
+    "pronouns": "he/him",
+    "title": "Deputy Director of Data Programs and Policy",
+    "pic": "b-valenta.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dblakev/",
+      "twitter": "https://twitter.com/dblakev"
+    }
+  },
+  {
+    "name": "Britt Allen",
+    "pronouns": "she/her",
+    "title": "Data Strategist",
+    "pic": "b-allen.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/britt-allen/",
+      "github": "https://github.com/britt-allen"
+    }
+  },
+  {
+    "name": "Chach Sikes",
+    "pronouns": "she/her",
+    "title": "Senior Engineer",
+    "pic": "c-sikes.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chachasikes/",
+      "twitter": "https://twitter.com/chachasikes",
+      "github": "https://github.com/chachasikes"
+    }
+  },
+  {
+    "name": "Chad Bratton",
+    "pronouns": "",
+    "title": "Chief Information Officer",
+    "pic": "c-bratton.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chadbratton/",
+      "twitter": "https://twitter.com/chad_bratton"
+    }
+  },
+  {
+    "name": "Christian Crumlish",
+    "pronouns": "he/him/they",
+    "title": "Senior Product Manager",
+    "pic": "c-crumlish.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mediajunkie/",
+      "mastodon": "https://xoxo.zone/@xian",
+      "github": "https://github.com/mediajunkie"
+    }
+  },
+  {
+    "name": "Clara Gonzalez Sueyro",
+    "pronouns": "she/her",
+    "title": "Senior User Experience Researcher",
+    "pic": "c-gonzalez-sueyro.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/claragonzalezsueyro/"
+    }
+  },  
+  {
+    "name": "Daniel Yu",
+    "pronouns": "he/him",
+    "title": "Researcher",
+    "pic": "d-yu.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/danielsyu/"
+    }
+  },
+  {
+    "name": "Erica Krimmel",
+    "pronouns": "she/her",
+    "title": "Research Assistant",
+    "pic": "e-krimmel.jpg",
+    "social": {
+      "github": "https://github.com/erica-krimmel"
+    }
+  },
+  {
+    "name": "Erica Stivison",
+    "pronouns": "she/her",
+    "title": "UX Designer",
+    "pic": "e-stivison.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ericastivison"
+    }
+  },
+  {
+    "name": "Hayley Figeroid",
+    "title": "Government Relations Manager",
+    "pic": "h-figeroid.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hayley-figeroid"
+    }
+  },
+  {
+    "name": "Ian Rose",
+    "pronouns": "he/him",
+    "title": "Senior Data Engineer",
+    "pic": "i-rose.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ian-rose-961a39240/",
+      "twitter": "https://twitter.com/ianrrose",
+      "github": "https://github.com/ian-r-rose"
+    }
+  },
+  {
+    "name": "Jason Lally",
+    "pronouns": "he/him",
+    "title": "Deputy Director, Data Engineering and Services",
+    "pic": "j-lally.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jasonlally/",
+      "twitter": "https://twitter.com/synchronouscity"
+    }
+  },
+  {
+    "name": "Jeffery Marino",
+    "pronouns": "he/him",
+    "title": "Deputy Director of Strategy",
+    "pic": "j-marino.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
+    }
+  },
+  {
+    "name": "Jenn Moran",
+    "pronouns": "she/her",
+    "title": "Deputy Director of Operations",
+    "pic": "j-moran.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jenniferfmoran/"
+    }
+  },
+  {
+    "name": "Jim Bumgardner",
+    "pronouns": "",
+    "title": "Senior Engineer",
+    "pic": "j-bumgardner.jpg",
+    "social": {
+      "mastodon": "https://mastodon.social/@jbum",
+      "github": "https://github.com/jbum"
+    }
+  },
+  {
+    "name": "Jon Jensen",
+    "pronouns": "",
+    "title": "Full Stack Developer",
+    "pic": "j-jensen.jpg",
+    "social": {
+      "github": "https://github.com/xjensen"
+    }
+  },
+  {
+    "name": "JP Petrucione",
+    "pronouns": "he/him",
+    "title": "Deputy Director of User Research",
+    "pic": "jp-petrucione.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jpetrucione/"
+    }
+  },
+  {
+    "name": "Kellie Longo Flores",
+    "pronouns": "she/her",
+    "title": "Legislative and External Affairs Manager",
+    "pic": "k-longo-flores.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kellie-longo-flores-364a2725/"
+    }
+  },
+  {
+    "name": "Kevin Vellanoweth",
+    "pronouns": "he/him",
+    "title": "Senior Systems Architect",
+    "pic": "k-vellanoweth.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kvellano/"
+    }
+  },
+  {
+    "name": "Kim Hicks",
+    "pronouns": "she/her",
+    "title": "Deputy Director, Advanced Analytics & Evaluation",
+    "pic": "k-hicks.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kimberlyjhicks/"
+    }
+  },
+  {
+    "name": "Kimberly Losenara",
+    "pronouns": "she/her/siya",
+    "title": "Visual Designer",
+    "pic": "k-losenara.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/klosenara/"
+    }
+  },
+   {
+    "name": "Lawrence Troxler III",
+    "pronouns": "he/him",
+    "title": "Head of Talent",
+    "pic": "l-troxleriii.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/lawrencetroxleriii/"
+    }
+  },
+   {
+    "name": "Matt Zhou",
+    "pronouns": "he/him",
+    "title": "Data & Analytics Governance Lead",
+    "pic": "m-zhou.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/matthew-zhou/",
+      "github": "https://github.com/matthewzhou",
+      "twitter": "https://twitter.com/matthewyzhou"
+    }
+  },
+  {
+    "name": "Michael Sullivan",
+    "pronouns": "he/him",
+    "title": "Content Strategist",
+    "pic": "m-sullivan.png",
+    "social": {
+      "github": "https://github.com/m-sullivan7"
+    }
+  },
+  {
+    "name": "Monica Bobra",
+    "pronouns": "she/her",
+    "title": "Principal Data Scientist",
+    "pic": "m-bobra.jpg",
+    "social": {
+      "github": "https://github.com/mbobra"
+    }
+  },
+  {
+    "name": "Peggy Gartin",
+    "pronouns": "she/her",
+    "title": "Content Strategist",
+    "pic": "p-gartin.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/peggygartin/",
+      "twitter": "https://twitter.com/thepegisin",
+      "github": "https://github.com/thepegisin"
+    }
+  },
+  {
+    "name": "Regan King",
+    "pronouns": "he/him",
+    "title": "Website Performance Analyst",
+    "pic": "r-king.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/reganking/"
+    }
+  },
+  {
+    "name": "Rocio Mora",
+    "pronouns": "she/her/ella",
+    "title": "Senior Data Analyst",
+    "pic": "r-mora.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rociomora"
+    }
+  },
+  {
+    "name": "Sarah Letson",
+    "pronouns": "she/her",
+    "title": "Senior Researcher",
+    "pic": "s-letson.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sarahletson/"
+    }
+  },
+  {
+    "name": "Sheryl Harris",
+    "title": "Administrative Support Analyst",
+    "pronouns": "",
+    "pic": "s-harris.jpg"
+  },
+  {
+    "name": "Tara Stevens",
+    "title": "Head of Administration",
+    "pic": "t-stevens.jpg"
+  },
+  {
+    "name": "Thea Man",
+    "pronouns": "she/her",
+    "title": "Information Security Officer",
+    "pic": "t-man.jpg"
+  },
+  {
+    "name": "Yesenia Gutiérrez",
+    "pronouns": "she/her",
+    "title": "Product Manager",
+    "pic": "y-gutierrez.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yesenia-gutierrez-640a5915",
+      "twitter": "https://twitter.com/eslayes"
+    }
+  },
+  {
+    "name": "Zakiya Khabir",
+    "pronouns": "she/her",
+    "title": "Engineering Manager",
+    "pic": "z-khabir.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/zakiyakhabir/",
+      "twitter": "https://twitter.com/zakiyarules",
+      "github": "https://github.com/zakiya"
+    }
+  },
+  {
+    "name": "Want to join the team?",
+    "title": "Check out our <a href='/join-us/'>open roles</a>"
+  }
+]
