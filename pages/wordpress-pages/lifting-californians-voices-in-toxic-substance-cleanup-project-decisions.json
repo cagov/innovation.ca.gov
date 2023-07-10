@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "created_date": "2023-07-10T17:10:13",
+    "updated_date": "2023-07-10T17:10:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1326,
+    "date": "2023-07-10T10:10:13",
+    "date_gmt": "2023-07-10T17:10:13",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1326",
+    "modified": "2023-07-10T10:10:14",
+    "modified_gmt": "2023-07-10T17:10:14",
+    "slug": "lifting-californians-voices-in-toxic-substance-cleanup-project-decisions",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
+    "title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
+    "excerpt": "<p>We found new ways to help people be aware of and take part in decisions that affect their communities. Project scope Partners Methods Needs The Department of Toxic Substances Control (DTSC) oversees toxic substance cleanup projects throughout California. They asked the Office of Data and Innovation (ODI) to help increase public participation in making decisions. &#8230; <a title=\"Lifting Californians’ voices in toxic substance cleanup project decisions\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/\" aria-label=\"More on Lifting Californians’ voices in toxic substance cleanup project decisions\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
+      "page_title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
+      "meta_description": "We found new ways to help people be aware of and take part in decisions that affect their communities.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
+      "open_graph_title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/"
+  }
+}
