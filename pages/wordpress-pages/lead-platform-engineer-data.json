@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-28T18:44:48",
-    "updated_date": "2023-06-28T18:44:48",
+    "updated_date": "2023-07-12T23:07:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-06-28T11:44:48",
     "date_gmt": "2023-06-28T18:44:48",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1278",
-    "modified": "2023-06-28T11:44:48",
-    "modified_gmt": "2023-06-28T18:44:48",
+    "modified": "2023-07-12T16:07:44",
+    "modified_gmt": "2023-07-12T23:07:44",
     "slug": "lead-platform-engineer-data",
     "status": "publish",
     "type": "page",
