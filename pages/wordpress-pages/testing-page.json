@@ -126,33 +126,6 @@
         "featured": false
       },
       {
-        "id": 1341,
-        "type": "full",
-        "path": "2023/07/dtsc-project-page-desktop.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-page-desktop.png",
-        "file": "dtsc-project-page-desktop.png",
-        "width": 572,
-        "height": 802,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-page-desktop.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1341,
-        "type": "medium",
-        "path": "2023/07/dtsc-project-page-desktop-411x576.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-page-desktop-411x576.png",
-        "file": "dtsc-project-page-desktop-411x576.png",
-        "width": 411,
-        "height": 576,
-        "filesize": 123628,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-page-desktop-411x576.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 1339,
         "type": "full",
         "path": "2023/07/dtsc-project-page-mobile.png",
@@ -176,6 +149,33 @@
         "filesize": 66712,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-page-mobile-167x576.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1341,
+        "type": "full",
+        "path": "2023/07/project_page-desktop.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+        "file": "project_page-desktop.png",
+        "width": 572,
+        "height": 802,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1341,
+        "type": "medium",
+        "path": "2023/07/project_page-desktop-411x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png",
+        "file": "project_page-desktop-411x576.png",
+        "width": 411,
+        "height": 576,
+        "filesize": 124448,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png",
         "source_url_match": true,
         "featured": false
       }
