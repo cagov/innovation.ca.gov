@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "created_date": "2023-07-20T00:10:20",
+    "updated_date": "2023-07-20T00:10:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1341,
+    "date": "2023-07-19T17:10:20",
+    "date_gmt": "2023-07-20T00:10:20",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+    "modified": "2023-07-19T17:10:20",
+    "modified_gmt": "2023-07-20T00:10:20",
+    "slug": "project_page-desktop",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/project_page-desktop/",
+    "title": "project_page-desktop",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png'><img width=\"411\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png\" class=\"attachment-medium size-medium\" alt=\"The desktop version of the San Benito High School public comment prototype page. It has a zoomable map of the project site, a description of the proposed cleanup, details about how to comment on the plan, links to more information about the cleanup, and a comment form.\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png 411w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png 572w\" sizes=\"(max-width: 411px) 100vw, 411px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The desktop version of the San Benito High School public comment prototype page. It has a zoomable map of the project site, a description of the proposed cleanup, details about how to comment on the plan, links to more information about the cleanup, and a comment form.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 572,
+      "height": 802,
+      "file": "2023/07/project_page-desktop.png",
+      "filesize": 151107,
+      "sizes": {
+        "medium": {
+          "file": "project_page-desktop-411x576.png",
+          "width": 411,
+          "height": 576,
+          "filesize": 124448,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png"
+        },
+        "thumbnail": {
+          "file": "project_page-desktop-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 19296,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-150x150.png"
+        },
+        "full": {
+          "file": "project_page-desktop.png",
+          "width": 572,
+          "height": 802,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/07/project_page-desktop.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png",
+        "file": "project_page-desktop.png",
+        "width": 572,
+        "height": 802,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop.png"
+      },
+      {
+        "type": "medium",
+        "path": "2023/07/project_page-desktop-411x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png",
+        "file": "project_page-desktop-411x576.png",
+        "width": 411,
+        "height": 576,
+        "filesize": 124448,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-411x576.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/07/project_page-desktop-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-150x150.png",
+        "file": "project_page-desktop-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 19296,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/project_page-desktop-150x150.png"
+      }
+    ],
+    "path": "2023/07/project_page-desktop.png"
+  }
+}
