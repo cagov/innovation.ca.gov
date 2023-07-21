@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-10T17:10:13",
-    "updated_date": "2023-07-20T21:00:24",
+    "updated_date": "2023-07-21T00:10:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-10T10:10:13",
     "date_gmt": "2023-07-10T17:10:13",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1326",
-    "modified": "2023-07-20T14:00:24",
-    "modified_gmt": "2023-07-20T21:00:24",
+    "modified": "2023-07-20T17:10:56",
+    "modified_gmt": "2023-07-21T00:10:56",
     "slug": "lifting-californians-voices-in-toxic-substance-cleanup-project-decisions",
     "status": "publish",
     "type": "page",
