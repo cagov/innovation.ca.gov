@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-31T23:50:14",
-    "updated_date": "2023-07-24T15:50:33",
+    "updated_date": "2023-07-26T17:21:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-05-31T16:50:14",
     "date_gmt": "2023-05-31T23:50:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1196",
-    "modified": "2023-07-24T08:50:33",
-    "modified_gmt": "2023-07-24T15:50:33",
+    "modified": "2023-07-26T10:21:32",
+    "modified_gmt": "2023-07-26T17:21:32",
     "slug": "getting-compensation-to-more-california-crime-victims",
     "status": "publish",
     "type": "page",
@@ -54,7 +54,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
       "page_title": "Getting compensation to more California crime victims",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
