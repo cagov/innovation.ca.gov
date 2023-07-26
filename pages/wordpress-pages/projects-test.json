@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-26T17:58:49",
-    "updated_date": "2023-07-26T20:13:14",
+    "updated_date": "2023-07-26T22:03:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-26T10:58:49",
     "date_gmt": "2023-07-26T17:58:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1407",
-    "modified": "2023-07-26T13:13:14",
-    "modified_gmt": "2023-07-26T20:13:14",
+    "modified": "2023-07-26T15:03:27",
+    "modified_gmt": "2023-07-26T22:03:27",
     "slug": "projects-test",
     "status": "publish",
     "type": "page",
@@ -110,6 +110,19 @@
         "featured": false
       },
       {
+        "id": 1413,
+        "type": "full",
+        "path": "2023/07/calworks-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+        "file": "calworks-project.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
         "id": 374,
         "type": "full",
         "path": "2022/04/ds-project.png",
@@ -158,47 +171,6 @@
         "height": 384,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1210,
-        "type": "full",
-        "path": "2023/05/vcb-project-header-photo.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo.jpg",
-        "file": "vcb-project-header-photo.jpg",
-        "width": 876,
-        "height": 438,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1210,
-        "type": "medium_large",
-        "path": "2023/05/vcb-project-header-photo-768x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-768x384.jpg",
-        "file": "vcb-project-header-photo-768x384.jpg",
-        "width": 768,
-        "height": 384,
-        "filesize": 39102,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-768x384.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1210,
-        "type": "medium",
-        "path": "2023/05/vcb-project-header-photo-576x288.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-576x288.jpg",
-        "file": "vcb-project-header-photo-576x288.jpg",
-        "width": 576,
-        "height": 288,
-        "filesize": 25021,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/vcb-project-header-photo-576x288.jpg",
         "source_url_match": true,
         "featured": false
       },
