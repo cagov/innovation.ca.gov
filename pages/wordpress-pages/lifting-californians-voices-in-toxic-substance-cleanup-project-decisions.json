@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-10T17:10:13",
-    "updated_date": "2023-07-21T18:07:14",
+    "updated_date": "2023-07-26T17:38:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-10T10:10:13",
     "date_gmt": "2023-07-10T17:10:13",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1326",
-    "modified": "2023-07-21T11:07:14",
-    "modified_gmt": "2023-07-21T18:07:14",
+    "modified": "2023-07-26T10:38:25",
+    "modified_gmt": "2023-07-26T17:38:25",
     "slug": "lifting-californians-voices-in-toxic-substance-cleanup-project-decisions",
     "status": "publish",
     "type": "page",
@@ -54,7 +54,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
       "page_title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-dtsc-case-study-cover.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
