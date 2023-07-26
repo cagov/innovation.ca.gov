@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2023-07-26T21:53:49",
+    "updated_date": "2023-07-26T21:53:49",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1413,
+    "date": "2023-07-26T14:53:49",
+    "date_gmt": "2023-07-26T21:53:49",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+    "modified": "2023-07-26T14:53:49",
+    "modified_gmt": "2023-07-26T21:53:49",
+    "slug": "calworks-project",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/calworks-project/",
+    "title": "calworks-project",
+    "author": "Kimberly Losenara",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg'><img width=\"576\" height=\"383\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 577,
+      "height": 384,
+      "file": "2023/07/calworks-project.jpg",
+      "filesize": 198686,
+      "sizes": {
+        "thumbnail": {
+          "file": "calworks-project-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 6535,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-150x150.jpg"
+        },
+        "full": {
+          "file": "calworks-project.jpg",
+          "width": 577,
+          "height": 384,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/07/calworks-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+        "file": "calworks-project.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/07/calworks-project-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-150x150.jpg",
+        "file": "calworks-project-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 6535,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-150x150.jpg"
+      }
+    ],
+    "path": "2023/07/calworks-project.jpg"
+  }
+}
