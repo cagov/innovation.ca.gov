@@ -2,13 +2,16 @@
   padding: 1.5rem;
   background-color: #ECF1F6;
   font-size: .875rem;
+  margin-bottom: 4rem;
 }
 .project-page-summary-list > .wp-block-group__inner-container {
   display: flex;
+  flex-flow: row wrap;
+  column-gap: 2rem;
 }
 .project-page-summary-list > .wp-block-group__inner-container > .wp-block-group {
-  margin-right: 2rem;
-  max-width: 50%;
+  flex-basis: 22rem;
+  flex-grow: 1;
 
   li {
     margin-bottom: 0;
