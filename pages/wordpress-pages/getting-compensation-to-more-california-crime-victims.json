@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-31T23:50:14",
-    "updated_date": "2023-07-26T17:21:32",
+    "updated_date": "2023-07-28T21:12:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-05-31T16:50:14",
     "date_gmt": "2023-05-31T23:50:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1196",
-    "modified": "2023-07-26T10:21:32",
-    "modified_gmt": "2023-07-26T17:21:32",
+    "modified": "2023-07-28T14:12:07",
+    "modified_gmt": "2023-07-28T21:12:07",
     "slug": "getting-compensation-to-more-california-crime-victims",
     "status": "publish",
     "type": "page",
@@ -34,9 +34,7 @@
     "template": "",
     "meta": [],
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -67,19 +65,7 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
