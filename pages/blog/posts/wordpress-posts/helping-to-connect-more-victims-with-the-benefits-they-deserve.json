@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "created_date": "2023-07-31T16:06:16",
+    "updated_date": "2023-07-31T16:06:16",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1417,
+    "date": "2023-07-31T09:06:16",
+    "date_gmt": "2023-07-31T16:06:16",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1417",
+    "modified": "2023-07-31T09:06:16",
+    "modified_gmt": "2023-07-31T16:06:16",
+    "slug": "helping-to-connect-more-victims-with-the-benefits-they-deserve",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2023/07/31/helping-to-connect-more-victims-with-the-benefits-they-deserve/",
+    "title": "Helping to connect more victims with the benefits they deserve",
+    "excerpt": "<p>The California Victims Compensation Board (CalVCB) offers financial assistance to victims of crime. While violent crime has gone up over time in California, applications for compensation have gone down. The Office of Data and Innovation (ODI) worked with CalVCB to: We learned that: Learn more about the details of getting compensation to more California crime &#8230; <a title=\"Helping to connect more victims with the benefits they deserve\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/07/31/helping-to-connect-more-victims-with-the-benefits-they-deserve/\" aria-label=\"More on Helping to connect more victims with the benefits they deserve\">Read more</a></p>\n",
+    "author": "Hayley Figeroid",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/07/31/helping-to-connect-more-victims-with-the-benefits-they-deserve/",
+      "page_title": "Helping to connect more victims with the benefits they deserve",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-cropped-cropped-vcb-project-header-photo.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Helping to connect more victims with the benefits they deserve",
+      "meta_description": "ODI worked with CalVCB to understand why fewer eligible people were applying to their fund, find out how to reach them, and increase applications.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/07/31/helping-to-connect-more-victims-with-the-benefits-they-deserve/",
+      "open_graph_title": "Helping to connect more victims with the benefits they deserve",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Helping to connect more victims with the benefits they deserve",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/07/31/helping-to-connect-more-victims-with-the-benefits-they-deserve/",
+    "media": [
+      {
+        "id": 1404,
+        "type": "full",
+        "path": "2023/05/cropped-vcb-project-header-photo.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo.jpg",
+        "file": "cropped-vcb-project-header-photo.jpg",
+        "width": 835,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1404,
+        "type": "medium_large",
+        "path": "2023/05/cropped-vcb-project-header-photo-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo-768x403.jpg",
+        "file": "cropped-vcb-project-header-photo-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 42013,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo-768x403.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1404,
+        "type": "medium",
+        "path": "2023/05/cropped-vcb-project-header-photo-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo-576x302.jpg",
+        "file": "cropped-vcb-project-header-photo-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 26550,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/05/cropped-vcb-project-header-photo-576x302.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
