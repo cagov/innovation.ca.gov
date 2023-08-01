@@ -7,6 +7,12 @@ body {
   background: var(--primary-dark-color, #00315f);
   color: #fff;
 }
+.official-header .container {
+  padding-left: 24px; /* jbum align */
+}
+.page-container-ds {
+  padding-left:16px; /* jbum align */
+}
 cagov-site-navigation, .site-header {
   background: transparent;
   border-bottom: solid 1px var(--primary-color, #0D4F8C);
