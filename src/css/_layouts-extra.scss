@@ -4,6 +4,9 @@ this class is applied to content on that page we want to be centered. Most conte
   max-width: var(--w-page-content,876px);
   margin: 0 auto;
 }
+// .has-sidebar-left .single-column {
+//   margin-left: 8px; /* jbum align */
+// }
 @media only screen and (max-width: 1176px) {
   .cagov-single-column, .single-column {
     padding-left: 1rem;
@@ -20,7 +23,7 @@ main .cagov-single-column h2:first-child {
 }
 
 main.landing-page {
-  padding-left: 1rem;
+  /* padding-left: 1rem; */ /* jbum align */
   .cagov-featured-sidebar {
     padding-left: 0;
   }
