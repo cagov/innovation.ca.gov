@@ -29,10 +29,6 @@
     <meta property="og:site_name" content="{{ data.og_meta.site_name }}" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ data.og_meta.twitter_title | safe }}" />
-    <meta property="twitter:image" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_url }}{% else %}{% if previewimage %}/{{ previewimage }}{% else %}https://innovation.ca.gov/img/ODI-socialmedia-share_1200x630.png{% endif %}{% endif %}" />
-    <meta property="twitter:image:alt" content="{% if data.og_meta.page_social_image_alt %}{{ data.og_meta.page_social_image_alt }}{% endif %}" />
-    <meta property="twitter:image:width" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_width }}{% else %}{% if previewimage %}608{% else %}1200{% endif %}{% endif %}" />
-    <meta property="twitter:image:height" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_height }}{% else %}{% if previewimage %}304{% else %}630{% endif %}{% endif %}" />
     <!-- CSS -->
     {% block css %}
       {% set css %}
