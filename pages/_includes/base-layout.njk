@@ -21,7 +21,7 @@
     <meta property="og:description" content="{{ data.og_meta.open_graph_description | striptags }}" />
     <meta property="og:title" content="{{ title | safe }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_url }}{% else %}{% if previewimage %}/{{ previewimage }}{% else %}https://innovation.ca.gov/img/ODI-socialmedia-share_1200x630.png{% endif %}{% endif %}" />
+    <meta property="og:image" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_url | repairMetaImage  }}{% else %}{% if previewimage %}/{{ previewimage | repairMetaImage }}{% else %}https://innovation.ca.gov/img/ODI-socialmedia-share_1200x630.png{% endif %}{% endif %}" />
     <meta property="og:image:width" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_width }}{% else %}{% if previewimage %}608{% else %}1200{% endif %}{% endif %}" />
     <meta property="og:image:height" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_height }}{% else %}{% if previewimage %}304{% else %}630{% endif %}{% endif %}" />
     <meta property="og:image:alt" content="{% if data.og_meta.page_social_image_alt %}{{ data.og_meta.page_social_image_alt }}{% endif %}" />
@@ -29,7 +29,7 @@
     <meta property="og:site_name" content="{{ data.og_meta.site_name }}" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ data.og_meta.twitter_title | safe }}" />
-    <meta name="twitter:image" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_url }}{% else %}{% if previewimage %}/{{ previewimage }}{% else %}https://innovation.ca.gov/img/ODI-socialmedia-share_1200x630.png{% endif %}{% endif %}" />
+    <meta name="twitter:image" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_url | repairMetaImage }}{% else %}{% if previewimage %}/{{ previewimage | repairMetaImage  }}{% else %}https://innovation.ca.gov/img/ODI-socialmedia-share_1200x630.png{% endif %}{% endif %}" />
     <meta name="twitter:image:alt" content="{% if data.og_meta.page_social_image_alt %}{{ data.og_meta.page_social_image_alt }}{% endif %}" />
     <meta name="twitter:image:width" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_width }}{% else %}{% if previewimage %}608{% else %}1200{% endif %}{% endif %}" />
     <meta name="twitter:image:height" content="{% if data.og_meta.page_social_image_url %}{{ data.og_meta.page_social_image_height }}{% else %}{% if previewimage %}304{% else %}630{% endif %}{% endif %}" />

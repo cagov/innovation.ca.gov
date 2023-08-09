@@ -224,6 +224,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
   });
+
+  eleventyConfig.addFilter("repairMetaImage", (url) => {
+    return url.replace("https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/", "https://innovation.ca.gov/img/wordpress/");
+  });
+
   eleventyConfig.addFilter("changeDomain", function (url, domain) {
     try {      
       let host = config.build.canonical_url.split("//"); // TEMP Cheat to get https
