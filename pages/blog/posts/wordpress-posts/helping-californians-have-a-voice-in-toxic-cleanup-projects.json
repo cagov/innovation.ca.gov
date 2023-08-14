@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "created_date": "2023-08-14T15:57:24",
+    "updated_date": "2023-08-14T15:57:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1435,
+    "date": "2023-08-14T08:57:24",
+    "date_gmt": "2023-08-14T15:57:24",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1435",
+    "modified": "2023-08-14T08:57:25",
+    "modified_gmt": "2023-08-14T15:57:25",
+    "slug": "helping-californians-have-a-voice-in-toxic-cleanup-projects",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/",
+    "title": "Helping Californians have a voice in toxic cleanup projects",
+    "excerpt": "<p>The Department of Toxic Substances Control (DTSC) gives Californians the opportunity to comment on proposed toxic substance cleanup projects. They wanted to bring in people who have historically not been part of making decisions. The Office of Data and Innovation (ODI) worked with DTSC to find ways to give these communities a bigger voice in &#8230; <a title=\"Helping Californians have a voice in toxic cleanup projects\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/\" aria-label=\"More on Helping Californians have a voice in toxic cleanup projects\">Read more</a></p>\n",
+    "author": "Hayley Figeroid",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/",
+      "page_title": "Helping Californians have a voice in toxic cleanup projects",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-dtsc-case-study-cover.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Helping Californians have a voice in toxic cleanup projects",
+      "meta_description": "The Office of Data and Innovation worked with the Department of Toxic Substances Control to find ways to give these communities a bigger voice in decisions.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/",
+      "open_graph_title": "Helping Californians have a voice in toxic cleanup projects",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Helping Californians have a voice in toxic cleanup projects",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/"
+  }
+}
