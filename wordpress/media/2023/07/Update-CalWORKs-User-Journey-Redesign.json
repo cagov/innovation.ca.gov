@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "created_date": "2023-08-22T17:30:39",
+    "updated_date": "2023-08-22T17:30:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1309,
+    "date": "2023-08-22T10:30:39",
+    "date_gmt": "2023-08-22T17:30:39",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+    "modified": "2023-08-22T10:30:39",
+    "modified_gmt": "2023-08-22T17:30:39",
+    "slug": "update-calworks-user-journey-redesign",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/update-calworks-user-journey-redesign/",
+    "title": "Update-CalWORKs-User-Journey-Redesign",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png'><img width=\"576\" height=\"309\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png\" class=\"attachment-medium size-medium\" alt=\"Who we are designing for: single parent navigating denials. First column: needs help. Pregnant with first child, struggling with mental health and domestic violence. Second column: awareness. Friend told her she could apply because she wasn&#039;t working. Doesn&#039;t have a car, so calls the county. Third column: applies #1. Asked question about father in interview. Asked to provide written letters for family members on loan payment plans. &quot;It&#039;s embarrassing to say I don&#039;t know who the father is.&quot; Column 4: abandons. Excited for WTW-thinks it&#039;s job placement but disappointed at what it actually is. Didn&#039;t complete process because questions around father were so off-putting. &quot;It was just another fail for me.&quot; Fifth column: applies #2. Confident she&#039;d eligible: single parent, unemployed. And caseworker references second EBT card. Completes paperwork in person and interview over the phone. Sixth column: Determination. Receives letter saying she&#039;s denied. Doesn&#039;t agree with reason (no child eligible). Has called and left multiple messages with no response. &quot;What did I do wrong?&quot; &quot;Is someone trying to play a joke on me?&quot;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1024x549.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-768x412.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1536x824.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png 1656w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Who we are designing for: single parent navigating denials. First column: needs help. Pregnant with first child, struggling with mental health and domestic violence. Second column: awareness. Friend told her she could apply because she wasn't working. Doesn't have a car, so calls the county. Third column: applies #1. Asked question about father in interview. Asked to provide written letters for family members on loan payment plans. \"It's embarrassing to say I don't know who the father is.\" Column 4: abandons. Excited for WTW-thinks it's job placement but disappointed at what it actually is. Didn't complete process because questions around father were so off-putting. \"It was just another fail for me.\" Fifth column: applies #2. Confident she'd eligible: single parent, unemployed. And caseworker references second EBT card. Completes paperwork in person and interview over the phone. Sixth column: Determination. Receives letter saying she's denied. Doesn't agree with reason (no child eligible). Has called and left multiple messages with no response. \"What did I do wrong?\" \"Is someone trying to play a joke on me?\"",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1656,
+      "height": 888,
+      "file": "2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+      "filesize": 326463,
+      "sizes": {
+        "medium": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-576x309.png",
+          "width": 576,
+          "height": 309,
+          "filesize": 89458,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png"
+        },
+        "large": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-1024x549.png",
+          "width": 1024,
+          "height": 549,
+          "filesize": 222139,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1024x549.png"
+        },
+        "thumbnail": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 16461,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-150x150.png"
+        },
+        "medium_large": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-768x412.png",
+          "width": 768,
+          "height": 412,
+          "filesize": 141525,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-768x412.png"
+        },
+        "1536x1536": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-1536x824.png",
+          "width": 1536,
+          "height": 824,
+          "filesize": 407046,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1536x824.png"
+        },
+        "full": {
+          "file": "Update-CalWORKs-User-Journey-Redesign.png",
+          "width": 1656,
+          "height": 888,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign.png",
+        "width": 1656,
+        "height": 888,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign-1536x824.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1536x824.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign-1536x824.png",
+        "width": 1536,
+        "height": 824,
+        "filesize": 407046,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1536x824.png"
+      },
+      {
+        "type": "large",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign-1024x549.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1024x549.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign-1024x549.png",
+        "width": 1024,
+        "height": 549,
+        "filesize": 222139,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-1024x549.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign-768x412.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-768x412.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign-768x412.png",
+        "width": 768,
+        "height": 412,
+        "filesize": 141525,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-768x412.png"
+      },
+      {
+        "type": "medium",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign-576x309.png",
+        "width": 576,
+        "height": 309,
+        "filesize": 89458,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-576x309.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2023/07/Update-CalWORKs-User-Journey-Redesign-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-150x150.png",
+        "file": "Update-CalWORKs-User-Journey-Redesign-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 16461,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/Update-CalWORKs-User-Journey-Redesign-150x150.png"
+      }
+    ],
+    "path": "2023/07/Update-CalWORKs-User-Journey-Redesign.png"
+  }
+}
