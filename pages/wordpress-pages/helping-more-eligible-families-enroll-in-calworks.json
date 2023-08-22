@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-05T20:12:40",
-    "updated_date": "2023-07-20T00:00:46",
+    "updated_date": "2023-08-22T21:18:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-05T13:12:40",
     "date_gmt": "2023-07-05T20:12:40",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1302",
-    "modified": "2023-07-19T17:00:46",
-    "modified_gmt": "2023-07-20T00:00:46",
+    "modified": "2023-08-22T14:18:46",
+    "modified_gmt": "2023-08-22T21:18:46",
     "slug": "helping-more-eligible-families-enroll-in-calworks",
     "status": "publish",
     "type": "page",
