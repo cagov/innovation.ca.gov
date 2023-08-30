@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-08-30T17:34:08",
-    "updated_date": "2023-08-30T17:34:08",
+    "created_date": "2023-08-30T17:48:38",
+    "updated_date": "2023-08-30T17:48:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -13,18 +13,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 1464,
-    "date": "2023-08-30T10:34:08",
-    "date_gmt": "2023-08-30T17:34:08",
+    "id": 1465,
+    "date": "2023-08-30T10:48:38",
+    "date_gmt": "2023-08-30T17:48:38",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover.jpg",
-    "modified": "2023-08-30T10:34:08",
-    "modified_gmt": "2023-08-30T17:34:08",
+    "modified": "2023-08-30T10:48:38",
+    "modified_gmt": "2023-08-30T17:48:38",
     "slug": "cropped-calworks-case_study-cover-jpg",
     "status": "inherit",
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-calworks-case_study-cover-jpg/",
     "title": "cropped-calworks-case_study-cover.jpg",
-    "author": "Michael Sullivan",
+    "author": "Jim Bumgardner",
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",
@@ -41,13 +41,13 @@
       "width": 835,
       "height": 438,
       "file": "2023/07/cropped-calworks-case_study-cover.jpg",
-      "filesize": 62863,
+      "filesize": 63070,
       "sizes": {
         "medium": {
           "file": "cropped-calworks-case_study-cover-576x302.jpg",
           "width": 576,
           "height": 302,
-          "filesize": 32290,
+          "filesize": 32323,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-576x302.jpg"
         },
@@ -55,7 +55,7 @@
           "file": "cropped-calworks-case_study-cover-150x150.jpg",
           "width": 150,
           "height": 150,
-          "filesize": 6901,
+          "filesize": 6915,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-150x150.jpg"
         },
@@ -63,7 +63,7 @@
           "file": "cropped-calworks-case_study-cover-768x403.jpg",
           "width": 768,
           "height": 403,
-          "filesize": 51294,
+          "filesize": 51652,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-768x403.jpg"
         },
@@ -111,7 +111,7 @@
         "file": "cropped-calworks-case_study-cover-768x403.jpg",
         "width": 768,
         "height": 403,
-        "filesize": 51294,
+        "filesize": 51652,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-768x403.jpg"
       },
@@ -122,7 +122,7 @@
         "file": "cropped-calworks-case_study-cover-576x302.jpg",
         "width": 576,
         "height": 302,
-        "filesize": 32290,
+        "filesize": 32323,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-576x302.jpg"
       },
@@ -133,7 +133,7 @@
         "file": "cropped-calworks-case_study-cover-150x150.jpg",
         "width": 150,
         "height": 150,
-        "filesize": 6901,
+        "filesize": 6915,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-calworks-case_study-cover-150x150.jpg"
       }
