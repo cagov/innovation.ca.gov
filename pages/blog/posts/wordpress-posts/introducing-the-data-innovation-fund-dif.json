@@ -32,7 +32,9 @@
     "sticky": false,
     "template": "",
     "format": "standard",
-    "meta": [],
+    "meta": {
+      "footnotes": ""
+    },
     "categories": [
       "Uncategorized"
     ],
