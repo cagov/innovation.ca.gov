@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png'><img loading=\"lazy\" width=\"572\" height=\"336\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png\" class=\"attachment-medium size-medium\" alt=\"ODI staff on zoom\" decoding=\"async\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png'><img loading=\"lazy\" width=\"572\" height=\"336\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png\" class=\"attachment-medium size-medium\" alt=\"ODI staff on zoom\" decoding=\"async\" /></a></p>\n",
     "caption": "",
     "alt_text": "ODI staff on zoom",
     "media_type": "image",
@@ -40,21 +40,22 @@
     "media_details": {
       "width": 572,
       "height": 336,
-      "file": "2022/04/Everybody-on-zoom.png",
+      "file": "2022/04/Everybody-on-zoom-e1693521045921.png",
       "sizes": {
         "thumbnail": {
-          "file": "Everybody-on-zoom-150x150.png",
+          "file": "Everybody-on-zoom-e1693521045921-150x150.png",
           "width": 150,
           "height": 150,
+          "filesize": 45247,
           "mime_type": "image/png",
-          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-150x150.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921-150x150.png"
         },
         "full": {
-          "file": "Everybody-on-zoom.png",
+          "file": "Everybody-on-zoom-e1693521045921.png",
           "width": 572,
           "height": 336,
           "mime_type": "image/png",
-          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png"
         }
       },
       "image_meta": {
@@ -73,30 +74,31 @@
       }
     },
     "post": 113,
-    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png",
     "sizes": [
       {
         "type": "full",
-        "path": "2022/04/Everybody-on-zoom.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png",
-        "file": "Everybody-on-zoom.png",
+        "path": "2022/04/Everybody-on-zoom-e1693521045921.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png",
+        "file": "Everybody-on-zoom-e1693521045921.png",
         "width": 572,
         "height": 336,
         "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921.png"
       },
       {
         "type": "thumbnail",
-        "path": "2022/04/Everybody-on-zoom-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-150x150.png",
-        "file": "Everybody-on-zoom-150x150.png",
+        "path": "2022/04/Everybody-on-zoom-e1693521045921-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921-150x150.png",
+        "file": "Everybody-on-zoom-e1693521045921-150x150.png",
         "width": 150,
         "height": 150,
+        "filesize": 45247,
         "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-150x150.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/Everybody-on-zoom-e1693521045921-150x150.png"
       }
     ],
-    "path": "2022/04/Everybody-on-zoom.png"
+    "path": "2022/04/Everybody-on-zoom-e1693521045921.png"
   }
 }
