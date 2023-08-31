@@ -126,19 +126,6 @@
         "featured": false
       },
       {
-        "id": 1416,
-        "type": "full",
-        "path": "2023/07/dtsc-project.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png",
-        "file": "dtsc-project.png",
-        "width": 577,
-        "height": 384,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 372,
         "type": "full",
         "path": "2022/04/phone-mockup-covid19.jpg",
