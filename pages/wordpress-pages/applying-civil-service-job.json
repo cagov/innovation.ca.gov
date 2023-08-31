@@ -86,58 +86,6 @@
         "featured": false
       },
       {
-        "id": 250,
-        "type": "full",
-        "path": "2022/03/examination-information.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
-        "file": "examination-information.png",
-        "width": 1103,
-        "height": 93,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 250,
-        "type": "large",
-        "path": "2022/03/examination-information-1024x86.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x86.png",
-        "file": "examination-information-1024x86.png",
-        "width": 1024,
-        "height": 86,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-1024x86.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 250,
-        "type": "medium_large",
-        "path": "2022/03/examination-information-768x65.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x65.png",
-        "file": "examination-information-768x65.png",
-        "width": 768,
-        "height": 65,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-768x65.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 250,
-        "type": "medium",
-        "path": "2022/03/examination-information-576x49.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x49.png",
-        "file": "examination-information-576x49.png",
-        "width": 576,
-        "height": 49,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/03/examination-information-576x49.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 252,
         "type": "2048x2048",
         "path": "2022/03/job-posting-header-2048x554.png",
