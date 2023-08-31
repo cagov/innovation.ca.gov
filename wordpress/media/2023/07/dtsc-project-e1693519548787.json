@@ -32,7 +32,7 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png'><img loading=\"lazy\" width=\"576\" height=\"383\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png\" class=\"attachment-medium size-medium\" alt=\"A woman moderating a community meeting. Community members are raising their hands to share their thoughts.\" decoding=\"async\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png'><img loading=\"lazy\" width=\"576\" height=\"383\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png\" class=\"attachment-medium size-medium\" alt=\"A woman moderating a community meeting. Community members are raising their hands to share their thoughts.\" decoding=\"async\" /></a></p>\n",
     "caption": "",
     "alt_text": "A woman moderating a community meeting. Community members are raising their hands to share their thoughts.",
     "media_type": "image",
@@ -40,23 +40,23 @@
     "media_details": {
       "width": 577,
       "height": 384,
-      "file": "2023/07/dtsc-project.png",
+      "file": "2023/07/dtsc-project-e1693519548787.png",
       "filesize": 333769,
       "sizes": {
         "thumbnail": {
-          "file": "dtsc-project-150x150.png",
+          "file": "dtsc-project-e1693519548787-150x150.png",
           "width": 150,
           "height": 150,
           "filesize": 32168,
           "mime_type": "image/png",
-          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-150x150.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787-150x150.png"
         },
         "full": {
-          "file": "dtsc-project.png",
+          "file": "dtsc-project-e1693519548787.png",
           "width": 577,
           "height": 384,
           "mime_type": "image/png",
-          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png"
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png"
         }
       },
       "image_meta": {
@@ -75,31 +75,31 @@
       }
     },
     "post": null,
-    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png",
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png",
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png",
     "sizes": [
       {
         "type": "full",
-        "path": "2023/07/dtsc-project.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png",
-        "file": "dtsc-project.png",
+        "path": "2023/07/dtsc-project-e1693519548787.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png",
+        "file": "dtsc-project-e1693519548787.png",
         "width": 577,
         "height": 384,
         "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png"
       },
       {
         "type": "thumbnail",
-        "path": "2023/07/dtsc-project-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-150x150.png",
-        "file": "dtsc-project-150x150.png",
+        "path": "2023/07/dtsc-project-e1693519548787-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787-150x150.png",
+        "file": "dtsc-project-e1693519548787-150x150.png",
         "width": 150,
         "height": 150,
         "filesize": 32168,
         "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-150x150.png"
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787-150x150.png"
       }
     ],
-    "path": "2023/07/dtsc-project.png"
+    "path": "2023/07/dtsc-project-e1693519548787.png"
   }
 }
