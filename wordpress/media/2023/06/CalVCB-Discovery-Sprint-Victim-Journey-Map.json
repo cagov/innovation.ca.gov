@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2023-06-02T22:06:22",
     "updated_date": "2023-07-24T15:39:16",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1221",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,7 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/calvcb-discovery-sprint-victim-journey-map/#main",
     "title": "CalVCB-Discovery-Sprint-Victim-Journey-Map",
-    "author": "Kimberly Losenara",
+    "author": 20,
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",

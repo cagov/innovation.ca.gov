@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2022-05-31T17:45:28",
     "updated_date": "2022-05-31T17:45:28",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/540",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,7 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/05/31/tech-choices-in-the-california-design-system/readme-feature-card/#main",
     "title": "readme-feature-card",
-    "author": "Aaron Hans",
+    "author": 2,
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",

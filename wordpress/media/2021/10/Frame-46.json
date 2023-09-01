@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2021-10-12T19:15:40",
     "updated_date": "2021-10-12T19:15:40",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/96",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,6 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/frame-46/#main",
     "title": "Frame 46",
+    "author": 3,
     "comment_status": "open",
     "ping_status": "closed",
     "template": "",

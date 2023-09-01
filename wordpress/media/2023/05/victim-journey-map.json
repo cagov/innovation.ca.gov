@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2023-05-31T22:46:43",
     "updated_date": "2023-07-21T16:21:23",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1207",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,7 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/victim-journey-map/#main",
     "title": "victim-journey-map",
-    "author": "Aaron Hans",
+    "author": 2,
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",

@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2022-05-31T16:29:42",
     "updated_date": "2022-05-31T16:29:42",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/518",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,7 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/tech-choices-feature-card-readme-github/",
     "title": "tech-choices-feature-card-readme-github",
-    "author": "Michael Sullivan",
+    "author": 13,
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",

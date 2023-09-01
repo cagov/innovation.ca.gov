@@ -2,9 +2,10 @@
   "meta": {
     "created_date": "2021-07-16T19:09:00",
     "updated_date": "2021-07-16T19:09:00",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/43",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -24,7 +25,7 @@
     "type": "attachment",
     "link": "https://live-digital-ca-gov.pantheonsite.io/image-2/",
     "title": "image-2",
-    "author": "Aaron Hans",
+    "author": 2,
     "comment_status": "open",
     "ping_status": "closed",
     "template": "",
