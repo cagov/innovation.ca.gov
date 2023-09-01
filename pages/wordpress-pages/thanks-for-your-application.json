@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/836",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/thanks-for-your-application/",
     "title": "Thanks for your application",
     "excerpt": "<p>Your application for a position with ODI has been received. Thank you for considering joining our team! The ODI application process We hope you’re excited to join us! If you’ve never applied for a state job, we’ve got you covered. Our&nbsp;application process walkthrough&nbsp;explains the process so you know what to expect.</p>\n",
-    "author": "Aaron Hans",
+    "author": 2,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,

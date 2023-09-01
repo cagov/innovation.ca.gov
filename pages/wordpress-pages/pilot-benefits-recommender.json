@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1010",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/",
     "title": "Pilot: Benefits Recommender",
     "excerpt": "<p>The Benefits Recommender is a new way to get people to apply for more California state benefits. It meets people where they are on a benefits journey, and offers more aid they may not know about. The Recommender is a lightweight addition to an existing webpage. It is typically added to the confirmation page for &#8230; <a title=\"Pilot: Benefits Recommender\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/\" aria-label=\"More on Pilot: Benefits Recommender\">Read more</a></p>\n",
-    "author": "Aaron Hans",
+    "author": 2,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,

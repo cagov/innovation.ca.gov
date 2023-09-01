@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/244",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/",
     "title": "Meet the team",
     "excerpt": "<p>We’re a team that’s passionate about making California a better place for everyone. Office of Data and Innovation (ODI) staff have backgrounds in: Tech Design Data Policy Strategy Analytics Research We’re longtime public servants, entrepreneurs, and private sector veterans. Some of us never even thought of ourselves as “tech people” until we joined ODI. We &#8230; <a title=\"Meet the team\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/meet-the-team/\" aria-label=\"More on Meet the team\">Read more</a></p>\n",
-    "author": "Kimberly Losenara",
+    "author": 20,
     "featured_media": 0,
     "parent": 318,
     "menu_order": 0,

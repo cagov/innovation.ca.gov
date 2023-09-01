@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1457",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-design-lead/",
     "title": "CalAcademy Curriculum Design Lead",
     "excerpt": "<p>We are hiring a CalAcademy Curriculum Design Lead to join the team! You&#8217;ll develop and administer a training program in user research, design, data as well as other disciplines. You&#8217;re excited to create interactive and engaging courses. You&#8217;re an expert at using a variety of training methods. You love learning new things and sharing your &#8230; <a title=\"CalAcademy Curriculum Design Lead\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-design-lead/\" aria-label=\"More on CalAcademy Curriculum Design Lead\">Read more</a></p>\n",
-    "author": "Ashley Lanham",
+    "author": 21,
     "featured_media": 0,
     "parent": 238,
     "menu_order": 0,

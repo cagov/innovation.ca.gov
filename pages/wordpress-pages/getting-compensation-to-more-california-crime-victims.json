@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1196",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
     "title": "Getting compensation to more California crime victims",
     "excerpt": "<p>ODI used human-centered design to make it easier for crime victims to get funds for recovery. Project scope Partners Methods Needs The California Victim Compensation Board (CalVCB) approached the Office of Data and Innovation (ODI) in 2022 with a challenge. Violent crimes had gone up in California over time, but applications for victim’s compensation had &#8230; <a title=\"Getting compensation to more California crime victims\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/\" aria-label=\"More on Getting compensation to more California crime victims\">Read more</a></p>\n",
-    "author": "Aaron Hans",
+    "author": 2,
     "featured_media": 0,
     "parent": 242,
     "menu_order": 0,

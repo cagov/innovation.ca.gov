@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1296",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/",
     "title": "Conditions of use",
     "excerpt": "<p>Updated: June 30, 2023 When you visit the Office of Data and Innovation (ODI) website, you accept our conditions of use. If you do not agree with these conditions of use, please exit this website. The conditions of use are subject to change without notice. They reflect ODI’s current business practices. If you leave our &#8230; <a title=\"Conditions of use\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/\" aria-label=\"More on Conditions of use\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,

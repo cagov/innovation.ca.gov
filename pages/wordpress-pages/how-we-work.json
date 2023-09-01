@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/236",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/",
     "title": "CalInnovate",
     "excerpt": "<p>CalInnovate uses focused project teams to solve big problems. We use best practices in human-centered design and technology to improve services for everyone. Start with problems, not solutions We are changing the way government traditionally works. State departments tackle complex problems that don’t have a one-size-fits-all solution. While technology can improve many things, we do &#8230; <a title=\"CalInnovate\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/how-we-work/\" aria-label=\"More on CalInnovate\">Read more</a></p>\n",
-    "author": "Aaron Hans",
+    "author": 2,
     "featured_media": 0,
     "parent": 318,
     "menu_order": 0,

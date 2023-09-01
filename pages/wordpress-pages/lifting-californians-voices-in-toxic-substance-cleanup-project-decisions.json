@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1326",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
     "title": "Lifting Californians’ voices in toxic substance cleanup project decisions",
     "excerpt": "<p>We found new ways to help people be aware of and take part in decisions that affect their communities. Project scope Partners Methods Needs The Department of Toxic Substances Control (DTSC) oversees toxic substance cleanup projects throughout California. They asked the Office of Data and Innovation (ODI) to help increase public participation in making decisions. &#8230; <a title=\"Lifting Californians’ voices in toxic substance cleanup project decisions\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/\" aria-label=\"More on Lifting Californians’ voices in toxic substance cleanup project decisions\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "parent": 242,
     "menu_order": 0,

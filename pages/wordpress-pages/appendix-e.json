@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1087",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-e/",
     "title": "Appendix E: CalData merger with ODI",
     "excerpt": "<p>Below is additional detail on CalData work to deliver on the statewide data strategy, including planning for our data services via the Data and Innovation Fund (DIF). Building the roads to streamline data access Cradle-to-Career (C2C) data system Policy makers and education leaders don’t have information on longer-term outcomes for students, how outcomes vary for &#8230; <a title=\"Appendix E: CalData merger with ODI\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-e/\" aria-label=\"More on Appendix E: CalData merger with ODI\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "parent": 508,
     "menu_order": 0,

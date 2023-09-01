@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1090",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-f/",
     "title": "Appendix F: Building durable capacity across the state",
     "excerpt": "<p>Procurement As part of ODI’s mandate to “rethink and improve how the state buys digital services,” procurement is a focus area for the organization. Knowing how, when, and what to procure helps departments and vendor partners create and manage digital solutions and is central to digital transformation. Human-centered procurement consulting In FY 2021-2022, ODI brought &#8230; <a title=\"Appendix F: Building durable capacity across the state\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-f/\" aria-label=\"More on Appendix F: Building durable capacity across the state\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "parent": 508,
     "menu_order": 0,
