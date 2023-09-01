@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-10T17:10:13",
-    "updated_date": "2023-08-11T23:53:59",
+    "updated_date": "2023-09-01T18:49:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2023-07-10T10:10:13",
     "date_gmt": "2023-07-10T17:10:13",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1326",
-    "modified": "2023-08-11T16:53:59",
-    "modified_gmt": "2023-08-11T23:53:59",
+    "modified": "2023-09-01T11:49:58",
+    "modified_gmt": "2023-09-01T18:49:58",
     "slug": "lifting-californians-voices-in-toxic-substance-cleanup-project-decisions",
     "status": "publish",
     "type": "page",
@@ -72,6 +72,47 @@
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/",
     "media": [
+      {
+        "id": 1337,
+        "type": "full",
+        "path": "2023/07/dtsc-case-study-cover-e1693520972948.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948.png",
+        "file": "dtsc-case-study-cover-e1693520972948.png",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1337,
+        "type": "medium_large",
+        "path": "2023/07/dtsc-case-study-cover-e1693520972948-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948-768x384.png",
+        "file": "dtsc-case-study-cover-e1693520972948-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 361869,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948-768x384.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1337,
+        "type": "medium",
+        "path": "2023/07/dtsc-case-study-cover-e1693520972948-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948-576x288.png",
+        "file": "dtsc-case-study-cover-e1693520972948-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 213820,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-case-study-cover-e1693520972948-576x288.png",
+        "source_url_match": true,
+        "featured": false
+      },
       {
         "id": 1341,
         "type": "full",
