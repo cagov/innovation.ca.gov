@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/612",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/06/10/introducing-the-data-innovation-fund-dif/",
     "title": "Introducing the Data &#038; Innovation Fund (DIF)",
     "excerpt": "<p>True to our core principles, ODI has found a way to fund and foster projects that put Californians first.</p>\n",
-    "author": "Jeffery Marino",
+    "author": 23,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",

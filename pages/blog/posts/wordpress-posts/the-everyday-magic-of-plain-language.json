@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/607",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/06/09/the-everyday-magic-of-plain-language/",
     "title": "The everyday magic of plain language",
     "excerpt": "<p>ODI uses plain language in its projects to make sure all Californians get the information they need.</p>\n",
-    "author": "Peggy Gartin &amp; Michael Sullivan",
+    "author": 22,
     "featured_media": 596,
     "comment_status": "closed",
     "ping_status": "closed",

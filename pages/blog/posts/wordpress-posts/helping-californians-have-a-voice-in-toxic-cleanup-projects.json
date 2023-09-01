@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/1435",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/",
     "title": "Helping Californians have a voice in toxic cleanup projects",
     "excerpt": "<p>The Department of Toxic Substances Control (DTSC) gives Californians the opportunity to comment on proposed toxic substance cleanup projects. They wanted to bring in people who have historically not been part of making decisions. The Office of Data and Innovation (ODI) worked with DTSC to find ways to give these communities a bigger voice in &#8230; <a title=\"Helping Californians have a voice in toxic cleanup projects\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/\" aria-label=\"More on Helping Californians have a voice in toxic cleanup projects\">Read more</a></p>\n",
-    "author": "Hayley Figeroid",
+    "author": 30,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",

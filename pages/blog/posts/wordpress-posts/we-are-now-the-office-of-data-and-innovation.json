@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/702",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/07/12/we-are-now-the-office-of-data-and-innovation/",
     "title": "We’re now the Office of Data and Innovation",
     "excerpt": "<p>Same initials, new expanded team.</p>\n",
-    "author": "Jennifer Moran",
+    "author": 15,
     "featured_media": 713,
     "comment_status": "closed",
     "ping_status": "closed",

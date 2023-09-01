@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/1246",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
     "title": "Engaging Californians through Facebook",
     "excerpt": "<p>One duty of the Department of Toxic Substances Control (DTSC) is to oversee permitting and cleanups of toxic substances. This includes engaging with the communities near properties where environmental cleanup is necessary.  In an effort to increase public comment, the Office of Data and Innovation (ODI) and DTSC worked on expanding engagement with Californians. We &#8230; <a title=\"Engaging Californians through Facebook\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/\" aria-label=\"More on Engaging Californians through Facebook\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",

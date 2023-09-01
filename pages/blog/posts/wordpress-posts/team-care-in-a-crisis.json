@@ -5,6 +5,7 @@
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/657",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -25,7 +26,7 @@
     "link": "https://live-digital-ca-gov.pantheonsite.io/2022/07/07/team-care-in-a-crisis/",
     "title": "Team care in a crisis",
     "excerpt": "<p>Working in crisis response is tough. We got through it by taking time to care for each other.</p>\n",
-    "author": "Michael Sullivan",
+    "author": 13,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
