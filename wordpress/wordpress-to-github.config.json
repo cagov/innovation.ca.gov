@@ -11,6 +11,6 @@
     "MediaPath": "wordpress/media",
     "GeneralFilePath": "wordpress/general/general.json",
     "ExcludeProperties": ["content", "_links"],
-    "HideAuthorName": true
+    "HideAuthorName": false
   }
 }
