@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2023-09-26T15:48:18",
+    "updated_date": "2023-09-26T15:48:19",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/1498",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1498,
+    "date": "2023-09-26T08:48:18",
+    "date_gmt": "2023-09-26T15:48:18",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1498",
+    "modified": "2023-09-26T08:48:19",
+    "modified_gmt": "2023-09-26T15:48:19",
+    "slug": "odi-cal-oes-receive-award-for-best-it-collaboration",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2023/09/26/odi-cal-oes-receive-award-for-best-it-collaboration/",
+    "title": "ODI, Cal OES receive award for best IT collaboration",
+    "excerpt": "<p>Collaboration for the win! The Office of Data and Innovation (ODI) and Office of Emergency Services (Cal OES) are proud to have earned a joint award for Best IT Collaboration. The award was announced at the California Government Innovation Summit in Sacramento on September 19.&nbsp; The recognition is for our innovative, collaborative, and human-centered design &#8230; <a title=\"ODI, Cal OES receive award for best IT collaboration\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023/09/26/odi-cal-oes-receive-award-for-best-it-collaboration/\" aria-label=\"More on ODI, Cal OES receive award for best IT collaboration\">Read more</a></p>\n",
+    "author": "Barb Cosio-Moreno",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/09/26/odi-cal-oes-receive-award-for-best-it-collaboration/",
+      "page_title": "ODI, Cal OES receive award for best IT collaboration",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/09/cropped-odi-cal-oes-award.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "ODI, Cal OES receive award for best IT collaboration",
+      "meta_description": "ODI worked with CalOES to use human&#x2d;centered design to modernize information flows into and out of the California State Warning Center.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/09/26/odi-cal-oes-receive-award-for-best-it-collaboration/",
+      "open_graph_title": "ODI, Cal OES receive award for best IT collaboration",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "ODI, Cal OES receive award for best IT collaboration",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/09/26/odi-cal-oes-receive-award-for-best-it-collaboration/",
+    "media": [
+      {
+        "id": 1502,
+        "type": "full",
+        "path": "2023/09/odi-cal-oes-award.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/09/odi-cal-oes-award.jpg",
+        "file": "odi-cal-oes-award.jpg",
+        "width": 433,
+        "height": 479,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/09/odi-cal-oes-award.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
