@@ -39,14 +39,6 @@
     }
   },
   {
-    "name": "Alanna Williams",
-    "title": "Senior Data and Policy Analyst",
-    "pic": "a-williams.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/alanna-williams"
-    }
-  },
-  {
     "name": "Anne Crew-Renzo",
     "title": "CalAcademy Training Program Manager",
     "pronouns": "she/her",
@@ -91,16 +83,6 @@
     "pic": "b-cosio-moreno.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/barbarajmoreno"
-    }
-  },
-  {
-    "name": "Blake Valenta",
-    "pronouns": "he/him",
-    "title": "Deputy Director of Data Programs and Policy",
-    "pic": "b-valenta.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/dblakev/",
-      "twitter": "https://twitter.com/dblakev"
     }
   },
   {
