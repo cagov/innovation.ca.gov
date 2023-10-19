@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-19T20:37:42",
-    "updated_date": "2023-10-19T20:37:42",
+    "updated_date": "2023-10-19T20:48:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-19T13:37:42",
     "date_gmt": "2023-10-19T20:37:42",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1523",
-    "modified": "2023-10-19T13:37:42",
-    "modified_gmt": "2023-10-19T20:37:42",
+    "modified": "2023-10-19T13:48:08",
+    "modified_gmt": "2023-10-19T20:48:08",
     "slug": "research-assistant",
     "status": "publish",
     "type": "page",
