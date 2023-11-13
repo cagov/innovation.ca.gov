@@ -1,11 +1,9 @@
 [
   {
-    "name": "Nolwenn Godard",
-    "pronouns": "she/her",
-    "title": "Director",
-     "pic": "n-godard.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/nolwenngodard"
+    "name": "Jared Johnson",
+    "pronouns": "",
+    "title": "Acting Director",
+    "pic": ""
     }
   },
   {
@@ -65,15 +63,6 @@
       "linkedin": "https://www.linkedin.com/in/armanmadani/",
       "twitter": "https://twitter.com/thearmanmadani",
       "github": "https://github.com/ArmanMadani"
-    }
-  },
-  {
-    "name": "Ashley Lanham",
-    "pronouns": "she/her",
-    "pic": "a-lanham.jpg",
-    "title": "Talent Engagement Specialist",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/ashley-lanham-54071645/"
     }
   },
   {
@@ -143,15 +132,6 @@
     "pic": "d-yu.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/danielsyu/"
-    }
-  },
-  {
-    "name": "Erica Krimmel",
-    "pronouns": "she/her",
-    "title": "Research Assistant",
-    "pic": "e-krimmel.jpg",
-    "social": {
-      "github": "https://github.com/erica-krimmel"
     }
   },
   {
@@ -254,15 +234,6 @@
     "pic": "k-hicks.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/kimberlyjhicks/"
-    }
-  },
-  {
-    "name": "Kimberly Losenara",
-    "pronouns": "she/her/siya",
-    "title": "Visual Designer",
-    "pic": "k-losenara.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/klosenara/"
     }
   },
    {
