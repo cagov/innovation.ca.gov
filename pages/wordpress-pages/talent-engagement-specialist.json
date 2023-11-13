@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-13T17:27:41",
-    "updated_date": "2023-11-13T17:27:42",
+    "updated_date": "2023-11-13T19:40:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-13T09:27:41",
     "date_gmt": "2023-11-13T17:27:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1546",
-    "modified": "2023-11-13T09:27:42",
-    "modified_gmt": "2023-11-13T17:27:42",
+    "modified": "2023-11-13T11:40:18",
+    "modified_gmt": "2023-11-13T19:40:18",
     "slug": "talent-engagement-specialist",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -62,7 +60,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Talent Engagement Specialist",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "The Talent Engagement Specialist willl play a key role in ODI’s recruitment and onboarding activities.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/talent-engagement-specialist/",
       "open_graph_title": "Talent Engagement Specialist",
       "open_graph_description": "Office of Data and Innovation",
@@ -70,19 +68,7 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/talent-engagement-specialist/"
