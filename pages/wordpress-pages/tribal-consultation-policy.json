@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-22T00:30:27",
-    "updated_date": "2023-11-13T23:31:07",
+    "updated_date": "2023-11-30T21:04:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-21T16:30:27",
     "date_gmt": "2022-11-22T00:30:27",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=926",
-    "modified": "2023-11-13T15:31:07",
-    "modified_gmt": "2023-11-13T23:31:07",
+    "modified": "2023-11-30T13:04:37",
+    "modified_gmt": "2023-11-30T21:04:37",
     "slug": "tribal-consultation-policy",
     "status": "publish",
     "type": "page",
