@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-07-21T16:26:43",
-    "updated_date": "2021-07-22T17:53:41",
+    "updated_date": "2023-12-06T18:45:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2021-07-21T09:26:43",
     "date_gmt": "2021-07-21T16:26:43",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=59",
-    "modified": "2021-07-22T10:53:41",
-    "modified_gmt": "2021-07-22T17:53:41",
+    "modified": "2023-12-06T10:45:50",
+    "modified_gmt": "2023-12-06T18:45:50",
     "slug": "introducing-the-new-ca-cannabis-website",
     "status": "publish",
     "type": "post",
     "link": "https://live-digital-ca-gov.pantheonsite.io/2021/07/21/introducing-the-new-ca-cannabis-website/",
     "title": "Introducing the new CA Cannabis website",
     "excerpt": "<p>We’re proud to have led the months-long collaboration to build the Cannabis.ca.gov site. </p>\n",
-    "author": "Jim Bumgardner",
+    "author": "Aaron Hans",
     "featured_media": 41,
     "comment_status": "closed",
     "ping_status": "open",
@@ -36,7 +36,9 @@
     "meta": {
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Uncategorized"
+    ],
     "tags": [
       "Bureau of Cannabis Control",
       "CA.gov",
@@ -83,7 +85,24 @@
       "twitter_title": "Introducing the new CA Cannabis website",
       "twitter_description": "We’re proud to have led the months-long collaboration to build the Cannabis.ca.gov site. "
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 17,
