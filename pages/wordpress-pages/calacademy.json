@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2023-12-11T17:10:13",
+    "updated_date": "2023-12-11T17:10:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1568",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1568,
+    "date": "2023-12-11T09:10:13",
+    "date_gmt": "2023-12-11T17:10:13",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1568",
+    "modified": "2023-12-11T09:10:14",
+    "modified_gmt": "2023-12-11T17:10:14",
+    "slug": "calacademy",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/",
+    "title": "CalAcademy",
+    "excerpt": "<p>CalAcademy offers training in innovation for state employees. We build skills around: CalAcademy partners with state departments to:&nbsp; Training we offer We offer training in: Staff who work with the Office of Data and Innovation (ODI) on Data and Innovation Fund projects can get direct access to CalAcademy training. Our mission and values We support &#8230; <a title=\"CalAcademy\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/\" aria-label=\"More on CalAcademy\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 318,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/",
+      "page_title": "CalAcademy",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CalAcademy",
+      "meta_description": "CalAcademy offers training in innovation for State of California employees in human&#x2d;centered design, data analytics and best practices, and new technologies.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/",
+      "open_graph_title": "CalAcademy",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "CalAcademy",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/"
+  }
+}
