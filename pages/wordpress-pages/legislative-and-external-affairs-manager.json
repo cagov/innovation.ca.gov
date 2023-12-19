@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2023-12-19T21:57:09",
+    "updated_date": "2023-12-19T21:57:10",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1573",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1573,
+    "date": "2023-12-19T13:57:09",
+    "date_gmt": "2023-12-19T21:57:09",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1573",
+    "modified": "2023-12-19T13:57:10",
+    "modified_gmt": "2023-12-19T21:57:10",
+    "slug": "legislative-and-external-affairs-manager",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/legislative-and-external-affairs-manager/",
+    "title": "Legislative and External Affairs Manager",
+    "excerpt": "<p>As the Legislative and External Affairs Manager, you’ll lead the Office of Data and Innovation’s (ODI) external affairs work. You will create and manage partnerships in collaboration with ODI&#8217;s executive team. You’ll work with: You’ll advance ODI’s legislative program as well. You’ll counsel executives on legislation that may impact the department. You will be the &#8230; <a title=\"Legislative and External Affairs Manager\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/legislative-and-external-affairs-manager/\" aria-label=\"More on Legislative and External Affairs Manager\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/legislative-and-external-affairs-manager/",
+      "page_title": "Legislative and External Affairs Manager",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Legislative and External Affairs Manager",
+      "meta_description": "As the Legislative and External Affairs Manager, you’ll lead the Office of Data and Innovation’s external affairs work.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/legislative-and-external-affairs-manager/",
+      "open_graph_title": "Legislative and External Affairs Manager",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Legislative and External Affairs Manager",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/legislative-and-external-affairs-manager/"
+  }
+}
