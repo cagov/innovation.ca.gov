@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2023-12-20T22:57:42",
+    "updated_date": "2023-12-20T22:57:42",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1581",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1581,
+    "date": "2023-12-20T14:57:42",
+    "date_gmt": "2023-12-20T22:57:42",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1581",
+    "modified": "2023-12-20T14:57:42",
+    "modified_gmt": "2023-12-20T22:57:42",
+    "slug": "calacademy-curriculum-designer",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-designer/",
+    "title": "CalAcademy Curriculum Designer",
+    "excerpt": "<p>We are hiring a CalAcademy Curriculum Designer to join the team! You&#8217;ll develop and administer a training program in user research, design, data as well as other disciplines. You&#8217;re excited to create interactive and engaging courses. You&#8217;re an expert at using a variety of training methods. You love learning new things and sharing your skills &#8230; <a title=\"CalAcademy Curriculum Designer\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-designer/\" aria-label=\"More on CalAcademy Curriculum Designer\">Read more</a></p>\n",
+    "author": "Lawrence Troxler",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-designer/",
+      "page_title": "CalAcademy Curriculum Designer",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CalAcademy Curriculum Designer",
+      "meta_description": "We are hiring a CalAcademy Curriculum Designer to develop and administer a training program in user research, design, data, and other disciplines.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-designer/",
+      "open_graph_title": "CalAcademy Curriculum Designer",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "CalAcademy Curriculum Designer",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/calacademy-curriculum-designer/"
+  }
+}
