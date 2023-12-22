@@ -211,6 +211,10 @@ module.exports = function (eleventyConfig) {
     return readabilityScore;
   })
 
+  eleventyConfig.addFilter('roundNumber', (value) => {
+    return Math.round(parseFloat(value));
+  })
+
   eleventyConfig.addFilter('getScoreColor', (value) => {
     if(parseInt(value) > 89) {
       return 'speedlify-score-good';
