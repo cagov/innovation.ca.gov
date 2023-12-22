@@ -5,7 +5,7 @@
     {% if performance[page.url].lighthouse.performance %}
       <span class="page-score-details">
         <span class="page-score-block p-a-2">
-          <span class="speedlify-score {{(performance[page.url].lighthouse.performance * 100) | getScoreColor }}">{{performance[page.url].lighthouse.performance * 100}}</span>
+          <span class="speedlify-score {{(performance[page.url].lighthouse.performance * 100) | getScoreColor }}">{{(performance[page.url].lighthouse.performance * 100) | roundNumber }}</span>
           <span>Performance</span>
         </span>
         <a href="/page-score-info/#performance">Why is performance important</a>
@@ -14,7 +14,7 @@
     {% if performance[page.url].lighthouse.accessibility %}
       <span class="page-score-details">
         <span class="page-score-block p-a-2">
-          <span class="speedlify-score {{ (performance[page.url].lighthouse.accessibility  * 100) | getScoreColor }}">{{performance[page.url].lighthouse.accessibility  * 100}}</span>
+          <span class="speedlify-score {{ (performance[page.url].lighthouse.accessibility  * 100) | getScoreColor }}">{{(performance[page.url].lighthouse.accessibility  * 100) | roundNumber }}</span>
           <span>Accessibility</span>
         </span>
         <a href="/page-score-info/#accessibility">Why is accessibility important</a>
