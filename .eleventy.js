@@ -61,7 +61,7 @@ module.exports = function (eleventyConfig) {
     const FolderNamePages = "wordpress-pages";
     let output = [];
 
-    collection.getAll().forEach((item) => {
+    collection.getAll().forEach(async (item) => {
       item.data.domain = 'innovation.ca.gov';
       if (item.inputPath.includes(FolderNamePosts)) {
         item.outputPath = item.outputPath.replace(`/${FolderNamePosts}`, "");
