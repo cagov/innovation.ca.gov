@@ -53,8 +53,6 @@ module.exports = function (eleventyConfig) {
     return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
   });
 
-  let fileList = [];
-
   //Process wordpress posts
   eleventyConfig.addCollection("wordpressposts", function (collection) {
     const FolderNamePosts = "wordpress-posts";
@@ -167,18 +165,7 @@ module.exports = function (eleventyConfig) {
         }
       }
 
-      let newFile = {};
-      newFile.outputPath =  item.outputPath;
-      newFile.inputPath =  item.inputPath;
-      fileList.push(newFile);
-
     });
-
-    // /blog/index.html is a generated page, remove it from the list
-    let abbrevFileList = fileList.filter(item => { return item.outputPath != "_site/blog/index.html";})
-    
-    // store file list in build gen files directory
-    fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(abbrevFileList),'utf8');
 
     return output;
   });
@@ -252,6 +239,19 @@ module.exports = function (eleventyConfig) {
     } catch {
       return url;
     }
+  });
+
+  eleventyConfig.on("eleventy.after", async ({ results }) => {
+    // Generate map of all HTML files for tests.
+    const files = results.map((r) => {
+      const { content, ...paths } = r;
+      return paths;
+    });
+
+    const htmlFiles = files.filter((p) => p?.outputPath?.endsWith(".html"));
+    const htmlFileJson = JSON.stringify(htmlFiles, null, 2);
+
+    fs.writeFileSync("./_site_dist/allFiles.json", htmlFileJson, "utf8");
   });
 
   return {

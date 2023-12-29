@@ -15,7 +15,7 @@ import readabilityScores from 'readability-scores';
 import { convert } from 'html-to-text';
 
 // Get the list of pages to test.
-let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
+let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json')).filter(p => p?.url !== "/blog/");
 
 let parScores = {};
 let evaluationTime = new Date().getTime();
@@ -79,4 +79,4 @@ pageList.forEach(page => {
 });
 
 // console.log(JSON.stringify(parScores));
-fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(parScores),'utf8')
+fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(parScores, null, 2),'utf8')
