@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2023-12-29T00:05:06",
+    "updated_date": "2023-12-29T00:05:06",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1606",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1606,
+    "date": "2023-12-28T16:05:06",
+    "date_gmt": "2023-12-29T00:05:06",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1606",
+    "modified": "2023-12-28T16:05:06",
+    "modified_gmt": "2023-12-29T00:05:06",
+    "slug": "senior-user-experience-researcher",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-user-experience-researcher/",
+    "title": "Senior User Experience Researcher",
+    "excerpt": "<p>We are hiring a Senior UX Researcher to join the user research team! As the Senior UX Researcher, you are a highly motivated individual who possesses both qualitative and quantitative skills. You will lead human-centered design (HCD) research initiatives that inform decision-making at multiple levels. You are comfortable leading research sprints, identifying insights, problems and &#8230; <a title=\"Senior User Experience Researcher\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-user-experience-researcher/\" aria-label=\"More on Senior User Experience Researcher\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-user-experience-researcher/",
+      "page_title": "Senior User Experience Researcher",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Senior User Experience Researcher",
+      "meta_description": "We are hiring a Senior UX Researcher to lead human&#x2d;centered design research initiatives that inform decision&#x2d;making at multiple levels.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-user-experience-researcher/",
+      "open_graph_title": "Senior User Experience Researcher",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Senior User Experience Researcher",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-user-experience-researcher/"
+  }
+}
