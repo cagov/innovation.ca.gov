@@ -1,9 +1,6 @@
 function cleanUrl(url) {
-  if (url) {
-    if (url.indexOf(".pantheonsite.io/") > -1) {
-      return url.split(".pantheonsite.io/")[1];
-    }
-  }
+  if (url && url.includes(".pantheonsite.io/"))
+    return url.split(".pantheonsite.io/")[1] || "/";
   return url;
 }
 
@@ -12,12 +9,12 @@ module.exports = {
     permalink: article => cleanUrl(article.data.wordpress_url),
     title: article => article.data.title,
     layout: article => {
-      if (!article.data.layout)
-        return "content";
-      if(article.data.tags.indexOf('layout-no-sidebar') > -1)
+      if(article.data.tags.includes('layout-no-sidebar'))
         return 'single-column';
       if(article.page.url == "/")
         return "landing";
+      if (!article.data.layout)
+        return "content";
 
       return article.data.template;
     },

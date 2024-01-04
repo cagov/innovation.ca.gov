@@ -40,11 +40,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/pdf": "pdf" });
   eleventyConfig.addPassthroughCopy({ "src/css/fonts": "fonts" });
 
-  eleventyConfig.addFilter("dateformat", function (dateString) {
-    let d = new Date(dateString);
-    return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
-  });
-
   eleventyConfig.addTransform("modify-html", function (content) {
     if (this.page.outputPath.endsWith(".html")) {
       // Remove WP auto-lazy images for the homepage banner.
@@ -71,6 +66,11 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addFilter("dateformat", function (dateString) {
+    const d = new Date(dateString);
+    return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
+  });
 
   eleventyConfig.addFilter('calculateReadabilityGrade', (value) => {
     // This readability score grading scale was created with these thresholds intentionally by the ODI content team. These score display values represent the desired values corresponding to the ARI analysis. Using these round numbers is preferable to an equation that returns any integer because it matches hemingwayapp's scoring where grade levels are only returned as whole numbers.
