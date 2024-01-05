@@ -1,8 +1,10 @@
 <script>
+
 // GA4 (new) Google Analytics
 
 // Based on template provided here:
 // https://webstandards.ca.gov/add-analytics-to-your-site/
+
 (function () {
   const ga = document.createElement("script");
   ga.async = true;
@@ -16,6 +18,7 @@ window.gtag = function () {
   dataLayer.push(arguments);
 };
 gtag("js", new Date());
-gtag("config", "G-69TD0KNT0F"); // Statewide GA4 measurement ID
+// gtag("config", "G-69TD0KNT0F"); // Statewide GA4 measurement ID
 gtag("config", "G-70MEKX9MZC"); // innovation.ca.gov ID
+
 </script>
