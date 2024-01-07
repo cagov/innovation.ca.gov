@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "created_date": "2024-01-07T22:44:07",
+    "updated_date": "2024-01-07T22:44:07",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1627",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1627,
+    "date": "2024-01-07T14:44:07",
+    "date_gmt": "2024-01-07T22:44:07",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp",
+    "modified": "2024-01-07T14:44:07",
+    "modified_gmt": "2024-01-07T22:44:07",
+    "slug": "innovation-community-of-practice-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/innovation-community-of-practice-2/",
+    "title": "innovation-community-of-practice",
+    "author": "Jim Bumgardner",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp'><img loading=\"lazy\" width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-576x302.webp\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-576x302.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-1024x538.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-768x403.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp 1200w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1200,
+      "height": 630,
+      "file": "2024/01/innovation-community-of-practice.webp",
+      "filesize": 58758,
+      "sizes": {
+        "medium": {
+          "file": "innovation-community-of-practice-576x302.webp",
+          "width": 576,
+          "height": 302,
+          "filesize": 18832,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-576x302.webp"
+        },
+        "large": {
+          "file": "innovation-community-of-practice-1024x538.webp",
+          "width": 1024,
+          "height": 538,
+          "filesize": 39544,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-1024x538.webp"
+        },
+        "thumbnail": {
+          "file": "innovation-community-of-practice-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 4330,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-150x150.webp"
+        },
+        "medium_large": {
+          "file": "innovation-community-of-practice-768x403.webp",
+          "width": 768,
+          "height": 403,
+          "filesize": 27270,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-768x403.webp"
+        },
+        "full": {
+          "file": "innovation-community-of-practice.webp",
+          "width": 1200,
+          "height": 630,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/01/innovation-community-of-practice.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp",
+        "file": "innovation-community-of-practice.webp",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice.webp"
+      },
+      {
+        "type": "large",
+        "path": "2024/01/innovation-community-of-practice-1024x538.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-1024x538.webp",
+        "file": "innovation-community-of-practice-1024x538.webp",
+        "width": 1024,
+        "height": 538,
+        "filesize": 39544,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-1024x538.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/01/innovation-community-of-practice-768x403.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-768x403.webp",
+        "file": "innovation-community-of-practice-768x403.webp",
+        "width": 768,
+        "height": 403,
+        "filesize": 27270,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-768x403.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/01/innovation-community-of-practice-576x302.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-576x302.webp",
+        "file": "innovation-community-of-practice-576x302.webp",
+        "width": 576,
+        "height": 302,
+        "filesize": 18832,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-576x302.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/01/innovation-community-of-practice-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-150x150.webp",
+        "file": "innovation-community-of-practice-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 4330,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/innovation-community-of-practice-150x150.webp"
+      }
+    ],
+    "path": "2024/01/innovation-community-of-practice.webp"
+  }
+}

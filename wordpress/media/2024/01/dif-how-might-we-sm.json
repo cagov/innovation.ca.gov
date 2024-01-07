@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "created_date": "2024-01-07T22:36:25",
+    "updated_date": "2024-01-07T22:36:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1625",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1625,
+    "date": "2024-01-07T14:36:25",
+    "date_gmt": "2024-01-07T22:36:25",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+    "modified": "2024-01-07T14:36:25",
+    "modified_gmt": "2024-01-07T22:36:25",
+    "slug": "dif-how-might-we-sm-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dif-how-might-we-sm-2/",
+    "title": "dif-how-might-we-sm",
+    "author": "Jim Bumgardner",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp'><img loading=\"lazy\" width=\"550\" height=\"315\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 550,
+      "height": 315,
+      "file": "2024/01/dif-how-might-we-sm.webp",
+      "filesize": 21782,
+      "sizes": {
+        "thumbnail": {
+          "file": "dif-how-might-we-sm-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 5666,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm-150x150.webp"
+        },
+        "full": {
+          "file": "dif-how-might-we-sm.webp",
+          "width": 550,
+          "height": 315,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/01/dif-how-might-we-sm.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+        "file": "dif-how-might-we-sm.webp",
+        "width": 550,
+        "height": 315,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/01/dif-how-might-we-sm-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm-150x150.webp",
+        "file": "dif-how-might-we-sm-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 5666,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm-150x150.webp"
+      }
+    ],
+    "path": "2024/01/dif-how-might-we-sm.webp"
+  }
+}
