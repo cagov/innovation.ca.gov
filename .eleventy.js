@@ -1,12 +1,15 @@
 const cagovBuildSystem = require("@cagov/11ty-build-system");
 const linkedom = require("linkedom");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const fs = require('fs');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
   const wordpressImagePath = "img/wordpress";
 
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(cagovBuildSystem, {
     processors: {
       sass: {
@@ -64,8 +67,6 @@ module.exports = function (eleventyConfig) {
       })
       .reverse();
   });
-
-  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addFilter("dateformat", function (dateString) {
     const d = new Date(dateString);
