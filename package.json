@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@cagov/11ty-build-system": "^1.0.0-beta.3",
     "@cagov/ds-accordion": "^2.0.0",
@@ -46,11 +47,10 @@
   "scripts": {
     "build": "eleventy",
     "dev": "npm run site:watch:dev",
-    "readability": "node scoring/readability.mjs",
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
-    "start": "npm run readability && npm run site:watch",
+    "start": "npm run site:watch",
     "test": "npx playwright test test/index.spec.mjs",
     "test:serve": "npm run build && npx http-server _site/",
     "test:setup": "npx playwright install-deps chromium && npx playwright install"

@@ -20,7 +20,7 @@ metadata:
   <author>
     <name>{{ metadata.author.name }}</name>
   </author>
-  {%- for post in collections.mySort %} {% set absolutePostUrl %} {{ post.url |
+  {%- for post in collections.dateSort %} {% set absolutePostUrl %} {{ post.url |
   url | absoluteUrl(metadata.url) }} {% endset %}
   <entry>
     <title>{{ post.data.title | safe }}</title>

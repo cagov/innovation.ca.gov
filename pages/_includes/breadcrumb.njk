@@ -1,0 +1,17 @@
+{% macro breadcrumb(articleId, articleTitle, collections) %}
+<div class="breadcrumb" aria-label="Breadcrumb" role="region">
+  <a class="crumb" href="https://ca.gov" title="CA.gov">CA.gov</a>
+  
+  <span class="crumb separator">/</span>
+  <a class="crumb" href="/" title="Office of Data and Innovation">Office of Data and Innovation</a>
+
+  {% set crumbs = collections.all | eleventyNavigationBreadcrumb(articleId) %}
+  {%- for crumb in crumbs %}
+    <span class="crumb separator">/</span>
+    <span class="crumb">{{ crumb.title | safe }}</span>
+  {%- endfor %}
+  
+  <span class="crumb separator">/</span>
+  <span class="crumb current">{{ articleTitle | safe }}</span>
+</div>
+{% endmacro %}
