@@ -2,7 +2,7 @@ module.exports = {
   layout: "post",
   tags: ["news"],
   eleventyComputed: {
-    permalink: article => `blog/posts/${article.page.fileSlug}`,
+    permalink: article => `blog/posts/${article.page.fileSlug}/`,
     title: article => article.data.title,
     date: article => article.data.date,
     publishdate: article => article.data.date.split("T")[0],
