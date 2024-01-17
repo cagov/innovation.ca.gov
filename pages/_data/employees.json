@@ -6,6 +6,7 @@
     "pic": "j-marino.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
+    }
   },
   {
     "name": "Sergio Gutierrez",
@@ -117,15 +118,6 @@
       "linkedin": "https://www.linkedin.com/in/claragonzalezsueyro/"
     }
   },  
-  {
-    "name": "Daniel Yu",
-    "pronouns": "he/him",
-    "title": "Researcher",
-    "pic": "d-yu.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/danielsyu/"
-    }
-  },
   {
     "name": "Erica Stivison",
     "pronouns": "she/her",
