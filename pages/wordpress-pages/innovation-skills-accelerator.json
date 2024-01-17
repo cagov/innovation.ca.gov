@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-17T19:38:16",
-    "updated_date": "2024-01-17T19:38:17",
+    "updated_date": "2024-01-17T19:43:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-17T11:38:16",
     "date_gmt": "2024-01-17T19:38:16",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1654",
-    "modified": "2024-01-17T11:38:17",
-    "modified_gmt": "2024-01-17T19:38:17",
+    "modified": "2024-01-17T11:43:51",
+    "modified_gmt": "2024-01-17T19:43:51",
     "slug": "innovation-skills-accelerator",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "layout-no-sidebar"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/innovation-skills-accelerator/"
