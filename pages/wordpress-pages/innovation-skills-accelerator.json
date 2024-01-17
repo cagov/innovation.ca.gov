@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-17T19:38:16",
-    "updated_date": "2024-01-17T19:43:51",
+    "updated_date": "2024-01-17T21:50:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-17T11:38:16",
     "date_gmt": "2024-01-17T19:38:16",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1654",
-    "modified": "2024-01-17T11:43:51",
-    "modified_gmt": "2024-01-17T19:43:51",
+    "modified": "2024-01-17T13:50:50",
+    "modified_gmt": "2024-01-17T21:50:50",
     "slug": "innovation-skills-accelerator",
     "status": "publish",
     "type": "page",
@@ -62,7 +62,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Innovation Skills Accelerator",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "State of California staff can take this 15&#x2d;module training for an introduction to human&#x2d;centered design.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/innovation-skills-accelerator/",
       "open_graph_title": "Innovation Skills Accelerator",
       "open_graph_description": "Office of Data and Innovation",
