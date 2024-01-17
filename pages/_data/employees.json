@@ -1,8 +1,11 @@
 [
   {
-    "name": "Jared Johnson",
-    "title": "Acting Director",
-    "pic": ""
+    "name": "Jeffery Marino",
+    "pronouns": "he/him",
+    "title": "Director",
+    "pic": "j-marino.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
   },
   {
     "name": "Sergio Gutierrez",
@@ -159,15 +162,6 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/jasonlally/",
       "twitter": "https://twitter.com/synchronouscity"
-    }
-  },
-  {
-    "name": "Jeffery Marino",
-    "pronouns": "he/him",
-    "title": "Deputy Director of Strategy",
-    "pic": "j-marino.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
     }
   },
   {
