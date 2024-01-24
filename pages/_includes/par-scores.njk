@@ -1,4 +1,4 @@
-  <div class="page-score-info">
+  <div class="page-score-info" style="display:none">
   <p>ODI grades the reading level, performance, and accessibility of all our webpages. Here are this page’s scores as of the last update:</p>
 
   <div class="score-display">
@@ -31,3 +31,11 @@
     {% endif %}
   </div>
 </div>
+
+<script>
+// using URLSearchParam, if parameter 'par' is present then show the above page-score-info div
+var urlParams = new URLSearchParams(window.location.search);
+if (urlParams.has('par')) {
+  document.querySelector('.page-score-info').style.display = 'block';
+}
+</script>
