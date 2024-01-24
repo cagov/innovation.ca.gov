@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-17T23:25:54",
-    "updated_date": "2024-01-17T23:25:54",
+    "updated_date": "2024-01-24T21:59:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-17T15:25:54",
     "date_gmt": "2024-01-17T23:25:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1663",
-    "modified": "2024-01-17T15:25:54",
-    "modified_gmt": "2024-01-17T23:25:54",
+    "modified": "2024-01-24T13:59:27",
+    "modified_gmt": "2024-01-24T21:59:27",
     "slug": "plain-language-public-sector",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,6 @@
     },
     "categories": [],
     "tags": [
-      "do-not-crawl",
       "layout-no-sidebar"
     ],
     "design_system_fields": {
@@ -72,17 +71,6 @@
     },
     "headless_categories": [],
     "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
       {
         "term_id": 39,
         "name": "layout-no-sidebar",
