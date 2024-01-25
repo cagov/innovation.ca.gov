@@ -1,3 +1,5 @@
+// 11ty build script
+
 const cagovBuildSystem = require("@cagov/11ty-build-system");
 const linkedom = require("linkedom");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
