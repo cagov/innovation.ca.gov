@@ -119,6 +119,15 @@
     }
   },
   {
+    "name": "Gini Martinez",
+    "pronouns": "she/her",
+    "title": "Research Assistant",
+    "pic": "g-martinez.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ginimartinez"
+    }
+  },
+  {
     "name": "Hayley Figeroid",
     "title": "Government Relations Manager",
     "pic": "h-figeroid.jpg",
