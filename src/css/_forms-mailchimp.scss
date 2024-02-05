@@ -1,0 +1,19 @@
+.mailchimp-wrapper {
+  [type=email],
+  [type=text] {
+    border-radius: 3px;
+    border: 1px solid #ABB0B2; // This is not in the ODI color palette.
+    display: block;
+    width: 100%;
+  }
+
+  [type=submit] {
+    color: var(--white, #fff) !important;  // overriding "!important" in @cagov/ds-base-css/src/_forms.scss. (A pox upon their houses.)
+  }
+
+  .indicates-required {
+    text-align: right;
+    font-size: 11px;
+    margin-right: 4%;
+  }
+}
