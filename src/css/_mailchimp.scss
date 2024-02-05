@@ -1,0 +1,18 @@
+.mailchimp-wrapper {
+  [type=email],
+  [type=text] {
+
+    border: 1px solid;
+    display: block;
+    width: 100%;
+  }
+  .asterisk {
+    color: red;
+  }
+
+  .indicates-required {
+    text-align: right;
+    font-size: 11px;
+    margin-right: 4%;
+  }
+}
