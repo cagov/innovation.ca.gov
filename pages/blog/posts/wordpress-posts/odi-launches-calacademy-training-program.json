@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-09T18:36:02",
-    "updated_date": "2024-02-09T18:36:02",
+    "updated_date": "2024-02-09T18:45:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-09T10:36:02",
     "date_gmt": "2024-02-09T18:36:02",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1702",
-    "modified": "2024-02-09T10:36:02",
-    "modified_gmt": "2024-02-09T18:36:02",
+    "modified": "2024-02-09T10:45:52",
+    "modified_gmt": "2024-02-09T18:45:52",
     "slug": "odi-launches-calacademy-training-program",
     "status": "publish",
     "type": "post",
@@ -70,7 +70,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Office of Data and Innovation launches CalAcademy training program",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "As part of our mission to build a culture of innovation within state government, ODI is launching its training program known as CalAcademy.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/02/09/odi-launches-calacademy-training-program/",
       "open_graph_title": "Office of Data and Innovation launches CalAcademy training Program",
       "open_graph_description": "Office of Data and Innovation",
