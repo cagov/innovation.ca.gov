@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "created_date": "2024-02-09T17:57:52",
+    "updated_date": "2024-02-09T17:57:52",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1703",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1703,
+    "date": "2024-02-09T09:57:52",
+    "date_gmt": "2024-02-09T17:57:52",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png",
+    "modified": "2024-02-09T09:57:52",
+    "modified_gmt": "2024-02-09T17:57:52",
+    "slug": "calacademy-logo",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/02/09/odi-launches-calacademy-training-program/calacademy-logo/#main",
+    "title": "calacademy-logo",
+    "author": "Michael Sullivan",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"136\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-576x136.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-576x136.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1024x242.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-768x182.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1536x363.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png 1844w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1844,
+      "height": 436,
+      "file": "2024/02/calacademy-logo.png",
+      "filesize": 70396,
+      "sizes": {
+        "medium": {
+          "file": "calacademy-logo-576x136.png",
+          "width": 576,
+          "height": 136,
+          "filesize": 25063,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-576x136.png"
+        },
+        "large": {
+          "file": "calacademy-logo-1024x242.png",
+          "width": 1024,
+          "height": 242,
+          "filesize": 47215,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1024x242.png"
+        },
+        "thumbnail": {
+          "file": "calacademy-logo-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 8350,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-150x150.png"
+        },
+        "medium_large": {
+          "file": "calacademy-logo-768x182.png",
+          "width": 768,
+          "height": 182,
+          "filesize": 34608,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-768x182.png"
+        },
+        "1536x1536": {
+          "file": "calacademy-logo-1536x363.png",
+          "width": 1536,
+          "height": 363,
+          "filesize": 72227,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1536x363.png"
+        },
+        "full": {
+          "file": "calacademy-logo.png",
+          "width": 1844,
+          "height": 436,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 1702,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/02/calacademy-logo.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png",
+        "file": "calacademy-logo.png",
+        "width": 1844,
+        "height": 436,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/02/calacademy-logo-1536x363.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1536x363.png",
+        "file": "calacademy-logo-1536x363.png",
+        "width": 1536,
+        "height": 363,
+        "filesize": 72227,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1536x363.png"
+      },
+      {
+        "type": "large",
+        "path": "2024/02/calacademy-logo-1024x242.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1024x242.png",
+        "file": "calacademy-logo-1024x242.png",
+        "width": 1024,
+        "height": 242,
+        "filesize": 47215,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-1024x242.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/02/calacademy-logo-768x182.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-768x182.png",
+        "file": "calacademy-logo-768x182.png",
+        "width": 768,
+        "height": 182,
+        "filesize": 34608,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-768x182.png"
+      },
+      {
+        "type": "medium",
+        "path": "2024/02/calacademy-logo-576x136.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-576x136.png",
+        "file": "calacademy-logo-576x136.png",
+        "width": 576,
+        "height": 136,
+        "filesize": 25063,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-576x136.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/02/calacademy-logo-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-150x150.png",
+        "file": "calacademy-logo-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 8350,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/02/calacademy-logo-150x150.png"
+      }
+    ],
+    "path": "2024/02/calacademy-logo.png"
+  }
+}
