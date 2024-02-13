@@ -59,6 +59,15 @@
     }
   },
   {
+    "name": "Brian Rains",
+    "pronouns": "he/him",
+    "title": "Talent Engagement Specialist",
+    "pic": "b-rains.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/brian-rains21"
+    }
+  },
+  {
     "name": "Britt Allen",
     "pronouns": "she/her",
     "title": "Data Strategist",
