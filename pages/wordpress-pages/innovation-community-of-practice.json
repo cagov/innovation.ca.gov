@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-03-29T21:54:54",
-    "updated_date": "2024-01-07T23:11:27",
+    "updated_date": "2024-02-15T19:23:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-03-29T14:54:54",
     "date_gmt": "2023-03-29T21:54:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1113",
-    "modified": "2024-01-07T15:11:27",
-    "modified_gmt": "2024-01-07T23:11:27",
+    "modified": "2024-02-15T11:23:31",
+    "modified_gmt": "2024-02-15T19:23:31",
     "slug": "innovation-community-of-practice",
     "status": "publish",
     "type": "page",
