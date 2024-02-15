@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2024-02-15T19:27:10",
+    "updated_date": "2024-02-15T19:27:10",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1715",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1715,
+    "date": "2024-02-15T11:27:10",
+    "date_gmt": "2024-02-15T19:27:10",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1715",
+    "modified": "2024-02-15T11:27:10",
+    "modified_gmt": "2024-02-15T19:27:10",
+    "slug": "innovation-hub",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-hub/",
+    "title": "Innovation Hub",
+    "excerpt": "<p>The Innovation Hub features resources to help you deliver great services. It’s the Office of Data and Innovation’s home for things we’ve made and found that can help other state departments. We’ve gathered: You can find resources in areas like:</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1123,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-hub/",
+      "page_title": "Innovation Hub",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Innovation Hub",
+      "meta_description": "The Innovation Hub collects resources to help State of California departments deliver great services.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-hub/",
+      "open_graph_title": "Innovation Hub",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Innovation Hub",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-hub/"
+  }
+}
