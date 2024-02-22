@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:23:31",
-    "updated_date": "2024-02-05T23:13:44",
+    "updated_date": "2024-02-22T16:37:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:23:31",
     "date_gmt": "2022-03-16T19:23:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=238",
-    "modified": "2024-02-05T15:13:44",
-    "modified_gmt": "2024-02-05T23:13:44",
+    "modified": "2024-02-22T08:37:48",
+    "modified_gmt": "2024-02-22T16:37:48",
     "slug": "join-us",
     "status": "publish",
     "type": "page",
@@ -60,7 +60,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Join us",
-      "meta_description": "We're looking for creative and inspired people who want to make a difference in the lives of Californians.",
+      "meta_description": "We’re looking for creative and inspired people who want to make a difference in the lives of Californians.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/",
       "open_graph_title": "Join us",
       "open_graph_description": "Office of Data and Innovation",
