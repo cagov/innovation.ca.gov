@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-22T00:25:33",
-    "updated_date": "2024-02-22T00:25:34",
+    "updated_date": "2024-02-22T01:25:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-21T16:25:33",
     "date_gmt": "2024-02-22T00:25:33",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1720",
-    "modified": "2024-02-21T16:25:34",
-    "modified_gmt": "2024-02-22T00:25:34",
+    "modified": "2024-02-21T17:25:56",
+    "modified_gmt": "2024-02-22T01:25:56",
     "slug": "principal-analytics-engineer",
     "status": "publish",
     "type": "page",
@@ -60,7 +60,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Principal Analytics Engineer",
-      "meta_description": "The Office of Data and Innovation is looking for a Principal Analytics Engineer. You&#8217;ll be our expert on building efficient, flexible, and actionable data models.",
+      "meta_description": "The Office of Data and Innovation is looking for a Principal Analytics Engineer. You’ll be our expert on building efficient, flexible, and actionable data models.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/principal-analytics-engineer/",
       "open_graph_title": "Principal Analytics Engineer",
       "open_graph_description": "Office of Data and Innovation",
