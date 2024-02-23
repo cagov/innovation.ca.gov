@@ -1,0 +1,170 @@
+{% extends "base-layout.njk" %}
+{% from "breadcrumb.njk" import breadcrumb %}
+
+{% block content %}
+<style>
+.par-stats-table {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 2px;
+  div.par-stats-entry:nth-child(even) {
+    background-color: #EEE;
+  }
+  margin-bottom: 4rem;
+}
+.par-stats-entry {
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr 1fr; /* 1fr 1fr 1fr 2fr */
+  height: 2.2rem;
+}
+.par-stats-entry.header {
+    font-weight: bold;
+    background-color: #CCCCFF;
+    /* padding-top: 4px; */
+}
+.sort-tab.selected {
+    background-color: #BBBBEE;
+}
+.par-stats-entry.header div {
+    padding-top: 2px; 
+}
+.par-stats-entry  div {
+    padding-left: 4px;
+}
+.par-stats-entry    .speedlify-score {
+      font-size: 0.75rem;
+      height: 2.0em;
+      min-width: 2.0em;
+      vertical-align: middle;
+}
+.par-stats-entry  div.page-name {
+    vertical-align: middle;
+    padding-top: 6px;
+    font-size: 0.9rem;
+}
+.sort-tab:not(:last-child) {
+  border-right: 2px solid rgba(0,0,0,0.2);
+}
+</style>
+
+  <div id="page-container" class="page-container-ds">
+    {{ breadcrumb(id, title, collections) }}
+    <main id="body-content">
+      <div class="single-column">
+        {% if previewimage %}
+          <img src="/{{ previewimage }}" class="mb-2" alt="" />
+        {% endif %}
+        <h1 class="page-title">{{ title | safe }}</h1>
+        <article id="post-{{ page.fileSlug }}">       
+          <div class="category-label">{{ category | safe }}</div>
+          <div class="entry-content">
+            {{ content | safe }}
+          </div>
+
+            {# beg par table #}
+
+            {# loop thru keys in the performance array (into var key) #}
+                {# display key, performance[key].lighthouse.performance, performance[key].lighthouse.accessibility * 100, readability[key].readability.ari #}
+            <div class="par-stats-entry header">
+                <div class="sort-tab selected" data-sort-col="0" >Page ↑</div>
+                <div class="sort-tab" data-sort-col="1" >Performance</div>
+                <div class="sort-tab" data-sort-col="2"  >Accessibility</div>
+                <div class="sort-tab" data-sort-col="3"  >Readability (ari)</div>
+            </div>
+            <div class="par-stats-table">
+            {% for key, prec in performance %}
+                <div class="par-stats-entry">
+                <div class="table-cell page-name" data-col-idx="0" data-sort-val="{{key}}"><a href="{{key}}?par=1">{{key}}</a></div>
+                <div class="table-cell" data-col-idx="1" data-sort-val="{{prec.lighthouse.performance}}"><span class="speedlify-score {{(prec.lighthouse.performance * 100) | getScoreColor }}">{{ (prec.lighthouse.performance * 100) | roundNumber }}</span></div>
+                <div class="table-cell" data-col-idx="2" data-sort-val="{{prec.lighthouse.accessibility}}"><span class="speedlify-score {{ (prec.lighthouse.accessibility  * 100) | getScoreColor }}">{{ (prec.lighthouse.accessibility * 100) | roundNumber }}</span></div>
+                <div class="table-cell" data-col-idx="3" data-sort-val="{{readability[key].readability.ari | calculateReadabilityGrade}}"><span data-ari-score="{{readability[key].readability.ari}}" class="speedlify-score {{ readability[key].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ readability[key].readability.ari | calculateReadabilityGrade }}</span></div>
+                </div>
+
+            {% endfor %}
+
+            </div>
+            {# end par table #}
+
+
+        </article>
+        <span class="return-top hidden-print"></span>
+      </div>
+    </main>
+  </div>
+
+<script>
+  var default_sorts = [0,0,0,0]; // ascending/descending
+  var sort_states = [ 0,0,0,0 ];
+  var header_labels = ['Page','Performance','Accessibility','Readability (ari)'];
+  var active_sort_col = 0;
+  var string_sort = false;
+
+  function performSort(cur_sort_col, cur_sort_dir) {
+    console.log("Sorting",header_labels[cur_sort_col], cur_sort_dir? "Descending": "Ascending");
+    // for each div.sort-tab
+    var divs = document.getElementsByClassName('sort-tab');
+    for (var i = 0; i < divs.length; i++) {
+      var hDiv = divs[i];
+      var hCol = hDiv.getAttribute('data-sort-col');
+      divs[i].innerHTML = header_labels[i] + (hCol == cur_sort_col? " "+(cur_sort_dir==1?"↓":"↑") : "");
+      // set selected class on hDiv if it's cur_sort_col
+      if (hCol == cur_sort_col) {
+        hDiv.classList.add('selected');
+      } else {
+        hDiv.classList.remove('selected');
+      }
+    }
+    // sort the table
+    // create a list of row-indices, paired with sort keys
+    // sort it, then use the resulting row-indices to assign order tags to the par-stats-entry classes
+    var table = document.getElementsByClassName('par-stats-table')[0];
+    var rows = table.getElementsByClassName('par-stats-entry');
+    row_indices = [];
+    for (var i = 0; i < rows.length; i++) {
+      var divs = rows[i].getElementsByClassName('table-cell');
+      row_indices.push([i,divs[cur_sort_col].getAttribute('data-sort-val')]);
+    }
+    row_indices.sort(function(a,b) {
+    // if column==0, sort by name rather than numerically
+      if (string_sort) {
+        if (cur_sort_dir == 0) {
+          return a[1].localeCompare(b[1]);
+        }
+        else {
+          return b[1].localeCompare(a[1]);
+        }
+      } else {
+        if (cur_sort_dir == 0) {
+          return a[1] - b[1]; // ascending
+        } else {
+          return b[1] - a[1]; // descending
+        }
+      }
+    });
+    for (var i = 0; i < row_indices.length; i++) {
+      // for each row, set order: i to the element
+      rows[row_indices[i][0]].style.order = i;
+    }
+  }
+
+  function sortTabClickHandler(e) {
+    const sortCol = e.target.getAttribute('data-sort-col');
+    const sortVal = e.target.getAttribute('data-sort-val');
+    if (sortCol == active_sort_col) {
+      sort_states[sortCol] = (sort_states[sortCol] + 1) % 2;
+    }
+    active_sort_col = sortCol;
+    var cur_sort_dir = (sort_states[active_sort_col] + default_sorts[active_sort_col]) % 2;
+    string_sort = active_sort_col == 0;
+    // get div
+    performSort(active_sort_col, cur_sort_dir);
+  }
+  // handlers for clicking on sort-tab
+  var divs = document.getElementsByClassName('sort-tab');
+  for (var i = 0; i < divs.length; i++) {
+    divs[i].addEventListener('click', sortTabClickHandler);
+  }
+
+</script>
+
+{% endblock %}
