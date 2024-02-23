@@ -72,12 +72,12 @@
                 <div class="sort-tab" data-sort-col="3"  >Readability (ari)</div>
             </div>
             <div class="par-stats-table">
-            {% for key, prec in performance %}
+            {% for item in collections.all %}
                 <div class="par-stats-entry">
-                <div class="table-cell page-name" data-col-idx="0" data-sort-val="{{key}}"><a href="{{key}}?par=1">{{key}}</a></div>
-                <div class="table-cell" data-col-idx="1" data-sort-val="{{prec.lighthouse.performance}}"><span class="speedlify-score {{(prec.lighthouse.performance * 100) | getScoreColor }}">{{ (prec.lighthouse.performance * 100) | roundNumber }}</span></div>
-                <div class="table-cell" data-col-idx="2" data-sort-val="{{prec.lighthouse.accessibility}}"><span class="speedlify-score {{ (prec.lighthouse.accessibility  * 100) | getScoreColor }}">{{ (prec.lighthouse.accessibility * 100) | roundNumber }}</span></div>
-                <div class="table-cell" data-col-idx="3" data-sort-val="{{readability[key].readability.ari | calculateReadabilityGrade}}"><span data-ari-score="{{readability[key].readability.ari}}" class="speedlify-score {{ readability[key].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ readability[key].readability.ari | calculateReadabilityGrade }}</span></div>
+                <div class="table-cell page-name" data-col-idx="0" data-sort-val="{{item.url}}"><a href="{{item.url}}?par=1">{{item.url}}</a></div>
+                <div class="table-cell" data-col-idx="1" data-sort-val="{{item.data.lighthouse.performance.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.performance.displayClass}}">{{item.data.lighthouse.performance.displayScore}}</span></div>
+                <div class="table-cell" data-col-idx="2" data-sort-val="{{item.data.lighthouse.accessibility.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.accessibility.displayClass}}">{{item.data.lighthouse.accessibility.displayScore}}</span></div>
+                <div class="table-cell" data-col-idx="3" data-sort-val="{{item.data.readability.displayScore}}"><span data-ari-score="{{item.data.readability.ari}}" class="speedlify-score {{item.data.readability.displayClass}}">{{item.data.readability.displayScore}}</span></div>
                 </div>
 
             {% endfor %}
