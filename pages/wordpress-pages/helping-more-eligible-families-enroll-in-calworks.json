@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-05T20:12:40",
-    "updated_date": "2023-10-18T22:25:46",
+    "updated_date": "2024-02-23T19:44:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-05T13:12:40",
     "date_gmt": "2023-07-05T20:12:40",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1302",
-    "modified": "2023-10-18T15:25:46",
-    "modified_gmt": "2023-10-18T22:25:46",
+    "modified": "2024-02-23T11:44:19",
+    "modified_gmt": "2024-02-23T19:44:19",
     "slug": "helping-more-eligible-families-enroll-in-calworks",
     "status": "publish",
     "type": "page",
@@ -60,7 +60,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Helping more eligible families enroll in CalWORKs",
-      "meta_description": "ODI's research found root problems that keep Californians from enrolling in a key program.",
+      "meta_description": "ODI’s research found root problems that keep Californians from enrolling in a key program.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/helping-more-eligible-families-enroll-in-calworks/",
       "open_graph_title": "Helping more eligible families enroll in CalWORKs",
       "open_graph_description": "Office of Data and Innovation",
