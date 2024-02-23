@@ -7,10 +7,10 @@
   display: grid;
   grid-template-columns: 1fr;
   row-gap: 2px;
-  div.par-stats-entry:nth-child(even) {
-    background-color: #EEE;
-  }
   margin-bottom: 4rem;
+}
+div.par-stats-entry.dark-stripe {
+  background-color: #EEE;
 }
 .par-stats-entry {
   display: grid;
@@ -99,6 +99,7 @@
   var sort_states = [ 0,0,0,0 ];
   var header_labels = ['Page','Performance','Accessibility','Readability (ari)'];
   var active_sort_col = 0;
+  var active_sort_dir = 0;
   var string_sort = false;
 
   function performSort(cur_sort_col, cur_sort_dir) {
@@ -116,6 +117,8 @@
         hDiv.classList.remove('selected');
       }
     }
+
+
     // sort the table
     // create a list of row-indices, paired with sort keys
     // sort it, then use the resulting row-indices to assign order tags to the par-stats-entry classes
@@ -146,6 +149,13 @@
     for (var i = 0; i < row_indices.length; i++) {
       // for each row, set order: i to the element
       rows[row_indices[i][0]].style.order = i;
+      // toggle class 'dark-stripe' if i is odd
+      if (i % 2 == 1) {
+        rows[row_indices[i][0]].classList.add('dark-stripe');
+      }
+      else {
+        rows[row_indices[i][0]].classList.remove('dark-stripe');
+      }
     }
   }
 
@@ -156,16 +166,18 @@
       sort_states[sortCol] = (sort_states[sortCol] + 1) % 2;
     }
     active_sort_col = sortCol;
-    var cur_sort_dir = (sort_states[active_sort_col] + default_sorts[active_sort_col]) % 2;
+    active_sort_dir = (sort_states[active_sort_col] + default_sorts[active_sort_col]) % 2;
     string_sort = active_sort_col == 0;
     // get div
-    performSort(active_sort_col, cur_sort_dir);
+    performSort(active_sort_col, active_sort_dir);
   }
   // handlers for clicking on sort-tab
   var divs = document.getElementsByClassName('sort-tab');
   for (var i = 0; i < divs.length; i++) {
     divs[i].addEventListener('click', sortTabClickHandler);
   }
+  performSort(active_sort_col, active_sort_dir);
+
 
 </script>
 
