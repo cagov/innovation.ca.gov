@@ -103,7 +103,8 @@ module.exports = function (eleventyConfig) {
       return paths;
     });
 
-    const htmlFiles = files.filter((p) => p?.outputPath?.endsWith(".html"));
+    const htmlFiles = files.filter((p) => p?.outputPath?.endsWith(".html"))
+          .filter((p) => !p?.outputPath?.includes("par-statistics"));
     const htmlFileJson = JSON.stringify(htmlFiles, null, 2);
 
     fs.writeFileSync("./_site_dist/allFiles.json", htmlFileJson, "utf8");
