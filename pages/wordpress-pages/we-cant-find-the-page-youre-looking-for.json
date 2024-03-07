@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-28T17:56:19",
-    "updated_date": "2024-03-07T00:36:21",
+    "updated_date": "2024-03-07T00:41:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-06-28T10:56:19",
     "date_gmt": "2022-06-28T17:56:19",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=660",
-    "modified": "2024-03-06T16:36:21",
-    "modified_gmt": "2024-03-07T00:36:21",
+    "modified": "2024-03-06T16:41:12",
+    "modified_gmt": "2024-03-07T00:41:12",
     "slug": "we-cant-find-the-page-youre-looking-for",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "layout-no-sidebar"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/we-cant-find-the-page-youre-looking-for/"
