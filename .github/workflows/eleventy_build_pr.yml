@@ -14,6 +14,8 @@ concurrency: # replaces use of n1hility/cancel-previous-runs
 jobs:
   build_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       # - uses: n1hility/cancel-previous-runs@master
       #   with: 
@@ -70,6 +72,6 @@ jobs:
         with:
           message: |
             Preview site available at [${{ env.URLSAFE_BRANCH_NAME }}.pr.digital.ca.gov](https://${{ env.URLSAFE_BRANCH_NAME }}.pr.digital.ca.gov/).
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          repo-token-user-login: 'github-actions[bot]'
+          # repo-token: ${{ secrets.GITHUB_TOKEN }}
+          # repo-token-user-login: 'github-actions[bot]'
           allow-repeats: false
