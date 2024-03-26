@@ -125,6 +125,15 @@
     }
   },
   {
+    "name": "Holly Prag",
+    "pronouns": "she/her",
+    "title": "CalAcademy Curriculum Designer",
+    "pic": "h-prag.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/holly-prag-msed/"
+    }
+  },
+  {
     "name": "Ian Rose",
     "pronouns": "he/him",
     "title": "Senior Data Engineer",
