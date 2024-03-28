@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-28T20:15:50",
-    "updated_date": "2024-03-28T20:15:50",
+    "updated_date": "2024-03-28T21:13:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-03-28T13:15:50",
     "date_gmt": "2024-03-28T20:15:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1746",
-    "modified": "2024-03-28T13:15:50",
-    "modified_gmt": "2024-03-28T20:15:50",
+    "modified": "2024-03-28T14:13:44",
+    "modified_gmt": "2024-03-28T21:13:44",
     "slug": "using-data-forecast-drought-community-water-outages",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-forecast-drought-community-water-outages/",
     "title": "Using data to forecast drought in community water outages",
-    "excerpt": "<p>ODI partnered with DDW to improve a tool that forecasts when drought will affect community water systems. Project scope Partner Methods The opportunity The Division of Drinking Water (DDW), a part of the State Water Resources Control Boards (State Water Board), regulates public drinking water systems. It monitors 2,866 community water systems across California. Every &#8230; <a title=\"Using data to forecast drought in community water outages\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-forecast-drought-community-water-outages/\" aria-label=\"More on Using data to forecast drought in community water outages\">Read more</a></p>\n",
+    "excerpt": "<p>ODI partnered with DDW to improve a tool that forecasts when drought will affect community water systems. Project scope Partner Methods The opportunity 123 community water systems experienced drought in 2023. The Division of Drinking Water (DDW), a part of the State Water Resources Control Boards (State Water Board), regulates public drinking water systems. It &#8230; <a title=\"Using data to forecast drought in community water outages\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-forecast-drought-community-water-outages/\" aria-label=\"More on Using data to forecast drought in community water outages\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 242,
@@ -144,6 +144,19 @@
         "filesize": 50104,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-case_study-cover-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1762,
+        "type": "full",
+        "path": "2024/03/ddw-drought-map.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-drought-map.png",
+        "file": "ddw-drought-map.png",
+        "width": 279,
+        "height": 249,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-drought-map.png",
         "source_url_match": true,
         "featured": false
       }
