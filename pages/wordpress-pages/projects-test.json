@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "created_date": "2024-03-29T20:08:13",
+    "updated_date": "2024-03-29T20:08:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1764",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1764,
+    "date": "2024-03-29T13:08:13",
+    "date_gmt": "2024-03-29T20:08:13",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1764",
+    "modified": "2024-03-29T13:08:13",
+    "modified_gmt": "2024-03-29T20:08:13",
+    "slug": "projects-test",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/projects-test/",
+    "title": "Projects test",
+    "excerpt": "<p>We connect directly with Californians to improve state services. Here’s some of the work the Office of Data and Innovation (ODI) has done. Using data to forecast drought in community water outages ODI worked with the California Division of Drinking Water (DDW) to improve a model that forecasts which water systems will be affected by &#8230; <a title=\"Projects test\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/projects-test/\" aria-label=\"More on Projects test\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl",
+      "layout-no-sidebar"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/projects-test/",
+      "page_title": "Projects test",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Projects test",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/projects-test/",
+      "open_graph_title": "Projects test",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Projects test",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/projects-test/",
+    "media": [
+      {
+        "id": 375,
+        "type": "full",
+        "path": "2022/04/accessibility-performance-screenreader.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/accessibility-performance-screenreader.jpg",
+        "file": "accessibility-performance-screenreader.jpg",
+        "width": 577,
+        "height": 364,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/accessibility-performance-screenreader.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1413,
+        "type": "full",
+        "path": "2023/07/calworks-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+        "file": "calworks-project.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1415,
+        "type": "full",
+        "path": "2023/07/calworks-project-1.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-1.jpg",
+        "file": "calworks-project-1.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-1.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1761,
+        "type": "full",
+        "path": "2024/03/ddw-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-project.jpg",
+        "file": "ddw-project.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-project.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 374,
+        "type": "full",
+        "path": "2022/04/ds-project.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/ds-project.png",
+        "file": "ds-project.png",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/ds-project.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1416,
+        "type": "full",
+        "path": "2023/07/dtsc-project-e1693519548787.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png",
+        "file": "dtsc-project-e1693519548787.png",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/dtsc-project-e1693519548787.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 372,
+        "type": "full",
+        "path": "2022/04/phone-mockup-covid19.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+        "file": "phone-mockup-covid19.jpg",
+        "width": 676,
+        "height": 451,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 372,
+        "type": "medium",
+        "path": "2022/04/phone-mockup-covid19-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
+        "file": "phone-mockup-covid19-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 365,
+        "type": "full",
+        "path": "2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "file": "vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 373,
+        "type": "full",
+        "path": "2022/04/phone-mockup-pagefeedback.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+        "file": "phone-mockup-pagefeedback.jpg",
+        "width": 1076,
+        "height": 717,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 373,
+        "type": "large",
+        "path": "2022/04/phone-mockup-pagefeedback-1024x682.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
+        "file": "phone-mockup-pagefeedback-1024x682.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 373,
+        "type": "medium_large",
+        "path": "2022/04/phone-mockup-pagefeedback-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
+        "file": "phone-mockup-pagefeedback-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 373,
+        "type": "medium",
+        "path": "2022/04/phone-mockup-pagefeedback-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
+        "file": "phone-mockup-pagefeedback-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
