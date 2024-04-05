@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "created_date": "2024-04-05T23:01:41",
+    "updated_date": "2024-04-05T23:02:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1793",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1793,
+    "date": "2024-04-05T16:01:41",
+    "date_gmt": "2024-04-05T23:01:41",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg",
+    "modified": "2024-04-05T16:02:20",
+    "modified_gmt": "2024-04-05T23:02:20",
+    "slug": "ddw-project-v3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/ddw-project-v3/",
+    "title": "ddw-project-v3",
+    "author": "Jim Bumgardner",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"383\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-576x383.jpg\" class=\"attachment-medium size-medium\" alt=\"A pond of water split by a peninsula of cracked, dry ground\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-576x383.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-1024x681.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-768x511.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg 1154w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>A pond of water split by a peninsula of cracked, dry ground</p>\n",
+    "caption": "<p>A pond of water split by a peninsula of cracked, dry ground</p>\n",
+    "alt_text": "A pond of water split by a peninsula of cracked, dry ground",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1154,
+      "height": 768,
+      "file": "2024/04/ddw-project-v3.jpg",
+      "filesize": 268723,
+      "sizes": {
+        "medium": {
+          "file": "ddw-project-v3-576x383.jpg",
+          "width": 576,
+          "height": 383,
+          "filesize": 66042,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-576x383.jpg"
+        },
+        "large": {
+          "file": "ddw-project-v3-1024x681.jpg",
+          "width": 1024,
+          "height": 681,
+          "filesize": 194839,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-1024x681.jpg"
+        },
+        "thumbnail": {
+          "file": "ddw-project-v3-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 8410,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "ddw-project-v3-768x511.jpg",
+          "width": 768,
+          "height": 511,
+          "filesize": 114476,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-768x511.jpg"
+        },
+        "full": {
+          "file": "ddw-project-v3.jpg",
+          "width": 1154,
+          "height": 768,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/04/ddw-project-v3.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg",
+        "file": "ddw-project-v3.jpg",
+        "width": 1154,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2024/04/ddw-project-v3-1024x681.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-1024x681.jpg",
+        "file": "ddw-project-v3-1024x681.jpg",
+        "width": 1024,
+        "height": 681,
+        "filesize": 194839,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-1024x681.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/04/ddw-project-v3-768x511.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-768x511.jpg",
+        "file": "ddw-project-v3-768x511.jpg",
+        "width": 768,
+        "height": 511,
+        "filesize": 114476,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-768x511.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2024/04/ddw-project-v3-576x383.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-576x383.jpg",
+        "file": "ddw-project-v3-576x383.jpg",
+        "width": 576,
+        "height": 383,
+        "filesize": 66042,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-576x383.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/04/ddw-project-v3-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-150x150.jpg",
+        "file": "ddw-project-v3-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 8410,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3-150x150.jpg"
+      }
+    ],
+    "path": "2024/04/ddw-project-v3.jpg"
+  }
+}
