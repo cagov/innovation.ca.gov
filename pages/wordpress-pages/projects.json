@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2024-03-30T00:18:10",
+    "updated_date": "2024-04-05T22:26:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2024-03-29T17:18:10",
-    "modified_gmt": "2024-03-30T00:18:10",
+    "modified": "2024-04-05T15:26:18",
+    "modified_gmt": "2024-04-05T22:26:18",
     "slug": "projects",
     "status": "publish",
     "type": "page",
@@ -127,15 +127,15 @@
         "featured": false
       },
       {
-        "id": 1761,
+        "id": 1789,
         "type": "full",
-        "path": "2024/03/ddw-project.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-project.jpg",
-        "file": "ddw-project.jpg",
-        "width": 577,
-        "height": 384,
+        "path": "2024/04/ddw-project-v2.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v2.jpg",
+        "file": "ddw-project-v2.jpg",
+        "width": 1154,
+        "height": 768,
         "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/03/ddw-project.jpg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v2.jpg",
         "source_url_match": true,
         "featured": false
       },
