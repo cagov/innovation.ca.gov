@@ -9,6 +9,6 @@ const config = {
     timeout: 180 * 1000,
     reuseExistingServer: false,
   },
-  workers: 4,
+  workers: 2,
 };
 export default config;
