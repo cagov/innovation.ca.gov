@@ -6,8 +6,9 @@ const config = {
   webServer: {
     command: 'npm run test:serve',
     port: 8080,
-    timeout: 120 * 1000,
+    timeout: 180 * 1000,
     reuseExistingServer: false,
   },
+  workers: 4,
 };
 export default config;
