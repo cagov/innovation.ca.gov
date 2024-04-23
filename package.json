@@ -51,7 +51,7 @@
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
     "start": "npm run site:watch",
-    "test": "npx playwright test test/index.spec.mjs",
+    "test": "npx playwright test test/index.spec.mjs test/index.blog.mjs",
     "test:serve": "npm run build && npx http-server _site/",
     "test:setup": "npx playwright install-deps chromium && npx playwright install"
   },
