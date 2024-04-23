@@ -43,7 +43,6 @@ jobs:
         run: |
           mkdir dist
           npm install --legacy-peer-deps
-          npm ci --production
           DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
           npx playwright install
           npm test
