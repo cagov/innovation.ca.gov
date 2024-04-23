@@ -1,3 +1,4 @@
+// test everything except the blog articles
 import fs from "fs";
 import { test, expect } from "@playwright/test";
 import { injectAxe, checkA11y } from "axe-playwright";
