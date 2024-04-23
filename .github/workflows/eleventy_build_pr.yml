@@ -42,8 +42,10 @@ jobs:
       - name: Build 11ty
         run: |
           mkdir dist
-          npm ci --production
+          npm install --legacy-peer-deps
           DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
+          npx playwright install
+          npm test
       - name: Write robots.txt
         run: |
           echo 'User-agent: *' > _site/robots.txt
