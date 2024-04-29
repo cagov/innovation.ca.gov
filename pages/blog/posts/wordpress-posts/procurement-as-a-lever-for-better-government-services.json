@@ -39,12 +39,7 @@
     "categories": [
       "Procurement"
     ],
-    "tags": [
-      "MSA",
-      "Procurement",
-      "RFI",
-      "Technology Digital and Data"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -100,52 +95,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 24,
-        "name": "MSA",
-        "slug": "msa",
-        "term_group": 0,
-        "term_taxonomy_id": 24,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 22,
-        "name": "Procurement",
-        "slug": "procurement",
-        "term_group": 0,
-        "term_taxonomy_id": 22,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 23,
-        "name": "RFI",
-        "slug": "rfi",
-        "term_group": 0,
-        "term_taxonomy_id": 23,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 25,
-        "name": "Technology Digital and Data",
-        "slug": "technology-digital-and-data",
-        "term_group": 0,
-        "term_taxonomy_id": 25,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/10/13/procurement-as-a-lever-for-better-government-services/",

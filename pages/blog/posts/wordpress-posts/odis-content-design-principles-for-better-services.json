@@ -39,11 +39,7 @@
     "categories": [
       "CA.gov"
     ],
-    "tags": [
-      "Content deisgn",
-      "design principles",
-      "scalable"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -99,41 +95,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 29,
-        "name": "Content deisgn",
-        "slug": "content-deisgn",
-        "term_group": 0,
-        "term_taxonomy_id": 29,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 30,
-        "name": "design principles",
-        "slug": "design-principles",
-        "term_group": 0,
-        "term_taxonomy_id": 30,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 31,
-        "name": "scalable",
-        "slug": "scalable",
-        "term_group": 0,
-        "term_taxonomy_id": 31,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/11/10/odis-content-design-principles-for-better-services/",

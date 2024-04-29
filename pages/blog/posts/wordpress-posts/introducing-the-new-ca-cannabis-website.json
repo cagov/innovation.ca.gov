@@ -39,15 +39,7 @@
     "categories": [
       "Uncategorized"
     ],
-    "tags": [
-      "Bureau of Cannabis Control",
-      "CA.gov",
-      "Cannabis",
-      "Department of Cannabis Control",
-      "Department of Food and Agriculture",
-      "Department of Public Health",
-      "Department of Technology"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -103,85 +95,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 17,
-        "name": "Bureau of Cannabis Control",
-        "slug": "bureau-of-cannabis-control",
-        "term_group": 0,
-        "term_taxonomy_id": 17,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 13,
-        "name": "CA.gov",
-        "slug": "ca-gov",
-        "term_group": 0,
-        "term_taxonomy_id": 13,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 14,
-        "name": "Cannabis",
-        "slug": "cannabis",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 18,
-        "name": "Department of Cannabis Control",
-        "slug": "department-of-cannabis-control",
-        "term_group": 0,
-        "term_taxonomy_id": 18,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 16,
-        "name": "Department of Food and Agriculture",
-        "slug": "department-of-food-and-agriculture",
-        "term_group": 0,
-        "term_taxonomy_id": 16,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 15,
-        "name": "Department of Public Health",
-        "slug": "department-of-public-health",
-        "term_group": 0,
-        "term_taxonomy_id": 15,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 19,
-        "name": "Department of Technology",
-        "slug": "department-of-technology",
-        "term_group": 0,
-        "term_taxonomy_id": 19,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/07/21/introducing-the-new-ca-cannabis-website/",

@@ -39,12 +39,7 @@
     "categories": [
       "Emergency Broadband Benefit"
     ],
-    "tags": [
-      "EBB",
-      "Emergency Broadband Benefit",
-      "FCC",
-      "Federal Communications Commission"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -100,52 +95,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 35,
-        "name": "EBB",
-        "slug": "ebb",
-        "term_group": 0,
-        "term_taxonomy_id": 35,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 34,
-        "name": "Emergency Broadband Benefit",
-        "slug": "emergency-broadband-benefit",
-        "term_group": 0,
-        "term_taxonomy_id": 34,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 32,
-        "name": "FCC",
-        "slug": "fcc",
-        "term_group": 0,
-        "term_taxonomy_id": 32,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 33,
-        "name": "Federal Communications Commission",
-        "slug": "federal-communications-commission",
-        "term_group": 0,
-        "term_taxonomy_id": 33,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2021/12/21/increasing-access-to-the-emergency-broadband-benefit-by-listening-to-californians/",
