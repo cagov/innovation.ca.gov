@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "created_date": "2024-04-29T18:00:45",
+    "updated_date": "2024-04-29T18:00:46",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1825",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1825,
+    "date": "2024-04-29T11:00:45",
+    "date_gmt": "2024-04-29T18:00:45",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1825",
+    "modified": "2024-04-29T11:00:46",
+    "modified_gmt": "2024-04-29T18:00:46",
+    "slug": "homepage-test",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/homepage-test/",
+    "title": "Homepage test",
+    "excerpt": "<p>Changing state government through the Data and Innovation Fund This fund is a key part of how we’re improving services for Californians. When paired with the innovative approach of ODI&#8217;s cross-functional teams, we make a real impact on people’s lives. Who we work with California Governor’s Office of Emergency Services California Department of Technology Department &#8230; <a title=\"Homepage test\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/homepage-test/\" aria-label=\"More on Homepage test\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/homepage-test/",
+      "page_title": "Homepage test",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Homepage test",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/homepage-test/",
+      "open_graph_title": "Homepage test",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Homepage test",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/homepage-test/",
+    "media": [
+      {
+        "id": 289,
+        "type": "full",
+        "path": "2022/04/connections.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "file": "connections.png",
+        "width": 576,
+        "height": 388,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1625,
+        "type": "full",
+        "path": "2024/01/dif-how-might-we-sm.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+        "file": "dif-how-might-we-sm.webp",
+        "width": 550,
+        "height": 315,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/01/dif-how-might-we-sm.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 430,
+        "type": "large",
+        "path": "2022/04/odi-hero-1024x649.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "file": "odi-hero-1024x649.webp",
+        "width": 1024,
+        "height": 649,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
