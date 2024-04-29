@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-09T21:39:14",
-    "updated_date": "2024-01-07T22:39:40",
+    "updated_date": "2024-04-29T21:46:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-09T14:39:14",
     "date_gmt": "2022-09-09T21:39:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2024-01-07T14:39:40",
-    "modified_gmt": "2024-01-07T22:39:40",
+    "modified": "2024-04-29T14:46:18",
+    "modified_gmt": "2024-04-29T21:46:18",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -100,15 +100,15 @@
         "featured": false
       },
       {
-        "id": 430,
-        "type": "large",
-        "path": "2022/04/odi-hero-1024x649.webp",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
-        "file": "odi-hero-1024x649.webp",
+        "id": 1828,
+        "type": "full",
+        "path": "2024/04/homepage-hero-2024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/homepage-hero-2024.webp",
+        "file": "homepage-hero-2024.webp",
         "width": 1024,
         "height": 649,
         "mime_type": "image/webp",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/odi-hero-1024x649.webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/homepage-hero-2024.webp",
         "source_url_match": true,
         "featured": false
       }
