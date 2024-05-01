@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-01T20:53:08",
-    "updated_date": "2024-05-01T20:53:08",
+    "updated_date": "2024-05-01T20:58:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-01T13:53:08",
     "date_gmt": "2024-05-01T20:53:08",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1839",
-    "modified": "2024-05-01T13:53:08",
-    "modified_gmt": "2024-05-01T20:53:08",
+    "modified": "2024-05-01T13:58:38",
+    "modified_gmt": "2024-05-01T20:58:38",
     "slug": "reports",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "layout-no-sidebar"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/"
