@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2024-05-01T20:53:08",
+    "updated_date": "2024-05-01T20:53:08",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1839",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1839,
+    "date": "2024-05-01T13:53:08",
+    "date_gmt": "2024-05-01T20:53:08",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1839",
+    "modified": "2024-05-01T13:53:08",
+    "modified_gmt": "2024-05-01T20:53:08",
+    "slug": "reports",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/",
+    "title": "Reports",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) creates reports, often for the Legislature. Many are required by law. Californians can learn more about ODI&#8217;s work and its impact through these reports.  2023</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/",
+      "page_title": "Reports",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Reports",
+      "meta_description": "Find reports created by the California Office of Data and Innovation.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/",
+      "open_graph_title": "Reports",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Reports",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/"
+  }
+}
