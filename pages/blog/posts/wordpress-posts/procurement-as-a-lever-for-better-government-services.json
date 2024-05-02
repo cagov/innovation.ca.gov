@@ -37,7 +37,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Procurement"
+      "Uncategorized"
     ],
     "tags": [],
     "design_system_fields": {
@@ -79,19 +79,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 21,
-        "name": "Procurement",
-        "slug": "procurement",
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
         "term_group": 0,
-        "term_taxonomy_id": 21,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 21,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Procurement",
-        "category_nicename": "procurement",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
         "category_parent": 0
       }
     ],

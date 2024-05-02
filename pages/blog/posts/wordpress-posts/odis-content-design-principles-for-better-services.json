@@ -37,7 +37,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CA.gov"
+      "Uncategorized"
     ],
     "tags": [],
     "design_system_fields": {
@@ -79,19 +79,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 4,
-        "name": "CA.gov",
-        "slug": "ca-gov",
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
         "term_group": 0,
-        "term_taxonomy_id": 4,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 4,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "CA.gov",
-        "category_nicename": "ca-gov",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
         "category_parent": 0
       }
     ],

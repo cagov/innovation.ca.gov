@@ -37,7 +37,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Emergency Broadband Benefit"
+      "Uncategorized"
     ],
     "tags": [],
     "design_system_fields": {
@@ -79,19 +79,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 36,
-        "name": "Emergency Broadband Benefit",
-        "slug": "emergency-broadband-benefit",
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
         "term_group": 0,
-        "term_taxonomy_id": 36,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 36,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Emergency Broadband Benefit",
-        "category_nicename": "emergency-broadband-benefit",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
         "category_parent": 0
       }
     ],
