@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "created_date": "2024-05-02T20:52:46",
+    "updated_date": "2024-05-02T20:54:11",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1853",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1853,
+    "date": "2024-05-02T13:52:46",
+    "date_gmt": "2024-05-02T20:52:46",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot.webp",
+    "modified": "2024-05-02T13:54:11",
+    "modified_gmt": "2024-05-02T20:54:11",
+    "slug": "infrastructure-site-screenshot",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/infrastructure-site-screenshot/",
+    "title": "infrastructure-site-screenshot",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"304\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp\" class=\"attachment-medium size-medium\" alt=\"The homepage of build.ca.gov. It highlights the main idea of the site through a concise headline and a bulleted list. It includes the image of a construction worker on a project.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp 2048w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "The homepage of build.ca.gov. It highlights the main idea of the site through a concise headline and a bulleted list. It includes the image of a construction worker on a project.",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 2560,
+      "height": 1350,
+      "file": "2024/05/infrastructure-site-screenshot-scaled.webp",
+      "filesize": 118286,
+      "sizes": {
+        "medium": {
+          "file": "infrastructure-site-screenshot-576x304.webp",
+          "width": 576,
+          "height": 304,
+          "filesize": 17718,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp"
+        },
+        "large": {
+          "file": "infrastructure-site-screenshot-1024x540.webp",
+          "width": 1024,
+          "height": 540,
+          "filesize": 39292,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp"
+        },
+        "thumbnail": {
+          "file": "infrastructure-site-screenshot-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 2956,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-150x150.webp"
+        },
+        "medium_large": {
+          "file": "infrastructure-site-screenshot-768x405.webp",
+          "width": 768,
+          "height": 405,
+          "filesize": 27048,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp"
+        },
+        "1536x1536": {
+          "file": "infrastructure-site-screenshot-1536x810.webp",
+          "width": 1536,
+          "height": 810,
+          "filesize": 64756,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp"
+        },
+        "2048x2048": {
+          "file": "infrastructure-site-screenshot-2048x1080.webp",
+          "width": 2048,
+          "height": 1080,
+          "filesize": 91060,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp"
+        },
+        "full": {
+          "file": "infrastructure-site-screenshot-scaled.webp",
+          "width": 2560,
+          "height": 1350,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "infrastructure-site-screenshot.webp"
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/05/infrastructure-site-screenshot-scaled.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp",
+        "file": "infrastructure-site-screenshot-scaled.webp",
+        "width": 2560,
+        "height": 1350,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-scaled.webp"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2024/05/infrastructure-site-screenshot-2048x1080.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp",
+        "file": "infrastructure-site-screenshot-2048x1080.webp",
+        "width": 2048,
+        "height": 1080,
+        "filesize": 91060,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/05/infrastructure-site-screenshot-1536x810.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp",
+        "file": "infrastructure-site-screenshot-1536x810.webp",
+        "width": 1536,
+        "height": 810,
+        "filesize": 64756,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp"
+      },
+      {
+        "type": "large",
+        "path": "2024/05/infrastructure-site-screenshot-1024x540.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp",
+        "file": "infrastructure-site-screenshot-1024x540.webp",
+        "width": 1024,
+        "height": 540,
+        "filesize": 39292,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/05/infrastructure-site-screenshot-768x405.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp",
+        "file": "infrastructure-site-screenshot-768x405.webp",
+        "width": 768,
+        "height": 405,
+        "filesize": 27048,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/05/infrastructure-site-screenshot-576x304.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp",
+        "file": "infrastructure-site-screenshot-576x304.webp",
+        "width": 576,
+        "height": 304,
+        "filesize": 17718,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/05/infrastructure-site-screenshot-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-150x150.webp",
+        "file": "infrastructure-site-screenshot-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 2956,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-150x150.webp"
+      }
+    ],
+    "path": "2024/05/infrastructure-site-screenshot-scaled.webp"
+  }
+}
