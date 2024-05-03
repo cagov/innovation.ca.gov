@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2024-05-03T16:37:57",
+    "updated_date": "2024-05-03T20:27:05",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1863",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1863,
+    "date": "2024-05-03T09:37:57",
+    "date_gmt": "2024-05-03T16:37:57",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1863",
+    "modified": "2024-05-03T13:27:05",
+    "modified_gmt": "2024-05-03T20:27:05",
+    "slug": "legislative-report-2022-v2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/",
+    "title": "Legislative Report: July 1, 2020-July 1, 2022",
+    "excerpt": "<p>Overview The Office of Data and Innovation (ODI) improves Californians’ experience of state government by championing human-centered design, empowering use of data and evidence, demonstrating modern and agile use of technology and prototyping, and continuous cycles of improvement to create services that are easy-to-use, equitable, and accessible regardless of ability or background. ODI ended 2022 &#8230; <a title=\"Legislative Report: July 1, 2020-July 1, 2022\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/\" aria-label=\"More on Legislative Report: July 1, 2020-July 1, 2022\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1839,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/",
+      "page_title": "Legislative Report: July 1, 2020-July 1, 2022",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Legislative Report: July 1, 2020&#x2d;July 1, 2022",
+      "meta_description": "A summary of the California Office of Digital Innovation’s work for the 2020&#x2d;2022 fiscal years.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/",
+      "open_graph_title": "Legislative Report: July 1, 2020-July 1, 2022",
+      "open_graph_description": "A summary of the California Office of Digital Innovation’s work for the 2020&#x2d;2022 fiscal years.",
+      "twitter_title": "Legislative Report: July 1, 2020-July 1, 2022",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/"
+  }
+}

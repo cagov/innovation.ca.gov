@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-03-03T23:07:02",
-    "updated_date": "2024-05-03T15:58:39",
+    "created_date": "2024-05-03T16:40:49",
+    "updated_date": "2024-05-03T20:27:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1078",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1865",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 1078,
-    "date": "2023-03-03T15:07:02",
-    "date_gmt": "2023-03-03T23:07:02",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1078",
-    "modified": "2024-05-03T08:58:39",
-    "modified_gmt": "2024-05-03T15:58:39",
-    "slug": "appendix-a",
+    "id": 1865,
+    "date": "2024-05-03T09:40:49",
+    "date_gmt": "2024-05-03T16:40:49",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1865",
+    "modified": "2024-05-03T13:27:16",
+    "modified_gmt": "2024-05-03T20:27:16",
+    "slug": "appendix-a-v2",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-a/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-a-v2/",
     "title": "Appendix A: Partnerships by state department",
-    "excerpt": "<p>ODI partnered with a wide range of state departments during FY 2020-21, FY 2021-22, and the first half of FY 2022-23. Bureau of Cannabis Control cannabis.ca.gov California Business, Consumer Services and Housing Agency Homelessness data story Identifying core dataset needs California Department of Education Grants accelerator California Department of Fish and Wildlife Shared dataset development &#8230; <a title=\"Appendix A: Partnerships by state department\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-a/\" aria-label=\"More on Appendix A: Partnerships by state department\">Read more</a></p>\n",
+    "excerpt": "<p>ODI partnered with a wide range of state departments during FY 2020-21, FY 2021-22, and the first half of FY 2022-23. Bureau of Cannabis Control cannabis.ca.gov California Business, Consumer Services and Housing Agency Homelessness data story Identifying core dataset needs California Department of Education Grants accelerator California Department of Fish and Wildlife Shared dataset development &#8230; <a title=\"Appendix A: Partnerships by state department\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-a-v2/\" aria-label=\"More on Appendix A: Partnerships by state department\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 508,
+    "parent": 1863,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -54,7 +54,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-a/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-a-v2/",
       "page_title": "Appendix A: Partnerships by state department",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Appendix A: Partnerships by state department",
       "meta_description": "Details about ODI’s partnerships with other state agencies from 2020&#x2d;2022.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-a/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-a-v2/",
       "open_graph_title": "Appendix A: Partnerships by state department",
       "open_graph_description": "Details about ODI’s partnerships with other state agencies from 2020&#x2d;2022.",
       "twitter_title": "Appendix A: Partnerships by state department",
@@ -85,6 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-a/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-a-v2/"
   }
 }

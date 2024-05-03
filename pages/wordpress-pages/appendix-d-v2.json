@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-03-03T23:09:21",
-    "updated_date": "2024-05-03T15:59:38",
+    "created_date": "2024-05-03T17:03:46",
+    "updated_date": "2024-05-03T20:27:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1085",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1871",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 1085,
-    "date": "2023-03-03T15:09:21",
-    "date_gmt": "2023-03-03T23:09:21",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1085",
-    "modified": "2024-05-03T08:59:38",
-    "modified_gmt": "2024-05-03T15:59:38",
-    "slug": "appendix-d",
+    "id": 1871,
+    "date": "2024-05-03T10:03:46",
+    "date_gmt": "2024-05-03T17:03:46",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1871",
+    "modified": "2024-05-03T13:27:46",
+    "modified_gmt": "2024-05-03T20:27:46",
+    "slug": "appendix-d-v2",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-d/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-d-v2/",
     "title": "Appendix D: Encouraging change with the Data and Innovation Fund",
-    "excerpt": "<p>From April through June 2022, ODI worked with City Innovate to begin Data and Innovation Fund (DIF) projects. City Innovate was also a partner in the launch of the Technology Modernization Fund. ODI used City Innovate’s software platform to manage DIF applications and their consulting services on the administrative components of the program. ODI also &#8230; <a title=\"Appendix D: Encouraging change with the Data and Innovation Fund\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-d/\" aria-label=\"More on Appendix D: Encouraging change with the Data and Innovation Fund\">Read more</a></p>\n",
+    "excerpt": "<p>From April through June 2022, ODI worked with City Innovate to begin Data and Innovation Fund (DIF) projects. City Innovate was also a partner in the launch of the Technology Modernization Fund. ODI used City Innovate’s software platform to manage DIF applications and their consulting services on the administrative components of the program. ODI also &#8230; <a title=\"Appendix D: Encouraging change with the Data and Innovation Fund\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-d-v2/\" aria-label=\"More on Appendix D: Encouraging change with the Data and Innovation Fund\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 508,
+    "parent": 1863,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -52,7 +52,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-d/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-d-v2/",
       "page_title": "Appendix D: Encouraging change with the Data and Innovation Fund",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -60,10 +60,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Appendix D: Encouraging change with the Data and Innovation Fund",
-      "meta_description": "Details about the Office of Data and Innovation&#8217;s work through the Data and Innovation Fund.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-d/",
+      "meta_description": "Details about the Office of Data and Innovation’s work through the Data and Innovation Fund.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-d-v2/",
       "open_graph_title": "Appendix D: Encouraging change with the Data and Innovation Fund",
-      "open_graph_description": "Details about the Office of Data and Innovation&#8217;s work through the Data and Innovation Fund.",
+      "open_graph_description": "Details about the Office of Data and Innovation’s work through the Data and Innovation Fund.",
       "twitter_title": "Appendix D: Encouraging change with the Data and Innovation Fund",
       "twitter_description": "Office of Data and Innovation"
     },
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-d/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-d-v2/"
   }
 }
