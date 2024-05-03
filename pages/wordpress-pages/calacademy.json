@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-11T17:10:13",
-    "updated_date": "2024-03-25T22:50:27",
+    "updated_date": "2024-05-03T16:24:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-11T09:10:13",
     "date_gmt": "2023-12-11T17:10:13",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1568",
-    "modified": "2024-03-25T15:50:27",
-    "modified_gmt": "2024-03-25T22:50:27",
+    "modified": "2024-05-03T09:24:20",
+    "modified_gmt": "2024-05-03T16:24:20",
     "slug": "calacademy",
     "status": "publish",
     "type": "page",
@@ -63,7 +63,7 @@
       "meta_description": "CalAcademy offers training in innovation for State of California employees in human&#x2d;centered design, data analytics and best practices, and new technologies.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/calacademy/",
       "open_graph_title": "CalAcademy",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "CalAcademy offers training in innovation for State of California employees in human&#x2d;centered design, data analytics and best practices, and new technologies.",
       "twitter_title": "CalAcademy",
       "twitter_description": "Office of Data and Innovation"
     },

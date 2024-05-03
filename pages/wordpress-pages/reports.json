@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-01T20:53:08",
-    "updated_date": "2024-05-01T20:58:38",
+    "updated_date": "2024-05-03T16:21:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-01T13:53:08",
     "date_gmt": "2024-05-01T20:53:08",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1839",
-    "modified": "2024-05-01T13:58:38",
-    "modified_gmt": "2024-05-01T20:58:38",
+    "modified": "2024-05-03T09:21:14",
+    "modified_gmt": "2024-05-03T16:21:14",
     "slug": "reports",
     "status": "publish",
     "type": "page",
@@ -65,7 +65,7 @@
       "meta_description": "Find reports created by the California Office of Data and Innovation.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/",
       "open_graph_title": "Reports",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "Find reports created by the California Office of Data and Innovation.",
       "twitter_title": "Reports",
       "twitter_description": "Office of Data and Innovation"
     },

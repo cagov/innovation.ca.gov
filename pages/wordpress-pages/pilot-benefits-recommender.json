@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-27T00:02:38",
-    "updated_date": "2023-05-12T20:25:17",
+    "updated_date": "2024-05-03T16:20:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-26T16:02:38",
     "date_gmt": "2023-01-27T00:02:38",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1010",
-    "modified": "2023-05-12T13:25:17",
-    "modified_gmt": "2023-05-12T20:25:17",
+    "modified": "2024-05-03T09:20:29",
+    "modified_gmt": "2024-05-03T16:20:29",
     "slug": "pilot-benefits-recommender",
     "status": "publish",
     "type": "page",
@@ -63,10 +63,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Pilot: Benefits Recommender",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "The Benefits Recommender is a new way to get people to apply for more California state benefits.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/pilot-benefits-recommender/",
       "open_graph_title": "Pilot: Benefits Recommender",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "The Benefits Recommender is a new way to get people to apply for more California state benefits.",
       "twitter_title": "Pilot: Benefits Recommender",
       "twitter_description": "Office of Data and Innovation"
     },
