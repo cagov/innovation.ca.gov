@@ -8,7 +8,7 @@
   {% set crumbs = collections.all | eleventyNavigationBreadcrumb(articleId) %}
   {%- for crumb in crumbs %}
     <span class="crumb separator">/</span>
-    {% if crumb.title == 'Projects' or crumb.title == 'CalAcademy' %}
+    {% if crumb.title == 'Projects' or crumb.title == 'CalAcademy' or crumb.title == 'Reports' %}
       <a class="crumb" href="{{ crumb.url }}">{{ crumb.title | safe }}</a>
     {% else %}
     <span class="crumb">{{ crumb.title | safe }}</span>
