@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T15:51:39",
-    "updated_date": "2023-06-30T18:20:41",
+    "updated_date": "2024-05-03T15:55:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T08:51:39",
     "date_gmt": "2023-06-30T15:51:39",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1284",
-    "modified": "2023-06-30T11:20:41",
-    "modified_gmt": "2023-06-30T18:20:41",
+    "modified": "2024-05-03T08:55:54",
+    "modified_gmt": "2024-05-03T15:55:54",
     "slug": "accessibility",
     "status": "publish",
     "type": "page",
@@ -63,7 +63,7 @@
       "meta_description": "The Office of Data and Innovation is committed to providing digital accessibility to everyone.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/accessibility/",
       "open_graph_title": "Accessibility",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "The Office of Data and Innovation is committed to providing digital accessibility to everyone.",
       "twitter_title": "Accessibility",
       "twitter_description": "Office of Data and Innovation"
     },

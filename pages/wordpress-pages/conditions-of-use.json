@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T18:48:33",
-    "updated_date": "2023-07-21T19:13:15",
+    "updated_date": "2024-05-03T15:56:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T11:48:33",
     "date_gmt": "2023-06-30T18:48:33",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1296",
-    "modified": "2023-07-21T12:13:15",
-    "modified_gmt": "2023-07-21T19:13:15",
+    "modified": "2024-05-03T08:56:04",
+    "modified_gmt": "2024-05-03T15:56:04",
     "slug": "conditions-of-use",
     "status": "publish",
     "type": "page",
@@ -63,7 +63,7 @@
       "meta_description": "Learn about the conditions of use for the California Office of Data and Innovation website.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/conditions-of-use/",
       "open_graph_title": "Conditions of use",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "Learn about the conditions of use for the California Office of Data and Innovation website.",
       "twitter_title": "Conditions of use",
       "twitter_description": "Office of Data and Innovation"
     },

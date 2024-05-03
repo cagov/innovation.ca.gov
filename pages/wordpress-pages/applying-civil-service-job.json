@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-18T22:09:17",
-    "updated_date": "2023-09-01T18:48:18",
+    "updated_date": "2024-05-03T15:57:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-18T15:09:17",
     "date_gmt": "2022-03-18T22:09:17",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=246",
-    "modified": "2023-09-01T11:48:18",
-    "modified_gmt": "2023-09-01T18:48:18",
+    "modified": "2024-05-03T08:57:44",
+    "modified_gmt": "2024-05-03T15:57:44",
     "slug": "applying-civil-service-job",
     "status": "publish",
     "type": "page",
@@ -60,10 +60,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Applying for a civil service job",
-      "meta_description": "We put together this walkthrough of applying for a civil service job at the State of California to help you apply for jobs.",
+      "meta_description": "This walkthrough of applying for a civil service job at the State of California can help you apply for jobs.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/applying-civil-service-job/",
       "open_graph_title": "Applying for a civil service job",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "This walkthrough of applying for a civil service job at the State of California can help you apply for jobs.",
       "twitter_title": "Applying for a civil service job",
       "twitter_description": "Office of Data and Innovation"
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-15T22:12:41",
-    "updated_date": "2024-04-15T22:12:41",
+    "updated_date": "2024-05-03T15:57:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-15T15:12:41",
     "date_gmt": "2024-04-15T22:12:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1803",
-    "modified": "2024-04-15T15:12:41",
-    "modified_gmt": "2024-04-15T22:12:41",
+    "modified": "2024-05-03T08:57:55",
+    "modified_gmt": "2024-05-03T15:57:55",
     "slug": "assistant-chief-data-officer",
     "status": "publish",
     "type": "page",
@@ -63,7 +63,7 @@
       "meta_description": "ODI is hiring an Assistant Chief Data Officer. They will be responsible for helping to steer and deliver the statewide data strategy.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/assistant-chief-data-officer/",
       "open_graph_title": "Assistant Chief Data Officer",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "ODI is hiring an Assistant Chief Data Officer. They will be responsible for helping to steer and deliver the statewide data strategy.",
       "twitter_title": "Assistant Chief Data Officer",
       "twitter_description": "Office of Data and Innovation"
     },

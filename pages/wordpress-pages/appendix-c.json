@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-03-03T23:08:34",
-    "updated_date": "2024-05-02T21:09:37",
+    "updated_date": "2024-05-03T15:58:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-03-03T15:08:34",
     "date_gmt": "2023-03-03T23:08:34",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1083",
-    "modified": "2024-05-02T14:09:37",
-    "modified_gmt": "2024-05-02T21:09:37",
+    "modified": "2024-05-03T08:58:58",
+    "modified_gmt": "2024-05-03T15:58:58",
     "slug": "appendix-c",
     "status": "publish",
     "type": "page",
@@ -65,7 +65,7 @@
       "meta_description": "Details about ODI’s work building the organization from 2020&#x2d;2022.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/legislative-report-2022/appendix-c/",
       "open_graph_title": "Appendix C: Building ODI's organization",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "Details about ODI’s work building the organization from 2020&#x2d;2022.",
       "twitter_title": "Appendix C: Building ODI's organization",
       "twitter_description": "Office of Data and Innovation"
     },
