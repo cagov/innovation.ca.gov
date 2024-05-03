@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-28T20:15:50",
-    "updated_date": "2024-05-02T21:51:24",
+    "updated_date": "2024-05-03T18:24:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-28T13:15:50",
     "date_gmt": "2024-03-28T20:15:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1746",
-    "modified": "2024-05-02T14:51:24",
-    "modified_gmt": "2024-05-02T21:51:24",
+    "modified": "2024-05-03T11:24:48",
+    "modified_gmt": "2024-05-03T18:24:48",
     "slug": "using-data-forecast-drought-community-water-outages",
     "status": "publish",
     "type": "page",
@@ -36,9 +36,7 @@
     "meta": {
       "footnotes": ""
     },
-    "categories": [
-      "Uncategorized"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -57,7 +55,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-forecast-drought-community-water-outages/",
       "page_title": "Using data to forecast drought in community water outages",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-case_study-cover-v2.jpg",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-drought-case-study-cover.jpeg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -69,24 +67,7 @@
       "twitter_title": "Using data to forecast drought in community water outages",
       "twitter_description": "Office of Data and Innovation"
     },
-    "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "Uncategorized",
-        "slug": "uncategorized",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "Uncategorized",
-        "category_nicename": "uncategorized",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
