@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-23T00:24:35",
-    "updated_date": "2024-03-07T00:35:22",
+    "updated_date": "2024-05-03T16:04:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-22T16:24:35",
     "date_gmt": "2024-02-23T00:24:35",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1728",
-    "modified": "2024-03-06T16:35:22",
-    "modified_gmt": "2024-03-07T00:35:22",
+    "modified": "2024-05-03T09:04:24",
+    "modified_gmt": "2024-05-03T16:04:24",
     "slug": "par-statistics",
     "status": "publish",
     "type": "page",
@@ -62,10 +62,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "PAR statistics",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "Performance, accessibility, and readability statistics for all pages on the California Office of Data and Innovation website.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/par-statistics/",
       "open_graph_title": "PAR statistics",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "Performance, accessibility, and readability statistics for all pages on the California Office of Data and Innovation website.",
       "twitter_title": "PAR statistics",
       "twitter_description": "Office of Data and Innovation"
     },
