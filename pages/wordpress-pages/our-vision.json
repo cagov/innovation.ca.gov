@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:24:21",
-    "updated_date": "2024-04-15T18:38:53",
+    "updated_date": "2024-05-03T16:25:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:24:21",
     "date_gmt": "2022-03-16T19:24:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=240",
-    "modified": "2024-04-15T11:38:53",
-    "modified_gmt": "2024-04-15T18:38:53",
+    "modified": "2024-05-03T09:25:53",
+    "modified_gmt": "2024-05-03T16:25:53",
     "slug": "our-vision",
     "status": "publish",
     "type": "page",
@@ -60,10 +60,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Our vision",
-      "meta_description": "We see a California where the state meets people where they are and everyone gets the services they need.",
+      "meta_description": "We see a state government that is modern, effective, and provides exceptional service to all Californians.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
       "open_graph_title": "Our vision",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "We see a state government that is modern, effective, and provides exceptional service to all Californians.",
       "twitter_title": "Our vision",
       "twitter_description": "Office of Data and Innovation"
     },
