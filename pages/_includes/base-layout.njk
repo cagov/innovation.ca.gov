@@ -14,7 +14,7 @@
     <meta content="#000000" name="theme-color">
     <title>{% if title %}{{ title | safe }}{% else %}California Office of Data and Innovation{% endif %}{% if title != "Office of Data and Innovation" %} | Office of Data and Innovation{% endif %}</title>
 
-    <meta name="description" content="{{ data.og_meta.page_description | striptags }}" />
+    <meta name="description" content="{% if data.og_meta.meta_description %}{{data.og_meta.meta_description | striptags}}{% else %}{{ data.og_meta.page_description | striptags }}{% endif %}" />
     <link rel="icon" href="/img/favicon.png">
     <link rel="alternate" type="application/atom+xml" title="RSS Feed ODI Blog" href="/feed.xml" />
     {%- if tags | includes("do-not-crawl") %}
