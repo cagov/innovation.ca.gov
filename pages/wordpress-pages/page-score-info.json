@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-16T16:02:16",
-    "updated_date": "2023-08-23T15:53:43",
+    "updated_date": "2024-05-03T16:20:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-16T09:02:16",
     "date_gmt": "2023-05-16T16:02:16",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1168",
-    "modified": "2023-08-23T08:53:43",
-    "modified_gmt": "2023-08-23T15:53:43",
+    "modified": "2024-05-03T09:20:02",
+    "modified_gmt": "2024-05-03T16:20:02",
     "slug": "page-score-info",
     "status": "publish",
     "type": "page",
@@ -60,10 +60,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Performance, accessibility, and readability",
-      "meta_description": "The California Office of Data & Innovation focuses creating services that perform well on all devices, are accessible by everyone, and are easy to read.",
+      "meta_description": "The California Office of Data &#038; Innovation focuses creating services that perform well on all devices, are accessible by everyone, and are easy to read.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/page-score-info/",
       "open_graph_title": "Performance, accessibility, and readability",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "The California Office of Data &#038; Innovation focuses creating services that perform well on all devices, are accessible by everyone, and are easy to read.",
       "twitter_title": "Performance, accessibility, and readability",
       "twitter_description": "Office of Data and Innovation"
     },
