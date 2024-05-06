@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2024-05-06T18:57:54",
+    "updated_date": "2024-05-06T18:57:55",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1899",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1899,
+    "date": "2024-05-06T11:57:54",
+    "date_gmt": "2024-05-06T18:57:54",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1899",
+    "modified": "2024-05-06T11:57:55",
+    "modified_gmt": "2024-05-06T18:57:55",
+    "slug": "data-strategy-report",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/data-strategy-report/",
+    "title": "Data Strategy Report",
+    "excerpt": "<p>Executive Summary Vision for Effective and Ethical Use of Data The California Office of Data and Innovation (ODI) has built upon the foundational work of the first California Data Strategy, published in 2020. Recognizing the evolving data landscape, ODI has updated its strategic objectives as mandated by its establishing legislation with a commitment to biennial &#8230; <a title=\"Data Strategy Report\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/data-strategy-report/\" aria-label=\"More on Data Strategy Report\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1839,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": "[{\"content\":\"Read the full research in the 2020 strategy available at: <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf</a>\",\"id\":\"9af0cc1e-3e37-4664-b94d-b724c5f4218e\"},{\"content\":\"Convened by the Beeck Center at Georgetown University - <a href=\\\"https://beeckcenter.georgetown.edu/projects/state-cdo-network/\\\">https://beeckcenter.georgetown.edu/projects/state-cdo-network/</a>\",\"id\":\"22578469-ba5f-4aa2-b84d-7df81e1ebf5a\"},{\"content\":\"Available at <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf</a>\",\"id\":\"4a72973e-10cd-4db9-abbf-d8c033082c5e\"}]"
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/data-strategy-report/",
+      "page_title": "Data Strategy Report",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Data Strategy Report",
+      "meta_description": "ODI&#8217;s data strategy envisions a robust data ecosystem that supports informed decision&#x2d;making and innovation, while safeguarding privacy and security.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/data-strategy-report/",
+      "open_graph_title": "Data Strategy Report",
+      "open_graph_description": "ODI&#8217;s data strategy envisions a robust data ecosystem that supports informed decision&#x2d;making and innovation, while safeguarding privacy and security.",
+      "twitter_title": "Data Strategy Report",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/data-strategy-report/"
+  }
+}
