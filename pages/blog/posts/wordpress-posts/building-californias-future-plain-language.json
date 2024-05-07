@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-07T16:07:50",
-    "updated_date": "2024-05-07T16:07:50",
+    "updated_date": "2024-05-07T16:15:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-07T09:07:50",
     "date_gmt": "2024-05-07T16:07:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1910",
-    "modified": "2024-05-07T09:07:50",
-    "modified_gmt": "2024-05-07T16:07:50",
+    "modified": "2024-05-07T09:15:34",
+    "modified_gmt": "2024-05-07T16:15:34",
     "slug": "building-californias-future-plain-language",
     "status": "publish",
     "type": "post",
@@ -70,10 +70,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Building California’s future with plain language",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "California launched build.ca.gov. It&#8217;s a website uses plain language to share how the state is investing billions in infrastructure.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/",
       "open_graph_title": "Building California’s future with plain language",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "California launched build.ca.gov. It&#8217;s a website uses plain language to share how the state is investing billions in infrastructure.",
       "twitter_title": "Building California’s future with plain language",
       "twitter_description": "Office of Data and Innovation"
     },
