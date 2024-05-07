@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "created_date": "2024-05-07T16:07:50",
+    "updated_date": "2024-05-07T16:07:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/1910",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1910,
+    "date": "2024-05-07T09:07:50",
+    "date_gmt": "2024-05-07T16:07:50",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1910",
+    "modified": "2024-05-07T09:07:50",
+    "modified_gmt": "2024-05-07T16:07:50",
+    "slug": "building-californias-future-plain-language",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/",
+    "title": "Building California’s future with plain language",
+    "excerpt": "<p>In January 2024, California launched Building California’s future (build.ca.gov). It&#8217;s a website that shares how the state is investing billions in infrastructure. The key to all this transparency? Making it easy to understand with plain language. Plain language is text your audience can understand the first time they read it.&nbsp; A historic opportunity Infrastructure funding &#8230; <a title=\"Building California’s future with plain language\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/\" aria-label=\"More on Building California’s future with plain language\">Read more</a></p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/",
+      "page_title": "Building California’s future with plain language",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Building California’s future with plain language",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/",
+      "open_graph_title": "Building California’s future with plain language",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Building California’s future with plain language",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/05/07/building-californias-future-plain-language/",
+    "media": [
+      {
+        "id": 1853,
+        "type": "2048x2048",
+        "path": "2024/05/infrastructure-site-screenshot-2048x1080.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp",
+        "file": "infrastructure-site-screenshot-2048x1080.webp",
+        "width": 2048,
+        "height": 1080,
+        "filesize": 91060,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-2048x1080.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1853,
+        "type": "1536x1536",
+        "path": "2024/05/infrastructure-site-screenshot-1536x810.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp",
+        "file": "infrastructure-site-screenshot-1536x810.webp",
+        "width": 1536,
+        "height": 810,
+        "filesize": 64756,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1536x810.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1853,
+        "type": "large",
+        "path": "2024/05/infrastructure-site-screenshot-1024x540.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp",
+        "file": "infrastructure-site-screenshot-1024x540.webp",
+        "width": 1024,
+        "height": 540,
+        "filesize": 39292,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-1024x540.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1853,
+        "type": "medium_large",
+        "path": "2024/05/infrastructure-site-screenshot-768x405.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp",
+        "file": "infrastructure-site-screenshot-768x405.webp",
+        "width": 768,
+        "height": 405,
+        "filesize": 27048,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-768x405.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1853,
+        "type": "medium",
+        "path": "2024/05/infrastructure-site-screenshot-576x304.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp",
+        "file": "infrastructure-site-screenshot-576x304.webp",
+        "width": 576,
+        "height": 304,
+        "filesize": 17718,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/infrastructure-site-screenshot-576x304.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
