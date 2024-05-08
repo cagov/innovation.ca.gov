@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-03T17:16:47",
-    "updated_date": "2024-05-03T20:28:06",
+    "updated_date": "2024-05-08T23:41:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-03T10:16:47",
     "date_gmt": "2024-05-03T17:16:47",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1875",
-    "modified": "2024-05-03T13:28:06",
-    "modified_gmt": "2024-05-03T20:28:06",
-    "slug": "appendix-f-v2",
+    "modified": "2024-05-08T16:41:23",
+    "modified_gmt": "2024-05-08T23:41:23",
+    "slug": "appendix-f",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-f-v2/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-f/",
     "title": "Appendix F: Building durable capacity across the state",
-    "excerpt": "<p>Procurement As part of ODI’s mandate to “rethink and improve how the state buys digital services,” procurement is a focus area for the organization. Knowing how, when, and what to procure helps departments and vendor partners create and manage digital solutions and is central to digital transformation. Human-centered procurement consulting In FY 2021-2022, ODI brought &#8230; <a title=\"Appendix F: Building durable capacity across the state\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-f-v2/\" aria-label=\"More on Appendix F: Building durable capacity across the state\">Read more</a></p>\n",
+    "excerpt": "<p>Procurement As part of ODI’s mandate to “rethink and improve how the state buys digital services,” procurement is a focus area for the organization. Knowing how, when, and what to procure helps departments and vendor partners create and manage digital solutions and is central to digital transformation. Human-centered procurement consulting In FY 2021-2022, ODI brought &#8230; <a title=\"Appendix F: Building durable capacity across the state\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-f/\" aria-label=\"More on Appendix F: Building durable capacity across the state\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 1863,
@@ -54,7 +54,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-f-v2/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-f/",
       "page_title": "Appendix F: Building durable capacity across the state",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Appendix F: Building durable capacity across the state",
       "meta_description": "Details about how ODI is building capacity across the State of California.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-f-v2/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-f/",
       "open_graph_title": "Appendix F: Building durable capacity across the state",
       "open_graph_description": "Details about how ODI is building capacity across the State of California.",
       "twitter_title": "Appendix F: Building durable capacity across the state",
@@ -85,6 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-f-v2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-f/"
   }
 }

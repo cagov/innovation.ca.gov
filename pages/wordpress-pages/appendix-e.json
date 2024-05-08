@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-03T17:16:03",
-    "updated_date": "2024-05-03T20:27:57",
+    "updated_date": "2024-05-08T23:41:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-03T10:16:03",
     "date_gmt": "2024-05-03T17:16:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1873",
-    "modified": "2024-05-03T13:27:57",
-    "modified_gmt": "2024-05-03T20:27:57",
-    "slug": "appendix-e-v2",
+    "modified": "2024-05-08T16:41:18",
+    "modified_gmt": "2024-05-08T23:41:18",
+    "slug": "appendix-e",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-e-v2/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-e/",
     "title": "Appendix E: CalData merger with ODI",
-    "excerpt": "<p>Below is additional detail on CalData work to deliver on the statewide data strategy, including planning for our data services via the Data and Innovation Fund (DIF). Building the roads to streamline data access Cradle-to-Career (C2C) data system Policy makers and education leaders don’t have information on longer-term outcomes for students, how outcomes vary for &#8230; <a title=\"Appendix E: CalData merger with ODI\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-e-v2/\" aria-label=\"More on Appendix E: CalData merger with ODI\">Read more</a></p>\n",
+    "excerpt": "<p>Below is additional detail on CalData work to deliver on the statewide data strategy, including planning for our data services via the Data and Innovation Fund (DIF). Building the roads to streamline data access Cradle-to-Career (C2C) data system Policy makers and education leaders don’t have information on longer-term outcomes for students, how outcomes vary for &#8230; <a title=\"Appendix E: CalData merger with ODI\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-e/\" aria-label=\"More on Appendix E: CalData merger with ODI\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 1863,
@@ -52,7 +52,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-e-v2/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-e/",
       "page_title": "Appendix E: CalData merger with ODI",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -61,7 +61,7 @@
       "page_social_image_alt": "",
       "meta_title": "Appendix E: CalData merger with ODI",
       "meta_description": "Details about CalData’s work delivering on the statewide data strategy from 2020&#x2d;2022.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-e-v2/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-e/",
       "open_graph_title": "Appendix E: CalData merger with ODI",
       "open_graph_description": "Details about CalData’s work delivering on the statewide data strategy from 2020&#x2d;2022.",
       "twitter_title": "Appendix E: CalData merger with ODI",
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-e-v2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-e/"
   }
 }

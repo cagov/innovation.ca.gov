@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-03T17:02:54",
-    "updated_date": "2024-05-03T20:27:34",
+    "updated_date": "2024-05-08T23:41:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-03T10:02:54",
     "date_gmt": "2024-05-03T17:02:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1869",
-    "modified": "2024-05-03T13:27:34",
-    "modified_gmt": "2024-05-03T20:27:34",
-    "slug": "appendix-c-v2",
+    "modified": "2024-05-08T16:41:08",
+    "modified_gmt": "2024-05-08T23:41:08",
+    "slug": "appendix-c",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-c-v2/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-c/",
     "title": "Appendix C: Building ODI&#8217;s organization",
-    "excerpt": "<p>In July 2022, the Office of Digital Innovation and CalData merged to form the Office of Data and Innovation. Hiring ODI invested significant work in growing the department and refining our operations. With this foundation, ODI was able to initiate Data and Innovation Fund projects in 2021-22. ODI grew significantly in FY 2020-21, adding 12 &#8230; <a title=\"Appendix C: Building ODI&#8217;s organization\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-c-v2/\" aria-label=\"More on Appendix C: Building ODI&#8217;s organization\">Read more</a></p>\n",
+    "excerpt": "<p>In July 2022, the Office of Digital Innovation and CalData merged to form the Office of Data and Innovation. Hiring ODI invested significant work in growing the department and refining our operations. With this foundation, ODI was able to initiate Data and Innovation Fund projects in 2021-22. ODI grew significantly in FY 2020-21, adding 12 &#8230; <a title=\"Appendix C: Building ODI&#8217;s organization\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-c/\" aria-label=\"More on Appendix C: Building ODI&#8217;s organization\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 1863,
@@ -54,7 +54,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-c-v2/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-c/",
       "page_title": "Appendix C: Building ODI's organization",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Appendix C: Building ODI’s organization",
       "meta_description": "Details about ODI’s work building the organization from 2020&#x2d;2022.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-c-v2/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-c/",
       "open_graph_title": "Appendix C: Building ODI's organization",
       "open_graph_description": "Details about ODI’s work building the organization from 2020&#x2d;2022.",
       "twitter_title": "Appendix C: Building ODI's organization",
@@ -85,6 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022-v2/appendix-c-v2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2022/appendix-c/"
   }
 }

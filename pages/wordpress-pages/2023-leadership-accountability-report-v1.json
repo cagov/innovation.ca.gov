@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-05-03T16:36:52",
-    "updated_date": "2024-05-03T20:26:55",
+    "created_date": "2024-04-25T17:13:11",
+    "updated_date": "2024-05-08T23:40:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1861",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1814",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 1861,
-    "date": "2024-05-03T09:36:52",
-    "date_gmt": "2024-05-03T16:36:52",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1861",
-    "modified": "2024-05-03T13:26:55",
-    "modified_gmt": "2024-05-03T20:26:55",
-    "slug": "2023-leadership-accountability-report-v2",
+    "id": 1814,
+    "date": "2024-04-25T10:13:11",
+    "date_gmt": "2024-04-25T17:13:11",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1814",
+    "modified": "2024-05-08T16:40:08",
+    "modified_gmt": "2024-05-08T23:40:08",
+    "slug": "2023-leadership-accountability-report-v1",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/2023-leadership-accountability-report-v2/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2023-leadership-accountability-report-v1/",
     "title": "2023 Leadership Accountability Report",
-    "excerpt": "<p>December 21, 2023 Amy Tong, SecretaryCalifornia Government Operations Agency915 Capitol Mall, Suite 200Sacramento, CA 95814 Dear Secretary Amy Tong, In accordance with the State Leadership Accountability Act (Leadership Accountability), the Office of Data and Innovation submits this report on the review of our internal control and monitoring systems for the biennial period ending December 31, &#8230; <a title=\"2023 Leadership Accountability Report\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/2023-leadership-accountability-report-v2/\" aria-label=\"More on 2023 Leadership Accountability Report\">Read more</a></p>\n",
+    "excerpt": "<p>December 21, 2023 Amy Tong, SecretaryCalifornia Government Operations Agency915 Capitol Mall, Suite 200Sacramento, CA 95814 Dear Secretary Amy Tong, In accordance with the State Leadership Accountability Act (Leadership Accountability), the Office of Data and Innovation submits this report on the review of our internal control and monitoring systems for the biennial period ending December 31, &#8230; <a title=\"2023 Leadership Accountability Report\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2023-leadership-accountability-report-v1/\" aria-label=\"More on 2023 Leadership Accountability Report\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 1839,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -52,7 +52,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/2023-leadership-accountability-report-v2/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023-leadership-accountability-report-v1/",
       "page_title": "2023 Leadership Accountability Report",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -61,7 +61,7 @@
       "page_social_image_alt": "",
       "meta_title": "2023 Leadership Accountability Report",
       "meta_description": "The California Office of Data and Innovation’s review of our internal control and monitoring systems for the two&#x2d;year period ending December 31, 2023.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/2023-leadership-accountability-report-v2/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023-leadership-accountability-report-v1/",
       "open_graph_title": "2023 Leadership Accountability Report",
       "open_graph_description": "The California Office of Data and Innovation’s review of our internal control and monitoring systems for the two&#x2d;year period ending December 31, 2023.",
       "twitter_title": "2023 Leadership Accountability Report",
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/2023-leadership-accountability-report-v2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023-leadership-accountability-report-v1/"
   }
 }
