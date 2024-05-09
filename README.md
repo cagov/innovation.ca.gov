@@ -3,7 +3,7 @@ Office of Data and Innovation website
 
 
 ## Blog
-
+ 
 Our blog originally on news.alpha.ca.gov has been moved here and is viewable at [innovation.ca.gov/blog](https://innovation.ca.gov/blog/)
 
 ### Writing posts
