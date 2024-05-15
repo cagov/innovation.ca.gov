@@ -151,10 +151,11 @@ const getPermalink = (article) => {
 
 const getLayout = (article) => {
   if (isPost(article)) return "post";
-  if (isPage(article) && article?.data.tags.includes("layout-no-sidebar"))
-    return "single-column";
+  if (isPage(article) && article?.page.url == "/search/") return "search";
   if (isPage(article) && article?.page.url == "/") return "landing";
   if (isPage(article) && article?.page.url == "/par-statistics/") return "par-statistics";
+  if (isPage(article) && article?.data.tags.includes("layout-no-sidebar"))
+    return "single-column";
   if (isPage(article) && !article?.data.layout) return "content";
   if (isPage(article)) return article?.data.template;
   return article.layout;
