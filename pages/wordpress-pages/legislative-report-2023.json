@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-14T21:55:41",
-    "updated_date": "2024-05-14T21:55:41",
+    "updated_date": "2024-05-15T15:35:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-14T14:55:41",
     "date_gmt": "2024-05-14T21:55:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1923",
-    "modified": "2024-05-14T14:55:41",
-    "modified_gmt": "2024-05-14T21:55:41",
+    "modified": "2024-05-15T08:35:16",
+    "modified_gmt": "2024-05-15T15:35:16",
     "slug": "legislative-report-2023",
     "status": "publish",
     "type": "page",
