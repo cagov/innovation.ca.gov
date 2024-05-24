@@ -27,7 +27,12 @@ jobs:
           npm run build
           npx playwright install
           npm test
-      # Push built site files to S3 production bucket    
+      - name: Write robots.txt
+        run: |
+          echo 'User-agent: *' > _site/robots.txt
+          echo 'Allow: /' >> _site/robots.txt
+          echo 'Sitemap: https://innovation.ca.gov/sitemap.xml' >> _site/robots.txt
+        # Push built site files to S3 production bucket    
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
