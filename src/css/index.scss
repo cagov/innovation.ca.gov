@@ -177,9 +177,13 @@ figure.wp-block-table {
     thead {
           background-color: #FAFAFA;
           th {
-              border: 1px solid #d4d4d7;
-              // width: 50%;
-              font-size: 18px;
+            border: 1px solid #d4d4d7;
+            font-size: 18px;
+            font-weight: 700;
+            border-collapse: collapse;
+            vertical-align: top;
+            padding-left: 1rem;
+            padding-right: 1rem;
           }
       }
       tbody {
@@ -192,15 +196,15 @@ figure.wp-block-table {
               // width: 50%;
           }
       }
-      tbody tr:first-of-type {
-        td {
-          background-color: #FAFAFA;
-          border: 1px solid #d4d4d7;
-          font-size: 18px;
-          font-weight: 700;
-          border-collapse: collapse;
-          vertical-align: top;
-        }
-    }  
+    //   tbody tr:first-of-type {
+    //     td {
+    //       background-color: #FAFAFA;
+    //       border: 1px solid #d4d4d7;
+    //       font-size: 18px;
+    //       font-weight: 700;
+    //       border-collapse: collapse;
+    //       vertical-align: top;
+    //     }
+    // }  
   }
 }
