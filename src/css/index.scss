@@ -170,3 +170,37 @@ cagov-site-navigation .expanded-menu-section-header-arrow-svg {
 .cagov-mt-3 {
   margin-top: var(--s-5, 3rem);
 }
+
+figure.wp-block-table {
+  table {
+    border-collapse: collapse;
+    thead {
+          background-color: #FAFAFA;
+          th {
+              border: 1px solid #d4d4d7;
+              // width: 50%;
+              font-size: 18px;
+          }
+      }
+      tbody {
+          background-color: white;
+          td {
+              font-size: 14px;
+              border: 1px solid #d4d4d7;
+              border-collapse: collapse;
+              vertical-align: top;
+              // width: 50%;
+          }
+      }
+      tbody tr:first-of-type {
+        td {
+          background-color: #FAFAFA;
+          border: 1px solid #d4d4d7;
+          font-size: 18px;
+          font-weight: 700;
+          border-collapse: collapse;
+          vertical-align: top;
+        }
+    }  
+  }
+}
