@@ -209,3 +209,29 @@ figure.wp-block-table {
     // }  
   }
 }
+
+table.table-bordered {
+  border-collapse: collapse;
+    tbody {
+        background-color: white;
+        td {
+            font-size: 14px;
+            border: 1px solid #d4d4d7;
+            border-collapse: collapse;
+            vertical-align: top;
+            // width: 50%;
+        }
+        th {
+          background-color: #FAFAFA;
+          border: 1px solid #d4d4d7;
+          font-size: 18px;
+          font-weight: 700;
+          border-collapse: collapse;
+          vertical-align: top;
+          text-align: left;
+        }
+        figcaption:last-of-type {
+           border: none;
+        }   
+      }
+}
