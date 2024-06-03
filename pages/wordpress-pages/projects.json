@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2024-06-03T23:57:53",
+    "updated_date": "2024-06-03T23:58:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2024-06-03T16:57:53",
-    "modified_gmt": "2024-06-03T23:57:53",
+    "modified": "2024-06-03T16:58:32",
+    "modified_gmt": "2024-06-03T23:58:32",
     "slug": "projects",
     "status": "publish",
     "type": "page",
@@ -64,8 +64,8 @@
       "meta_title": "Projects",
       "meta_description": "Learn about what the Office of Data &#038; Innovation has done to improve state services for Californians.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/",
-      "open_graph_title": "ODI Projects",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_title": "Projects",
+      "open_graph_description": "Learn about what the Office of Data &#038; Innovation has done to improve state services for Californians.",
       "twitter_title": "ODI Projects",
       "twitter_description": "Office of Data and Innovation"
     },
