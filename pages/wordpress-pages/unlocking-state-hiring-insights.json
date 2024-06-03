@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "created_date": "2024-06-03T23:11:40",
+    "updated_date": "2024-06-03T23:11:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1967",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1967,
+    "date": "2024-06-03T16:11:40",
+    "date_gmt": "2024-06-03T23:11:40",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1967",
+    "modified": "2024-06-03T16:11:45",
+    "modified_gmt": "2024-06-03T23:11:45",
+    "slug": "unlocking-state-hiring-insights",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/unlocking-state-hiring-insights/",
+    "title": "Unlocking state hiring insights",
+    "excerpt": "<p>We used a modern data pipeline to empower the Department of Human Resources (CalHR) to make data-driven decisions. Project scope Partner Methods The opportunity The Examination &amp; Certification Online System (ECOS) is a key part of the state recruitment process. ECOS can handle a high volume of hiring-related actions but doesn’t make it easy to &#8230; <a title=\"Unlocking state hiring insights\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/unlocking-state-hiring-insights/\" aria-label=\"More on Unlocking state hiring insights\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/unlocking-state-hiring-insights/",
+      "page_title": "Unlocking state hiring insights",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Unlocking state hiring insights",
+      "meta_description": "The Office of Data and Innovation used a modern data pipeline to empower CalHR to make data&#x2d;driven decisions.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/unlocking-state-hiring-insights/",
+      "open_graph_title": "Unlocking state hiring insights",
+      "open_graph_description": "The Office of Data and Innovation used a modern data pipeline to empower CalHR to make data&#x2d;driven decisions.",
+      "twitter_title": "Unlocking state hiring insights",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/unlocking-state-hiring-insights/",
+    "media": [
+      {
+        "id": 1950,
+        "type": "full",
+        "path": "2024/05/calhr-case-study-cover.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover.jpg",
+        "file": "calhr-case-study-cover.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1950,
+        "type": "medium_large",
+        "path": "2024/05/calhr-case-study-cover-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover-768x384.jpg",
+        "file": "calhr-case-study-cover-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 56008,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1950,
+        "type": "medium",
+        "path": "2024/05/calhr-case-study-cover-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover-576x288.jpg",
+        "file": "calhr-case-study-cover-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 36405,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-case-study-cover-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1951,
+        "type": "full",
+        "path": "2024/05/calhr-dashboard.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard.png",
+        "file": "calhr-dashboard.png",
+        "width": 1142,
+        "height": 896,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1951,
+        "type": "large",
+        "path": "2024/05/calhr-dashboard-1024x803.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-1024x803.png",
+        "file": "calhr-dashboard-1024x803.png",
+        "width": 1024,
+        "height": 803,
+        "filesize": 169021,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-1024x803.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1951,
+        "type": "medium_large",
+        "path": "2024/05/calhr-dashboard-768x603.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-768x603.png",
+        "file": "calhr-dashboard-768x603.png",
+        "width": 768,
+        "height": 603,
+        "filesize": 116552,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-768x603.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 1951,
+        "type": "medium",
+        "path": "2024/05/calhr-dashboard-576x452.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-576x452.png",
+        "file": "calhr-dashboard-576x452.png",
+        "width": 576,
+        "height": 452,
+        "filesize": 77372,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-dashboard-576x452.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
