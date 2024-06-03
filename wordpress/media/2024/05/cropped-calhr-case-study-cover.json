@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "created_date": "2024-06-03T23:18:03",
+    "updated_date": "2024-06-03T23:18:03",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/1974",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1974,
+    "date": "2024-06-03T16:18:03",
+    "date_gmt": "2024-06-03T23:18:03",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg",
+    "modified": "2024-06-03T16:18:03",
+    "modified_gmt": "2024-06-03T23:18:03",
+    "slug": "cropped-calhr-case-study-cover-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-calhr-case-study-cover-jpg/",
+    "title": "cropped-calhr-case-study-cover.jpg",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-576x302.jpg\" class=\"attachment-medium size-medium\" alt=\"People in motion at a job fair\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-576x302.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-768x403.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg 835w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg</p>\n",
+    "alt_text": "People in motion at a job fair",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 835,
+      "height": 438,
+      "file": "2024/05/cropped-calhr-case-study-cover.jpg",
+      "filesize": 69260,
+      "sizes": {
+        "medium": {
+          "file": "cropped-calhr-case-study-cover-576x302.jpg",
+          "width": 576,
+          "height": 302,
+          "filesize": 37959,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-576x302.jpg"
+        },
+        "thumbnail": {
+          "file": "cropped-calhr-case-study-cover-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 7284,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "cropped-calhr-case-study-cover-768x403.jpg",
+          "width": 768,
+          "height": 403,
+          "filesize": 58616,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-768x403.jpg"
+        },
+        "full": {
+          "file": "cropped-calhr-case-study-cover.jpg",
+          "width": 835,
+          "height": 438,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/05/cropped-calhr-case-study-cover.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg",
+        "file": "cropped-calhr-case-study-cover.jpg",
+        "width": 835,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/05/cropped-calhr-case-study-cover-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-768x403.jpg",
+        "file": "cropped-calhr-case-study-cover-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 58616,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-768x403.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2024/05/cropped-calhr-case-study-cover-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-576x302.jpg",
+        "file": "cropped-calhr-case-study-cover-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 37959,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-576x302.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/05/cropped-calhr-case-study-cover-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-150x150.jpg",
+        "file": "cropped-calhr-case-study-cover-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7284,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-calhr-case-study-cover-150x150.jpg"
+      }
+    ],
+    "path": "2024/05/cropped-calhr-case-study-cover.jpg"
+  }
+}
