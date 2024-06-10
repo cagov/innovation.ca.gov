@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "created_date": "2024-06-10T20:20:30",
+    "updated_date": "2024-06-10T20:20:35",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/1994",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1994,
+    "date": "2024-06-10T13:20:30",
+    "date_gmt": "2024-06-10T20:20:30",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1994",
+    "modified": "2024-06-10T13:20:35",
+    "modified_gmt": "2024-06-10T20:20:35",
+    "slug": "executive-assistant",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/",
+    "title": "Executive Assistant",
+    "excerpt": "<p>The Office of Data and Innovation is seeking an experienced Executive Assistant to provide support to our ODI Director. Your role will complement and support our ODI Director for our team’s overarching goals and objectives.&nbsp; Location: This position requires on-site attendance at our Sacramento HQ office Monday through Friday. Annual salary: $68,208– $85,368 based on &#8230; <a title=\"Executive Assistant\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/\" aria-label=\"More on Executive Assistant\">Read more</a></p>\n",
+    "author": "Lauren Sanford",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/",
+      "page_title": "Executive Assistant",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Executive Assistant",
+      "meta_description": "The Office of Data and Innovation is seeking an experienced Executive Assistant to provide support to our ODI Director.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/",
+      "open_graph_title": "Executive Assistant",
+      "open_graph_description": "The Office of Data and Innovation is seeking an experienced Executive Assistant to provide support to our ODI Director.",
+      "twitter_title": "Executive Assistant",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/"
+  }
+}
