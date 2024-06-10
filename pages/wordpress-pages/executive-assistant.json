@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-10T20:20:30",
-    "updated_date": "2024-06-10T20:20:35",
+    "updated_date": "2024-06-10T20:27:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-10T13:20:30",
     "date_gmt": "2024-06-10T20:20:30",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1994",
-    "modified": "2024-06-10T13:20:35",
-    "modified_gmt": "2024-06-10T20:20:35",
+    "modified": "2024-06-10T13:27:49",
+    "modified_gmt": "2024-06-10T20:27:49",
     "slug": "executive-assistant",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/executive-assistant/"
