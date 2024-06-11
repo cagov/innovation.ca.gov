@@ -52,6 +52,10 @@ figcaption {
 
 // wordpress table styles
 .wp-block-table {
+  th {
+    padding: 1rem;
+    text-align: left;
+  }
   td {
     padding: 1rem;
     
@@ -60,27 +64,33 @@ figcaption {
     }
   }
 }
+.wp-block-table.is-style-regular {
+  td {
+    width: 50%;
+  }
+}
 
 // this is a hack to make wordpress table markup responsive
 .cagov-reponsive-note {
   display: none;
 }
-@media screen and (max-width: 600px) {	
-  figure.wp-block-table {
+// THIS WAS PROBABLY INTENDED FOR ONE TABLE, but breaks others
+// @media screen and (max-width: 600px) {	
+//   figure.wp-block-table {
 
-    thead { display: none; }
+//     thead { display: none; }
     
-    tbody td {
-      display: block; 
-      text-align:center;
+//     tbody td {
+//       display: block; 
+//       text-align:center;
 
-      .cagov-reponsive-note {
-        display: block;
-        font-weight: bold;
-      }
-    }
-  }
-}
+//       .cagov-reponsive-note {
+//         display: block;
+//         font-weight: bold;
+//       }
+//     }
+//   }
+// }
 
 
 
