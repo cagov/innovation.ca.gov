@@ -15,6 +15,16 @@
     "pic": "s-gutierrez.jpg"
   },
   {
+    "name": "Jason Lally",
+    "pronouns": "he/him",
+    "title": "Chief Data Officer",
+    "pic": "j-lally.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jasonlally/",
+      "twitter": "https://x.com/synchronouscity"
+    }
+  },
+  {
     "name": "Becki Gibson",
     "pronouns": "she/her",
     "title": "Chief Counsel",
@@ -45,7 +55,7 @@
     "pic": "a-madani.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/armanmadani/",
-      "twitter": "https://twitter.com/thearmanmadani",
+      "twitter": "https://x.com/thearmanmadani",
       "github": "https://github.com/ArmanMadani"
     }
   },
@@ -84,7 +94,7 @@
     "pic": "c-sikes.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/chachasikes/",
-      "twitter": "https://twitter.com/chachasikes",
+      "twitter": "https://x.com/chachasikes",
       "github": "https://github.com/chachasikes"
     }
   },
@@ -140,18 +150,8 @@
     "pic": "i-rose.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/ian-rose-961a39240/",
-      "twitter": "https://twitter.com/ianrrose",
+      "twitter": "https://x.com/ianrrose",
       "github": "https://github.com/ian-r-rose"
-    }
-  },
-  {
-    "name": "Jason Lally",
-    "pronouns": "he/him",
-    "title": "Deputy Director, Data Engineering and Services",
-    "pic": "j-lally.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jasonlally/",
-      "twitter": "https://twitter.com/synchronouscity"
     }
   },
   {
@@ -216,8 +216,8 @@
     "pic": "m-zhou.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/matthew-zhou/",
+      "twitter": "https://x.com/matthewyzhou"
       "github": "https://github.com/matthewzhou",
-      "twitter": "https://twitter.com/matthewyzhou"
     }
   },
   {
@@ -245,7 +245,7 @@
     "pic": "p-gartin.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/peggygartin/",
-      "twitter": "https://twitter.com/thepegisin",
+      "twitter": "https://x.com/thepegisin",
       "github": "https://github.com/thepegisin"
     }
   },
@@ -324,7 +324,7 @@
     "pic": "y-gutierrez.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/yesenia-gutierrez-640a5915",
-      "twitter": "https://twitter.com/eslayes"
+      "twitter": "https://x.com/eslayes"
     }
   },
   {
@@ -334,7 +334,7 @@
     "pic": "z-khabir.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/zakiyakhabir/",
-      "twitter": "https://twitter.com/zakiyarules",
+      "twitter": "https://x.com/zakiyarules",
       "github": "https://github.com/zakiya"
     }
   },
