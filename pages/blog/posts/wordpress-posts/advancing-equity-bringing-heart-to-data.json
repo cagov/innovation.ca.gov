@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "created_date": "2024-06-14T16:24:55",
+    "updated_date": "2024-06-14T16:25:01",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2006",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2006,
+    "date": "2024-06-14T09:24:55",
+    "date_gmt": "2024-06-14T16:24:55",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2006",
+    "modified": "2024-06-14T09:25:01",
+    "modified_gmt": "2024-06-14T16:25:01",
+    "slug": "advancing-equity-bringing-heart-to-data",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/",
+    "title": "Advancing equity: Bringing heart to data",
+    "excerpt": "<p>Hello, California! I’m thrilled to introduce myself as your new Chief Data Officer (CDO) and I am honored that the Governor has entrusted me with this role. I am also excited to work with our Director, Jeffery Marino, to fulfill the Office of Data and Innovation’s vision of helping the State deliver exceptional services to &#8230; <a title=\"Advancing equity: Bringing heart to data\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/\" aria-label=\"More on Advancing equity: Bringing heart to data\">Read more</a></p>\n",
+    "author": "Jason Lally",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/",
+      "page_title": "Advancing equity: Bringing heart to data",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Advancing equity: Bringing heart to data",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/",
+      "open_graph_title": "Advancing equity: Bringing heart to data",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Advancing equity: Bringing heart to data",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/",
+    "media": [
+      {
+        "id": 2004,
+        "type": "full",
+        "path": "2024/06/cdo-lally.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally.png",
+        "file": "cdo-lally.png",
+        "width": 1200,
+        "height": 1200,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2004,
+        "type": "large",
+        "path": "2024/06/cdo-lally-1024x1024.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-1024x1024.png",
+        "file": "cdo-lally-1024x1024.png",
+        "width": 1024,
+        "height": 1024,
+        "filesize": 577942,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-1024x1024.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2004,
+        "type": "medium_large",
+        "path": "2024/06/cdo-lally-768x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-768x768.png",
+        "file": "cdo-lally-768x768.png",
+        "width": 768,
+        "height": 768,
+        "filesize": 366766,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-768x768.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2004,
+        "type": "medium",
+        "path": "2024/06/cdo-lally-576x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-576x576.png",
+        "file": "cdo-lally-576x576.png",
+        "width": 576,
+        "height": 576,
+        "filesize": 231903,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-576x576.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2004,
+        "type": "thumbnail",
+        "path": "2024/06/cdo-lally-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-150x150.png",
+        "file": "cdo-lally-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 25124,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cdo-lally-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
