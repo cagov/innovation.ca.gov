@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "created_date": "2024-06-14T17:29:47",
+    "updated_date": "2024-06-14T17:29:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2009",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2009,
+    "date": "2024-06-14T10:29:47",
+    "date_gmt": "2024-06-14T17:29:47",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png",
+    "modified": "2024-06-14T10:29:47",
+    "modified_gmt": "2024-06-14T17:29:47",
+    "slug": "cropped-cdo-lally-png",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-cdo-lally-png/",
+    "title": "cropped-cdo-lally.png",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"303\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-576x303.png\" class=\"attachment-medium size-medium\" alt=\"State Chief Data Office Jason Lally\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-576x303.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-1024x539.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-768x404.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png 1199w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png</p>\n",
+    "alt_text": "State Chief Data Office Jason Lally",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1199,
+      "height": 631,
+      "file": "2024/06/cropped-cdo-lally.png",
+      "filesize": 585538,
+      "sizes": {
+        "medium": {
+          "file": "cropped-cdo-lally-576x303.png",
+          "width": 576,
+          "height": 303,
+          "filesize": 163365,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-576x303.png"
+        },
+        "large": {
+          "file": "cropped-cdo-lally-1024x539.png",
+          "width": 1024,
+          "height": 539,
+          "filesize": 423188,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-1024x539.png"
+        },
+        "thumbnail": {
+          "file": "cropped-cdo-lally-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 39554,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-150x150.png"
+        },
+        "medium_large": {
+          "file": "cropped-cdo-lally-768x404.png",
+          "width": 768,
+          "height": 404,
+          "filesize": 264728,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-768x404.png"
+        },
+        "full": {
+          "file": "cropped-cdo-lally.png",
+          "width": 1199,
+          "height": 631,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/06/cropped-cdo-lally.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png",
+        "file": "cropped-cdo-lally.png",
+        "width": 1199,
+        "height": 631,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png"
+      },
+      {
+        "type": "large",
+        "path": "2024/06/cropped-cdo-lally-1024x539.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-1024x539.png",
+        "file": "cropped-cdo-lally-1024x539.png",
+        "width": 1024,
+        "height": 539,
+        "filesize": 423188,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-1024x539.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/06/cropped-cdo-lally-768x404.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-768x404.png",
+        "file": "cropped-cdo-lally-768x404.png",
+        "width": 768,
+        "height": 404,
+        "filesize": 264728,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-768x404.png"
+      },
+      {
+        "type": "medium",
+        "path": "2024/06/cropped-cdo-lally-576x303.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-576x303.png",
+        "file": "cropped-cdo-lally-576x303.png",
+        "width": 576,
+        "height": 303,
+        "filesize": 163365,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-576x303.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/06/cropped-cdo-lally-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-150x150.png",
+        "file": "cropped-cdo-lally-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 39554,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally-150x150.png"
+      }
+    ],
+    "path": "2024/06/cropped-cdo-lally.png"
+  }
+}
