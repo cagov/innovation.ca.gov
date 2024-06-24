@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-24T21:43:11",
-    "updated_date": "2024-06-24T21:43:11",
+    "updated_date": "2024-06-24T22:07:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-24T14:43:11",
     "date_gmt": "2024-06-24T21:43:11",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement.pdf",
-    "modified": "2024-06-24T14:43:11",
-    "modified_gmt": "2024-06-24T21:43:11",
+    "modified": "2024-06-24T15:07:49",
+    "modified_gmt": "2024-06-24T22:07:49",
     "slug": "senior-product-manager-duty-statement",
     "status": "inherit",
     "type": "attachment",
@@ -52,7 +52,7 @@
           "file": "Senior-Product-Manager-Duty-Statement-pdf-445x576.jpg",
           "width": 445,
           "height": 576,
-          "filesize": 52603,
+          "filesize": 53073,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-445x576.jpg"
         },
@@ -60,7 +60,7 @@
           "file": "Senior-Product-Manager-Duty-Statement-pdf-791x1024.jpg",
           "width": 791,
           "height": 1024,
-          "filesize": 138617,
+          "filesize": 140258,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-791x1024.jpg"
         },
@@ -68,12 +68,12 @@
           "file": "Senior-Product-Manager-Duty-Statement-pdf-116x150.jpg",
           "width": 116,
           "height": 150,
-          "filesize": 6612,
+          "filesize": 6626,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-116x150.jpg"
         }
       },
-      "filesize": 66275
+      "filesize": 69609
     },
     "post": null,
     "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement.pdf",
@@ -96,7 +96,7 @@
         "file": "Senior-Product-Manager-Duty-Statement-pdf-791x1024.jpg",
         "width": 791,
         "height": 1024,
-        "filesize": 138617,
+        "filesize": 140258,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-791x1024.jpg"
       },
@@ -107,7 +107,7 @@
         "file": "Senior-Product-Manager-Duty-Statement-pdf-445x576.jpg",
         "width": 445,
         "height": 576,
-        "filesize": 52603,
+        "filesize": 53073,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-445x576.jpg"
       },
@@ -118,7 +118,7 @@
         "file": "Senior-Product-Manager-Duty-Statement-pdf-116x150.jpg",
         "width": 116,
         "height": 150,
-        "filesize": 6612,
+        "filesize": 6626,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/Senior-Product-Manager-Duty-Statement-pdf-116x150.jpg"
       }
