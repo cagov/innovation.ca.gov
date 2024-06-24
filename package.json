@@ -4,10 +4,10 @@
   "description": "Office of Data and Innovation website",
   "main": "index.js",
   "devDependencies": {
-    "@open-wc/eslint-config": "^4.3.0",
-    "@playwright/test": "^1.21.1",
+    "@open-wc/eslint-config": "^11.0.0",
+    "@playwright/test": "^1.25.1",
     "@web/dev-server": "^0.1.17",
-    "aws-sdk": "^2.1055.0",
+    "aws-sdk": "^2.1354.0",
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
