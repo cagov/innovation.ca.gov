@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-24T21:47:59",
-    "updated_date": "2024-06-24T22:00:42",
+    "updated_date": "2024-06-24T22:00:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-24T14:47:59",
     "date_gmt": "2024-06-24T21:47:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2015",
-    "modified": "2024-06-24T15:00:42",
-    "modified_gmt": "2024-06-24T22:00:42",
+    "modified": "2024-06-24T15:00:47",
+    "modified_gmt": "2024-06-24T22:00:47",
     "slug": "senior-product-manager",
     "status": "publish",
     "type": "page",
