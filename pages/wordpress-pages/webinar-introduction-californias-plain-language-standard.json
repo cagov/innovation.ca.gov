@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-25T22:44:04",
-    "updated_date": "2024-06-05T21:53:58",
+    "updated_date": "2024-06-26T22:04:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-25T15:44:04",
     "date_gmt": "2024-03-25T22:44:04",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1750",
-    "modified": "2024-06-05T14:53:58",
-    "modified_gmt": "2024-06-05T21:53:58",
+    "modified": "2024-06-26T15:04:02",
+    "modified_gmt": "2024-06-26T22:04:02",
     "slug": "webinar-introduction-californias-plain-language-standard",
     "status": "publish",
     "type": "page",
