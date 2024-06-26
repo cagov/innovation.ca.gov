@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-03T23:11:40",
-    "updated_date": "2024-06-03T23:57:24",
+    "updated_date": "2024-06-26T18:52:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-03T16:11:40",
     "date_gmt": "2024-06-03T23:11:40",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1967",
-    "modified": "2024-06-03T16:57:24",
-    "modified_gmt": "2024-06-03T23:57:24",
+    "modified": "2024-06-26T11:52:35",
+    "modified_gmt": "2024-06-26T18:52:35",
     "slug": "unlocking-state-hiring-insights",
     "status": "publish",
     "type": "page",
