@@ -10,7 +10,19 @@
   .mc-field-group {
     margin-bottom: 1rem;
   };
-
+  .required-label,
+  .invalid-feedback {
+    color: red
+  }
+  .invalid-feedback {
+    display: none;
+  }
+  .show + .invalid-feedback{
+    display: block;
+  }
+  .show {
+    border-color: red;
+  }
   [type=submit] {
     color: var(--white, #fff) !important;  // overriding "!important" in @cagov/ds-base-css/src/_forms.scss. (A pox upon their houses.)
     margin-top: .5rem;
