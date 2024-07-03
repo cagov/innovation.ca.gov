@@ -9,19 +9,18 @@
   }
   .mc-field-group {
     margin-bottom: 1rem;
-  };
-  .required-label,
-  .invalid-feedback {
-    color: red
   }
-  .invalid-feedback {
-    display: none;
-  }
-  .show + .invalid-feedback{
-    display: block;
+  .required-label {
+    color: red;
   }
   .show {
     border-color: red;
+  }
+  &#mc_embed_signup .mce_inline_error {
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-weight: normal;
   }
   [type=submit] {
     color: var(--white, #fff) !important;  // overriding "!important" in @cagov/ds-base-css/src/_forms.scss. (A pox upon their houses.)
