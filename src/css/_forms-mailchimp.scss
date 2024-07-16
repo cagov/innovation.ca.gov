@@ -1,3 +1,7 @@
+.mailchimp-required-label {
+  color: red;
+}
+
 .mailchimp-wrapper {
   .mc-field-group {
     margin-bottom: 1rem;
@@ -10,10 +14,6 @@
     display: block;
     padding: 3px 6px;
     width: 100%;
-  }
-
-  .required-label {
-    color: red;
   }
 
   &#mc_embed_signup {
