@@ -1,0 +1,36 @@
+.mailchimp-required-label {
+  color: red;
+}
+
+.mailchimp-wrapper {
+  .mc-field-group {
+    margin-bottom: 1rem;
+  }
+
+  [type=email],
+  [type=text] {
+    border-radius: 3px;
+    border: 1px solid var(--primary-900, #003688);;
+    display: block;
+    padding: 3px 12px;
+    width: 100%;
+  }
+
+  &#mc_embed_signup {
+    div.mce_inline_error {
+      background-color: transparent;
+      color: red;
+      font-weight: normal;
+      padding: 3px 0;
+    }
+
+    input.mce_inline_error {
+      border-color: red;
+    }
+  }
+
+  [type=submit] {
+    color: var(--white, #fff) !important;  // overriding "!important" in @cagov/ds-base-css/src/_forms.scss. (A pox upon their houses.)
+    margin-top: .5rem;
+  }
+}
