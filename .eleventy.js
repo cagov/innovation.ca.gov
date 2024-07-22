@@ -68,6 +68,19 @@ module.exports = function (eleventyConfig) {
       .reverse();
   });
 
+  eleventyConfig.addCollection("sitemap", function(collectionApi) {
+    return collectionApi.getAll().filter(item => {
+      // console.log("FILTERING SITEMAP", item.inputPath);
+      if (item.inputPath.includes('alpha-') ||
+          item.inputPath.includes('blog/posts/done-doing')) {
+         console.log("FILTERING SITEMAP", item.inputPath);
+         return false;
+      }
+      // Place your condition here for excluding items from the sitemap.
+      return true;
+    });
+  });
+
   eleventyConfig.addFilter("dateformat", function (dateString) {
     const d = new Date(dateString);
     return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
