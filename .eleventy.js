@@ -55,6 +55,10 @@ module.exports = function (eleventyConfig) {
       // Replace Wordpress media paths with correct 11ty output path.
       const regexPattern = `http.+?pantheonsite\.io/wp-content/uploads/`;
       content = content.replace(new RegExp(regexPattern, 'g'), `/${wordpressImagePath}/`);
+
+      // Remove links to alpha site
+      const regexPatternAlpha = `href="https?://alpha.ca.gov.*?"`;
+      content = content.replace(new RegExp(regexPatternAlpha, 'g'), `href=""`);
     }
 
     return content;
@@ -73,7 +77,7 @@ module.exports = function (eleventyConfig) {
       // console.log("FILTERING SITEMAP", item.inputPath);
       if (item.inputPath.includes('alpha-') ||
           item.inputPath.includes('blog/posts/done-doing')) {
-         console.log("FILTERING SITEMAP", item.inputPath);
+         // console.log("FILTERING SITEMAP", item.inputPath);
          return false;
       }
       // Place your condition here for excluding items from the sitemap.
