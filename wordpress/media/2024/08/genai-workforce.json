@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2024-08-01T15:34:07",
+    "updated_date": "2024-08-01T15:34:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2064",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2064,
+    "date": "2024-08-01T08:34:07",
+    "date_gmt": "2024-08-01T15:34:07",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+    "modified": "2024-08-01T08:34:50",
+    "modified_gmt": "2024-08-01T15:34:50",
+    "slug": "genai-workforce",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/genai-workforce/",
+    "title": "genai-workforce",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg\" class=\"attachment-medium size-medium\" alt=\"GenAI for California. A partnership between the Office of Data and Innovation&#039;s CalAcademy and the California Department of Human Resources (CalHR). Building a GenAI-ready workforce\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg 1752w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "GenAI for California. A partnership between the Office of Data and Innovation's CalAcademy and the California Department of Human Resources (CalHR). Building a GenAI-ready workforce",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1752,
+      "height": 876,
+      "file": "2024/08/genai-workforce.jpg",
+      "filesize": 578203,
+      "sizes": {
+        "medium": {
+          "file": "genai-workforce-576x288.jpg",
+          "width": 576,
+          "height": 288,
+          "filesize": 33260,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg"
+        },
+        "large": {
+          "file": "genai-workforce-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "filesize": 76317,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg"
+        },
+        "thumbnail": {
+          "file": "genai-workforce-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 5697,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "genai-workforce-768x384.jpg",
+          "width": 768,
+          "height": 384,
+          "filesize": 49816,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg"
+        },
+        "1536x1536": {
+          "file": "genai-workforce-1536x768.jpg",
+          "width": 1536,
+          "height": 768,
+          "filesize": 129202,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg"
+        },
+        "full": {
+          "file": "genai-workforce.jpg",
+          "width": 1752,
+          "height": 876,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/08/genai-workforce.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+        "file": "genai-workforce.jpg",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/08/genai-workforce-1536x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg",
+        "file": "genai-workforce-1536x768.jpg",
+        "width": 1536,
+        "height": 768,
+        "filesize": 129202,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2024/08/genai-workforce-1024x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg",
+        "file": "genai-workforce-1024x512.jpg",
+        "width": 1024,
+        "height": 512,
+        "filesize": 76317,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/08/genai-workforce-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg",
+        "file": "genai-workforce-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 49816,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2024/08/genai-workforce-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg",
+        "file": "genai-workforce-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 33260,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/08/genai-workforce-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-150x150.jpg",
+        "file": "genai-workforce-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 5697,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-150x150.jpg"
+      }
+    ],
+    "path": "2024/08/genai-workforce.jpg"
+  }
+}
