@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "created_date": "2024-08-01T15:58:37",
+    "updated_date": "2024-08-01T15:58:42",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2065",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2065,
+    "date": "2024-08-01T08:58:37",
+    "date_gmt": "2024-08-01T15:58:37",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2065",
+    "modified": "2024-08-01T08:58:42",
+    "modified_gmt": "2024-08-01T15:58:42",
+    "slug": "odi-and-calhr-launch-foundations-of-genai-certificate-series",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/08/01/odi-and-calhr-launch-foundations-of-genai-certificate-series/",
+    "title": "ODI and CalHR launch Foundations of GenAI Certificate series",
+    "excerpt": "<p>The California Office of Data and Innovation (ODI) and the California Department of Human Resources (CalHR) are partnering to provide skills and knowledge training to prepare state staff to safely deploy generative artificial intelligence (GenAI) tools.  A new learning pathway, the Foundations of GenAI Certificate, is available now for current state employees looking to grow &#8230; <a title=\"ODI and CalHR launch Foundations of GenAI Certificate series\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/08/01/odi-and-calhr-launch-foundations-of-genai-certificate-series/\" aria-label=\"More on ODI and CalHR launch Foundations of GenAI Certificate series\">Read more</a></p>\n",
+    "author": "Anne Crew-Renzo",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/01/odi-and-calhr-launch-foundations-of-genai-certificate-series/",
+      "page_title": "ODI and CalHR launch Foundations of GenAI Certificate series",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/cropped-genai-workforce.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "ODI and CalHR launch Foundations of GenAI Certificate series",
+      "meta_description": "ODI and CalHR are partnering to provide skills and knowledge training to prepare state staff to safely deploy generative artificial intelligence tools.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/01/odi-and-calhr-launch-foundations-of-genai-certificate-series/",
+      "open_graph_title": "ODI and CalHR launch Foundations of GenAI Certificate series",
+      "open_graph_description": "ODI and CalHR are partnering to provide skills and knowledge training to prepare state staff to safely deploy generative artificial intelligence tools.",
+      "twitter_title": "ODI and CalHR launch Foundations of GenAI Certificate series",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/01/odi-and-calhr-launch-foundations-of-genai-certificate-series/",
+    "media": [
+      {
+        "id": 2064,
+        "type": "full",
+        "path": "2024/08/genai-workforce.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+        "file": "genai-workforce.jpg",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2064,
+        "type": "1536x1536",
+        "path": "2024/08/genai-workforce-1536x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg",
+        "file": "genai-workforce-1536x768.jpg",
+        "width": 1536,
+        "height": 768,
+        "filesize": 129202,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1536x768.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2064,
+        "type": "large",
+        "path": "2024/08/genai-workforce-1024x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg",
+        "file": "genai-workforce-1024x512.jpg",
+        "width": 1024,
+        "height": 512,
+        "filesize": 76317,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-1024x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2064,
+        "type": "medium_large",
+        "path": "2024/08/genai-workforce-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg",
+        "file": "genai-workforce-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 49816,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2064,
+        "type": "medium",
+        "path": "2024/08/genai-workforce-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg",
+        "file": "genai-workforce-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 33260,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/genai-workforce-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
