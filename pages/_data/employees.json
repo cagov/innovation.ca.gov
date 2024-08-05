@@ -41,7 +41,7 @@
   },
   {
     "name": "Anne Crew-Renzo",
-    "title": "CalAcademy Training Program Manager",
+    "title": "Head of CalAcademy",
     "pronouns": "she/her",
     "pic": "a-crew-renzo.jpg",
     "social": {
@@ -109,12 +109,26 @@
     }
   },
   {
+    "name": "Eric J",
+    "title": "Deputy Director, Operations",
+    "pic": "e-jarvis.jpg"
+  },
+  {
     "name": "Erica Stivison",
     "pronouns": "she/her",
     "title": "UX Designer",
     "pic": "e-stivison.jpg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/ericastivison"
+    }
+  },
+  {
+    "name": "Gabriele Hoeppel",
+    "pronouns": "she/her",
+    "title": "Visual/User Interface Designer",
+    "pic": "g-hoeppel.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/gabrielehoeppel"
     }
   },
   {
