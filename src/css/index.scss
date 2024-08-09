@@ -240,11 +240,15 @@ table.table-bordered {
 
 /* override search settings for mobile */
 @media only screen and (max-width: 767px) {
-  .site-header .container .search-container {
-    display: block;
+  /* reduce font-size so mobile UI fits */
+  .site-header .org-name-dept {
+    font-size: var(--org-name-dept-font-size, 1.35rem);
   }
+//   .site-header .container .search-container {
+//     display: block;
+//   }
   
-  .site-header .grid-search {
-    grid-area: inherit;
-  }
+//   .site-header .grid-search {
+//     grid-area: inherit;
+//   }
 }
