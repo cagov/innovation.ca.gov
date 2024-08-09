@@ -244,11 +244,7 @@ table.table-bordered {
   .site-header .org-name-dept {
     font-size: var(--org-name-dept-font-size, 1.35rem);
   }
-//   .site-header .container .search-container {
-//     display: block;
-//   }
-  
-//   .site-header .grid-search {
-//     grid-area: inherit;
-//   }
+  .site-header .grid-org-name {
+    width: 250px;
+  }
 }
