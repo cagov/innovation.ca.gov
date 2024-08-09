@@ -237,3 +237,17 @@ table.table-bordered {
         }   
       }
 }
+
+/* override search settings for mobile */
+@media only screen and (max-width: 767px) {
+  /* reduce font-size so mobile UI fits */
+  .site-header .org-name-dept {
+    font-size: var(--org-name-dept-font-size, 1.35rem);
+  }
+  .site-header .grid-org-name {
+    width: 250px;
+  }
+  .site-header .hamburger {
+    top:-4px !important;
+  }
+}
