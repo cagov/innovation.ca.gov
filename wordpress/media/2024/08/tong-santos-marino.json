@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-14T19:53:54",
-    "updated_date": "2024-08-14T19:54:58",
+    "updated_date": "2024-08-14T20:00:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-14T12:53:54",
     "date_gmt": "2024-08-14T19:53:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino.png",
-    "modified": "2024-08-14T12:54:58",
-    "modified_gmt": "2024-08-14T19:54:58",
+    "modified": "2024-08-14T13:00:40",
+    "modified_gmt": "2024-08-14T20:00:40",
     "slug": "tong-santos-marino",
     "status": "inherit",
     "type": "attachment",
