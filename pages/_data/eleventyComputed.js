@@ -182,17 +182,15 @@ module.exports = async () => {
   if (!perfAudits) {
     perfAudits = await fetch(perfApiUrl).then((res) => res.json());
   }
-
   return {
     title: (article) => article?.data?.title || article.title,
     id: (article) => article?.data?.id,
     date: (article) => article?.data?.date || article.date,
-    publishdate: (article) =>
-      article?.data?.date.split("T")[0] || article.publishdate,
+    publishdate: (article) => article?.data?.date.split("T")[0] || article.publishdate,
     meta: (article) => article?.data?.excerpt || article.meta,
     description: (article) => article?.data?.excerpt || article.meta,
     author: (article) => article?.data?.author || article.author,
-    tags: (article) => (isPost(article) ? ["news"] : article.tags),
+    tags: (article) => article?.data?.tags || (isPost(article) ? ["news"] : article.tags),
     permalink: (article) => getPermalink(article),
     layout: (article) => getLayout(article),
     eleventyNavigation: (article) => getNavigation(article),
