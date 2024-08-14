@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "created_date": "2024-08-14T20:57:59",
+    "updated_date": "2024-08-14T20:58:05",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2073",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2073,
+    "date": "2024-08-14T13:57:59",
+    "date_gmt": "2024-08-14T20:57:59",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2073",
+    "modified": "2024-08-14T13:58:05",
+    "modified_gmt": "2024-08-14T20:58:05",
+    "slug": "the-power-of-partnerships-a-visit-with-the-u-s-census-bureau",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/",
+    "title": "The power of partnerships: a visit with the U.S. Census Bureau",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) had the honor of welcoming Robert L. Santos, Director of the U.S. Census Bureau, to our Sacramento headquarters on June 12. Director Santos joined ODI Director Jeffery Marino and Amy Tong, Secretary of the Government Operations Agency (GovOps), as part of the bureau’s planning for the 2030 Census. &#8230; <a title=\"The power of partnerships: a visit with the U.S. Census Bureau\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/\" aria-label=\"More on The power of partnerships: a visit with the U.S. Census Bureau\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/",
+      "page_title": "The power of partnerships: a visit with the U.S. Census Bureau",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/cropped-tong-santos-marino.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "The power of partnerships: a visit with the U.S. Census Bureau",
+      "meta_description": "ODI welcomed Robert L. Santos, Director of the U.S. Census Bureau, to Sacramento as part of the bureau’s planning for the 2030 Census.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/",
+      "open_graph_title": "The power of partnerships: a visit with the U.S. Census Bureau",
+      "open_graph_description": "ODI welcomed Robert L. Santos, Director of the U.S. Census Bureau, to Sacramento as part of the bureau’s planning for the 2030 Census.",
+      "twitter_title": "The power of partnerships: a visit with the U.S. Census Bureau",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/",
+    "media": [
+      {
+        "id": 2075,
+        "type": "full",
+        "path": "2024/08/census-visit-scaled.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/census-visit-scaled.jpg",
+        "file": "census-visit-scaled.jpg",
+        "width": 2560,
+        "height": 1920,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/census-visit-scaled.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2075,
+        "type": "medium",
+        "path": "2024/08/census-visit-576x432.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/census-visit-576x432.jpg",
+        "file": "census-visit-576x432.jpg",
+        "width": 576,
+        "height": 432,
+        "filesize": 55087,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/census-visit-576x432.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2076,
+        "type": "full",
+        "path": "2024/08/tong-santos-marino.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino.png",
+        "file": "tong-santos-marino.png",
+        "width": 1200,
+        "height": 1200,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2076,
+        "type": "large",
+        "path": "2024/08/tong-santos-marino-1024x1024.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-1024x1024.png",
+        "file": "tong-santos-marino-1024x1024.png",
+        "width": 1024,
+        "height": 1024,
+        "filesize": 1413835,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-1024x1024.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2076,
+        "type": "medium_large",
+        "path": "2024/08/tong-santos-marino-768x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-768x768.png",
+        "file": "tong-santos-marino-768x768.png",
+        "width": 768,
+        "height": 768,
+        "filesize": 827751,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-768x768.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2076,
+        "type": "medium",
+        "path": "2024/08/tong-santos-marino-576x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-576x576.png",
+        "file": "tong-santos-marino-576x576.png",
+        "width": 576,
+        "height": 576,
+        "filesize": 486986,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-576x576.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2076,
+        "type": "thumbnail",
+        "path": "2024/08/tong-santos-marino-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-150x150.png",
+        "file": "tong-santos-marino-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 44909,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/tong-santos-marino-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
