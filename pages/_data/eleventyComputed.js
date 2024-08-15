@@ -190,7 +190,9 @@ module.exports = async () => {
     meta: (article) => article?.data?.excerpt || article.meta,
     description: (article) => article?.data?.excerpt || article.meta,
     author: (article) => article?.data?.author || article.author,
-    tags: (article) => article?.data?.tags || (isPost(article) ? ["news"] : article.tags),
+    tags: (article) => (isPost(article) ? ["news"] : (article?.data?.tags || article.tags)),
+    // this brought in the do-not-crawl tags, but broke recent blog articles
+    // tags: (article) => article?.data?.tags || (isPost(article) ? ["news"] : article.tags),
     permalink: (article) => getPermalink(article),
     layout: (article) => getLayout(article),
     eleventyNavigation: (article) => getNavigation(article),
