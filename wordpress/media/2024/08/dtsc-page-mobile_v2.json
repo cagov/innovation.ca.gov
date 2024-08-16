@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "created_date": "2024-08-16T17:44:11",
+    "updated_date": "2024-08-16T17:47:29",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2096",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2096,
+    "date": "2024-08-16T10:44:11",
+    "date_gmt": "2024-08-16T17:44:11",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
+    "modified": "2024-08-16T10:47:29",
+    "modified_gmt": "2024-08-16T17:47:29",
+    "slug": "dtsc-page-mobile_v2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dtsc-page-mobile_v2/",
+    "title": "dtsc-page-mobile_v2",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png'><img loading=\"lazy\" decoding=\"async\" width=\"153\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-153x576.png\" class=\"attachment-medium size-medium\" alt=\"Mobile view of new DTSC project webpage. It starts with a green callout box with the public comment dates. Its title, “Comment on hazardous waste storage in your area,” is large. A summary of the proposed action is in bold, followed by details about the permit and the site. A map shows where the storage would take place.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-153x576.png 153w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-272x1024.png 272w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-768x2887.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-409x1536.png 409w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-545x2048.png 545w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png 779w\" sizes=\"(max-width: 153px) 100vw, 153px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Mobile view of new DTSC project webpage. It starts with a green callout box with the public comment dates. Its title, “Comment on hazardous waste storage in your area,” is large. A summary of the proposed action is in bold, followed by details about the permit and the site. A map shows where the storage would take place.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 779,
+      "height": 2928,
+      "file": "2024/08/dtsc-page-mobile_v2.png",
+      "filesize": 765369,
+      "sizes": {
+        "medium": {
+          "file": "dtsc-page-mobile_v2-153x576.png",
+          "width": 153,
+          "height": 576,
+          "filesize": 81450,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-153x576.png"
+        },
+        "large": {
+          "file": "dtsc-page-mobile_v2-272x1024.png",
+          "width": 272,
+          "height": 1024,
+          "filesize": 205280,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-272x1024.png"
+        },
+        "thumbnail": {
+          "file": "dtsc-page-mobile_v2-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 26019,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-150x150.png"
+        },
+        "medium_large": {
+          "file": "dtsc-page-mobile_v2-768x2887.png",
+          "width": 768,
+          "height": 2887,
+          "filesize": 905744,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-768x2887.png"
+        },
+        "1536x1536": {
+          "file": "dtsc-page-mobile_v2-409x1536.png",
+          "width": 409,
+          "height": 1536,
+          "filesize": 377428,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-409x1536.png"
+        },
+        "2048x2048": {
+          "file": "dtsc-page-mobile_v2-545x2048.png",
+          "width": 545,
+          "height": 2048,
+          "filesize": 571804,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-545x2048.png"
+        },
+        "full": {
+          "file": "dtsc-page-mobile_v2.png",
+          "width": 779,
+          "height": 2928,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/08/dtsc-page-mobile_v2.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
+        "file": "dtsc-page-mobile_v2.png",
+        "width": 779,
+        "height": 2928,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/08/dtsc-page-mobile_v2-768x2887.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-768x2887.png",
+        "file": "dtsc-page-mobile_v2-768x2887.png",
+        "width": 768,
+        "height": 2887,
+        "filesize": 905744,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-768x2887.png"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2024/08/dtsc-page-mobile_v2-545x2048.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-545x2048.png",
+        "file": "dtsc-page-mobile_v2-545x2048.png",
+        "width": 545,
+        "height": 2048,
+        "filesize": 571804,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-545x2048.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/08/dtsc-page-mobile_v2-409x1536.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-409x1536.png",
+        "file": "dtsc-page-mobile_v2-409x1536.png",
+        "width": 409,
+        "height": 1536,
+        "filesize": 377428,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-409x1536.png"
+      },
+      {
+        "type": "large",
+        "path": "2024/08/dtsc-page-mobile_v2-272x1024.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-272x1024.png",
+        "file": "dtsc-page-mobile_v2-272x1024.png",
+        "width": 272,
+        "height": 1024,
+        "filesize": 205280,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-272x1024.png"
+      },
+      {
+        "type": "medium",
+        "path": "2024/08/dtsc-page-mobile_v2-153x576.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-153x576.png",
+        "file": "dtsc-page-mobile_v2-153x576.png",
+        "width": 153,
+        "height": 576,
+        "filesize": 81450,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-153x576.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/08/dtsc-page-mobile_v2-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-150x150.png",
+        "file": "dtsc-page-mobile_v2-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 26019,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2-150x150.png"
+      }
+    ],
+    "path": "2024/08/dtsc-page-mobile_v2.png"
+  }
+}
