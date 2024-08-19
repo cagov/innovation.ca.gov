@@ -16,6 +16,14 @@ class CAGovPaginator extends HTMLElement {
         console.log("number blocks",this.pagedBlocks.length);
         this.nbrPages = Math.ceil(this.pagedBlocks.length / this.perPage);
         this.currentPage = 1; // !!! pull from URL
+        var locationhash = location.hash;
+        if (locationhash.startsWith('#page-')) {
+            var cp = parseInt(locationhash.split('-')[1]);
+            if (cp > 0 && cp <= this.nbrPages) {
+                this.currentPage = cp;
+                console.log("Set current page to ",this.currentPage);
+            }
+        }
         this.boundPaginationHandler = this.paginationHandler.bind(this);
         console.log("nbrPages",this.nbrPages);
 
@@ -29,15 +37,13 @@ class CAGovPaginator extends HTMLElement {
       
     }
 
-    drawPaginator() {
+    drawPaginator() { // only called once
         // this.pagedContainer = document.querySelector(this.pagedContainerSelector);
         // this.pagedBlocks = this.pagedContainer.querySelectorAll(this.pagedBlockSelector);
         // console.log("number blocks",this.pagedBlocks.length);
-        console.log("drawPaginator");
-
-
         var markup = `<cagov-pagination data-current-page="${this.currentPage}" data-total-pages="${this.nbrPages}"></cagov-pagination>`;
         this.innerHTML = markup;
+        // location.hash = `#`;
         if (this.querySelector("cagov-pagination")) {
             var paginator = this.querySelector("cagov-pagination");
             console.log("binding cagov-pagination listener");
@@ -68,6 +74,8 @@ class CAGovPaginator extends HTMLElement {
                 this.pagedContainer.appendChild(block);
             }
         });
+        location.hash = `#page-${this.currentPage}`;
+        // console.log("location.hash",location.hash);
     }
 
     paginationHandler(e) {
