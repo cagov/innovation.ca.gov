@@ -68,12 +68,16 @@ class CAGovPaginator extends HTMLElement {
 
     drawCurrentPage() {
         console.log("drawCurrentPage",this.currentPage);
-        this.pagedContainer.innerHTML = "";
+
         this.pagedBlocks.forEach((block,index) => {
+            var displayStyle = "none";
             if (index >= (this.currentPage - 1) * this.perPage && index < this.currentPage * this.perPage) {
-                this.pagedContainer.appendChild(block);
+                displayStyle = "block";
             }
+            block.style.display = displayStyle;
         });
+
+
         location.hash = `#page-${this.currentPage}`;
         // console.log("location.hash",location.hash);
     }
