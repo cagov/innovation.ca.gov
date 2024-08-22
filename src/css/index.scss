@@ -251,3 +251,8 @@ table.table-bordered {
     top:-4px !important;
   }
 }
+
+cagov-pagination li.cagov-pagination__item {
+  border: var(--border-1, 1px) solid #D4D4D7 !important;
+  border-radius: 5px !important;
+}

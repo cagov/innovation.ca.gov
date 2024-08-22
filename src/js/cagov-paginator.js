@@ -1,5 +1,4 @@
-import "@cagov/ds-pagination"; // bugged for small amounts
-// import './ds_pagination_local/src/index.js';
+import "@cagov/ds-pagination"; 
 
 // cagov-paginator
 class CAGovPaginator extends HTMLElement {
