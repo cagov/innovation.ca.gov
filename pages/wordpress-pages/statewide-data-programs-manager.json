@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T19:55:41",
-    "updated_date": "2024-08-22T20:00:16",
+    "updated_date": "2024-08-26T20:44:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-22T12:55:41",
     "date_gmt": "2024-08-22T19:55:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2111",
-    "modified": "2024-08-22T13:00:16",
-    "modified_gmt": "2024-08-22T20:00:16",
+    "modified": "2024-08-26T13:44:01",
+    "modified_gmt": "2024-08-26T20:44:01",
     "slug": "statewide-data-programs-manager",
     "status": "publish",
     "type": "page",
@@ -60,10 +60,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Statewide Data Programs Manager",
-      "meta_description": "The Office of Data and Innovation is seeking a Statewide Data Programs Manager to join the Data Services and Engineering Team in the CalData division at ODI, a team filled with bright and empathetic data people. ODI works across all departments in the state, with data that touches all Californians. You will find that the problems and challenges we engage with require the heart as much as the mind.",
+      "meta_description": "ODI seeks a Statewide Data Programs Manager to join the Data Services and Engineering Team in the CalData division at ODI.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/",
       "open_graph_title": "Statewide Data Programs Manager",
-      "open_graph_description": "The Office of Data and Innovation is seeking a Statewide Data Programs Manager to join the Data Services and Engineering Team in the CalData division at ODI, a team filled with bright and empathetic data people. ODI works across all departments in the state, with data that touches all Californians. You will find that the problems and challenges we engage with require the heart as much as the mind.",
+      "open_graph_description": "ODI seeks a Statewide Data Programs Manager to join the Data Services and Engineering Team in the CalData division at ODI.",
       "twitter_title": "Statewide Data Programs Manager",
       "twitter_description": "Office of Data and Innovation"
     },
