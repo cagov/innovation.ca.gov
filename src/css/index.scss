@@ -251,3 +251,22 @@ table.table-bordered {
     top:-4px !important;
   }
 }
+
+cagov-pagination li.cagov-pagination__item {
+  border: var(--border-1, 1px) solid #D4D4D7 !important;
+  border-radius: 5px !important;
+  width: 42px;
+  height: 42px;
+  /* margin: 0 0; */
+  padding: 0 0;
+  text-align: center;
+}
+cagov-pagination li.cagov-pagination__item a {
+  /* margin: 0 0; */
+  padding: 0.1rem 0.7rem;
+}
+cagov-pagination .cagov-pagination__item.cagov-pagination-current {
+  background-color: #0D4F8C !important;
+  /* margin: 0 0; */
+  padding: 0 0;
+}
