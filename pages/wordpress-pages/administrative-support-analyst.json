@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-28T16:01:46",
-    "updated_date": "2024-08-28T16:09:42",
+    "updated_date": "2024-08-29T18:37:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-28T09:01:46",
     "date_gmt": "2024-08-28T16:01:46",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2123",
-    "modified": "2024-08-28T09:09:42",
-    "modified_gmt": "2024-08-28T16:09:42",
+    "modified": "2024-08-29T11:37:03",
+    "modified_gmt": "2024-08-29T18:37:03",
     "slug": "administrative-support-analyst",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/administrative-support-analyst/"
