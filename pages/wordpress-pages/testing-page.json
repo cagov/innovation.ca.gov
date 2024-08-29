@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2024-08-16T17:49:08",
+    "updated_date": "2024-08-29T22:57:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2024-08-16T10:49:08",
-    "modified_gmt": "2024-08-16T17:49:08",
+    "modified": "2024-08-29T15:57:48",
+    "modified_gmt": "2024-08-29T22:57:48",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing Page",
-    "excerpt": "<p>Jim was here: Fri, Aug 16, 10:48am, 2024 Mobile &nbsp;&nbsp;&nbsp;&nbsp; Desktop Subscribe * Required information Email address * First name * Last name * More test content. 2. 3. 4. 5. 6.</p>\n",
+    "excerpt": "<p>Jim was here: Thu, Aug 29, 3:57am, 2024</p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -85,61 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
-    "media": [
-      {
-        "id": 1467,
-        "type": "full",
-        "path": "2023/08/angel_cat_3.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/08/angel_cat_3.png",
-        "file": "angel_cat_3.png",
-        "width": 512,
-        "height": 512,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/08/angel_cat_3.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1467,
-        "type": "thumbnail",
-        "path": "2023/08/angel_cat_3-150x150.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/08/angel_cat_3-150x150.png",
-        "file": "angel_cat_3-150x150.png",
-        "width": 150,
-        "height": 150,
-        "filesize": 29906,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/08/angel_cat_3-150x150.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2095,
-        "type": "full",
-        "path": "2024/08/dtsc-page-desktop_v2.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-desktop_v2.png",
-        "file": "dtsc-page-desktop_v2.png",
-        "width": 1322,
-        "height": 2024,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-desktop_v2.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2096,
-        "type": "full",
-        "path": "2024/08/dtsc-page-mobile_v2.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
-        "file": "dtsc-page-mobile_v2.png",
-        "width": 779,
-        "height": 2928,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-page-mobile_v2.png",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
   }
 }
