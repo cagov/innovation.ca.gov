@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-03T21:17:58",
-    "updated_date": "2024-09-04T16:59:15",
+    "updated_date": "2024-09-04T21:03:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-03T14:17:58",
     "date_gmt": "2024-06-03T21:17:58",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1959",
-    "modified": "2024-09-04T09:59:15",
-    "modified_gmt": "2024-09-04T16:59:15",
+    "modified": "2024-09-04T14:03:16",
+    "modified_gmt": "2024-09-04T21:03:16",
     "slug": "is-it-a-product",
     "status": "publish",
     "type": "post",
@@ -98,6 +98,21 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/03/is-it-a-product/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/03/is-it-a-product/",
+    "media": [
+      {
+        "id": 2158,
+        "type": "full",
+        "path": "2024/09/cropped-caloes-process-workshop.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cropped-caloes-process-workshop.jpg",
+        "file": "cropped-caloes-process-workshop.jpg",
+        "width": 1752,
+        "height": 921,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cropped-caloes-process-workshop.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
