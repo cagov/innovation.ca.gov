@@ -270,3 +270,6 @@ cagov-pagination .cagov-pagination__item.cagov-pagination-current {
   /* margin: 0 0; */
   padding: 0 0;
 }
+ul.citation-list li a, ol.wp-block-footnotes li a {
+  word-break: break-all;
+}
