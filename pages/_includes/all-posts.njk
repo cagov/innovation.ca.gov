@@ -8,11 +8,14 @@
 
         <div class="cagov-article-list row">
           {%- for post in collections.dateSort -%}
+            <!-- check if date is older than 2022 -->
+            {% if (post.data.publishdate | dateyear) >= 2022 %}
             <h2 class="h3" class="cagov-mt-3">
               <a href="{{ post.url }}">{{ post.data.title | safe }}</a>
             </h2>
             <p class="text-mute">{{ post.data.publishdate | dateformat }}</p>
             <span class="blog-excerpt">{{ post.data.meta | safe }}</span>
+            {% endif %}
           {%- endfor -%}
         </div>
       </main>
