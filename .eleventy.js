@@ -73,6 +73,12 @@ module.exports = function (eleventyConfig) {
     return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
   });
 
+  eleventyConfig.addFilter("dateyear", function (dateString) {
+    const d = new Date(dateString);
+    return d.getFullYear();
+  });
+
+
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
   });
