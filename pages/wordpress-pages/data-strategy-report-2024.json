@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-06T18:57:54",
-    "updated_date": "2024-09-09T17:05:40",
+    "updated_date": "2024-09-09T21:05:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-06T11:57:54",
     "date_gmt": "2024-05-06T18:57:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1899",
-    "modified": "2024-09-09T10:05:40",
-    "modified_gmt": "2024-09-09T17:05:40",
+    "modified": "2024-09-09T14:05:16",
+    "modified_gmt": "2024-09-09T21:05:16",
     "slug": "data-strategy-report-2024",
     "status": "publish",
     "type": "page",
@@ -34,7 +34,7 @@
     "ping_status": "closed",
     "template": "",
     "meta": {
-      "footnotes": "[{\"content\":\"Read the full research in the 2020 strategy available at: <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf</a>.\",\"id\":\"9af0cc1e-3e37-4664-b94d-b724c5f4218e\"},{\"content\":\"Convened by the Beeck Center at Georgetown University - <a href=\\\"https://beeckcenter.georgetown.edu/projects/state-cdo-network/\\\">https://beeckcenter.georgetown.edu/projects/state-cdo-network/</a>.\",\"id\":\"22578469-ba5f-4aa2-b84d-7df81e1ebf5a\"},{\"content\":\"Available at <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf</a>.\",\"id\":\"4a72973e-10cd-4db9-abbf-d8c033082c5e\"}]"
+      "footnotes": "[{\"content\":\"Read the full research in the <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">2020 strategy</a>\",\"id\":\"9af0cc1e-3e37-4664-b94d-b724c5f4218e\"},{\"content\":\"<a href=\\\"https://beeckcenter.georgetown.edu/projects/state-cdo-network/\\\">Convened by the Beeck Center at Georgetown University</a>\",\"id\":\"22578469-ba5f-4aa2-b84d-7df81e1ebf5a\"},{\"content\":\"Read the <a href=\\\"https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf\\\">full 2020 strategy</a> \",\"id\":\"4a72973e-10cd-4db9-abbf-d8c033082c5e\"}]"
     },
     "categories": [],
     "tags": [],
