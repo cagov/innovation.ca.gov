@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-14T21:55:41",
-    "updated_date": "2024-06-25T20:58:09",
+    "updated_date": "2024-09-09T21:15:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-14T14:55:41",
     "date_gmt": "2024-05-14T21:55:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1923",
-    "modified": "2024-06-25T13:58:09",
-    "modified_gmt": "2024-06-25T20:58:09",
+    "modified": "2024-09-09T14:15:02",
+    "modified_gmt": "2024-09-09T21:15:02",
     "slug": "legislative-report-2023",
     "status": "publish",
     "type": "page",
@@ -34,7 +34,7 @@
     "ping_status": "closed",
     "template": "",
     "meta": {
-      "footnotes": "[{\"content\":\"<a href=\\\"https://innovation.ca.gov/our-work/projects/getting-compensation-to-more-california-crime-victims/\\\">https://innovation.ca.gov/our-work/projects/getting-compensation-to-more-california-crime-victims/</a>\",\"id\":\"efe88aa1-1c84-4022-9014-6a8d677e32f9\"},{\"content\":\"<a href=\\\"https://innovation.ca.gov/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/\\\">https://innovation.ca.gov/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/</a>\",\"id\":\"7072ff47-db14-455d-b9bf-a1723e35e720\"},{\"content\":\"Funded through ODI General Fund Appropriation, and the Data and Innovation Fund.\",\"id\":\"b85b557a-2457-45a2-969a-721211785c49\"},{\"content\":\"With the exception of the Benefits Recommender (see footnote 5), all ongoing projects are funded through both ODI General Fund Appropriation, and the Data and Innovation Fund. Any project work beyond 7/1/2024 is subject to the appropriation and availability of funds.\",\"id\":\"1603f9b6-635a-4c10-88de-36b81c8f1773\"},{\"content\":\"Funded through ODI General Fund Appropriation.\",\"id\":\"43ac7b37-aab9-4d8b-9b99-78212f724297\"}]"
+      "footnotes": "[{\"content\":\"<a href=\\\"https://innovation.ca.gov/our-work/projects/getting-compensation-to-more-california-crime-victims/\\\">Getting compensation to more California crime victims</a>\",\"id\":\"efe88aa1-1c84-4022-9014-6a8d677e32f9\"},{\"content\":\"<a href=\\\"https://innovation.ca.gov/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/\\\">Lifting Californians’ voices in toxic substance project decisions</a>\",\"id\":\"7072ff47-db14-455d-b9bf-a1723e35e720\"},{\"content\":\"Funded through ODI General Fund Appropriation, and the Data and Innovation Fund.\",\"id\":\"b85b557a-2457-45a2-969a-721211785c49\"},{\"content\":\"With the exception of the Benefits Recommender (see footnote 5), all ongoing projects are funded through both ODI General Fund Appropriation, and the Data and Innovation Fund. Any project work beyond 7/1/2024 is subject to the appropriation and availability of funds.\",\"id\":\"1603f9b6-635a-4c10-88de-36b81c8f1773\"},{\"content\":\"Funded through ODI General Fund Appropriation.\",\"id\":\"43ac7b37-aab9-4d8b-9b99-78212f724297\"}]"
     },
     "categories": [],
     "tags": [],
