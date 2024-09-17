@@ -216,58 +216,6 @@
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
         "source_url_match": true,
         "featured": false
-      },
-      {
-        "id": 373,
-        "type": "full",
-        "path": "2022/04/phone-mockup-pagefeedback.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
-        "file": "phone-mockup-pagefeedback.jpg",
-        "width": 1076,
-        "height": 717,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 373,
-        "type": "large",
-        "path": "2022/04/phone-mockup-pagefeedback-1024x682.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
-        "file": "phone-mockup-pagefeedback-1024x682.jpg",
-        "width": 1024,
-        "height": 682,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-1024x682.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 373,
-        "type": "medium_large",
-        "path": "2022/04/phone-mockup-pagefeedback-768x512.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
-        "file": "phone-mockup-pagefeedback-768x512.jpg",
-        "width": 768,
-        "height": 512,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-768x512.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 373,
-        "type": "medium",
-        "path": "2022/04/phone-mockup-pagefeedback-576x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
-        "file": "phone-mockup-pagefeedback-576x384.jpg",
-        "width": 576,
-        "height": 384,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-pagefeedback-576x384.jpg",
-        "source_url_match": true,
-        "featured": false
       }
     ]
   }
