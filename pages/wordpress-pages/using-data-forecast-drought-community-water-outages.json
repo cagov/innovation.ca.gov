@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-28T20:15:50",
-    "updated_date": "2024-08-28T23:07:06",
+    "updated_date": "2024-09-17T21:08:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-28T13:15:50",
     "date_gmt": "2024-03-28T20:15:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1746",
-    "modified": "2024-08-28T16:07:06",
-    "modified_gmt": "2024-08-28T23:07:06",
+    "modified": "2024-09-17T14:08:03",
+    "modified_gmt": "2024-09-17T21:08:03",
     "slug": "using-data-forecast-drought-community-water-outages",
     "status": "publish",
     "type": "page",
@@ -55,7 +55,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-forecast-drought-community-water-outages/",
       "page_title": "Using data to forecast drought in community water outages",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/cropped-drought-case-study-cover.jpeg",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/ddw-case_study-cover-v2.webp",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
@@ -87,15 +87,15 @@
         "featured": false
       },
       {
-        "id": 1788,
+        "id": 2179,
         "type": "full",
-        "path": "2024/04/ddw-case_study-cover-v2.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-case_study-cover-v2.jpg",
-        "file": "ddw-case_study-cover-v2.jpg",
+        "path": "2024/09/ddw-case_study-cover-v2.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/ddw-case_study-cover-v2.webp",
+        "file": "ddw-case_study-cover-v2.webp",
         "width": 876,
         "height": 438,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-case_study-cover-v2.jpg",
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/ddw-case_study-cover-v2.webp",
         "source_url_match": true,
         "featured": false
       }
