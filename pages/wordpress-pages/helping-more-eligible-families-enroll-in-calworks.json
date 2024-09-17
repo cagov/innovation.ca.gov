@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-05T20:12:40",
-    "updated_date": "2024-07-31T23:07:17",
+    "updated_date": "2024-09-17T23:17:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-05T13:12:40",
     "date_gmt": "2023-07-05T20:12:40",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1302",
-    "modified": "2024-07-31T16:07:17",
-    "modified_gmt": "2024-07-31T23:07:17",
+    "modified": "2024-09-17T16:17:49",
+    "modified_gmt": "2024-09-17T23:17:49",
     "slug": "helping-more-eligible-families-enroll-in-calworks",
     "status": "publish",
     "type": "page",
@@ -111,6 +111,19 @@
         "filesize": 30769,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-case_study-cover-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2201,
+        "type": "full",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign.webp",
+        "width": 1656,
+        "height": 888,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
         "source_url_match": true,
         "featured": false
       }
