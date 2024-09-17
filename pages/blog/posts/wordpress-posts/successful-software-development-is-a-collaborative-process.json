@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-11T23:38:03",
-    "updated_date": "2023-12-06T18:44:51",
+    "updated_date": "2024-09-17T23:31:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-10-11T16:38:03",
     "date_gmt": "2022-10-11T23:38:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=865",
-    "modified": "2023-12-06T10:44:51",
-    "modified_gmt": "2023-12-06T18:44:51",
+    "modified": "2024-09-17T16:31:12",
+    "modified_gmt": "2024-09-17T23:31:12",
     "slug": "successful-software-development-is-a-collaborative-process",
     "status": "publish",
     "type": "post",
@@ -98,6 +98,21 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+    "media": [
+      {
+        "id": 2211,
+        "type": "full",
+        "path": "2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "width": 1920,
+        "height": 1920,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
