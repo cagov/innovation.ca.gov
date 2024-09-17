@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-31T23:50:14",
-    "updated_date": "2024-07-31T23:11:27",
+    "updated_date": "2024-09-17T23:16:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-31T16:50:14",
     "date_gmt": "2023-05-31T23:50:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1196",
-    "modified": "2024-07-31T16:11:27",
-    "modified_gmt": "2024-07-31T23:11:27",
+    "modified": "2024-09-17T16:16:14",
+    "modified_gmt": "2024-09-17T23:16:14",
     "slug": "getting-compensation-to-more-california-crime-victims",
     "status": "publish",
     "type": "page",
@@ -73,6 +73,19 @@
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/getting-compensation-to-more-california-crime-victims/",
     "media": [
+      {
+        "id": 2200,
+        "type": "full",
+        "path": "2024/09/CalVCB_Discovery_Sprint-Victim_Journey_Map-scaled.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/CalVCB_Discovery_Sprint-Victim_Journey_Map-scaled.webp",
+        "file": "CalVCB_Discovery_Sprint-Victim_Journey_Map-scaled.webp",
+        "width": 2560,
+        "height": 1236,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/CalVCB_Discovery_Sprint-Victim_Journey_Map-scaled.webp",
+        "source_url_match": true,
+        "featured": false
+      },
       {
         "id": 1210,
         "type": "full",
