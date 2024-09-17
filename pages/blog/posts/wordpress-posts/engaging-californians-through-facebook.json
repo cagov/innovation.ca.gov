@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-20T22:01:21",
-    "updated_date": "2023-06-28T15:26:40",
+    "updated_date": "2024-09-17T23:24:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-20T15:01:21",
     "date_gmt": "2023-06-20T22:01:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1246",
-    "modified": "2023-06-28T08:26:40",
-    "modified_gmt": "2023-06-28T15:26:40",
+    "modified": "2024-09-17T16:24:06",
+    "modified_gmt": "2024-09-17T23:24:06",
     "slug": "engaging-californians-through-facebook",
     "status": "publish",
     "type": "post",
@@ -98,6 +98,34 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2023/06/20/engaging-californians-through-facebook/",
+    "media": [
+      {
+        "id": 2207,
+        "type": "full",
+        "path": "2024/09/FB-ad-Ramona.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/FB-ad-Ramona.webp",
+        "file": "FB-ad-Ramona.webp",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/FB-ad-Ramona.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2206,
+        "type": "full",
+        "path": "2024/09/IG-ad-video.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/IG-ad-video.webp",
+        "file": "IG-ad-video.webp",
+        "width": 1200,
+        "height": 630,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/IG-ad-video.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
