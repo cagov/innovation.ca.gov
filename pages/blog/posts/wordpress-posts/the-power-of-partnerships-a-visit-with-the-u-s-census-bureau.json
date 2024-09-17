@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-14T20:57:59",
-    "updated_date": "2024-09-04T21:16:59",
+    "updated_date": "2024-09-17T20:51:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-14T13:57:59",
     "date_gmt": "2024-08-14T20:57:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2073",
-    "modified": "2024-09-04T14:16:59",
-    "modified_gmt": "2024-09-04T21:16:59",
+    "modified": "2024-09-17T13:51:29",
+    "modified_gmt": "2024-09-17T20:51:29",
     "slug": "the-power-of-partnerships-a-visit-with-the-u-s-census-bureau",
     "status": "publish",
     "type": "post",
@@ -65,7 +65,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/08/14/the-power-of-partnerships-a-visit-with-the-u-s-census-bureau/",
       "page_title": "The power of partnerships: a visit with the U.S. Census Bureau",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/cropped-tong-santos-marino.png",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cropped-tong-santos-marino.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
