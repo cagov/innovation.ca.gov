@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2024-09-17T21:16:39",
+    "updated_date": "2024-09-17T21:16:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2183",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2183,
+    "date": "2024-09-17T14:16:39",
+    "date_gmt": "2024-09-17T21:16:39",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp",
+    "modified": "2024-09-17T14:16:39",
+    "modified_gmt": "2024-09-17T21:16:39",
+    "slug": "dtsc-page-desktop_v2-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dtsc-page-desktop_v2-2/",
+    "title": "dtsc-page-desktop_v2",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp'><img loading=\"lazy\" decoding=\"async\" width=\"376\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-376x576.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-376x576.webp 376w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-669x1024.webp 669w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-768x1176.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-1003x1536.webp 1003w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp 1322w\" sizes=\"(max-width: 376px) 100vw, 376px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1322,
+      "height": 2024,
+      "file": "2024/09/dtsc-page-desktop_v2.webp",
+      "filesize": 158328,
+      "sizes": {
+        "medium": {
+          "file": "dtsc-page-desktop_v2-376x576.webp",
+          "width": 376,
+          "height": 576,
+          "filesize": 28706,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-376x576.webp"
+        },
+        "large": {
+          "file": "dtsc-page-desktop_v2-669x1024.webp",
+          "width": 669,
+          "height": 1024,
+          "filesize": 74834,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-669x1024.webp"
+        },
+        "thumbnail": {
+          "file": "dtsc-page-desktop_v2-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 4200,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-150x150.webp"
+        },
+        "medium_large": {
+          "file": "dtsc-page-desktop_v2-768x1176.webp",
+          "width": 768,
+          "height": 1176,
+          "filesize": 92664,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-768x1176.webp"
+        },
+        "1536x1536": {
+          "file": "dtsc-page-desktop_v2-1003x1536.webp",
+          "width": 1003,
+          "height": 1536,
+          "filesize": 135784,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-1003x1536.webp"
+        },
+        "full": {
+          "file": "dtsc-page-desktop_v2.webp",
+          "width": 1322,
+          "height": 2024,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/09/dtsc-page-desktop_v2.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp",
+        "file": "dtsc-page-desktop_v2.webp",
+        "width": 1322,
+        "height": 2024,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/09/dtsc-page-desktop_v2-1003x1536.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-1003x1536.webp",
+        "file": "dtsc-page-desktop_v2-1003x1536.webp",
+        "width": 1003,
+        "height": 1536,
+        "filesize": 135784,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-1003x1536.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/09/dtsc-page-desktop_v2-768x1176.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-768x1176.webp",
+        "file": "dtsc-page-desktop_v2-768x1176.webp",
+        "width": 768,
+        "height": 1176,
+        "filesize": 92664,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-768x1176.webp"
+      },
+      {
+        "type": "large",
+        "path": "2024/09/dtsc-page-desktop_v2-669x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-669x1024.webp",
+        "file": "dtsc-page-desktop_v2-669x1024.webp",
+        "width": 669,
+        "height": 1024,
+        "filesize": 74834,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-669x1024.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/09/dtsc-page-desktop_v2-376x576.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-376x576.webp",
+        "file": "dtsc-page-desktop_v2-376x576.webp",
+        "width": 376,
+        "height": 576,
+        "filesize": 28706,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-376x576.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/09/dtsc-page-desktop_v2-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-150x150.webp",
+        "file": "dtsc-page-desktop_v2-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 4200,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-desktop_v2-150x150.webp"
+      }
+    ],
+    "path": "2024/09/dtsc-page-desktop_v2.webp"
+  }
+}

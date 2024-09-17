@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "created_date": "2024-09-17T21:16:41",
+    "updated_date": "2024-09-17T21:16:41",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2184",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2184,
+    "date": "2024-09-17T14:16:41",
+    "date_gmt": "2024-09-17T21:16:41",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2.webp",
+    "modified": "2024-09-17T14:16:41",
+    "modified_gmt": "2024-09-17T21:16:41",
+    "slug": "dtsc-page-mobile_v2-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dtsc-page-mobile_v2-2/",
+    "title": "dtsc-page-mobile_v2",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp'><img loading=\"lazy\" decoding=\"async\" width=\"153\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-153x576.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-153x576.webp 153w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-272x1024.webp 272w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-768x2887.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-409x1536.webp 409w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-545x2048.webp 545w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp 681w\" sizes=\"(max-width: 153px) 100vw, 153px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 681,
+      "height": 2560,
+      "file": "2024/09/dtsc-page-mobile_v2-scaled.webp",
+      "filesize": 143904,
+      "sizes": {
+        "medium": {
+          "file": "dtsc-page-mobile_v2-153x576.webp",
+          "width": 153,
+          "height": 576,
+          "filesize": 18496,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-153x576.webp"
+        },
+        "large": {
+          "file": "dtsc-page-mobile_v2-272x1024.webp",
+          "width": 272,
+          "height": 1024,
+          "filesize": 45372,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-272x1024.webp"
+        },
+        "thumbnail": {
+          "file": "dtsc-page-mobile_v2-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 6162,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-150x150.webp"
+        },
+        "medium_large": {
+          "file": "dtsc-page-mobile_v2-768x2887.webp",
+          "width": 768,
+          "height": 2887,
+          "filesize": 165488,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-768x2887.webp"
+        },
+        "1536x1536": {
+          "file": "dtsc-page-mobile_v2-409x1536.webp",
+          "width": 409,
+          "height": 1536,
+          "filesize": 77636,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-409x1536.webp"
+        },
+        "2048x2048": {
+          "file": "dtsc-page-mobile_v2-545x2048.webp",
+          "width": 545,
+          "height": 2048,
+          "filesize": 111222,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-545x2048.webp"
+        },
+        "full": {
+          "file": "dtsc-page-mobile_v2-scaled.webp",
+          "width": 681,
+          "height": 2560,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "dtsc-page-mobile_v2.webp"
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp",
+    "sizes": [
+      {
+        "type": "medium_large",
+        "path": "2024/09/dtsc-page-mobile_v2-768x2887.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-768x2887.webp",
+        "file": "dtsc-page-mobile_v2-768x2887.webp",
+        "width": 768,
+        "height": 2887,
+        "filesize": 165488,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-768x2887.webp"
+      },
+      {
+        "type": "full",
+        "path": "2024/09/dtsc-page-mobile_v2-scaled.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp",
+        "file": "dtsc-page-mobile_v2-scaled.webp",
+        "width": 681,
+        "height": 2560,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-scaled.webp"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2024/09/dtsc-page-mobile_v2-545x2048.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-545x2048.webp",
+        "file": "dtsc-page-mobile_v2-545x2048.webp",
+        "width": 545,
+        "height": 2048,
+        "filesize": 111222,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-545x2048.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/09/dtsc-page-mobile_v2-409x1536.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-409x1536.webp",
+        "file": "dtsc-page-mobile_v2-409x1536.webp",
+        "width": 409,
+        "height": 1536,
+        "filesize": 77636,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-409x1536.webp"
+      },
+      {
+        "type": "large",
+        "path": "2024/09/dtsc-page-mobile_v2-272x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-272x1024.webp",
+        "file": "dtsc-page-mobile_v2-272x1024.webp",
+        "width": 272,
+        "height": 1024,
+        "filesize": 45372,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-272x1024.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/09/dtsc-page-mobile_v2-153x576.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-153x576.webp",
+        "file": "dtsc-page-mobile_v2-153x576.webp",
+        "width": 153,
+        "height": 576,
+        "filesize": 18496,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-153x576.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/09/dtsc-page-mobile_v2-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-150x150.webp",
+        "file": "dtsc-page-mobile_v2-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 6162,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/dtsc-page-mobile_v2-150x150.webp"
+      }
+    ],
+    "path": "2024/09/dtsc-page-mobile_v2-scaled.webp"
+  }
+}
