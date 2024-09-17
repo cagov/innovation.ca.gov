@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-13T18:27:24",
-    "updated_date": "2024-05-03T15:56:27",
+    "updated_date": "2024-09-17T16:40:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-04-13T11:27:24",
     "date_gmt": "2022-04-13T18:27:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=300",
-    "modified": "2024-05-03T08:56:27",
-    "modified_gmt": "2024-05-03T15:56:27",
+    "modified": "2024-09-17T09:40:55",
+    "modified_gmt": "2024-09-17T16:40:55",
     "slug": "data-and-innovation-fund",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/data-and-innovation-fund/",
