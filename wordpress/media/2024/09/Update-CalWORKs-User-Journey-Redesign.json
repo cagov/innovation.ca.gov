@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2024-09-17T23:14:57",
+    "updated_date": "2024-09-17T23:14:57",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2201",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2201,
+    "date": "2024-09-17T16:14:57",
+    "date_gmt": "2024-09-17T23:14:57",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+    "modified": "2024-09-17T16:14:57",
+    "modified_gmt": "2024-09-17T23:14:57",
+    "slug": "update-calworks-user-journey-redesign",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/update-calworks-user-journey-redesign/",
+    "title": "Update-CalWORKs-User-Journey-Redesign",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"309\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1024x549.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-768x412.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1536x824.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp 1656w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1656,
+      "height": 888,
+      "file": "2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+      "filesize": 92586,
+      "sizes": {
+        "medium": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-576x309.webp",
+          "width": 576,
+          "height": 309,
+          "filesize": 26552,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp"
+        },
+        "large": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-1024x549.webp",
+          "width": 1024,
+          "height": 549,
+          "filesize": 60206,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1024x549.webp"
+        },
+        "thumbnail": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 5892,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-150x150.webp"
+        },
+        "medium_large": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-768x412.webp",
+          "width": 768,
+          "height": 412,
+          "filesize": 41044,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-768x412.webp"
+        },
+        "1536x1536": {
+          "file": "Update-CalWORKs-User-Journey-Redesign-1536x824.webp",
+          "width": 1536,
+          "height": 824,
+          "filesize": 104716,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1536x824.webp"
+        },
+        "full": {
+          "file": "Update-CalWORKs-User-Journey-Redesign.webp",
+          "width": 1656,
+          "height": 888,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign.webp",
+        "width": 1656,
+        "height": 888,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign-1536x824.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1536x824.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign-1536x824.webp",
+        "width": 1536,
+        "height": 824,
+        "filesize": 104716,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1536x824.webp"
+      },
+      {
+        "type": "large",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign-1024x549.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1024x549.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign-1024x549.webp",
+        "width": 1024,
+        "height": 549,
+        "filesize": 60206,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-1024x549.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign-768x412.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-768x412.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign-768x412.webp",
+        "width": 768,
+        "height": 412,
+        "filesize": 41044,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-768x412.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign-576x309.webp",
+        "width": 576,
+        "height": 309,
+        "filesize": 26552,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-576x309.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/09/Update-CalWORKs-User-Journey-Redesign-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-150x150.webp",
+        "file": "Update-CalWORKs-User-Journey-Redesign-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 5892,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/Update-CalWORKs-User-Journey-Redesign-150x150.webp"
+      }
+    ],
+    "path": "2024/09/Update-CalWORKs-User-Journey-Redesign.webp"
+  }
+}
