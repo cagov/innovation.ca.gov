@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-14T16:24:55",
-    "updated_date": "2024-09-04T21:54:15",
+    "updated_date": "2024-09-17T20:52:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-14T09:24:55",
     "date_gmt": "2024-06-14T16:24:55",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2006",
-    "modified": "2024-09-04T14:54:15",
-    "modified_gmt": "2024-09-04T21:54:15",
+    "modified": "2024-09-17T13:52:57",
+    "modified_gmt": "2024-09-17T20:52:57",
     "slug": "advancing-equity-bringing-heart-to-data",
     "status": "publish",
     "type": "post",
@@ -65,7 +65,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/06/14/advancing-equity-bringing-heart-to-data/",
       "page_title": "Advancing equity: Bringing heart to data",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/06/cropped-cdo-lally.png",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cdo-lally.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
