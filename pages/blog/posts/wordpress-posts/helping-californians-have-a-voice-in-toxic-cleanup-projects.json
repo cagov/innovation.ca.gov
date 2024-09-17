@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-14T15:57:24",
-    "updated_date": "2023-10-18T22:44:36",
+    "updated_date": "2024-09-17T21:01:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-14T08:57:24",
     "date_gmt": "2023-08-14T15:57:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=1435",
-    "modified": "2023-10-18T15:44:36",
-    "modified_gmt": "2023-10-18T22:44:36",
+    "modified": "2024-09-17T14:01:29",
+    "modified_gmt": "2024-09-17T21:01:29",
     "slug": "helping-californians-have-a-voice-in-toxic-cleanup-projects",
     "status": "publish",
     "type": "post",
@@ -65,7 +65,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2023/08/14/helping-californians-have-a-voice-in-toxic-cleanup-projects/",
       "page_title": "Helping Californians have a voice in toxic cleanup projects",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/cropped-dtsc-case-study-cover.png",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/cropped-dtsc-case-study-cover-2.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
