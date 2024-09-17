@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-15T00:00:39",
-    "updated_date": "2024-05-03T15:57:27",
+    "updated_date": "2024-09-17T22:59:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-14T16:00:39",
     "date_gmt": "2022-12-15T00:00:39",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=961",
-    "modified": "2024-05-03T08:57:27",
-    "modified_gmt": "2024-05-03T15:57:27",
+    "modified": "2024-09-17T15:59:02",
+    "modified_gmt": "2024-09-17T22:59:02",
     "slug": "applying-cea-job",
     "status": "publish",
     "type": "page",
@@ -74,6 +74,19 @@
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/applying-cea-job/",
     "media": [
       {
+        "id": 2193,
+        "type": "full",
+        "path": "2024/09/cea-desirable-qualifications-3.52.16-PM.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-desirable-qualifications-3.52.16-PM.webp",
+        "file": "cea-desirable-qualifications-3.52.16-PM.webp",
+        "width": 1532,
+        "height": 520,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-desirable-qualifications-3.52.16-PM.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
         "id": 947,
         "type": "full",
         "path": "2022/12/cea-job-posting-header.png",
@@ -109,6 +122,19 @@
         "height": 171,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-job-posting-header-576x171.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2194,
+        "type": "full",
+        "path": "2024/09/cea-knowledge-abilities-3.52.16-PM.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-knowledge-abilities-3.52.16-PM.webp",
+        "file": "cea-knowledge-abilities-3.52.16-PM.webp",
+        "width": 1532,
+        "height": 1268,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-knowledge-abilities-3.52.16-PM.webp",
         "source_url_match": true,
         "featured": false
       },
@@ -161,6 +187,19 @@
         "height": 110,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/12/cea-minimum-requirements-576x110.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2195,
+        "type": "full",
+        "path": "2024/09/cea-required-application-package-documents.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-required-application-package-documents.webp",
+        "file": "cea-required-application-package-documents.webp",
+        "width": 1532,
+        "height": 538,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/cea-required-application-package-documents.webp",
         "source_url_match": true,
         "featured": false
       }
