@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-19T16:38:16",
-    "updated_date": "2024-08-26T15:42:12",
+    "updated_date": "2024-09-17T23:29:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-19T09:38:16",
     "date_gmt": "2022-05-19T16:38:16",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=474",
-    "modified": "2024-08-26T08:42:12",
-    "modified_gmt": "2024-08-26T15:42:12",
+    "modified": "2024-09-17T16:29:16",
+    "modified_gmt": "2024-09-17T23:29:16",
     "slug": "working-in-the-open-on-the-california-design-system",
     "status": "publish",
     "type": "post",
@@ -370,6 +370,19 @@
         "height": 321,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/05/working-in-open-code-jayli-2-576x321.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2209,
+        "type": "full",
+        "path": "2024/09/working-in-open-collaboration.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/working-in-open-collaboration.webp",
+        "file": "working-in-open-collaboration.webp",
+        "width": 1954,
+        "height": 1502,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/working-in-open-collaboration.webp",
         "source_url_match": true,
         "featured": false
       }
