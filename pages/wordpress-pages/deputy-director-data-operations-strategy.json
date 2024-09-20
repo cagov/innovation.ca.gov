@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-20T22:02:52",
-    "updated_date": "2024-09-20T22:02:58",
+    "updated_date": "2024-09-20T22:08:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-20T15:02:52",
     "date_gmt": "2024-09-20T22:02:52",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2220",
-    "modified": "2024-09-20T15:02:58",
-    "modified_gmt": "2024-09-20T22:02:58",
+    "modified": "2024-09-20T15:08:36",
+    "modified_gmt": "2024-09-20T22:08:36",
     "slug": "deputy-director-data-operations-strategy",
     "status": "publish",
     "type": "page",
