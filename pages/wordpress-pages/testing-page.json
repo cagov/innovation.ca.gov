@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2024-09-20T22:49:30",
+    "updated_date": "2024-09-25T22:29:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2024-09-20T15:49:30",
-    "modified_gmt": "2024-09-20T22:49:30",
+    "modified": "2024-09-25T15:29:15",
+    "modified_gmt": "2024-09-25T22:29:15",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
@@ -85,6 +85,91 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 2238,
+        "type": "full",
+        "path": "2024/09/matt_zhou_portrait.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait.webp",
+        "file": "matt_zhou_portrait.webp",
+        "width": 1473,
+        "height": 2062,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2238,
+        "type": "2048x2048",
+        "path": "2024/09/matt_zhou_portrait-1463x2048.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-1463x2048.webp",
+        "file": "matt_zhou_portrait-1463x2048.webp",
+        "width": 1463,
+        "height": 2048,
+        "filesize": 182862,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-1463x2048.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2238,
+        "type": "1536x1536",
+        "path": "2024/09/matt_zhou_portrait-1097x1536.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-1097x1536.webp",
+        "file": "matt_zhou_portrait-1097x1536.webp",
+        "width": 1097,
+        "height": 1536,
+        "filesize": 127432,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-1097x1536.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2238,
+        "type": "medium_large",
+        "path": "2024/09/matt_zhou_portrait-768x1075.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-768x1075.webp",
+        "file": "matt_zhou_portrait-768x1075.webp",
+        "width": 768,
+        "height": 1075,
+        "filesize": 76382,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-768x1075.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2238,
+        "type": "large",
+        "path": "2024/09/matt_zhou_portrait-731x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-731x1024.webp",
+        "file": "matt_zhou_portrait-731x1024.webp",
+        "width": 731,
+        "height": 1024,
+        "filesize": 71102,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-731x1024.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2238,
+        "type": "medium",
+        "path": "2024/09/matt_zhou_portrait-411x576.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-411x576.webp",
+        "file": "matt_zhou_portrait-411x576.webp",
+        "width": 411,
+        "height": 576,
+        "filesize": 28802,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt_zhou_portrait-411x576.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
