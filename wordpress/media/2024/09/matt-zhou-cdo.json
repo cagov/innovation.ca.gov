@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "created_date": "2024-09-26T18:51:28",
+    "updated_date": "2024-09-26T18:51:38",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2253",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2253,
+    "date": "2024-09-26T11:51:28",
+    "date_gmt": "2024-09-26T18:51:28",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+    "modified": "2024-09-26T11:51:38",
+    "modified_gmt": "2024-09-26T18:51:38",
+    "slug": "matt-zhou-cdo",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/matt-zhou-cdo/",
+    "title": "matt-zhou-cdo",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp'><img loading=\"lazy\" decoding=\"async\" width=\"411\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-411x576.webp\" class=\"attachment-medium size-medium\" alt=\"Assistant Chief Data Office Matt Zhou\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-411x576.webp 411w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp 600w\" sizes=\"(max-width: 411px) 100vw, 411px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Assistant Chief Data Office Matt Zhou",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 600,
+      "height": 840,
+      "file": "2024/09/matt-zhou-cdo.webp",
+      "filesize": 32588,
+      "sizes": {
+        "medium": {
+          "file": "matt-zhou-cdo-411x576.webp",
+          "width": 411,
+          "height": 576,
+          "filesize": 24554,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-411x576.webp"
+        },
+        "thumbnail": {
+          "file": "matt-zhou-cdo-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 4816,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-150x150.webp"
+        },
+        "full": {
+          "file": "matt-zhou-cdo.webp",
+          "width": 600,
+          "height": 840,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/09/matt-zhou-cdo.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+        "file": "matt-zhou-cdo.webp",
+        "width": 600,
+        "height": 840,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2024/09/matt-zhou-cdo-411x576.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-411x576.webp",
+        "file": "matt-zhou-cdo-411x576.webp",
+        "width": 411,
+        "height": 576,
+        "filesize": 24554,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-411x576.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/09/matt-zhou-cdo-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-150x150.webp",
+        "file": "matt-zhou-cdo-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 4816,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo-150x150.webp"
+      }
+    ],
+    "path": "2024/09/matt-zhou-cdo.webp"
+  }
+}
