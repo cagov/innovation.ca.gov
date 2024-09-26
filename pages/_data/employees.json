@@ -315,6 +315,15 @@
     }
   },
   {
+    "name": "Summer Mothwood",
+    "pronouns": "she/her",
+    "title": "Principal Analytics Engineer",
+    "pic": "s-mothwood.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/summermothwood"
+    }
+  },
+  {
     "name": "Tara Stevens",
     "title": "Head of Administration",
     "pic": "t-stevens.jpg"
