@@ -15,7 +15,18 @@
     }
   }
 }
-
+@media (min-width: 555px) {
+  .cagov-float-left {
+    float: left;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+  }
+  .cagov-float-right {
+    float: right;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+  }
+}
 .cagov-align-right,
 .cagov-align-left {
   img {
