@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2024-09-26T18:56:36",
+    "updated_date": "2024-09-26T18:56:42",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2234",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2234,
+    "date": "2024-09-26T11:56:36",
+    "date_gmt": "2024-09-26T18:56:36",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2234",
+    "modified": "2024-09-26T11:56:42",
+    "modified_gmt": "2024-09-26T18:56:42",
+    "slug": "a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/09/26/a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer/",
+    "title": "A journey to public service: Meet the state’s new Assistant Chief Data Officer",
+    "excerpt": "<p>It’s an honor to be the State of California’s new Assistant Chief Data Officer! I’m immensely grateful to be trusted with this responsibility by Governor Newsom, the&nbsp; Director of the Office of Data and Innovation (ODI), Jeffery Marino, and California’s State Chief Data Officer, Jason Lally. ODI’s vision of a California state government that is &#8230; <a title=\"A journey to public service: Meet the state’s new Assistant Chief Data Officer\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/09/26/a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer/\" aria-label=\"More on A journey to public service: Meet the state’s new Assistant Chief Data Officer\">Read more</a></p>\n",
+    "author": "Matthew Zhou",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/09/26/a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer/",
+      "page_title": "A journey to public service: Meet the state’s new Assistant Chief Data Officer",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "A journey to public service: Meet the state’s new Assistant Chief Data Officer",
+      "meta_description": "Matt Zhou on why he’s excited to support ODI’s mission of a California government that is equitable, innovative, and constantly improving.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/09/26/a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer/",
+      "open_graph_title": "A journey to public service: Meet the state’s new Assistant Chief Data Officer",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "A journey to public service: Meet the state’s new Assistant Chief Data Officer",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/09/26/a-journey-to-public-service-meet-the-states-new-assistant-chief-data-officer/",
+    "media": [
+      {
+        "id": 2253,
+        "type": "full",
+        "path": "2024/09/matt-zhou-cdo.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+        "file": "matt-zhou-cdo.webp",
+        "width": 600,
+        "height": 840,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/matt-zhou-cdo.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
