@@ -5,6 +5,8 @@ on:
     branches:
       - main
 
+  workflow_dispatch:
+
 concurrency: # replaces use of n1hility/cancel-previous-runs
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
