@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T19:55:41",
-    "updated_date": "2024-08-26T20:44:01",
+    "updated_date": "2024-10-14T22:01:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-22T12:55:41",
     "date_gmt": "2024-08-22T19:55:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2111",
-    "modified": "2024-08-26T13:44:01",
-    "modified_gmt": "2024-08-26T20:44:01",
+    "modified": "2024-10-14T15:01:54",
+    "modified_gmt": "2024-10-14T22:01:54",
     "slug": "statewide-data-programs-manager",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-data-programs-manager/"

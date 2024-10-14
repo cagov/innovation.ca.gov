@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:23:31",
-    "updated_date": "2024-09-27T22:11:49",
+    "updated_date": "2024-10-14T22:02:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:23:31",
     "date_gmt": "2022-03-16T19:23:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=238",
-    "modified": "2024-09-27T15:11:49",
-    "modified_gmt": "2024-09-27T22:11:49",
+    "modified": "2024-10-14T15:02:18",
+    "modified_gmt": "2024-10-14T22:02:18",
     "slug": "join-us",
     "status": "publish",
     "type": "page",
