@@ -32,6 +32,13 @@
     "template": "",
     "meta": [],
     "categories": [],
+    "class_list": [
+      "post-171",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
     "description": "<div style=\"width: 1200px;\" class=\"wp-video\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->\n<video class=\"wp-video-shortcode\" id=\"video-171-1\" width=\"1200\" height=\"679\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4?_=1\" /><a href=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4\">https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4</a></video></div>\n",
     "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2021/12/Grain-Highlight-nTUQgSe7VP4DzyiReNOT3Ow8JwBP4ov7g7OTy5hd-3.mp4</p>\n",
     "alt_text": "",
