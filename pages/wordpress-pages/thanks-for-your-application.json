@@ -40,6 +40,13 @@
     "tags": [
       "layout-no-sidebar"
     ],
+    "class_list": {
+      "0": "post-836",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-layout-no-sidebar"
+    },
     "design_system_fields": {
       "template": "page"
     },

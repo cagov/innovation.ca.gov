@@ -40,6 +40,13 @@
     "tags": [
       "do-not-crawl"
     ],
+    "class_list": {
+      "0": "post-1597",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl"
+    },
     "design_system_fields": {
       "template": "page"
     },

@@ -41,6 +41,14 @@
       "do-not-crawl",
       "layout-no-sidebar"
     ],
+    "class_list": {
+      "0": "post-1010",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl",
+      "6": "tag-layout-no-sidebar"
+    },
     "design_system_fields": {
       "template": "page"
     },

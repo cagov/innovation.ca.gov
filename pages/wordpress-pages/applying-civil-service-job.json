@@ -38,6 +38,12 @@
     },
     "categories": [],
     "tags": [],
+    "class_list": [
+      "post-246",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
     "design_system_fields": {
       "template": "page"
     },
