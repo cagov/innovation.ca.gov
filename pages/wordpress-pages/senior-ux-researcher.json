@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-31T22:47:39",
-    "updated_date": "2024-10-31T22:47:40",
+    "updated_date": "2024-10-31T23:23:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-31T15:47:39",
     "date_gmt": "2024-10-31T22:47:39",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2294",
-    "modified": "2024-10-31T15:47:40",
-    "modified_gmt": "2024-10-31T22:47:40",
+    "modified": "2024-10-31T16:23:41",
+    "modified_gmt": "2024-10-31T23:23:41",
     "slug": "senior-ux-researcher",
     "status": "publish",
     "type": "page",
