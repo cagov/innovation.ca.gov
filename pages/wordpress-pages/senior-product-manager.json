@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created_date": "2024-11-01T22:34:59",
+    "updated_date": "2024-11-01T22:35:00",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2305",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2305,
+    "date": "2024-11-01T15:34:59",
+    "date_gmt": "2024-11-01T22:34:59",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2305",
+    "modified": "2024-11-01T15:35:00",
+    "modified_gmt": "2024-11-01T22:35:00",
+    "slug": "senior-product-manager",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-product-manager/",
+    "title": "Senior Product Manager",
+    "excerpt": "<p>The Senior Product Manager is responsible for helping to deliver a better customer experience for Californians using government services. They will bring product thinking to state departments in a way that is learnable, scalable, and durable.&nbsp; Location: The employee’s workstation is located in Oakland, CA; Sacramento, CA. Travel to the Sacramento headquarters will be required. &#8230; <a title=\"Senior Product Manager\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-product-manager/\" aria-label=\"More on Senior Product Manager\">Read more</a></p>\n",
+    "author": "Lauren Sanford",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-2305",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-product-manager/",
+      "page_title": "Senior Product Manager",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Senior Product Manager",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-product-manager/",
+      "open_graph_title": "Senior Product Manager",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Senior Product Manager",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-product-manager/"
+  }
+}
