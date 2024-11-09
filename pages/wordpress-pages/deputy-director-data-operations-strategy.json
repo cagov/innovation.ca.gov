@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-20T22:02:52",
-    "updated_date": "2024-11-06T19:45:28",
+    "updated_date": "2024-11-09T17:16:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-20T15:02:52",
     "date_gmt": "2024-09-20T22:02:52",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2220",
-    "modified": "2024-11-06T11:45:28",
-    "modified_gmt": "2024-11-06T19:45:28",
+    "modified": "2024-11-09T09:16:27",
+    "modified_gmt": "2024-11-09T17:16:27",
     "slug": "deputy-director-data-operations-strategy",
     "status": "publish",
     "type": "page",
@@ -37,13 +37,16 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
-    "class_list": [
-      "post-2220",
-      "page",
-      "type-page",
-      "status-publish"
+    "tags": [
+      "do-not-crawl"
     ],
+    "class_list": {
+      "0": "post-2220",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl"
+    },
     "design_system_fields": {
       "template": "page"
     },
@@ -74,7 +77,19 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/deputy-director-data-operations-strategy/"
