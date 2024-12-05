@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "created_date": "2024-12-05T21:14:23",
+    "updated_date": "2024-12-05T21:14:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2313",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2313,
+    "date": "2024-12-05T13:14:23",
+    "date_gmt": "2024-12-05T21:14:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2313",
+    "modified": "2024-12-05T13:14:23",
+    "modified_gmt": "2024-12-05T21:14:23",
+    "slug": "using-data-streamline-housing-development",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/",
+    "title": "Using data to streamline housing development",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) built a tool that helps the Department of Housing and Community Development (HCD) meet legislative goals of building more housing faster. Project scope Partner Methods The opportunity California has an ambitious goal of issuing permits for 2.5 million homes by 2030. As a result of underproduction, housing costs &#8230; <a title=\"Using data to streamline housing development\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/\" aria-label=\"More on Using data to streamline housing development\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-2313",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/",
+      "page_title": "Using data to streamline housing development",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Using data to streamline housing development",
+      "meta_description": "The Office of Data and Innovation built a tool that helps the Department of Housing and Community Development meet legislative goals of building more housing faster.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/",
+      "open_graph_title": "Using data to streamline housing development",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Using data to streamline housing development",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/",
+    "media": [
+      {
+        "id": 2326,
+        "type": "full",
+        "path": "2024/11/539-juristictions.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions.png",
+        "file": "539-juristictions.png",
+        "width": 334,
+        "height": 332,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2326,
+        "type": "thumbnail",
+        "path": "2024/11/539-juristictions-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions-150x150.png",
+        "file": "539-juristictions-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 26059,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2325,
+        "type": "full",
+        "path": "2024/11/58-counties.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/58-counties.png",
+        "file": "58-counties.png",
+        "width": 295,
+        "height": 302,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/58-counties.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
