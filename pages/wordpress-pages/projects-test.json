@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-05T18:06:43",
-    "updated_date": "2024-12-05T21:18:10",
+    "updated_date": "2024-12-06T22:21:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-05T11:06:43",
     "date_gmt": "2024-06-05T18:06:43",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1985",
-    "modified": "2024-12-05T13:18:10",
-    "modified_gmt": "2024-12-05T21:18:10",
+    "modified": "2024-12-06T14:21:54",
+    "modified_gmt": "2024-12-06T22:21:54",
     "slug": "projects-test",
     "status": "publish",
     "type": "page",
@@ -195,6 +195,19 @@
         "height": 384,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-project-2.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2338,
+        "type": "full",
+        "path": "2024/12/hcd-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/hcd-project.jpg",
+        "file": "hcd-project.jpg",
+        "width": 1154,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/hcd-project.jpg",
         "source_url_match": true,
         "featured": false
       },
