@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-05T21:14:23",
-    "updated_date": "2024-12-06T22:22:42",
+    "updated_date": "2024-12-06T23:09:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-05T13:14:23",
     "date_gmt": "2024-12-05T21:14:23",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2313",
-    "modified": "2024-12-06T14:22:42",
-    "modified_gmt": "2024-12-06T22:22:42",
+    "modified": "2024-12-06T15:09:24",
+    "modified_gmt": "2024-12-06T23:09:24",
     "slug": "using-data-streamline-housing-development",
     "status": "publish",
     "type": "page",
@@ -61,7 +61,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/using-data-streamline-housing-development/",
       "page_title": "Using data to streamline housing development",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-hcd-case-study-cover.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
