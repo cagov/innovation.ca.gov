@@ -1,0 +1,129 @@
+<p>The Office of Data and Innovation (ODI) collaborates with state departments to improve services for Californians. We help teams across the state make customer-focused, data-driven decisions. ODI partnered with the California State Water Resources Control Board&#8217;s (Water Boards) Division of Drinking Water to forecast the impact of drought on our community water systems.</p>
+
+<p>In this blog post, we&#8217;ll briefly revisit the problem and our initial solution. Then we&#8217;ll describe some challenges we faced and addressed along the way, and close with our vision for the future.</p>
+
+<h2 class="wp-block-heading">Problem</h2>
+
+<p>Californians get their drinking water from 2,866 community water systems throughout the state. These water systems serve 39 million people. In 2022, dry weather caused some outages at these systems. At some point that year, roughly 60,000 Californians relied on bottled or hauled water supplied by the Water Boards. ODI wanted to help the Water Boards predict when these outages might happen.</p>
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="746" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog.gif" alt="" class="wp-image-2358"/><figcaption class="wp-element-caption">This map shows community water systems in California. The blue dots show where water systems outages occurred in 2022. The rest of the systems, shown in orange, operated normally.</figcaption></figure>
+
+<h2 class="wp-block-heading">What we did</h2>
+
+<p>To forecast the impact of drought on community water systems, we need to know:</p>
+
+<ul class="wp-block-list">
+<li>How rainwater flows through streams and rivers</li>
+
+<li>How water sinks deep into the ground</li>
+
+<li>The structures that house our water (our community water systems)</li>
+</ul>
+
+<p>Fortunately, groups like the U.S. Geological Survey collect data that describes the flow of water throughout the state. One example is the <a href="https://www.usgs.gov/3dhp">3D Hydrography Program</a>. Some datasets are so large that they can&#8217;t fit on a standard laptop. Another program is the <a href="https://www.waterboards.ca.gov/safer/">California Water Boards Safe and Affordable Funding for Equity and Resilience</a> project. It collects lots of <a href="https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2024/2024-needs-assessment.pdf">data about the health of California&#8217;s community water systems</a>.</p>
+
+<p>After we collected all these data, we looked for patterns. An example of a simple pattern is rainfall. It usually rains a lot in the winter and spring and much less in the summer and fall. Historical data helps us build confidence in these patterns. If we see this pattern over the last 100 years, we&#8217;ll be pretty confident we&#8217;ll see it this year too.</p>
+
+<p>But some patterns are subtle and complex. To unearth these patterns, we built a computer algorithm called a <strong>machine learning model</strong>. Machine learning models help us look for patterns in historical data. We can also use them to predict future behavior. If we see a pattern in historical data that led to a problem with a community water system, we can watch for the same pattern today. It could lead to the same problem.</p>
+
+<p>Systematically studying data makes for better decision-making and helps us identify problems before they start. Before our project, the Water Boards relied on persistence, intuition, and expertise from water resource engineers. Our model performs better than this previous method.</p>
+
+<h2 class="wp-block-heading">Challenges</h2>
+
+<p>We faced 3 main challenges doing this work.</p>
+
+<h3 class="wp-block-heading">Deciding to use machine learning</h3>
+
+<p>People wondered whether we should use machine learning to make decisions. It&#8217;s a valid concern. We addressed it in a few ways.</p>
+
+<p>At the Water Boards, systems that affect Californians go through a public comment period. This gives the public the chance to share any concerns about using a machine learning model. This process gives the Water Boards structure to respond to concerns.</p>
+
+<p>We also chose a machine learning model that is easy to interpret. That means we understand how the model works.</p>
+
+<h3 class="wp-block-heading">Collecting data</h3>
+
+<p>We also faced challenges around data collection.</p>
+
+<ul class="wp-block-list">
+<li>How much data did we need to build a well-trained machine learning model?</li>
+
+<li>How often do we collect data in the field? (Right now, water resource engineers collect a lot of data manually.)</li>
+
+<li>How can we quickly build and run machine learning models?</li>
+</ul>
+
+<p>To address these challenges, we&#8217;re building a cloud-based system that co-locates data with computational resources. This reduces the time researchers spend to gather and prepare data for analysis. It allows them to quickly query data and rapidly build models. It also allows researchers to build more sophisticated models that may require a lot of computational power. They no longer have to restrict themselves to models that rely on the computational power of a single desktop computer.</p>
+
+<h3 class="wp-block-heading">Breaking down silos</h3>
+
+<p>Our final challenge was about us, the scientists. Scientists often bucket themselves into one of 2 categories:</p>
+
+<ul class="wp-block-list">
+<li>In research, by asking questions to understand a natural process</li>
+
+<li>In operations, by asking questions to meet a legislative or executive mandate.</li>
+</ul>
+
+<p>We argue for blending these traditionally siloed areas to increase discovery potential. Funding mechanisms are also heading in this direction (for example, <a href="https://science.nasa.gov/earth-science/earth-science-to-action/">NASA Earth Science to Action</a>).</p>
+
+<h2 class="wp-block-heading">A vision for the future of environmental data modeling</h2>
+
+<p>The environmental datasets needed to study safe drinking water are</p>
+
+<ul class="wp-block-list">
+<li>Small</li>
+
+<li>Scarce</li>
+
+<li>Scraped from many sources</li>
+
+<li>Irregular in space and time</li>
+</ul>
+
+<p>To get around this, we propose finding large, relevant datasets. A good example is the one from the U.S. Geological Survey we mentioned earlier. Datasets like that can help us figure out if historical patterns in these datasets map to water system failure.</p>
+
+<p>We also propose using datasets that most people don&#8217;t usually look at together. This could include:</p>
+
+<ul class="wp-block-list">
+<li>Groundwater levels</li>
+
+<li>Weather models</li>
+
+<li>Census data</li>
+</ul>
+
+<p>After all, all major global issues – like natural resources (which includes drinking water), transportation, housing, energy – are interconnected. They should be studied that way.</p>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>“Bringing data together across domains in a sustainable, repeatable, and transparent way is really where we can advance both operations and research. I’m so proud of what the team did on this project to demonstrate the art of the possible and to solve problems in a multi-disciplinary way. This is the way forward in putting data to work for Californians.”</p>
+
+<p>Jason Lally, State Chief Data Officer</p>
+</blockquote>
+
+<p>To learn more on the research we conducted, visit the ODI Innovation Hub for a detailed <a href="https://hub.innovation.ca.gov/data/forecasting-community-water-system-outages/">technical paper</a> on this work.</p>
+
+<h2 class="wp-block-heading">About the authors</h2>
+
+<p><em>Monica Bobra</em> is the Principal Data Scientist at the Office of Data and Innovation. She was appointed by Governor Newsom. She&#8217;s particularly interested in bringing together disparate communities in:</p>
+
+<ul class="wp-block-list">
+<li>Scientific research</li>
+
+<li>Software development</li>
+
+<li>Storytelling</li>
+
+<li>Ethics</li>
+</ul>
+
+<p>She previously studied the Sun and space weather at the Harvard-Smithsonian Center for Astrophysics and Stanford University.</p>
+
+<p><em>Dan Wang, PhD, </em>is a researcher at the Division of Drinking Water at the California State Water Resources Control Board. She&#8217;s interested in using modern data analysis techniques to improve the quality and quantity of water in the state. She conducted interdisciplinary research on:</p>
+
+<ul class="wp-block-list">
+<li>Water and wastewater engineering</li>
+
+<li>Environmental/public health</li>
+
+<li>Adaptation/mitigation to climate change impacts</li>
+</ul>

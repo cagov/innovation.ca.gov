@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "created_date": "2024-12-17T19:05:46",
+    "updated_date": "2024-12-17T19:05:46",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2348",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2348,
+    "date": "2024-12-17T11:05:46",
+    "date_gmt": "2024-12-17T19:05:46",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2348",
+    "modified": "2024-12-17T11:05:46",
+    "modified_gmt": "2024-12-17T19:05:46",
+    "slug": "odi-in-action-forecasting-community-water-systems",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-systems/",
+    "title": "ODI in action: Forecasting community water systems",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) collaborates with state departments to improve services for Californians. We help teams across the state make customer-focused, data-driven decisions. ODI partnered with the California State Water Resources Control Board&#8217;s (Water Boards) Division of Drinking Water to forecast the impact of drought on our community water systems. In this &#8230; <a title=\"ODI in action: Forecasting community water systems\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-systems/\" aria-label=\"More on ODI in action: Forecasting community water systems\">Read more</a></p>\n",
+    "author": "Monica Bobra and Dan Wang",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2348",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-systems/",
+      "page_title": "ODI in action: Forecasting community water systems",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "ODI in action: Forecasting community water systems",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-systems/",
+      "open_graph_title": "ODI in action: Forecasting community water systems",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "ODI in action: Forecasting community water systems",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-systems/",
+    "media": [
+      {
+        "id": 2358,
+        "type": "full",
+        "path": "2024/12/ddw-map-blog.gif",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog.gif",
+        "file": "ddw-map-blog.gif",
+        "width": 1024,
+        "height": 746,
+        "mime_type": "image/gif",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog.gif",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
