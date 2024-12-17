@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2024-12-17T19:17:08",
+    "updated_date": "2024-12-17T19:17:08",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2362",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2362,
+    "date": "2024-12-17T11:17:08",
+    "date_gmt": "2024-12-17T19:17:08",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif",
+    "modified": "2024-12-17T11:17:08",
+    "modified_gmt": "2024-12-17T19:17:08",
+    "slug": "cropped-ddw-map-blog-gif",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-ddw-map-blog-gif/",
+    "title": "cropped-ddw-map-blog.gif",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2362",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"320\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-576x320.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-576x320.gif 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-768x427.gif 768w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif</p>\n",
+    "caption": "<p>This map shows community water systems in California. The blue dots show where water systems outages occurred in 2022. The rest of the systems, shown in orange, operated normally.</p>\n",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/gif",
+    "media_details": {
+      "width": 1023,
+      "height": 569,
+      "file": "2024/12/cropped-ddw-map-blog.gif",
+      "filesize": 38870,
+      "sizes": {
+        "medium": {
+          "file": "cropped-ddw-map-blog-576x320.gif",
+          "width": 576,
+          "height": 320,
+          "filesize": 24394,
+          "mime_type": "image/gif",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-576x320.gif"
+        },
+        "thumbnail": {
+          "file": "cropped-ddw-map-blog-150x150.gif",
+          "width": 150,
+          "height": 150,
+          "filesize": 6047,
+          "mime_type": "image/gif",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-150x150.gif"
+        },
+        "medium_large": {
+          "file": "cropped-ddw-map-blog-768x427.gif",
+          "width": 768,
+          "height": 427,
+          "filesize": 36248,
+          "mime_type": "image/gif",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-768x427.gif"
+        },
+        "full": {
+          "file": "cropped-ddw-map-blog.gif",
+          "width": 1023,
+          "height": 569,
+          "mime_type": "image/gif",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2024/12/cropped-ddw-map-blog.gif",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif",
+        "file": "cropped-ddw-map-blog.gif",
+        "width": 1023,
+        "height": 569,
+        "mime_type": "image/gif",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif"
+      },
+      {
+        "type": "medium_large",
+        "path": "2024/12/cropped-ddw-map-blog-768x427.gif",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-768x427.gif",
+        "file": "cropped-ddw-map-blog-768x427.gif",
+        "width": 768,
+        "height": 427,
+        "filesize": 36248,
+        "mime_type": "image/gif",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-768x427.gif"
+      },
+      {
+        "type": "medium",
+        "path": "2024/12/cropped-ddw-map-blog-576x320.gif",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-576x320.gif",
+        "file": "cropped-ddw-map-blog-576x320.gif",
+        "width": 576,
+        "height": 320,
+        "filesize": 24394,
+        "mime_type": "image/gif",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-576x320.gif"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2024/12/cropped-ddw-map-blog-150x150.gif",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-150x150.gif",
+        "file": "cropped-ddw-map-blog-150x150.gif",
+        "width": 150,
+        "height": 150,
+        "filesize": 6047,
+        "mime_type": "image/gif",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog-150x150.gif"
+      }
+    ],
+    "path": "2024/12/cropped-ddw-map-blog.gif"
+  }
+}
