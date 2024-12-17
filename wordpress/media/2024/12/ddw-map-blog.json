@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-17T18:52:48",
-    "updated_date": "2024-12-17T18:52:48",
+    "updated_date": "2024-12-17T18:59:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-17T10:52:48",
     "date_gmt": "2024-12-17T18:52:48",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog.gif",
-    "modified": "2024-12-17T10:52:48",
-    "modified_gmt": "2024-12-17T18:52:48",
+    "modified": "2024-12-17T10:59:27",
+    "modified_gmt": "2024-12-17T18:59:27",
     "slug": "ddw-map-blog",
     "status": "inherit",
     "type": "attachment",
@@ -43,7 +43,7 @@
       "category-uncategorized"
     ],
     "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog.gif'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"420\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog-576x420.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog-576x420.gif 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/ddw-map-blog-768x560.gif 768w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
-    "caption": "",
+    "caption": "<p>This map shows community water systems in California. The blue dots show where water systems outages occurred in 2022. The rest of the systems, shown in orange, operated normally.</p>\n",
     "alt_text": "",
     "media_type": "image",
     "mime_type": "image/gif",
