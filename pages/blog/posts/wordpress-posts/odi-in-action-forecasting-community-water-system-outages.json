@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-17T19:05:46",
-    "updated_date": "2024-12-18T21:44:46",
+    "updated_date": "2024-12-18T21:49:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-17T11:05:46",
     "date_gmt": "2024-12-17T19:05:46",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2348",
-    "modified": "2024-12-18T13:44:46",
-    "modified_gmt": "2024-12-18T21:44:46",
+    "modified": "2024-12-18T13:49:46",
+    "modified_gmt": "2024-12-18T21:49:46",
     "slug": "odi-in-action-forecasting-community-water-system-outages",
     "status": "publish",
     "type": "post",
