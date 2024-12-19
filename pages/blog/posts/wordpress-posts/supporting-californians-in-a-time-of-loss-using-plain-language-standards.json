@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "created_date": "2024-12-19T22:41:45",
+    "updated_date": "2024-12-19T22:41:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2372",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2372,
+    "date": "2024-12-19T14:41:45",
+    "date_gmt": "2024-12-19T22:41:45",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2372",
+    "modified": "2024-12-19T14:41:45",
+    "modified_gmt": "2024-12-19T22:41:45",
+    "slug": "supporting-californians-in-a-time-of-loss-using-plain-language-standards",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2024/12/19/supporting-californians-in-a-time-of-loss-using-plain-language-standards/",
+    "title": "Supporting Californians in a time of loss using plain language standards",
+    "excerpt": "<p>Writing in plain language is an essential part of ODI’s mission to work to achieve exceptional, equitable, outcomes for all Californians. Plain language is text your audience can understand the first time they read it. It can especially help people in a time of crisis, including the loss of a loved one. CalAcademy is ODI&#8217;s &#8230; <a title=\"Supporting Californians in a time of loss using plain language standards\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2024/12/19/supporting-californians-in-a-time-of-loss-using-plain-language-standards/\" aria-label=\"More on Supporting Californians in a time of loss using plain language standards\">Read more</a></p>\n",
+    "author": "Robin Cortez",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2372",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/19/supporting-californians-in-a-time-of-loss-using-plain-language-standards/",
+      "page_title": "Supporting Californians in a time of loss using plain language standards",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-nadra-blog-plain-language.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Supporting Californians in a time of loss using plain language standards",
+      "meta_description": "CalAcademy offered its Introduction to plain language for the public sector training at the 39th annual meeting of the North American Death Care Regulators Association conference in October 2024.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/19/supporting-californians-in-a-time-of-loss-using-plain-language-standards/",
+      "open_graph_title": "Supporting Californians in a time of loss using plain language standards",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Supporting Californians in a time of loss using plain language standards",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/19/supporting-californians-in-a-time-of-loss-using-plain-language-standards/",
+    "media": [
+      {
+        "id": 2377,
+        "type": "full",
+        "path": "2024/12/nadra-blog-plain-language.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language.png",
+        "file": "nadra-blog-plain-language.png",
+        "width": 916,
+        "height": 725,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2377,
+        "type": "medium_large",
+        "path": "2024/12/nadra-blog-plain-language-768x608.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-768x608.png",
+        "file": "nadra-blog-plain-language-768x608.png",
+        "width": 768,
+        "height": 608,
+        "filesize": 94442,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-768x608.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2377,
+        "type": "medium",
+        "path": "2024/12/nadra-blog-plain-language-576x456.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-576x456.png",
+        "file": "nadra-blog-plain-language-576x456.png",
+        "width": 576,
+        "height": 456,
+        "filesize": 67681,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-576x456.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
