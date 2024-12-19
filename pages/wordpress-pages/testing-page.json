@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2024-12-19T21:55:42",
+    "updated_date": "2024-12-19T22:06:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2024-12-19T13:55:42",
-    "modified_gmt": "2024-12-19T21:55:42",
+    "modified": "2024-12-19T14:06:59",
+    "modified_gmt": "2024-12-19T22:06:59",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
@@ -104,6 +104,34 @@
         "height": 725,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2377,
+        "type": "medium_large",
+        "path": "2024/12/nadra-blog-plain-language-768x608.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-768x608.png",
+        "file": "nadra-blog-plain-language-768x608.png",
+        "width": 768,
+        "height": 608,
+        "filesize": 94442,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-768x608.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2377,
+        "type": "medium",
+        "path": "2024/12/nadra-blog-plain-language-576x456.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-576x456.png",
+        "file": "nadra-blog-plain-language-576x456.png",
+        "width": 576,
+        "height": 456,
+        "filesize": 67681,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/nadra-blog-plain-language-576x456.png",
         "source_url_match": true,
         "featured": false
       }
