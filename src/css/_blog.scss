@@ -24,6 +24,9 @@ figure img {
   margin-bottom: 20px;
   max-width: 100%;
 }
+figure.noborder img {
+  border: none;
+}
 figcaption {
   border-bottom: 1px solid #ccc;
   margin-bottom: 15px;
