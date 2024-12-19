@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-17T19:05:46",
-    "updated_date": "2024-12-18T21:49:46",
+    "updated_date": "2024-12-19T21:19:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-17T11:05:46",
     "date_gmt": "2024-12-17T19:05:46",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2348",
-    "modified": "2024-12-18T13:49:46",
-    "modified_gmt": "2024-12-18T21:49:46",
+    "modified": "2024-12-19T13:19:08",
+    "modified_gmt": "2024-12-19T21:19:08",
     "slug": "odi-in-action-forecasting-community-water-system-outages",
     "status": "publish",
     "type": "post",
@@ -74,7 +74,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/12/17/odi-in-action-forecasting-community-water-system-outages/",
       "page_title": "ODI in action: Forecasting community water system outages",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-ddw-map-blog.gif",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/cropped-cropped-ddw-map-blog-v2.gif",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
