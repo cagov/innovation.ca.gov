@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-01-03T19:28:28",
-    "updated_date": "2025-01-03T19:28:28",
+    "updated_date": "2025-01-03T19:33:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-01-03T11:28:28",
     "date_gmt": "2025-01-03T19:28:28",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg",
-    "modified": "2025-01-03T11:28:28",
-    "modified_gmt": "2025-01-03T19:28:28",
+    "modified": "2025-01-03T11:33:42",
+    "modified_gmt": "2025-01-03T19:33:42",
     "slug": "blog-genai-1-3-25",
     "status": "inherit",
     "type": "attachment",
@@ -42,9 +42,9 @@
       "hentry",
       "category-uncategorized"
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1024x512.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-768x384.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1536x768.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg 1752w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg\" class=\"attachment-medium size-medium\" alt=\"GenAI for California: improving state government with GenAI\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1024x512.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-768x384.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1536x768.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg 1752w\" sizes=\"(max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "GenAI for California: improving state government with GenAI",
     "media_type": "image",
     "mime_type": "image/jpeg",
     "media_details": {
