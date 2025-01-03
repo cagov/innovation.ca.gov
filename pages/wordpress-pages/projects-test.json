@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-05T18:06:43",
-    "updated_date": "2024-12-06T22:21:54",
+    "updated_date": "2025-01-03T19:02:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-06-05T11:06:43",
     "date_gmt": "2024-06-05T18:06:43",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1985",
-    "modified": "2024-12-06T14:21:54",
-    "modified_gmt": "2024-12-06T22:21:54",
+    "modified": "2025-01-03T11:02:16",
+    "modified_gmt": "2025-01-03T19:02:16",
     "slug": "projects-test",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/projects-test/",
     "title": "Projects test",
-    "excerpt": "<p>We are a government-to-government department. We drive statewide innovation through human-centered design practices and data-informed decisions. We partner with state departments to build the tools and processes they need to provide equitable and exceptional services to all Californians. Here’s some of the work we have done. Using data to streamline housing development The Department of &#8230; <a title=\"Projects test\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/projects-test/\" aria-label=\"More on Projects test\">Read more</a></p>\n",
+    "excerpt": "<p>We are a government-to-government department. We drive statewide innovation through human-centered design practices and data-informed decisions. We partner with state departments to build the tools and processes they need to provide equitable and exceptional services to all Californians. Here’s some of the work we have done. Using data to forecast drought in community water outages &#8230; <a title=\"Projects test\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/projects-test/\" aria-label=\"More on Projects test\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 0,
@@ -199,45 +199,6 @@
         "featured": false
       },
       {
-        "id": 2338,
-        "type": "full",
-        "path": "2024/12/hcd-project.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/hcd-project.jpg",
-        "file": "hcd-project.jpg",
-        "width": 1154,
-        "height": 768,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/hcd-project.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 372,
-        "type": "full",
-        "path": "2022/04/phone-mockup-covid19.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
-        "file": "phone-mockup-covid19.jpg",
-        "width": 676,
-        "height": 451,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 372,
-        "type": "medium",
-        "path": "2022/04/phone-mockup-covid19-576x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
-        "file": "phone-mockup-covid19-576x384.jpg",
-        "width": 576,
-        "height": 384,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 2202,
         "type": "full",
         "path": "2024/09/phone-mockup-pagefeedback.webp",
@@ -247,19 +208,6 @@
         "height": 717,
         "mime_type": "image/webp",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/phone-mockup-pagefeedback.webp",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 365,
-        "type": "full",
-        "path": "2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
-        "file": "vaccine_sentiment_Vaccine-sentiment-analytics.png",
-        "width": 577,
-        "height": 384,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png",
         "source_url_match": true,
         "featured": false
       }
