@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2025-01-03T19:35:12",
+    "updated_date": "2025-01-03T19:35:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2409",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2409,
+    "date": "2025-01-03T11:35:12",
+    "date_gmt": "2025-01-03T19:35:12",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2409",
+    "modified": "2025-01-03T11:35:13",
+    "modified_gmt": "2025-01-03T19:35:13",
+    "slug": "collaboration-and-human-centered-design-key-to-new-genai-website",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/01/03/collaboration-and-human-centered-design-key-to-new-genai-website/",
+    "title": "Collaboration and human-centered design key to new GenAI website",
+    "excerpt": "<p>A brand new website, designed to serve as a one-stop resource for state staff and the innovator community has launched. GenAI.ca.gov is a new digital resource that continues to deliver upon Governor Gavin Newsom’s Executive Order on Generative AI (EO N-12-23). The site answers key questions that state teams may have as they work through &#8230; <a title=\"Collaboration and human-centered design key to new GenAI website\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/01/03/collaboration-and-human-centered-design-key-to-new-genai-website/\" aria-label=\"More on Collaboration and human-centered design key to new GenAI website\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2409",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/01/03/collaboration-and-human-centered-design-key-to-new-genai-website/",
+      "page_title": "Collaboration and human-centered design key to new GenAI website",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Collaboration and human-centered design key to new GenAI website",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/01/03/collaboration-and-human-centered-design-key-to-new-genai-website/",
+      "open_graph_title": "Collaboration and human-centered design key to new GenAI website",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Collaboration and human-centered design key to new GenAI website",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/01/03/collaboration-and-human-centered-design-key-to-new-genai-website/",
+    "media": [
+      {
+        "id": 2408,
+        "type": "full",
+        "path": "2025/01/blog-genai-1-3-25.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg",
+        "file": "blog-genai-1-3-25.jpg",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2408,
+        "type": "1536x1536",
+        "path": "2025/01/blog-genai-1-3-25-1536x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1536x768.jpg",
+        "file": "blog-genai-1-3-25-1536x768.jpg",
+        "width": 1536,
+        "height": 768,
+        "filesize": 112234,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1536x768.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2408,
+        "type": "large",
+        "path": "2025/01/blog-genai-1-3-25-1024x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1024x512.jpg",
+        "file": "blog-genai-1-3-25-1024x512.jpg",
+        "width": 1024,
+        "height": 512,
+        "filesize": 66022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-1024x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2408,
+        "type": "medium_large",
+        "path": "2025/01/blog-genai-1-3-25-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-768x384.jpg",
+        "file": "blog-genai-1-3-25-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 43500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2408,
+        "type": "medium",
+        "path": "2025/01/blog-genai-1-3-25-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg",
+        "file": "blog-genai-1-3-25-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 29422,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/blog-genai-1-3-25-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
