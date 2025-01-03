@@ -15,11 +15,13 @@ class CAGovPaginator extends HTMLElement {
         console.log("number blocks",this.pagedBlocks.length);
         this.nbrPages = Math.ceil(this.pagedBlocks.length / this.perPage);
         this.currentPage = 1; // !!! pull from URL
+        this.priorPage = 1;
         var locationhash = location.hash;
         if (locationhash.startsWith('#page-')) {
             var cp = parseInt(locationhash.split('-')[1]);
             if (cp > 0 && cp <= this.nbrPages) {
                 this.currentPage = cp;
+                this.priorPage = cp;
                 console.log("Set current page to ",this.currentPage);
             }
         }
@@ -87,10 +89,13 @@ class CAGovPaginator extends HTMLElement {
         this.currentPage = parseInt(e.detail);
         this.drawCurrentPage();
         // smooth scroll to top
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
+        if (true) { // this.currentPage > this.priorPage going forward? scroll to top
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+        this.priorPage = this.currentPage;
     }
 }
 
