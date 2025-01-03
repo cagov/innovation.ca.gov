@@ -79,6 +79,12 @@ class CAGovPaginator extends HTMLElement {
 
         location.hash = `#page-${this.currentPage}`;
         // console.log("location.hash",location.hash);
+
+        // smooth scroll to top
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
     }
 
     paginationHandler(e) {
