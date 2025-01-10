@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-01-03T19:35:12",
-    "updated_date": "2025-01-03T21:05:15",
+    "updated_date": "2025-01-10T17:30:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-01-03T11:35:12",
     "date_gmt": "2025-01-03T19:35:12",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2409",
-    "modified": "2025-01-03T13:05:15",
-    "modified_gmt": "2025-01-03T21:05:15",
+    "modified": "2025-01-10T09:30:41",
+    "modified_gmt": "2025-01-10T17:30:41",
     "slug": "collaboration-and-human-centered-design-key-to-new-genai-website",
     "status": "publish",
     "type": "post",
