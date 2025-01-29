@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-01-29T18:37:33",
-    "updated_date": "2025-01-29T18:37:38",
+    "updated_date": "2025-01-29T18:43:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-01-29T10:37:33",
     "date_gmt": "2025-01-29T18:37:33",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2458",
-    "modified": "2025-01-29T10:37:38",
-    "modified_gmt": "2025-01-29T18:37:38",
-    "slug": "senior-data-policy-analyst-2",
+    "modified": "2025-01-29T10:43:53",
+    "modified_gmt": "2025-01-29T18:43:53",
+    "slug": "senior-data-policy-analyst",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst-2/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst/",
     "title": "Senior Data Policy Analyst",
-    "excerpt": "<p>We are seeking a Senior Data Policy Analyst to join the CalData team at ODI, a team filled with bright and empathetic data people. ODI works across all departments in the state, with data that touches all Californians. You will find that the problems and challenges we engage with require the heart as much as &#8230; <a title=\"Senior Data Policy Analyst\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst-2/\" aria-label=\"More on Senior Data Policy Analyst\">Read more</a></p>\n",
+    "excerpt": "<p>We are seeking a Senior Data Policy Analyst to join the CalData team at ODI, a team filled with bright and empathetic data people. ODI works across all departments in the state, with data that touches all Californians. You will find that the problems and challenges we engage with require the heart as much as &#8230; <a title=\"Senior Data Policy Analyst\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst/\" aria-label=\"More on Senior Data Policy Analyst\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 238,
@@ -58,7 +58,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst-2/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst/",
       "page_title": "Senior Data Policy Analyst",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": "",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Senior Data Policy Analyst",
       "meta_description": "ODI is looking for a Senior Data Policy Analyst to join CalData to work with data that touches all Californians.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst-2/",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst/",
       "open_graph_title": "Senior Data Policy Analyst",
       "open_graph_description": "ODI is looking for a Senior Data Policy Analyst to join CalData to work with data that touches all Californians.",
       "twitter_title": "Senior Data Policy Analyst",
@@ -77,6 +77,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst-2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-policy-analyst/"
   }
 }
