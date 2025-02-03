@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-02-03T22:13:31",
-    "updated_date": "2025-02-03T22:13:31",
+    "updated_date": "2025-02-03T22:13:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-02-03T14:13:31",
     "date_gmt": "2025-02-03T22:13:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2467",
-    "modified": "2025-02-03T14:13:31",
-    "modified_gmt": "2025-02-03T22:13:31",
+    "modified": "2025-02-03T14:13:36",
+    "modified_gmt": "2025-02-03T22:13:36",
     "slug": "project-manager",
     "status": "publish",
     "type": "page",
@@ -69,10 +69,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Project Manager",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "ODI is looking for a project manager to oversee critical projects and initiatives",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/project-manager/",
       "open_graph_title": "Project Manager",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "ODI is looking for a project manager to oversee critical projects and initiatives.",
       "twitter_title": "Project Manager",
       "twitter_description": "Office of Data and Innovation"
     },
