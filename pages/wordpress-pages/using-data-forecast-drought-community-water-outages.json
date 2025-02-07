@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-28T20:15:50",
-    "updated_date": "2024-09-17T21:08:03",
+    "updated_date": "2025-02-07T21:32:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-28T13:15:50",
     "date_gmt": "2024-03-28T20:15:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1746",
-    "modified": "2024-09-17T14:08:03",
-    "modified_gmt": "2024-09-17T21:08:03",
+    "modified": "2025-02-07T13:32:08",
+    "modified_gmt": "2025-02-07T21:32:08",
     "slug": "using-data-forecast-drought-community-water-outages",
     "status": "publish",
     "type": "page",
