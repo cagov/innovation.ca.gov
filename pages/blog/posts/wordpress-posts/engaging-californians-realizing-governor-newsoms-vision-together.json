@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "created_date": "2025-02-25T18:40:24",
+    "updated_date": "2025-02-25T18:40:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2490",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2490,
+    "date": "2025-02-25T10:40:24",
+    "date_gmt": "2025-02-25T18:40:24",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2490",
+    "modified": "2025-02-25T10:40:24",
+    "modified_gmt": "2025-02-25T18:40:24",
+    "slug": "engaging-californians-realizing-governor-newsoms-vision-together",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/",
+    "title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
+    "excerpt": "<p>When we first got the call from Governor Newsom to help shape what would become Engaged California, we were both honored and excited. As longtime advocates for inclusive governance, it was clear this program was a chance to help Californians connect with each other and their government in more meaningful, modern ways—truly embodying the vision &#8230; <a title=\"Engaging Californians: Realizing Governor Newsom’s vision, together\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/\" aria-label=\"More on Engaging Californians: Realizing Governor Newsom’s vision, together\">Read more</a></p>\n",
+    "author": "Jason Lally, State Chief Data Officer, Office of Data and Innovation, and Micah Weinberg, Nonresident Scholar, Carnegie Endowment for International Peace",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2490",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/",
+      "page_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/cropped-engaged-california-logo.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
+      "meta_description": "Engaged California&#8217;s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/",
+      "open_graph_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
+      "open_graph_description": "Engaged California&#8217;s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
+      "twitter_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/",
+    "media": [
+      {
+        "id": 2489,
+        "type": "full",
+        "path": "2025/02/engaged-california-logo.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo.png",
+        "file": "engaged-california-logo.png",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2489,
+        "type": "medium_large",
+        "path": "2025/02/engaged-california-logo-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-768x512.png",
+        "file": "engaged-california-logo-768x512.png",
+        "width": 768,
+        "height": 512,
+        "filesize": 28700,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-768x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2489,
+        "type": "medium",
+        "path": "2025/02/engaged-california-logo-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-576x384.png",
+        "file": "engaged-california-logo-576x384.png",
+        "width": 576,
+        "height": 384,
+        "filesize": 21511,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-576x384.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
