@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-02-25T18:40:24",
-    "updated_date": "2025-02-25T18:40:24",
+    "updated_date": "2025-02-25T18:40:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-02-25T10:40:24",
     "date_gmt": "2025-02-25T18:40:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2490",
-    "modified": "2025-02-25T10:40:24",
-    "modified_gmt": "2025-02-25T18:40:24",
+    "modified": "2025-02-25T10:40:29",
+    "modified_gmt": "2025-02-25T18:40:29",
     "slug": "engaging-californians-realizing-governor-newsoms-vision-together",
     "status": "publish",
     "type": "post",
@@ -79,10 +79,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
-      "meta_description": "Engaged California&#8217;s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
+      "meta_description": "Engaged California’s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/02/25/engaging-californians-realizing-governor-newsoms-vision-together/",
       "open_graph_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
-      "open_graph_description": "Engaged California&#8217;s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
+      "open_graph_description": "Engaged California’s mission is to make public engagement more inclusive and informed so that every voice can be heard in policy decisions.",
       "twitter_title": "Engaging Californians: Realizing Governor Newsom’s vision, together",
       "twitter_description": "Office of Data and Innovation"
     },
