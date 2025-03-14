@@ -270,3 +270,15 @@ cagov-pagination .cagov-pagination__item.cagov-pagination-current {
   /* margin: 0 0; */
   padding: 0 0;
 }
+
+/* homepage patches */
+
+.cagov-aligned-group.homepage-engaged-group>.wp-block-group__inner-container {
+    align-items: start; /* was center */
+}
+
+figure.wp-block-image.size-full.cagov-align-left.homepage-engaged-figure {
+    margin-top: 11px;
+}
+
+
