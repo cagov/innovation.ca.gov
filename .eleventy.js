@@ -53,7 +53,7 @@ module.exports = function (eleventyConfig) {
         );
       }
       // Replace Wordpress media paths with correct 11ty output path.
-      const regexPattern = `http.+?pantheonsite\.io/wp-content/uploads/`;
+      const regexPattern = `http[^"']+?pantheonsite\.io/wp-content/uploads/`;
       content = content.replace(new RegExp(regexPattern, 'g'), `/${wordpressImagePath}/`);
     }
 
