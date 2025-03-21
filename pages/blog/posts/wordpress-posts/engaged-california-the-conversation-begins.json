@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2025-03-21T23:23:55",
+    "updated_date": "2025-03-21T23:23:55",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2539",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2539,
+    "date": "2025-03-21T16:23:55",
+    "date_gmt": "2025-03-21T23:23:55",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2539",
+    "modified": "2025-03-21T16:23:55",
+    "modified_gmt": "2025-03-21T23:23:55",
+    "slug": "engaged-california-the-conversation-begins",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/03/21/engaged-california-the-conversation-begins/",
+    "title": "Engaged California: The conversation begins",
+    "excerpt": "<p>Engaged California has officially launched, and more than 6,000 people have already signed up to participate. Governor Newsom recently called out the strong start to the program in his recent press release and video. Those who opted in for the first use case–focused on the LA wildfire recovery efforts–have accepted their invitation to join the &#8230; <a title=\"Engaged California: The conversation begins\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/03/21/engaged-california-the-conversation-begins/\" aria-label=\"More on Engaged California: The conversation begins\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2539",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/03/21/engaged-california-the-conversation-begins/",
+      "page_title": "Engaged California: The conversation begins",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Engaged California: The conversation begins",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/03/21/engaged-california-the-conversation-begins/",
+      "open_graph_title": "Engaged California: The conversation begins",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Engaged California: The conversation begins",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/03/21/engaged-california-the-conversation-begins/",
+    "media": [
+      {
+        "id": 2541,
+        "type": "full",
+        "path": "2025/03/engaged-ca-conversation-begins.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins.jpg",
+        "file": "engaged-ca-conversation-begins.jpg",
+        "width": 1752,
+        "height": 1169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2541,
+        "type": "1536x1536",
+        "path": "2025/03/engaged-ca-conversation-begins-1536x1025.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-1536x1025.jpg",
+        "file": "engaged-ca-conversation-begins-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "filesize": 228292,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-1536x1025.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2541,
+        "type": "large",
+        "path": "2025/03/engaged-ca-conversation-begins-1024x683.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-1024x683.jpg",
+        "file": "engaged-ca-conversation-begins-1024x683.jpg",
+        "width": 1024,
+        "height": 683,
+        "filesize": 106917,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-1024x683.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2541,
+        "type": "medium_large",
+        "path": "2025/03/engaged-ca-conversation-begins-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-768x512.jpg",
+        "file": "engaged-ca-conversation-begins-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 65431,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2541,
+        "type": "medium",
+        "path": "2025/03/engaged-ca-conversation-begins-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-576x384.jpg",
+        "file": "engaged-ca-conversation-begins-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 40546,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-ca-conversation-begins-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
