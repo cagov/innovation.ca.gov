@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2025-03-21T23:23:07",
+    "updated_date": "2025-03-21T23:23:07",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2542",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2542,
+    "date": "2025-03-21T16:23:07",
+    "date_gmt": "2025-03-21T23:23:07",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg",
+    "modified": "2025-03-21T16:23:07",
+    "modified_gmt": "2025-03-21T23:23:07",
+    "slug": "cropped-engaged-ca-conversation-begins-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-engaged-ca-conversation-begins-jpg/",
+    "title": "cropped-engaged-ca-conversation-begins.jpg",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2542",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"303\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg\" class=\"attachment-medium size-medium\" alt=\"Cell phone screen with Engaged California homepage. A tracker shows &quot;Engagement opens&quot; is done. The status shows &quot;Agenda setting&quot; is underway. To be done are &quot;Review&quot;, &quot;Planning&quot;, &quot;Deliberation&quot;, and &quot;Reporting&quot;\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1024x538.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-768x404.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1536x807.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg 1751w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg</p>\n",
+    "alt_text": "Cell phone screen with Engaged California homepage. A tracker shows \"Engagement opens\" is done. The status shows \"Agenda setting\" is underway. To be done are \"Review\", \"Planning\", \"Deliberation\", and \"Reporting\"",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1751,
+      "height": 920,
+      "file": "2025/03/cropped-engaged-ca-conversation-begins.jpg",
+      "filesize": 279400,
+      "sizes": {
+        "medium": {
+          "file": "cropped-engaged-ca-conversation-begins-576x303.jpg",
+          "width": 576,
+          "height": 303,
+          "filesize": 36028,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg"
+        },
+        "large": {
+          "file": "cropped-engaged-ca-conversation-begins-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "filesize": 94191,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1024x538.jpg"
+        },
+        "thumbnail": {
+          "file": "cropped-engaged-ca-conversation-begins-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 7698,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "cropped-engaged-ca-conversation-begins-768x404.jpg",
+          "width": 768,
+          "height": 404,
+          "filesize": 58255,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-768x404.jpg"
+        },
+        "1536x1536": {
+          "file": "cropped-engaged-ca-conversation-begins-1536x807.jpg",
+          "width": 1536,
+          "height": 807,
+          "filesize": 197132,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1536x807.jpg"
+        },
+        "full": {
+          "file": "cropped-engaged-ca-conversation-begins.jpg",
+          "width": 1751,
+          "height": 920,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg",
+        "file": "cropped-engaged-ca-conversation-begins.jpg",
+        "width": 1751,
+        "height": 920,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins-1536x807.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1536x807.jpg",
+        "file": "cropped-engaged-ca-conversation-begins-1536x807.jpg",
+        "width": 1536,
+        "height": 807,
+        "filesize": 197132,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1536x807.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins-1024x538.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1024x538.jpg",
+        "file": "cropped-engaged-ca-conversation-begins-1024x538.jpg",
+        "width": 1024,
+        "height": 538,
+        "filesize": 94191,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-1024x538.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins-768x404.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-768x404.jpg",
+        "file": "cropped-engaged-ca-conversation-begins-768x404.jpg",
+        "width": 768,
+        "height": 404,
+        "filesize": 58255,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-768x404.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg",
+        "file": "cropped-engaged-ca-conversation-begins-576x303.jpg",
+        "width": 576,
+        "height": 303,
+        "filesize": 36028,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-576x303.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/03/cropped-engaged-ca-conversation-begins-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-150x150.jpg",
+        "file": "cropped-engaged-ca-conversation-begins-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7698,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/cropped-engaged-ca-conversation-begins-150x150.jpg"
+      }
+    ],
+    "path": "2025/03/cropped-engaged-ca-conversation-begins.jpg"
+  }
+}
