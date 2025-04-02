@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-22T00:30:27",
-    "updated_date": "2025-04-02T18:45:29",
+    "updated_date": "2025-04-02T18:45:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-21T16:30:27",
     "date_gmt": "2022-11-22T00:30:27",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=926",
-    "modified": "2025-04-02T11:45:29",
-    "modified_gmt": "2025-04-02T18:45:29",
+    "modified": "2025-04-02T11:45:35",
+    "modified_gmt": "2025-04-02T18:45:35",
     "slug": "tribal-consultation-policy",
     "status": "publish",
     "type": "page",
@@ -66,10 +66,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Tribal consultation policy",
-      "meta_description": "ODI&#8217;s tribal consultation policy is intended to foster effective consultation and collaboration between ODI and California Indian Tribes.",
+      "meta_description": "ODI’s tribal consultation policy is intended to foster effective consultation and collaboration between ODI and California Indian Tribes.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/tribal-consultation-policy/",
       "open_graph_title": "Tribal consultation policy",
-      "open_graph_description": "ODI&#8217;s tribal consultation policy is intended to foster effective consultation and collaboration between ODI and California Indian Tribes.",
+      "open_graph_description": "ODI’s tribal consultation policy is intended to foster effective consultation and collaboration between ODI and California Indian Tribes.",
       "twitter_title": "Tribal consultation policy",
       "twitter_description": "Office of Data and Innovation"
     },
