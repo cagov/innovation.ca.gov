@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created_date": "2025-04-03T20:11:00",
+    "updated_date": "2025-04-03T20:11:00",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2557",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2557,
+    "date": "2025-04-03T13:11:00",
+    "date_gmt": "2025-04-03T20:11:00",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2557",
+    "modified": "2025-04-03T13:11:00",
+    "modified_gmt": "2025-04-03T20:11:00",
+    "slug": "legislative-report-2024",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2024/",
+    "title": "Legislative Report: July 1, 2023-July 1, 2024",
+    "excerpt": "<p>Overview The Office of Data and Innovation (ODI) was established on July 1, 2019, as an office within the Government Operations Agency (GovOps) and became a standalone department on July 1, 2023. This year’s legislative report showcases the progress made during the 2023-24 fiscal year (FY). ODI’s mission and vision statement are:&nbsp; From its creation, &#8230; <a title=\"Legislative Report: July 1, 2023-July 1, 2024\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2024/\" aria-label=\"More on Legislative Report: July 1, 2023-July 1, 2024\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1839,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-2557",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2024/",
+      "page_title": "Legislative Report: July 1, 2023-July 1, 2024",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Legislative Report: July 1, 2023-July 1, 2024",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2024/",
+      "open_graph_title": "Legislative Report: July 1, 2023-July 1, 2024",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Legislative Report: July 1, 2023-July 1, 2024",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-2024/"
+  }
+}
