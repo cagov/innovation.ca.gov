@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2025-04-18T23:34:21",
+    "updated_date": "2025-04-18T23:34:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2616",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2616,
+    "date": "2025-04-18T16:34:21",
+    "date_gmt": "2025-04-18T23:34:21",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+    "modified": "2025-04-18T16:34:21",
+    "modified_gmt": "2025-04-18T23:34:21",
+    "slug": "cropped-2025-cio-awards-odi-team-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-2025-cio-awards-odi-team-jpg/",
+    "title": "cropped-2025-CIO-awards-ODI-team.jpg",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2616",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg\" class=\"attachment-medium size-medium\" alt=\"ODI and CDT team members on stage at the 2025 CIO Academy Awards getting the IT Team Leadership Award for their work on the LA fires website.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-768x403.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg 876w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg</p>\n",
+    "alt_text": "ODI and CDT team members on stage at the 2025 CIO Academy Awards getting the IT Team Leadership Award for their work on the LA fires website.",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 876,
+      "height": 460,
+      "file": "2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+      "filesize": 128439,
+      "sizes": {
+        "medium": {
+          "file": "cropped-2025-CIO-awards-ODI-team-576x302.jpg",
+          "width": 576,
+          "height": 302,
+          "filesize": 59475,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg"
+        },
+        "thumbnail": {
+          "file": "cropped-2025-CIO-awards-ODI-team-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 9593,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "cropped-2025-CIO-awards-ODI-team-768x403.jpg",
+          "width": 768,
+          "height": 403,
+          "filesize": 95727,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-768x403.jpg"
+        },
+        "full": {
+          "file": "cropped-2025-CIO-awards-ODI-team.jpg",
+          "width": 876,
+          "height": 460,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg",
+        "file": "cropped-2025-CIO-awards-ODI-team.jpg",
+        "width": 876,
+        "height": 460,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/04/cropped-2025-CIO-awards-ODI-team-768x403.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-768x403.jpg",
+        "file": "cropped-2025-CIO-awards-ODI-team-768x403.jpg",
+        "width": 768,
+        "height": 403,
+        "filesize": 95727,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-768x403.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg",
+        "file": "cropped-2025-CIO-awards-ODI-team-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "filesize": 59475,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-576x302.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/04/cropped-2025-CIO-awards-ODI-team-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-150x150.jpg",
+        "file": "cropped-2025-CIO-awards-ODI-team-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 9593,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/cropped-2025-CIO-awards-ODI-team-150x150.jpg"
+      }
+    ],
+    "path": "2025/04/cropped-2025-CIO-awards-ODI-team.jpg"
+  }
+}
