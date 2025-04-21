@@ -281,4 +281,24 @@ figure.wp-block-image.size-full.cagov-align-left.homepage-engaged-figure {
     margin-top: 11px;
 }
 
+blockquote {
+  padding: 1.5rem;
+  background-color: #ecf1f6;
+  border-left: 4px solid #00315f;
+  margin: 3rem 0;
+  font-size: 1.42rem;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: #00315f;
+}
 
+blockquote.bigquote::before {
+  content: "";
+  background-image: url(/img/pull-quote-curls.svg);
+  width: 25px;
+  height: 25px;
+  display: block;
+  background-repeat: no-repeat;
+}
