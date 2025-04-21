@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-18T23:26:51",
-    "updated_date": "2025-04-21T15:57:40",
+    "updated_date": "2025-04-21T15:57:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-04-18T16:26:51",
     "date_gmt": "2025-04-18T23:26:51",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2611",
-    "modified": "2025-04-21T08:57:40",
-    "modified_gmt": "2025-04-21T15:57:40",
+    "modified": "2025-04-21T08:57:45",
+    "modified_gmt": "2025-04-21T15:57:45",
     "slug": "celebrating-a-collaborative-win-for-la-fires-recovery-efforts",
     "status": "publish",
     "type": "post",
