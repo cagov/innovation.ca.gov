@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-09T18:44:09",
-    "updated_date": "2022-06-09T18:49:13",
+    "updated_date": "2025-04-21T16:31:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-06-09T11:44:09",
     "date_gmt": "2022-06-09T18:44:09",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=607",
-    "modified": "2022-06-09T11:49:13",
-    "modified_gmt": "2022-06-09T18:49:13",
+    "modified": "2025-04-21T09:31:31",
+    "modified_gmt": "2025-04-21T16:31:31",
     "slug": "the-everyday-magic-of-plain-language",
     "status": "publish",
     "type": "post",
