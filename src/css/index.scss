@@ -294,7 +294,7 @@ blockquote {
   color: #00315f;
 }
 
-blockquote.bigquote::before {
+blockquote:not(.nobigquote)::before {
   content: "";
   background-image: url(/img/pull-quote-curls.svg);
   width: 25px;
