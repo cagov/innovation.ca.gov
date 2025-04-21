@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-22T16:36:01",
-    "updated_date": "2025-04-21T16:22:46",
+    "updated_date": "2025-04-21T16:22:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-06-22T09:36:01",
     "date_gmt": "2022-06-22T16:36:01",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=636",
-    "modified": "2025-04-21T09:22:46",
-    "modified_gmt": "2025-04-21T16:22:46",
+    "modified": "2025-04-21T09:22:52",
+    "modified_gmt": "2025-04-21T16:22:52",
     "slug": "why-we-use-content-design",
     "status": "publish",
     "type": "post",
