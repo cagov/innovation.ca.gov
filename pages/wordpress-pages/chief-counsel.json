@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-13T18:23:12",
-    "updated_date": "2025-05-13T18:23:12",
+    "updated_date": "2025-05-13T18:23:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-13T11:23:12",
     "date_gmt": "2025-05-13T18:23:12",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2642",
-    "modified": "2025-05-13T11:23:12",
-    "modified_gmt": "2025-05-13T18:23:12",
+    "modified": "2025-05-13T11:23:18",
+    "modified_gmt": "2025-05-13T18:23:18",
     "slug": "chief-counsel",
     "status": "publish",
     "type": "page",
@@ -69,10 +69,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Chief Counsel",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "Under the administrative direction of the Chief Deputy Director, the Chief Counsel serves as the principal legal advisor to the Office of Data and Innovation (ODI) and the Director.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-counsel/",
       "open_graph_title": "Chief Counsel",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "Under the administrative direction of the Chief Deputy Director, the Chief Counsel serves as the principal legal advisor to the Office of Data and Innovation (ODI) and the Director.",
       "twitter_title": "Chief Counsel",
       "twitter_description": "Office of Data and Innovation"
     },
