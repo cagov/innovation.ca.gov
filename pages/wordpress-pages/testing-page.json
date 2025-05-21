@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2025-04-21T20:12:59",
+    "updated_date": "2025-05-21T16:45:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2025-04-21T13:12:59",
-    "modified_gmt": "2025-04-21T20:12:59",
+    "modified": "2025-05-21T09:45:47",
+    "modified_gmt": "2025-05-21T16:45:47",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Michael was here: Mon, Apr 21, 1:12 PM, 2025 I appreciate this. I do find this form of communication clear and valuable. —Californian after seeing the webpage I appreciate this. I do find this form of communication clear and valuable.</p>\n",
+    "excerpt": "<p>Michael was here: Wed, May 21, 1:12 PM, 2025 Providing exceptional customer service for Californians begins with understanding the needs of the people we serve. At the Office of Data and Innovation (ODI), we work with other state departments to help provide better services through training, research, data analysis, and human-centered design. Our latest CalAcademy &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -92,6 +92,89 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 2654,
+        "type": "full",
+        "path": "2025/05/4-product-principles.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles.png",
+        "file": "4-product-principles.png",
+        "width": 876,
+        "height": 370,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2654,
+        "type": "medium_large",
+        "path": "2025/05/4-product-principles-768x324.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles-768x324.png",
+        "file": "4-product-principles-768x324.png",
+        "width": 768,
+        "height": 324,
+        "filesize": 80505,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles-768x324.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2654,
+        "type": "medium",
+        "path": "2025/05/4-product-principles-576x243.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles-576x243.png",
+        "file": "4-product-principles-576x243.png",
+        "width": 576,
+        "height": 243,
+        "filesize": 50895,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/4-product-principles-576x243.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2655,
+        "type": "full",
+        "path": "2025/05/measure-build-test.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/measure-build-test.png",
+        "file": "measure-build-test.png",
+        "width": 438,
+        "height": 375,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/measure-build-test.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2656,
+        "type": "full",
+        "path": "2025/05/prioritizing-people.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/prioritizing-people.png",
+        "file": "prioritizing-people.png",
+        "width": 438,
+        "height": 438,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/prioritizing-people.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2656,
+        "type": "thumbnail",
+        "path": "2025/05/prioritizing-people-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/prioritizing-people-150x150.png",
+        "file": "prioritizing-people-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 12592,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/05/prioritizing-people-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
