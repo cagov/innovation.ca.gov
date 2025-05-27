@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "created_date": "2025-05-27T22:06:23",
+    "updated_date": "2025-05-27T22:06:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2674",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2674,
+    "date": "2025-05-27T15:06:23",
+    "date_gmt": "2025-05-27T22:06:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2674",
+    "modified": "2025-05-27T15:06:23",
+    "modified_gmt": "2025-05-27T22:06:23",
+    "slug": "head-of-design",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-design/",
+    "title": "Head of Design",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) is looking for a Head of Design who is passionate about making government work better for residents and who is curious, creative, and excited about creating the best possible user experience for Californians.  Location: This position provides telework opportunities in accordance with agency telework policies. ODI is currently operating in &#8230; <a title=\"Head of Design\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-design/\" aria-label=\"More on Head of Design\">Read more</a></p>\n",
+    "author": "Brian Rains",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "class_list": {
+      "0": "post-2674",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl"
+    },
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-design/",
+      "page_title": "Head of Design",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Head of Design",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-design/",
+      "open_graph_title": "Head of Design",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Head of Design",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-design/"
+  }
+}
