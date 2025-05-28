@@ -107,13 +107,17 @@ figcaption {
   display: block;
 }
 
-// media fixes - this needs to use a grid template... grid-template-columns will be explicitly set in markup
+// media fixes - this adheres more closely to wordpress built-in media+text styles
 .wp-block-media-text {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+.wp-block-media-text figure img {
+  width: 100%;
+}
 .wp-block-media-text div {
   align-self: center;
+  padding: 0 8%;
 }
 .wp-block-media-text.is-vertically-aligned-top div {
   align-self: flex-start !important;
