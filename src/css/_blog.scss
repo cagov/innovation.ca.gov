@@ -20,7 +20,7 @@ figure iframe {
   max-width: 100%;
 }
 figure img {
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
   margin-bottom: 20px;
   max-width: 100%;
 }
@@ -28,7 +28,7 @@ figure.noborder img {
   border: none;
 }
 figcaption {
-  border-bottom: 1px solid #ccc;
+  /* border-bottom: 1px solid #ccc; */
   margin-bottom: 15px;
   padding-bottom: 10px;
 }
@@ -105,4 +105,37 @@ figcaption {
 .front-and-center img {
   margin: 1rem auto;
   display: block;
+}
+
+// media fixes - this adheres more closely to wordpress built-in media+text styles
+.wp-block-media-text {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.wp-block-media-text figure img {
+  width: 100%;
+}
+.wp-block-media-text div {
+  align-self: center;
+  padding: 0 8%;
+}
+.wp-block-media-text.is-vertically-aligned-top div {
+  align-self: flex-start !important;
+}
+.wp-block-media-text.is-vertically-aligned-bottom div {
+  align-self: flex-end !important;
+}
+.wp-block-media-text.is-vertically-aligned-center div {
+  align-self: center !important;
+}
+
+.wp-block-media-text.is-stacked-on-mobile {
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.wp-block-image .alignright {
+  float: right;
+  margin: .5em 0 .5em 1em;
 }
