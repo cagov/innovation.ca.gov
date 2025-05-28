@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2025-05-21T23:26:28",
+    "updated_date": "2025-05-28T18:17:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2025-05-21T16:26:28",
-    "modified_gmt": "2025-05-21T23:26:28",
+    "modified": "2025-05-28T11:17:41",
+    "modified_gmt": "2025-05-28T18:17:41",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Michael was here: Wed, May 21, 1:12 PM, 2025 Pushing change to add image</p>\n",
+    "excerpt": "<p>Jim was here: Wed, May 28, 11:09 AM, 2025 Pushing change to add image Resized image with text to right side blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah Resized image with text to left side, middle blah blah blah blah &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -92,6 +92,35 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 2326,
+        "type": "full",
+        "path": "2024/11/539-juristictions.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions.png",
+        "file": "539-juristictions.png",
+        "width": 334,
+        "height": 332,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2326,
+        "type": "thumbnail",
+        "path": "2024/11/539-juristictions-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions-150x150.png",
+        "file": "539-juristictions-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 26059,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/11/539-juristictions-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
