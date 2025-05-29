@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-21T22:19:00",
-    "updated_date": "2025-05-21T22:35:11",
+    "updated_date": "2025-05-29T15:40:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-21T15:19:00",
     "date_gmt": "2025-05-21T22:19:00",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2652",
-    "modified": "2025-05-21T15:35:11",
-    "modified_gmt": "2025-05-21T22:35:11",
+    "modified": "2025-05-29T08:40:13",
+    "modified_gmt": "2025-05-29T15:40:13",
     "slug": "new-calacademy-training-for-state-workers-helps-build-a-product-approach-to-public-service",
     "status": "publish",
     "type": "post",
