@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-06T16:15:37",
-    "updated_date": "2025-06-06T16:20:52",
+    "updated_date": "2025-06-06T18:43:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-06T09:15:37",
     "date_gmt": "2025-06-06T16:15:37",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2711",
-    "modified": "2025-06-06T09:20:52",
-    "modified_gmt": "2025-06-06T16:20:52",
+    "modified": "2025-06-06T11:43:02",
+    "modified_gmt": "2025-06-06T18:43:02",
     "slug": "listening-first-what-angelenos-taught-us-about-recovery-after-the-fires",
     "status": "publish",
     "type": "post",
