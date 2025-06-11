@@ -1,0 +1,138 @@
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="876" height="438" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-case-study-cover-1.jpg" alt="Hooded figure typing on laptop surrounded by computer code" class="wp-image-2606" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-case-study-cover-1.jpg 876w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-case-study-cover-1-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-case-study-cover-1-768x384.jpg 768w" sizes="auto, (max-width: 876px) 100vw, 876px" /></figure>
+
+<p class="cagov-emphasized">The Office of Data and Innovation (ODI) built a model that flags electronic benefits transfer (EBT) theft for the California Department of Social Services (CDSS).</p>
+
+<div class="wp-block-group project-page-summary-list"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p class="project-page-summary-section-title">Project scope</p>
+
+<ul class="wp-block-list">
+<li>Timeline: 10 months</li>
+
+<li>Team: 3 data scientists, 4 engineers, 1 analytics manager, 3 program managers, 2 research scientists, 1 research analyst</li>
+
+<li>Reach: 562,000 households</li>
+</ul>
+
+<p class="project-page-summary-section-title">Partner</p>
+
+<ul class="wp-block-list">
+<li><a href="https://www.cdss.ca.gov/" data-type="link" data-id="https://www.cdss.ca.gov/">California Department of Social Services</a></li>
+
+<li><a href="https://www.osi.ca.gov/" data-type="link" data-id="https://www.osi.ca.gov/">Office of Technology and Solutions Integration</a></li>
+</ul>
+</div></div>
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p class="project-page-summary-section-title">Methods</p>
+
+<ul class="wp-block-list">
+<li>Data engineering</li>
+
+<li>Data visualization</li>
+
+<li>Machine learning</li>
+
+<li>Statistical methods</li>
+</ul>
+</div></div>
+</div></div>
+
+<h2 class="wp-block-heading">The opportunity</h2>
+
+<p>California Work Opportunity and Responsibility to Kids (CalWORKs) is a critical safety net program overseen by CDSS. It provides temporary cash aid and services to eligible families with children. Families rely on CalWORKs to help pay for essentials like housing, food, and child care. Benefits are loaded onto a debit card. Recipients can withdraw cash at ATMs or stores.</p>
+
+<p>Criminals target CalWORKs debit cards and steal benefits. About $9 million a month is being stolen. It can take weeks to have stolen benefits replaced.</p>
+
+<p>CDSS has been working on stopping benefits theft. One part of their approach is to use transaction data to identify possible thefts. But CDSS had limited access to data with long turnaround times. They also had trouble identifying what transactions might be theft.</p>
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="876" height="350" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-graph.png" alt="Graph of monthly dollars reimbursed. The amount starts climing in late 2021 and rises dramatically after 2023, peaking in January 2024." class="wp-image-2592" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-graph.png 876w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-graph-576x230.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-graph-768x307.png 768w" sizes="auto, (max-width: 876px) 100vw, 876px" /><figcaption class="wp-element-caption">The graph shows the total monthly dollars reimbursed for reported cash theft. There was a total of $236 million lost to theft in the last 2.5 years. Between December 1, 2023, and March 31, 2024, CDSS reimbursed 42,849 households for $47,437,760 in stolen CalWORKs benefits.</figcaption></figure>
+
+<h2 class="wp-block-heading">How we helped</h2>
+
+<p>ODI built a model that flags benefits theft more quickly and more accurately. During the initial pilot, the tool:</p>
+
+<ul class="wp-block-list">
+<li>Shortens the lag time in measuring EBT theft from 2 months to 72 hours (95% faster)</li>
+
+<li>Collects data automatically (2,160 staff hours saved each year)</li>
+
+<li>Automatically and correctly identifies theft 82% of the time</li>
+
+<li>Shows where theft happens with precise geographic data</li>
+</ul>
+
+<h2 class="wp-block-heading">Our approach</h2>
+
+<p>ODI worked with CDSS’s data vendor to set up daily data dumps of raw data. This went into a secure cloud system run by CDSS. The Office of Technology and Solutions Integration at the California Health and Human Services Agency helped us create a plan to get access to the data.</p>
+
+<ul class="wp-block-list">
+<li>We used 4 months of CalWORKs transactions in the study.</li>
+
+<li>This included 562,000 households who withdrew about $1.4 billion in benefits at 33,000 locations.</li>
+
+<li>We also included data that described $47 million in theft reimbursement to about 43,000 households.</li>
+</ul>
+
+<p>We used 2.5 months of these data to train the model. We used the rest of the data to test its accuracy.</p>
+
+<h2 class="wp-block-heading">What we built</h2>
+
+<p>ODI built a data pipeline to make the vendor data usable. It automatically:</p>
+
+<ul class="wp-block-list">
+<li>Organizes the data so it is easy to use</li>
+
+<li>Cleans up errors and discrepancies</li>
+
+<li>Adds geographic coordinates where missing</li>
+
+<li>Breaks up multiple transactions into individual ones</li>
+</ul>
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="876" height="799" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-map.png" alt="Map of California, showing suspicious transactions clustered around the Bay Area, Sacramento, Los Angeles, and San Diego." class="wp-image-2591" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-map.png 876w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-map-576x525.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-map-768x700.png 768w" sizes="auto, (max-width: 876px) 100vw, 876px" /><figcaption class="wp-element-caption">The map shows the output of the machine learning algorithm. The red dots indicate retail locations with suspicious transactions, while the blue dots indicate retail locations with legitimate transactions. The main panel shows the entire State of California and the smaller panel zooms into the LA Basin.</figcaption></figure>
+
+<p>We used a machine learning model called a random forest. Our model focuses on predicting illegal transactions. 99% of all CalWORKs transactions are legitimate. That makes illegal transactions difficult to predict. Our model correctly predicts illegal transactions 82% of the time.</p>
+
+<p>We check the model through counterfactual questions. This helps us explain why the model flagged a transaction as illegal or legitimate. This lets researchers explain forecasts and build trust with the community.</p>
+
+<p>ODI built the data pipeline and model to integrate with CDSS’s existing systems. CDSS took over the pipeline and model at the end of the project.</p>
+
+<div class="wp-block-group cagov-pull-quote"><div class="wp-block-group__inner-container">
+<p class="cagov-pull-quote-content">While our breakthrough in measuring and predicting theft in closer to real-time will help CDSS today, this project laid the foundation for even larger impacts in the future. An organization that improves through learning requires good data, people who can extract insight from that data, and leaders that use those insights to take action. CDSS is in the middle of a once-in-a-generation modernization of our data infrastructure along with a push to hire data scientists and engineers. ODI dramatically accelerated our efforts to use our new infrastructure and people to ingest, analyze, and extract insights from vast quantities of data – insights that will improve services and protect benefits for low-income Californians.</p>
+
+<p class="cagov-pull-quote-attribution">—Joaquin Carbonell, Research Data Supervisor II, CDSS</p>
+</div></div>
+
+<p class="cagov-pull-quote-attribution">—Californian after seeing the webpage</p>
+</div>
+<p><!-- /wp:group --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">What’s next</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>CDSS plans to build on this project by:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list"><!-- wp:list-item --></p>
+<li>Targeting interventions to protect benefits: At least one theft prevention intervention has been implemented<br />based on this work and more are in development</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Monitoring the impact of upgrades to EBT card technology: California is the first state in the nation to roll out<br />Chip and Tap Cards for EBT benefits</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Looking at if adding the transaction’s time could increase accuracy</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Extending the model to cover CalFresh</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Improving the data pipeline’s geographic data coding</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Identifying compromised cards and where criminals are stealing card information</li>
+<p><!-- /wp:list-item --></ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Learn more about ODI&#8217;s work on this project in our <a href="https://hub.innovation.ca.gov/data/data-driven-approach-detecting-cash-benefit-theft/">technical paper</a>.</p>
+<p><!-- /wp:paragraph --></p>
