@@ -8,24 +8,51 @@
   margin: 0 0 1rem 0;
 }
 
-.centered-logo-link {
-  display: flex;
-	background-color: #ECF1F6;
-	font-size: .875rem;
-	border-radius: .75rem;
-	padding: .75rem;
-	max-width: 216px;
-	max-height: 172px;
-	overflow: hidden;
-
-  flex-flow: column;
+ul.cagov-logo-list {
   justify-content: space-between;
-  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 24px;
 
-  span {
-    text-align: center;
+  .centered-logo-link {
+    img#logo-GO {
+      width: 216px;
+    }
+    img#logo-CDPH {
+      width: 200px;
+    }
+    img#logo-CALOES, img#logo-CDT, img#logo-EDD {
+      width: 220px;
+    }
+    img#logo-CDSS {
+      width: 256px;
+    }
+    img#logo-DWR, img#logo-BCSH {
+      width: 128px;
+    }
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0D4F8C;
+    border-radius: 20px;
+    // font-size: .875rem;
+    // padding: .75rem;
+    width: 268px;
+    height: 154px;
+    overflow: hidden;
+    margin-bottom: 0;
+  
+    // flex-flow: column;
+    // justify-content: space-between;
+    // align-items: center;
+  
+    // span {
+    //   text-align: center;
+    // }
   }
+  
 }
+
 
 .cagov-horizontal-list--left {
   justify-content: flex-start;
