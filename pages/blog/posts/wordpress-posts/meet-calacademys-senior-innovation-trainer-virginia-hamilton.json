@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-26T18:18:33",
-    "updated_date": "2025-06-26T18:25:56",
+    "updated_date": "2025-06-26T18:26:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-26T11:18:33",
     "date_gmt": "2025-06-26T18:18:33",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2754",
-    "modified": "2025-06-26T11:25:56",
-    "modified_gmt": "2025-06-26T18:25:56",
+    "modified": "2025-06-26T11:26:02",
+    "modified_gmt": "2025-06-26T18:26:02",
     "slug": "meet-calacademys-senior-innovation-trainer-virginia-hamilton",
     "status": "publish",
     "type": "post",
