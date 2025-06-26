@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2025-06-26T17:57:31",
+    "updated_date": "2025-06-26T17:57:31",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2760",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2760,
+    "date": "2025-06-26T10:57:31",
+    "date_gmt": "2025-06-26T17:57:31",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
+    "modified": "2025-06-26T10:57:31",
+    "modified_gmt": "2025-06-26T17:57:31",
+    "slug": "cropped-virgina-hamilton-play-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-virgina-hamilton-play-jpg/",
+    "title": "cropped-Virgina-Hamilton-play.jpg",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2760",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"390\" height=\"205\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg\" class=\"attachment-medium size-medium\" alt=\"Virginia Hamilton sits on a pebble beach with rocks that spell out the word PLAY.\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg</p>\n",
+    "alt_text": "Virginia Hamilton sits on a pebble beach with rocks that spell out the word PLAY.",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 390,
+      "height": 205,
+      "file": "2025/06/cropped-Virgina-Hamilton-play.jpg",
+      "filesize": 37014,
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-Virgina-Hamilton-play-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 10003,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play-150x150.jpg"
+        },
+        "full": {
+          "file": "cropped-Virgina-Hamilton-play.jpg",
+          "width": 390,
+          "height": 205,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/06/cropped-Virgina-Hamilton-play.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
+        "file": "cropped-Virgina-Hamilton-play.jpg",
+        "width": 390,
+        "height": 205,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/06/cropped-Virgina-Hamilton-play-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play-150x150.jpg",
+        "file": "cropped-Virgina-Hamilton-play-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 10003,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play-150x150.jpg"
+      }
+    ],
+    "path": "2025/06/cropped-Virgina-Hamilton-play.jpg"
+  }
+}
