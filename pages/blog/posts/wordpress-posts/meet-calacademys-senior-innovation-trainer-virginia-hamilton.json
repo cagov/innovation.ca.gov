@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "created_date": "2025-06-26T18:18:33",
+    "updated_date": "2025-06-26T18:18:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2754",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2754,
+    "date": "2025-06-26T11:18:33",
+    "date_gmt": "2025-06-26T18:18:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2754",
+    "modified": "2025-06-26T11:18:33",
+    "modified_gmt": "2025-06-26T18:18:33",
+    "slug": "meet-calacademys-senior-innovation-trainer-virginia-hamilton",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/06/26/meet-calacademys-senior-innovation-trainer-virginia-hamilton/",
+    "title": "Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton",
+    "excerpt": "<p>CalAcademy is celebrating two major milestones. First, it’s our one-year anniversary! Launched in 2024, we are proud to say that we have trained 5,000 state workers in our innovative skills curriculum. This spring, CalAcademy launched a new course offering — the Human-Centered Design (HCD) Dash — and added a new team member: Virginia Hamilton. She &#8230; <a title=\"Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/06/26/meet-calacademys-senior-innovation-trainer-virginia-hamilton/\" aria-label=\"More on Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton\">Read more</a></p>\n",
+    "author": "Anne Crew-Renzo and Virginia Hamilton",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2754",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/06/26/meet-calacademys-senior-innovation-trainer-virginia-hamilton/",
+      "page_title": "Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton",
+      "meta_description": "This spring, CalAcademy launched a new course offering — the Human&#x2d;Centered Design (HCD) Dash — and added a new team member: Virginia Hamilton.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/06/26/meet-calacademys-senior-innovation-trainer-virginia-hamilton/",
+      "open_graph_title": "Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton",
+      "open_graph_description": "This spring, CalAcademy launched a new course offering – the Human&#x2d;Centered Design (HCD) Dash – and added a new team member: Virginia Hamilton.",
+      "twitter_title": "Meet CalAcademy’s Senior Innovation Trainer, Virginia Hamilton",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/06/26/meet-calacademys-senior-innovation-trainer-virginia-hamilton/",
+    "media": [
+      {
+        "id": 2756,
+        "type": "full",
+        "path": "2025/06/CalAcademy-HCD-dash-lead.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead.jpg",
+        "file": "CalAcademy-HCD-dash-lead.jpg",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2756,
+        "type": "medium_large",
+        "path": "2025/06/CalAcademy-HCD-dash-lead-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead-768x512.jpg",
+        "file": "CalAcademy-HCD-dash-lead-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 122224,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2756,
+        "type": "medium",
+        "path": "2025/06/CalAcademy-HCD-dash-lead-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead-576x384.jpg",
+        "file": "CalAcademy-HCD-dash-lead-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 77168,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2757,
+        "type": "full",
+        "path": "2025/06/Virgina-Hamilton-play.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play.jpg",
+        "file": "Virgina-Hamilton-play.jpg",
+        "width": 390,
+        "height": 392,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2757,
+        "type": "thumbnail",
+        "path": "2025/06/Virgina-Hamilton-play-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play-150x150.jpg",
+        "file": "Virgina-Hamilton-play-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 10150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play-150x150.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
