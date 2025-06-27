@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-26T17:57:31",
-    "updated_date": "2025-06-26T17:57:31",
+    "updated_date": "2025-06-27T16:21:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-26T10:57:31",
     "date_gmt": "2025-06-26T17:57:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg",
-    "modified": "2025-06-26T10:57:31",
-    "modified_gmt": "2025-06-26T17:57:31",
+    "modified": "2025-06-27T09:21:55",
+    "modified_gmt": "2025-06-27T16:21:55",
     "slug": "cropped-virgina-hamilton-play-jpg",
     "status": "inherit",
     "type": "attachment",
@@ -42,9 +42,9 @@
       "hentry",
       "category-uncategorized"
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"390\" height=\"205\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg\" class=\"attachment-medium size-medium\" alt=\"Virginia Hamilton sits on a pebble beach with rocks that spell out the word PLAY.\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg</p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"390\" height=\"205\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg\" class=\"attachment-medium size-medium\" alt=\"Virginia Hamilton sits on a pebble beach\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg</p>\n",
     "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/cropped-Virgina-Hamilton-play.jpg</p>\n",
-    "alt_text": "Virginia Hamilton sits on a pebble beach with rocks that spell out the word PLAY.",
+    "alt_text": "Virginia Hamilton sits on a pebble beach",
     "media_type": "image",
     "mime_type": "image/jpeg",
     "media_details": {
