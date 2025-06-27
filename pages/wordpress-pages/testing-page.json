@@ -147,33 +147,6 @@
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/CalAcademy-HCD-dash-lead-576x384.jpg",
         "source_url_match": true,
         "featured": false
-      },
-      {
-        "id": 2757,
-        "type": "full",
-        "path": "2025/06/Virgina-Hamilton-play.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play.jpg",
-        "file": "Virgina-Hamilton-play.jpg",
-        "width": 390,
-        "height": 392,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2757,
-        "type": "thumbnail",
-        "path": "2025/06/Virgina-Hamilton-play-150x150.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play-150x150.jpg",
-        "file": "Virgina-Hamilton-play-150x150.jpg",
-        "width": 150,
-        "height": 150,
-        "filesize": 10150,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/06/Virgina-Hamilton-play-150x150.jpg",
-        "source_url_match": true,
-        "featured": false
       }
     ]
   }
