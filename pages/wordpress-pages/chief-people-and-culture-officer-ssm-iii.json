@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-16T20:26:19",
-    "updated_date": "2025-07-16T20:26:19",
+    "updated_date": "2025-07-16T20:26:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-16T13:26:19",
     "date_gmt": "2025-07-16T20:26:19",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2793",
-    "modified": "2025-07-16T13:26:19",
-    "modified_gmt": "2025-07-16T20:26:19",
+    "modified": "2025-07-16T13:26:24",
+    "modified_gmt": "2025-07-16T20:26:24",
     "slug": "chief-people-and-culture-officer-ssm-iii",
     "status": "publish",
     "type": "page",
@@ -69,10 +69,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Chief People and Culture Officer (SSM III)",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "The Office of Data &#038; Innovation (ODI) is seeking a Chief People and Culture Officer who will lead the strategic direction and execution of a range of HR matters.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/",
-      "open_graph_title": "Chief People and Culture Officer (SSM III)",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_title": "Chief People and Culture Officer&#x2d; innvoation.ca.gov",
+      "open_graph_description": "The Office of Data &#038; Innovation (ODI) is seeking a Chief People and Culture Officer who will lead the strategic direction and execution of a range of HR matters.",
       "twitter_title": "Chief People and Culture Officer (SSM III)",
       "twitter_description": "Office of Data and Innovation"
     },
