@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-16T20:26:19",
-    "updated_date": "2025-07-16T20:26:24",
+    "updated_date": "2025-07-16T20:27:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-16T13:26:19",
     "date_gmt": "2025-07-16T20:26:19",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2793",
-    "modified": "2025-07-16T13:26:24",
-    "modified_gmt": "2025-07-16T20:26:24",
+    "modified": "2025-07-16T13:27:27",
+    "modified_gmt": "2025-07-16T20:27:27",
     "slug": "chief-people-and-culture-officer-ssm-iii",
     "status": "publish",
     "type": "page",
@@ -37,16 +37,13 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
+    "tags": [],
+    "class_list": [
+      "post-2793",
+      "page",
+      "type-page",
+      "status-publish"
     ],
-    "class_list": {
-      "0": "post-2793",
-      "1": "page",
-      "2": "type-page",
-      "3": "status-publish",
-      "5": "tag-do-not-crawl"
-    },
     "design_system_fields": {
       "template": "page"
     },
@@ -77,19 +74,7 @@
       "twitter_description": "Office of Data and Innovation"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/"
