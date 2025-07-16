@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "created_date": "2025-07-16T20:26:19",
+    "updated_date": "2025-07-16T20:26:19",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2793",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2793,
+    "date": "2025-07-16T13:26:19",
+    "date_gmt": "2025-07-16T20:26:19",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2793",
+    "modified": "2025-07-16T13:26:19",
+    "modified_gmt": "2025-07-16T20:26:19",
+    "slug": "chief-people-and-culture-officer-ssm-iii",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/",
+    "title": "Chief People and Culture Officer (SSM III)",
+    "excerpt": "<p>The Office of Data &amp; Innovation (ODI) is seeking a Chief People and Culture Officer who will lead the strategic direction and execution of a range of HR matters. Location: The employee’s workstation is located in Sacramento, CA. Travel may be required as needed to attend meetings, conferences, and/or training classes. This position provides telework &#8230; <a title=\"Chief People and Culture Officer (SSM III)\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/\" aria-label=\"More on Chief People and Culture Officer (SSM III)\">Read more</a></p>\n",
+    "author": "Lauren Sanford",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "class_list": {
+      "0": "post-2793",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl"
+    },
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/",
+      "page_title": "Chief People and Culture Officer (SSM III)",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Chief People and Culture Officer (SSM III)",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/",
+      "open_graph_title": "Chief People and Culture Officer (SSM III)",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Chief People and Culture Officer (SSM III)",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-people-and-culture-officer-ssm-iii/"
+  }
+}
