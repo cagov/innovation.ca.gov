@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-16T20:26:19",
-    "updated_date": "2025-07-16T20:33:44",
+    "updated_date": "2025-07-16T20:33:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-16T13:26:19",
     "date_gmt": "2025-07-16T20:26:19",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2793",
-    "modified": "2025-07-16T13:33:44",
-    "modified_gmt": "2025-07-16T20:33:44",
+    "modified": "2025-07-16T13:33:49",
+    "modified_gmt": "2025-07-16T20:33:49",
     "slug": "chief-people-and-culture-officer-ssm-iii",
     "status": "publish",
     "type": "page",
