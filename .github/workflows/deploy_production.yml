@@ -34,46 +34,26 @@ jobs:
           echo 'User-agent: *' > _site/robots.txt
           echo 'Allow: /' >> _site/robots.txt
           echo 'Sitemap: https://innovation.ca.gov/sitemap.xml' >> _site/robots.txt
-        # Push built site files to S3 production bucket    
-      - name: Deploy to S3
-        uses: jakejarvis/s3-sync-action@v0.5.1
-        with:
-          args: --follow-symlinks --delete
-        env:
-          AWS_S3_BUCKET: 'innovation.ca.gov'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
-          SOURCE_DIR: ./_site # only move built directory
 
-      # Reset the cache-control headers on static assets on production S3 bucket
-      - name: Reset cache-control on static files
-        uses: prewk/s3-cp-action@v2
+      # Push built site files to S3 production bucket    
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@master
         with:
-          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws_region: 'us-west-1'   # optional: defaults to us-east-1
-          source: './_site/fonts'
-          dest: 's3://innovation.ca.gov/fonts'
-          flags: --recursive --cache-control max-age=15552000
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-1
 
-      # Reset the cache-control headers on static assets on production S3 bucket
-      - name: Reset cache-control on static files
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws_region: 'us-west-1'   # optional: defaults to us-east-1
-          source: './_site/img'
-          dest: 's3://innovation.ca.gov/img'
-          flags: --recursive --cache-control max-age=15552000
+      - name: Deploy site to S3
+        run: aws s3 sync --follow-symlinks --delete ./_site s3://innovation.ca.gov
 
-      # Invalidate Cloudfront production distribution
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@v1.3
-        env:
-          DISTRIBUTION: 'EB84S7ZI5YNKP'
-          PATHS: '/*'
-          AWS_REGION: 'us-west-1'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}                       
+      - name: Reset cache-control on fonts
+        run: aws s3 cp ./_site/fonts s3://innovation.ca.gov/fonts --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
+
+      - name: Reset cache-control on images
+        run: aws s3 cp ./_site/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
+
+      - name: Invalidate Cloudfront cache
+        run: AWS_MAX_ATTEMPTS=10 aws cloudfront create-invalidation --distribution-id  EB84S7ZI5YNKP --paths "/*"
+
+
+
