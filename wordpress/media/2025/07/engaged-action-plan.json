@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2025-07-21T18:51:29",
+    "updated_date": "2025-07-21T18:53:44",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2799",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2799,
+    "date": "2025-07-21T11:51:29",
+    "date_gmt": "2025-07-21T18:51:29",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
+    "modified": "2025-07-21T11:53:44",
+    "modified_gmt": "2025-07-21T18:53:44",
+    "slug": "engaged-action-plan",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/engaged-action-plan/",
+    "title": "engaged-action-plan",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2799",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"Map of Los Angeles area with comment bubbles\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg 876w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Map of Los Angeles area with comment bubbles",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 876,
+      "height": 584,
+      "file": "2025/07/engaged-action-plan.jpg",
+      "filesize": 208451,
+      "sizes": {
+        "medium": {
+          "file": "engaged-action-plan-576x384.jpg",
+          "width": 576,
+          "height": 384,
+          "filesize": 41531,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg"
+        },
+        "thumbnail": {
+          "file": "engaged-action-plan-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 7052,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "engaged-action-plan-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "filesize": 59526,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg"
+        },
+        "full": {
+          "file": "engaged-action-plan.jpg",
+          "width": 876,
+          "height": 584,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/07/engaged-action-plan.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
+        "file": "engaged-action-plan.jpg",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/07/engaged-action-plan-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg",
+        "file": "engaged-action-plan-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 59526,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2025/07/engaged-action-plan-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg",
+        "file": "engaged-action-plan-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 41531,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/07/engaged-action-plan-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-150x150.jpg",
+        "file": "engaged-action-plan-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7052,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-150x150.jpg"
+      }
+    ],
+    "path": "2025/07/engaged-action-plan.jpg"
+  }
+}
