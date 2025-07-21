@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2025-07-21T19:00:36",
+    "updated_date": "2025-07-21T20:03:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2025-07-21T12:00:36",
-    "modified_gmt": "2025-07-21T19:00:36",
+    "modified": "2025-07-21T13:03:17",
+    "modified_gmt": "2025-07-21T20:03:17",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Michael was here July 21, 2025, noon Innovation isn’t about inventing something new. Innovation happens when you improve upon an existing technology, or process, in order to make a difference for the person who is using it or needs it. Engaged California is the state’s new deliberative democracy program that is designed to amplify the &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
+    "excerpt": "<p>Michael was here, removing old stuff, on July 21, 2025 at 1:03 PM</p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -105,49 +105,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
-    "media": [
-      {
-        "id": 2799,
-        "type": "full",
-        "path": "2025/07/engaged-action-plan.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
-        "file": "engaged-action-plan.jpg",
-        "width": 876,
-        "height": 584,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2799,
-        "type": "medium_large",
-        "path": "2025/07/engaged-action-plan-768x512.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg",
-        "file": "engaged-action-plan-768x512.jpg",
-        "width": 768,
-        "height": 512,
-        "filesize": 59526,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-768x512.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2799,
-        "type": "medium",
-        "path": "2025/07/engaged-action-plan-576x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg",
-        "file": "engaged-action-plan-576x384.jpg",
-        "width": 576,
-        "height": 384,
-        "filesize": 41531,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/engaged-action-plan-576x384.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
   }
 }
