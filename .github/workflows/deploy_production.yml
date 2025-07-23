@@ -47,10 +47,13 @@ jobs:
         run: aws s3 sync --follow-symlinks --delete ./_site s3://innovation.ca.gov
 
       - name: Reset cache-control on fonts
-        run: aws s3 cp ./_site/fonts s3://innovation.ca.gov/fonts --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
+        run: aws s3 cp s3://innovation.ca.gov/fonts s3://innovation.ca.gov/fonts --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
 
       - name: Reset cache-control on images
-        run: aws s3 cp ./_site/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
+        run: aws s3 cp s3://innovation.ca.gov/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --cache-control "max-age=15552000" --content-type "auto-detect"
+
+      - name: Fix content-type on svgs
+        run: aws s3 cp s3://innovation.ca.gov/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --exclude "*" --include "*.svg" --cache-control "max-age=15552000" --content-type "image/svg+xml"
 
       - name: Invalidate Cloudfront cache
         run: AWS_MAX_ATTEMPTS=10 aws cloudfront create-invalidation --distribution-id  EB84S7ZI5YNKP --paths "/*"
