@@ -46,11 +46,10 @@ jobs:
       - name: Deploy site to S3
         run: aws s3 sync --follow-symlinks --delete ./_site s3://innovation.ca.gov
 
-      - name: Reset cache-control on fonts
-        run: aws s3 cp s3://innovation.ca.gov/fonts s3://innovation.ca.gov/fonts --recursive --metadata-directive REPLACE --cache-control "max-age=15552000"
-
-      - name: Reset cache-control on images
-        run: aws s3 cp s3://innovation.ca.gov/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --cache-control "max-age=15552000"
+      # - name: Reset cache-control on fonts
+      #   run: aws s3 cp s3://innovation.ca.gov/fonts s3://innovation.ca.gov/fonts --recursive --metadata-directive REPLACE --cache-control "max-age=15552000"
+      # - name: Reset cache-control on images
+      #   run: aws s3 cp s3://innovation.ca.gov/img s3://innovation.ca.gov/img --recursive --metadata-directive REPLACE --cache-control "max-age=15552000"
 
 
       - name: Invalidate Cloudfront cache
