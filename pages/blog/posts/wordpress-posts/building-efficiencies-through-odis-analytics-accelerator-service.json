@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2025-07-25T18:04:03",
+    "updated_date": "2025-07-25T18:04:03",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2808",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2808,
+    "date": "2025-07-25T11:04:03",
+    "date_gmt": "2025-07-25T18:04:03",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2808",
+    "modified": "2025-07-25T11:04:03",
+    "modified_gmt": "2025-07-25T18:04:03",
+    "slug": "building-efficiencies-through-odis-analytics-accelerator-service",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/07/25/building-efficiencies-through-odis-analytics-accelerator-service/",
+    "title": "Building efficiencies through ODI’s Analytics Accelerator service",
+    "excerpt": "<p>Data can help us find insights and make faster decisions. It can also take a lot of time to process and analyze. At the Office of Data and Innovation (ODI), our mission is to drive innovation across California state government. We use data, technology, and human-centered design to achieve equitable outcomes for all Californians and &#8230; <a title=\"Building efficiencies through ODI’s Analytics Accelerator service\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/07/25/building-efficiencies-through-odis-analytics-accelerator-service/\" aria-label=\"More on Building efficiencies through ODI’s Analytics Accelerator service\">Read more</a></p>\n",
+    "author": "Rocio Mora and Kimberly Hicks",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2808",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/07/25/building-efficiencies-through-odis-analytics-accelerator-service/",
+      "page_title": "Building efficiencies through ODI’s Analytics Accelerator service",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Building efficiencies through ODI’s Analytics Accelerator service",
+      "meta_description": "The Analytics Accelerator is a 12&#x2d;week, no&#x2d;cost service designed to help California state departments make better use of their data.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/07/25/building-efficiencies-through-odis-analytics-accelerator-service/",
+      "open_graph_title": "Building efficiencies through ODI’s Analytics Accelerator service",
+      "open_graph_description": "The Analytics Accelerator is a 12&#x2d;week, no&#x2d;cost service designed to help California state departments make better use of their data.",
+      "twitter_title": "Building efficiencies through ODI’s Analytics Accelerator service",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/07/25/building-efficiencies-through-odis-analytics-accelerator-service/",
+    "media": [
+      {
+        "id": 2810,
+        "type": "full",
+        "path": "2025/07/analytics-accelerator-blog.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog.png",
+        "file": "analytics-accelerator-blog.png",
+        "width": 1752,
+        "height": 464,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "1536x1536",
+        "path": "2025/07/analytics-accelerator-blog-1536x407.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1536x407.png",
+        "file": "analytics-accelerator-blog-1536x407.png",
+        "width": 1536,
+        "height": 407,
+        "filesize": 68099,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1536x407.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "large",
+        "path": "2025/07/analytics-accelerator-blog-1024x271.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1024x271.png",
+        "file": "analytics-accelerator-blog-1024x271.png",
+        "width": 1024,
+        "height": 271,
+        "filesize": 35246,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1024x271.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "medium_large",
+        "path": "2025/07/analytics-accelerator-blog-768x203.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-768x203.png",
+        "file": "analytics-accelerator-blog-768x203.png",
+        "width": 768,
+        "height": 203,
+        "filesize": 21306,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-768x203.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "medium",
+        "path": "2025/07/analytics-accelerator-blog-576x153.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-576x153.png",
+        "file": "analytics-accelerator-blog-576x153.png",
+        "width": 576,
+        "height": 153,
+        "filesize": 13467,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-576x153.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
