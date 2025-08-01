@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2025-08-01T19:02:23",
+    "updated_date": "2025-08-01T19:02:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2841",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2841,
+    "date": "2025-08-01T12:02:23",
+    "date_gmt": "2025-08-01T19:02:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement.pdf",
+    "modified": "2025-08-01T12:02:23",
+    "modified_gmt": "2025-08-01T19:02:23",
+    "slug": "chief-counsel_duty-statement",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/chief-counsel_duty-statement/",
+    "title": "Chief Counsel_Duty Statement",
+    "author": "Lauren Sanford",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2841",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "Chief-Counsel_Duty-Statement-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf.jpg"
+        },
+        "medium": {
+          "file": "Chief-Counsel_Duty-Statement-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "filesize": 51028,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "Chief-Counsel_Duty-Statement-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "filesize": 119493,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "Chief-Counsel_Duty-Statement-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "filesize": 8108,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-116x150.jpg"
+        }
+      },
+      "filesize": 129565
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/08/Chief-Counsel_Duty-Statement-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf.jpg",
+        "file": "Chief-Counsel_Duty-Statement-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2025/08/Chief-Counsel_Duty-Statement-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-791x1024.jpg",
+        "file": "Chief-Counsel_Duty-Statement-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "filesize": 119493,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2025/08/Chief-Counsel_Duty-Statement-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-445x576.jpg",
+        "file": "Chief-Counsel_Duty-Statement-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "filesize": 51028,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/08/Chief-Counsel_Duty-Statement-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-116x150.jpg",
+        "file": "Chief-Counsel_Duty-Statement-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "filesize": 8108,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/Chief-Counsel_Duty-Statement-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2025/08/Chief-Counsel_Duty-Statement.pdf"
+  }
+}
