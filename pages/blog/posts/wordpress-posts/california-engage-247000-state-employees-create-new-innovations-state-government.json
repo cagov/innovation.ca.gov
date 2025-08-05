@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "created_date": "2025-08-05T17:00:17",
+    "updated_date": "2025-08-05T17:00:17",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2846",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2846,
+    "date": "2025-08-05T10:00:17",
+    "date_gmt": "2025-08-05T17:00:17",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2846",
+    "modified": "2025-08-05T10:00:17",
+    "modified_gmt": "2025-08-05T17:00:17",
+    "slug": "california-engage-247000-state-employees-create-new-innovations-state-government",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/08/05/california-engage-247000-state-employees-create-new-innovations-state-government/",
+    "title": "California to engage 247,000 state employees to create new innovations in state government",
+    "excerpt": "<p>The Office of Data and Innovation will use the state’s new Engaged California platform in a new statewide conversation designed to make California more efficient, effective, and engaged As part of Governor Gavin Newsom’s Executive Order to advance government effectiveness and efficiency (N-30-25), the Office of Data and Innovation (ODI) has launched the state’s second &#8230; <a title=\"California to engage 247,000 state employees to create new innovations in state government\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/08/05/california-engage-247000-state-employees-create-new-innovations-state-government/\" aria-label=\"More on California to engage 247,000 state employees to create new innovations in state government\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2846",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/05/california-engage-247000-state-employees-create-new-innovations-state-government/",
+      "page_title": "California to engage 247,000 state employees to create new innovations in state government",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/cropped-engaged-california-logo.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "California to engage 247,000 state employees to create new innovations in state government",
+      "meta_description": "ODI will use the state’s new Engaged California platform in a new statewide conversation designed to make California more efficient, effective, and engaged.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/05/california-engage-247000-state-employees-create-new-innovations-state-government/",
+      "open_graph_title": "California to engage 247,000 state employees to create new innovations in state government",
+      "open_graph_description": "ODI will use the state’s new Engaged California platform in a new statewide conversation designed to make California more efficient, effective, and engaged.",
+      "twitter_title": "California to engage 247,000 state employees to create new innovations in state government",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/05/california-engage-247000-state-employees-create-new-innovations-state-government/",
+    "media": [
+      {
+        "id": 2489,
+        "type": "full",
+        "path": "2025/02/engaged-california-logo.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo.png",
+        "file": "engaged-california-logo.png",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2489,
+        "type": "medium_large",
+        "path": "2025/02/engaged-california-logo-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-768x512.png",
+        "file": "engaged-california-logo-768x512.png",
+        "width": 768,
+        "height": 512,
+        "filesize": 28700,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-768x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2489,
+        "type": "medium",
+        "path": "2025/02/engaged-california-logo-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-576x384.png",
+        "file": "engaged-california-logo-576x384.png",
+        "width": 576,
+        "height": 384,
+        "filesize": 21511,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/02/engaged-california-logo-576x384.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
