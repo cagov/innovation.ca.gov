@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2025-08-08T16:53:56",
+    "updated_date": "2025-08-08T16:53:56",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2855",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2855,
+    "date": "2025-08-08T09:53:56",
+    "date_gmt": "2025-08-08T16:53:56",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2855",
+    "modified": "2025-08-08T09:53:56",
+    "modified_gmt": "2025-08-08T16:53:56",
+    "slug": "building-future-government-together-highlights-codefest",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/08/08/building-future-government-together-highlights-codefest/",
+    "title": "Building the future of government together: Highlights from Codefest",
+    "excerpt": "<p>The State of California’s new program, Engaged California, is being managed and developed by the Office of Data and Innovation (ODI). ODI works collaboratively with state agencies and stakeholders to improve services for Californians. We use data, human-centered design training, and technology to create services that are easier for everyone to use. Our work uses &#8230; <a title=\"Building the future of government together: Highlights from Codefest\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/08/08/building-future-government-together-highlights-codefest/\" aria-label=\"More on Building the future of government together: Highlights from Codefest\">Read more</a></p>\n",
+    "author": "Robin Cortez",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2855",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/08/building-future-government-together-highlights-codefest/",
+      "page_title": "Building the future of government together: Highlights from Codefest",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-codefest-team-2025.webp",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Building the future of government together: Highlights from Codefest",
+      "meta_description": "Over 2 days ODI staff coded, designed, tested theories, and put emerging technologies in practice to improve language access and content moderation.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/08/building-future-government-together-highlights-codefest/",
+      "open_graph_title": "Building the future of government together: Highlights from Codefest",
+      "open_graph_description": "Over 2 days ODI staff coded, designed, tested theories, and put emerging technologies in practice to improve language access and content moderation.",
+      "twitter_title": "Building the future of government together: Highlights from Codefest",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/08/building-future-government-together-highlights-codefest/",
+    "media": [
+      {
+        "id": 2864,
+        "type": "full",
+        "path": "2025/08/codefest-team-2025.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025.webp",
+        "file": "codefest-team-2025.webp",
+        "width": 1752,
+        "height": 1168,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2864,
+        "type": "1536x1536",
+        "path": "2025/08/codefest-team-2025-1536x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-1536x1024.webp",
+        "file": "codefest-team-2025-1536x1024.webp",
+        "width": 1536,
+        "height": 1024,
+        "filesize": 292104,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-1536x1024.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2864,
+        "type": "large",
+        "path": "2025/08/codefest-team-2025-1024x683.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-1024x683.webp",
+        "file": "codefest-team-2025-1024x683.webp",
+        "width": 1024,
+        "height": 683,
+        "filesize": 157934,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-1024x683.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2864,
+        "type": "medium_large",
+        "path": "2025/08/codefest-team-2025-768x512.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-768x512.webp",
+        "file": "codefest-team-2025-768x512.webp",
+        "width": 768,
+        "height": 512,
+        "filesize": 98448,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-768x512.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2864,
+        "type": "medium",
+        "path": "2025/08/codefest-team-2025-576x384.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-576x384.webp",
+        "file": "codefest-team-2025-576x384.webp",
+        "width": 576,
+        "height": 384,
+        "filesize": 61056,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/codefest-team-2025-576x384.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
