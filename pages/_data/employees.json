@@ -338,6 +338,14 @@
     "pic": "t-man.jpg"
   },
   {
+    "name": "Tristan Peery",
+    "title": "Senior Product Manager",
+    "pic": "t-peery.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tristan-peery/"
+    }
+  },
+  {
     "name": "Zakiya Khabir",
     "pronouns": "she/her",
     "title": "Engineering Manager",
