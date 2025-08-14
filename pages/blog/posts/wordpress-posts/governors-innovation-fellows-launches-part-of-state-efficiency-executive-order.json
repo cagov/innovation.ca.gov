@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-14T18:29:25",
-    "updated_date": "2025-08-14T18:29:25",
+    "updated_date": "2025-08-14T18:29:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-14T11:29:25",
     "date_gmt": "2025-08-14T18:29:25",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2895",
-    "modified": "2025-08-14T11:29:25",
-    "modified_gmt": "2025-08-14T18:29:25",
+    "modified": "2025-08-14T11:29:30",
+    "modified_gmt": "2025-08-14T18:29:30",
     "slug": "governors-innovation-fellows-launches-part-of-state-efficiency-executive-order",
     "status": "publish",
     "type": "post",
