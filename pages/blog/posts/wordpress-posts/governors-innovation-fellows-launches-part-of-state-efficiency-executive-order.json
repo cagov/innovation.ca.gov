@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "created_date": "2025-08-14T18:29:25",
+    "updated_date": "2025-08-14T18:29:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/2895",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2895,
+    "date": "2025-08-14T11:29:25",
+    "date_gmt": "2025-08-14T18:29:25",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2895",
+    "modified": "2025-08-14T11:29:25",
+    "modified_gmt": "2025-08-14T18:29:25",
+    "slug": "governors-innovation-fellows-launches-part-of-state-efficiency-executive-order",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/08/14/governors-innovation-fellows-launches-part-of-state-efficiency-executive-order/",
+    "title": "Governor’s Innovation Fellows launches as part of state efficiency executive order",
+    "excerpt": "<p>What you need to know: 21 state employees, representing 9 agencies and 15 departments from across California, are now part of the state’s first Innovation Fellows program. This prestigious group represents a key part of the Governor’s latest executive order to develop more efficient, effective, and engaged services for Californians. Sacramento &#8211; The State of &#8230; <a title=\"Governor’s Innovation Fellows launches as part of state efficiency executive order\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/08/14/governors-innovation-fellows-launches-part-of-state-efficiency-executive-order/\" aria-label=\"More on Governor’s Innovation Fellows launches as part of state efficiency executive order\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-2895",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/14/governors-innovation-fellows-launches-part-of-state-efficiency-executive-order/",
+      "page_title": "Governor’s Innovation Fellows launches as part of state efficiency executive order",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Governor’s Innovation Fellows launches as part of state efficiency executive order",
+      "meta_description": "21 state employees, representing 9 agencies and 15 departments from across California, are now part of the state’s first Innovation Fellows program.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/14/governors-innovation-fellows-launches-part-of-state-efficiency-executive-order/",
+      "open_graph_title": "Governor’s Innovation Fellows launches as part of state efficiency executive order",
+      "open_graph_description": "21 state employees, representing 9 agencies and 15 departments from across California, are now part of the state’s first Innovation Fellows program.",
+      "twitter_title": "Governor’s Innovation Fellows launches as part of state efficiency executive order",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/08/14/governors-innovation-fellows-launches-part-of-state-efficiency-executive-order/"
+  }
+}
