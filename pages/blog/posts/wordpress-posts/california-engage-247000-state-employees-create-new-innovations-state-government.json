@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-05T17:00:17",
-    "updated_date": "2025-08-21T17:24:47",
+    "updated_date": "2025-08-21T17:24:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-05T10:00:17",
     "date_gmt": "2025-08-05T17:00:17",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2846",
-    "modified": "2025-08-21T10:24:47",
-    "modified_gmt": "2025-08-21T17:24:47",
+    "modified": "2025-08-21T10:24:52",
+    "modified_gmt": "2025-08-21T17:24:52",
     "slug": "california-engage-247000-state-employees-create-new-innovations-state-government",
     "status": "publish",
     "type": "post",
