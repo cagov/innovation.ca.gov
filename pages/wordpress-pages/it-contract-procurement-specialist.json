@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-25T21:48:05",
-    "updated_date": "2025-08-25T21:48:05",
+    "updated_date": "2025-08-25T21:48:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-25T14:48:05",
     "date_gmt": "2025-08-25T21:48:05",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2908",
-    "modified": "2025-08-25T14:48:05",
-    "modified_gmt": "2025-08-25T21:48:05",
+    "modified": "2025-08-25T14:48:10",
+    "modified_gmt": "2025-08-25T21:48:10",
     "slug": "it-contract-procurement-specialist",
     "status": "publish",
     "type": "page",
@@ -66,7 +66,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "IT Contract &amp; Procurement Specialist",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "As the IT Contract and Procurement Specialist for ODI, you will manage all IT contracts and procurement. You will be responsible for managing ODI’s full&#x2d;service IT contracting program inclusive of contract management and contract budgeting within ODI.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist/",
       "open_graph_title": "IT Contract &amp; Procurement Specialist",
       "open_graph_description": "Office of Data and Innovation",
