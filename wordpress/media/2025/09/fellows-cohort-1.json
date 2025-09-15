@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2025-09-15T18:06:50",
+    "updated_date": "2025-09-15T18:07:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2925",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2925,
+    "date": "2025-09-15T11:06:50",
+    "date_gmt": "2025-09-15T18:06:50",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp",
+    "modified": "2025-09-15T11:07:48",
+    "modified_gmt": "2025-09-15T18:07:48",
+    "slug": "fellows-cohort-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/fellows-cohort-1/",
+    "title": "fellows-cohort-1",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2925",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-576x288.webp\" class=\"attachment-medium size-medium\" alt=\"All 21 Governor&#039;s Innovation Fellows on the steps of the California Capitol Building\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-576x288.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1024x512.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-768x384.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1536x768.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "All 21 Governor's Innovation Fellows on the steps of the California Capitol Building",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1752,
+      "height": 876,
+      "file": "2025/09/fellows-cohort-1.webp",
+      "filesize": 464028,
+      "sizes": {
+        "medium": {
+          "file": "fellows-cohort-1-576x288.webp",
+          "width": 576,
+          "height": 288,
+          "filesize": 31836,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-576x288.webp"
+        },
+        "large": {
+          "file": "fellows-cohort-1-1024x512.webp",
+          "width": 1024,
+          "height": 512,
+          "filesize": 69680,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1024x512.webp"
+        },
+        "thumbnail": {
+          "file": "fellows-cohort-1-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 6974,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-150x150.webp"
+        },
+        "medium_large": {
+          "file": "fellows-cohort-1-768x384.webp",
+          "width": 768,
+          "height": 384,
+          "filesize": 46864,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-768x384.webp"
+        },
+        "1536x1536": {
+          "file": "fellows-cohort-1-1536x768.webp",
+          "width": 1536,
+          "height": 768,
+          "filesize": 124376,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1536x768.webp"
+        },
+        "full": {
+          "file": "fellows-cohort-1.webp",
+          "width": 1752,
+          "height": 876,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/09/fellows-cohort-1.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp",
+        "file": "fellows-cohort-1.webp",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2025/09/fellows-cohort-1-1536x768.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1536x768.webp",
+        "file": "fellows-cohort-1-1536x768.webp",
+        "width": 1536,
+        "height": 768,
+        "filesize": 124376,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1536x768.webp"
+      },
+      {
+        "type": "large",
+        "path": "2025/09/fellows-cohort-1-1024x512.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1024x512.webp",
+        "file": "fellows-cohort-1-1024x512.webp",
+        "width": 1024,
+        "height": 512,
+        "filesize": 69680,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-1024x512.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/09/fellows-cohort-1-768x384.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-768x384.webp",
+        "file": "fellows-cohort-1-768x384.webp",
+        "width": 768,
+        "height": 384,
+        "filesize": 46864,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-768x384.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2025/09/fellows-cohort-1-576x288.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-576x288.webp",
+        "file": "fellows-cohort-1-576x288.webp",
+        "width": 576,
+        "height": 288,
+        "filesize": 31836,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-576x288.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/09/fellows-cohort-1-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-150x150.webp",
+        "file": "fellows-cohort-1-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 6974,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cohort-1-150x150.webp"
+      }
+    ],
+    "path": "2025/09/fellows-cohort-1.webp"
+  }
+}
