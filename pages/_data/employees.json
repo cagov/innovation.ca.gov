@@ -346,6 +346,16 @@
     }
   },
   {
+    "name": "Tyler Haas",
+    "pronouns": "he/him/his",
+    "title": "Senior Data Scientist",
+    "pic": "t-haas.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ptylerhaas/",
+      "github": "https://github.com/haaspt"
+    }
+  },
+  {
     "name": "Zakiya Khabir",
     "pronouns": "she/her",
     "title": "Engineering Manager",
