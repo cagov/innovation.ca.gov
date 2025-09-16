@@ -47,6 +47,13 @@
         background: url('/img/blue-arrow-down.svg') no-repeat right center;
         border: none !important;
         outline: none !important;
+        cursor: pointer;
+        font-size: inherit;
+        font-family: inherit;
+    }
+    button.read-more-button:focus {
+        outline: 2px solid #0D4F8C !important;
+        outline-offset: 2px;
     }
     button.read-more-button.open {
         background: url('/img/blue-arrow-up.svg') no-repeat right center;
@@ -55,20 +62,39 @@
 &lt;script>
     document.addEventListener('DOMContentLoaded', () => {
         document.querySelectorAll('.read-more-button').forEach(button => {
+            // Initialize ARIA attributes
+            button.setAttribute('aria-expanded', 'false');
+            button.setAttribute('aria-label', 'Expand bio content');
+            button.setAttribute('role', 'button');
+            
+            // Add keyboard event listener
+            button.addEventListener('keydown', (event) => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault();
+                    button.click();
+                }
+            });
+
+            // Add click event listener
             button.addEventListener('click', () => {
                 const parent = button.parentElement;
                 const bioContentText = parent.querySelector('.bio-content-text');
                 let isOpen = button.classList.contains('open');
+                
                 if (isOpen) {
                     bioContentText.classList.add('collapsed');
                     button.classList.remove('open');
                     button.classList.add('closed');
                     button.textContent = 'Show more';
+                    button.setAttribute('aria-expanded', 'false');
+                    button.setAttribute('aria-label', 'Expand bio content');
                 } else {
                     bioContentText.classList.remove('collapsed');
                     button.classList.remove('closed');
                     button.classList.add('open');
                     button.textContent = 'Show less';
+                    button.setAttribute('aria-expanded', 'true');
+                    button.setAttribute('aria-label', 'Collapse bio content');
                 }
             });
         });
@@ -78,7 +104,7 @@
 &lt;div class="bios-container">
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-henri-aghaei-baradaran.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-henri-aghaei-baradaran.png" alt="Henri Aghaei Baradaran" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Henri Aghaei Baradaran&lt;/h2>
@@ -93,7 +119,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-elizabeth-betancourt.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-elizabeth-betancourt.png" alt="Elizabeth Betancourt" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Elizabeth Betancourt&lt;/h2>
@@ -108,7 +134,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-ben-bressette.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-ben-bressette.png" alt="Ben Bressette" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Ben Bressette&lt;/h2>
@@ -122,7 +148,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-lorna-brisco.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-lorna-brisco.png" alt="Lorna Brisco" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Lorna Brisco&lt;/h2>
@@ -137,7 +163,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-blake-carter.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-blake-carter.png" alt="Senior Master Sergeant Blake Carter" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Senior Master Sergeant Blake E. Carter&lt;/h2>
@@ -152,7 +178,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-liyuan-guo.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-liyuan-guo.png" alt="Liyuan Guo" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Liyuan Guo&lt;/h2>
@@ -167,7 +193,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-nikki-hatcher.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-nikki-hatcher.png" alt="Nikki Hatcher" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Nikki Hatcher&lt;/h2>
@@ -182,7 +208,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jennifer-uyeda-issertell.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jennifer-uyeda-issertell.png" alt="Jennifer Uyeda Issertell" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Jennifer Uyeda Issertell&lt;/h2>
@@ -197,7 +223,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-samantha-kissane.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-samantha-kissane.png" alt="Samantha Kissane" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Samantha Kissane&lt;/h2>
@@ -211,7 +237,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kannan-krishnan.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kannan-krishnan.png" alt="Kannan Krishnan" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Kannan Krishnan&lt;/h2>
@@ -226,7 +252,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-molly-linares.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-molly-linares.png" alt="Molly Linares" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Molly Linares&lt;/h2>
@@ -241,7 +267,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jai-london.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jai-london.png" alt="Jai London" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Jai London&lt;/h2>
@@ -255,7 +281,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-christina-marin-fitzhugh.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-christina-marin-fitzhugh.png" alt="Christina Marin-Fitzhugh" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Christina Marin-Fitzhugh&lt;/h2>
@@ -270,7 +296,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-bryanna-mcadams.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-bryanna-mcadams.png" alt="Bryanna McAdams" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Bryanna McAdams&lt;/h2>
@@ -285,7 +311,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jeremiah-oakden.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-jeremiah-oakden.png" alt="Jeremiah Oakden" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Jeremiah Oakden&lt;/h2>
@@ -300,7 +326,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-marc-peachey.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-marc-peachey.png" alt="Lieutenant Marc Peachey" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Lieutenant Marc Peachey&lt;/h2>
@@ -315,7 +341,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kelton-pisano.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kelton-pisano.png" alt="Kelton Pisano" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Staff Sergeant Kelton Pisano&lt;/h2>
@@ -329,7 +355,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-will-robinson.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-will-robinson.png" alt="Will Robinson" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Will Robinson&lt;/h2>
@@ -343,7 +369,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-chris-siino.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-chris-siino.png" alt="Chris Siino" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Chris Siino&lt;/h2>
@@ -357,7 +383,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kattya-trinh.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-kattya-trinh.png" alt="Kattya Trinh" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Kattya Trinh&lt;/h2>
@@ -371,7 +397,7 @@
     &lt;/div>
     &lt;div class="bio-tile">
         &lt;div class="bio-image">
-          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-brent-vanderburgh.png" />
+          &lt;img src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/headshot-brent-vanderburgh.png" alt="Brent Vanderburgh" />
         &lt;/div>
         &lt;div class="bio-content">
             &lt;h2 class="wp-block-heading">Brent Vanderburgh&lt;/h2>
