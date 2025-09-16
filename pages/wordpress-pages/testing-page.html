@@ -29,6 +29,8 @@
         position: relative;
         max-height: 6rem;
         overflow: hidden;
+        /* Ensure collapsed content is not keyboard accessible */
+        pointer-events: none;
     }
     .bio-content-text.collapsed::after {
         content: "";
@@ -67,6 +69,14 @@
             button.setAttribute('aria-label', 'Expand bio content');
             button.setAttribute('role', 'button');
             
+            // Initialize collapsed content attributes
+            const parent = button.parentElement;
+            const bioContentText = parent.querySelector('.bio-content-text');
+            if (bioContentText &amp;&amp; bioContentText.classList.contains('collapsed')) {
+                bioContentText.setAttribute('tabindex', '-1');
+                bioContentText.setAttribute('aria-hidden', 'true');
+            }
+            
             // Add keyboard event listener
             button.addEventListener('keydown', (event) => {
                 if (event.key === 'Enter' || event.key === ' ') {
@@ -88,6 +98,9 @@
                     button.textContent = 'Show more';
                     button.setAttribute('aria-expanded', 'false');
                     button.setAttribute('aria-label', 'Expand bio content');
+                    // Make collapsed content not keyboard accessible
+                    bioContentText.setAttribute('tabindex', '-1');
+                    bioContentText.setAttribute('aria-hidden', 'true');
                 } else {
                     bioContentText.classList.remove('collapsed');
                     button.classList.remove('closed');
@@ -95,6 +108,9 @@
                     button.textContent = 'Show less';
                     button.setAttribute('aria-expanded', 'true');
                     button.setAttribute('aria-label', 'Collapse bio content');
+                    // Make expanded content keyboard accessible
+                    bioContentText.removeAttribute('tabindex');
+                    bioContentText.setAttribute('aria-hidden', 'false');
                 }
             });
         });
