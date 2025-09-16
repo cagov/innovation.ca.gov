@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2025-09-16T22:56:46",
+    "updated_date": "2025-09-16T22:56:51",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/2869",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2869,
+    "date": "2025-09-16T15:56:46",
+    "date_gmt": "2025-09-16T22:56:46",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2869",
+    "modified": "2025-09-16T15:56:51",
+    "modified_gmt": "2025-09-16T22:56:51",
+    "slug": "governors-innovation-fellows-program",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/",
+    "title": "Governor&#8217;s Innovation Fellows Program",
+    "excerpt": "<p>The Governor’s Innovation Fellows are state employees solving real public sector challenges. The program brings them together to improve services for Californians. The first cohort includes 21 employees. For 6 months, the Fellows will work on priority projects. They will make government more efficient, effective, and responsive to the public. What the Fellows do Why &#8230; <a title=\"Governor&#8217;s Innovation Fellows Program\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/\" aria-label=\"More on Governor&#8217;s Innovation Fellows Program\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1123,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-2869",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/",
+      "page_title": "Governor's Innovation Fellows Program",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Governor’s Innovation Fellows Program",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/",
+      "open_graph_title": "Governor’s Innovation Fellows Program",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Governor's Innovation Fellows Program",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/",
+    "media": [
+      {
+        "id": 2924,
+        "type": "full",
+        "path": "2025/09/fellows-cover-image.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image.webp",
+        "file": "fellows-cover-image.webp",
+        "width": 1752,
+        "height": 920,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2924,
+        "type": "1536x1536",
+        "path": "2025/09/fellows-cover-image-1536x807.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-1536x807.webp",
+        "file": "fellows-cover-image-1536x807.webp",
+        "width": 1536,
+        "height": 807,
+        "filesize": 101276,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-1536x807.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2924,
+        "type": "large",
+        "path": "2025/09/fellows-cover-image-1024x538.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-1024x538.webp",
+        "file": "fellows-cover-image-1024x538.webp",
+        "width": 1024,
+        "height": 538,
+        "filesize": 59976,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-1024x538.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2924,
+        "type": "medium_large",
+        "path": "2025/09/fellows-cover-image-768x403.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-768x403.webp",
+        "file": "fellows-cover-image-768x403.webp",
+        "width": 768,
+        "height": 403,
+        "filesize": 40750,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-768x403.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2924,
+        "type": "medium",
+        "path": "2025/09/fellows-cover-image-576x302.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-576x302.webp",
+        "file": "fellows-cover-image-576x302.webp",
+        "width": 576,
+        "height": 302,
+        "filesize": 27064,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/09/fellows-cover-image-576x302.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
