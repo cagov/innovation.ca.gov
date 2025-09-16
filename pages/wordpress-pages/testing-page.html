@@ -27,9 +27,14 @@
         flex: 1 1 0;
         min-width: 0;
     }
-    .bio-image img { 
-        width: 176px;
-        height: auto;
+    @media (max-width: 768px) {
+        .bio-image {
+            flex: 0 0 100px;
+            width: 100px;
+        }
+        .bio-tile {
+            flex-direction: column;
+        }
     }
     .bio-content-text.collapsed {
         position: relative;
