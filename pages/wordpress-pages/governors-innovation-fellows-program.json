@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-16T22:56:46",
-    "updated_date": "2025-09-16T23:03:14",
+    "updated_date": "2025-09-16T23:03:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-16T15:56:46",
     "date_gmt": "2025-09-16T22:56:46",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2869",
-    "modified": "2025-09-16T16:03:14",
-    "modified_gmt": "2025-09-16T23:03:14",
+    "modified": "2025-09-16T16:03:19",
+    "modified_gmt": "2025-09-16T23:03:19",
     "slug": "governors-innovation-fellows-program",
     "status": "publish",
     "type": "page",
@@ -66,10 +66,10 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Governor’s Innovation Fellows Program",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "The Governor&#8217;s Innovation Fellows work on projects that improve efficiency, service delivery, and customer experience in California state government.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/",
       "open_graph_title": "Governor’s Innovation Fellows Program",
-      "open_graph_description": "Office of Data and Innovation",
+      "open_graph_description": "The Governor&#8217;s Innovation Fellows work on projects that improve efficiency, service delivery, and customer experience in California state government.",
       "twitter_title": "Governor's Innovation Fellows Program",
       "twitter_description": "Office of Data and Innovation"
     },
