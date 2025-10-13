@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-10-13T15:40:57",
-    "updated_date": "2025-10-13T15:46:31",
+    "updated_date": "2025-10-13T15:54:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-10-13T08:40:57",
     "date_gmt": "2025-10-13T15:40:57",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2977",
-    "modified": "2025-10-13T08:46:31",
-    "modified_gmt": "2025-10-13T15:46:31",
+    "modified": "2025-10-13T08:54:04",
+    "modified_gmt": "2025-10-13T15:54:04",
     "slug": "respecting-taxpayers-time-clear-communication",
     "status": "publish",
     "type": "post",
@@ -107,6 +107,77 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/10/13/respecting-taxpayers-time-clear-communication/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/10/13/respecting-taxpayers-time-clear-communication/",
+    "media": [
+      {
+        "id": 2976,
+        "type": "full",
+        "path": "2025/10/letter-mail.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail.webp",
+        "file": "letter-mail.webp",
+        "width": 1752,
+        "height": 1168,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2976,
+        "type": "1536x1536",
+        "path": "2025/10/letter-mail-1536x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-1536x1024.webp",
+        "file": "letter-mail-1536x1024.webp",
+        "width": 1536,
+        "height": 1024,
+        "filesize": 47162,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-1536x1024.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2976,
+        "type": "large",
+        "path": "2025/10/letter-mail-1024x683.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-1024x683.webp",
+        "file": "letter-mail-1024x683.webp",
+        "width": 1024,
+        "height": 683,
+        "filesize": 29242,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-1024x683.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2976,
+        "type": "medium_large",
+        "path": "2025/10/letter-mail-768x512.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-768x512.webp",
+        "file": "letter-mail-768x512.webp",
+        "width": 768,
+        "height": 512,
+        "filesize": 20722,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-768x512.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2976,
+        "type": "medium",
+        "path": "2025/10/letter-mail-576x384.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-576x384.webp",
+        "file": "letter-mail-576x384.webp",
+        "width": 576,
+        "height": 384,
+        "filesize": 14406,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/letter-mail-576x384.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
