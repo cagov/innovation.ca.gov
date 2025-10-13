@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2025-10-13T15:35:39",
+    "updated_date": "2025-10-13T15:35:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2978",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2978,
+    "date": "2025-10-13T08:35:39",
+    "date_gmt": "2025-10-13T15:35:39",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp",
+    "modified": "2025-10-13T08:35:39",
+    "modified_gmt": "2025-10-13T15:35:39",
+    "slug": "cropped-letter-mail-webp",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-letter-mail-webp/",
+    "title": "cropped-letter-mail.webp",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2978",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"303\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-576x303.webp\" class=\"attachment-medium size-medium\" alt=\"Someone opening a piece of mail\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-576x303.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1024x538.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-768x404.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1536x807.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp 1750w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp</p>\n",
+    "alt_text": "Someone opening a piece of mail",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1750,
+      "height": 920,
+      "file": "2025/10/cropped-letter-mail.webp",
+      "filesize": 44454,
+      "sizes": {
+        "medium": {
+          "file": "cropped-letter-mail-576x303.webp",
+          "width": 576,
+          "height": 303,
+          "filesize": 11212,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-576x303.webp"
+        },
+        "large": {
+          "file": "cropped-letter-mail-1024x538.webp",
+          "width": 1024,
+          "height": 538,
+          "filesize": 22356,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1024x538.webp"
+        },
+        "thumbnail": {
+          "file": "cropped-letter-mail-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 2590,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-150x150.webp"
+        },
+        "medium_large": {
+          "file": "cropped-letter-mail-768x404.webp",
+          "width": 768,
+          "height": 404,
+          "filesize": 16336,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-768x404.webp"
+        },
+        "1536x1536": {
+          "file": "cropped-letter-mail-1536x807.webp",
+          "width": 1536,
+          "height": 807,
+          "filesize": 35524,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1536x807.webp"
+        },
+        "full": {
+          "file": "cropped-letter-mail.webp",
+          "width": 1750,
+          "height": 920,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/10/cropped-letter-mail.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp",
+        "file": "cropped-letter-mail.webp",
+        "width": 1750,
+        "height": 920,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2025/10/cropped-letter-mail-1536x807.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1536x807.webp",
+        "file": "cropped-letter-mail-1536x807.webp",
+        "width": 1536,
+        "height": 807,
+        "filesize": 35524,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1536x807.webp"
+      },
+      {
+        "type": "large",
+        "path": "2025/10/cropped-letter-mail-1024x538.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1024x538.webp",
+        "file": "cropped-letter-mail-1024x538.webp",
+        "width": 1024,
+        "height": 538,
+        "filesize": 22356,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-1024x538.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/10/cropped-letter-mail-768x404.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-768x404.webp",
+        "file": "cropped-letter-mail-768x404.webp",
+        "width": 768,
+        "height": 404,
+        "filesize": 16336,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-768x404.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2025/10/cropped-letter-mail-576x303.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-576x303.webp",
+        "file": "cropped-letter-mail-576x303.webp",
+        "width": 576,
+        "height": 303,
+        "filesize": 11212,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-576x303.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/10/cropped-letter-mail-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-150x150.webp",
+        "file": "cropped-letter-mail-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 2590,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-letter-mail-150x150.webp"
+      }
+    ],
+    "path": "2025/10/cropped-letter-mail.webp"
+  }
+}
