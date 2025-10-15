@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-25T21:48:05",
-    "updated_date": "2025-10-15T16:55:07",
+    "updated_date": "2025-10-15T16:55:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-25T14:48:05",
     "date_gmt": "2025-08-25T21:48:05",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2908",
-    "modified": "2025-10-15T09:55:07",
-    "modified_gmt": "2025-10-15T16:55:07",
+    "modified": "2025-10-15T09:55:12",
+    "modified_gmt": "2025-10-15T16:55:12",
     "slug": "it-contract-procurement-specialist",
     "status": "publish",
     "type": "page",
