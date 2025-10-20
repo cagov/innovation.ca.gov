@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2025-10-20T22:33:23",
+    "updated_date": "2025-10-20T22:33:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2985",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2985,
+    "date": "2025-10-20T15:33:23",
+    "date_gmt": "2025-10-20T22:33:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp",
+    "modified": "2025-10-20T15:33:23",
+    "modified_gmt": "2025-10-20T22:33:23",
+    "slug": "cropped-innovation-community-practice-banner-webp",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-innovation-community-practice-banner-webp/",
+    "title": "cropped-innovation-community-practice-banner.webp",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-2985",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"303\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-576x303.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-576x303.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1024x538.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-768x404.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1536x807.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp 1751w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp</p>\n",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1751,
+      "height": 920,
+      "file": "2025/10/cropped-innovation-community-practice-banner.webp",
+      "filesize": 39644,
+      "sizes": {
+        "medium": {
+          "file": "cropped-innovation-community-practice-banner-576x303.webp",
+          "width": 576,
+          "height": 303,
+          "filesize": 10724,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-576x303.webp"
+        },
+        "large": {
+          "file": "cropped-innovation-community-practice-banner-1024x538.webp",
+          "width": 1024,
+          "height": 538,
+          "filesize": 19028,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1024x538.webp"
+        },
+        "thumbnail": {
+          "file": "cropped-innovation-community-practice-banner-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 2246,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-150x150.webp"
+        },
+        "medium_large": {
+          "file": "cropped-innovation-community-practice-banner-768x404.webp",
+          "width": 768,
+          "height": 404,
+          "filesize": 13900,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-768x404.webp"
+        },
+        "1536x1536": {
+          "file": "cropped-innovation-community-practice-banner-1536x807.webp",
+          "width": 1536,
+          "height": 807,
+          "filesize": 29284,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1536x807.webp"
+        },
+        "full": {
+          "file": "cropped-innovation-community-practice-banner.webp",
+          "width": 1751,
+          "height": 920,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2025/10/cropped-innovation-community-practice-banner.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp",
+        "file": "cropped-innovation-community-practice-banner.webp",
+        "width": 1751,
+        "height": 920,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2025/10/cropped-innovation-community-practice-banner-1536x807.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1536x807.webp",
+        "file": "cropped-innovation-community-practice-banner-1536x807.webp",
+        "width": 1536,
+        "height": 807,
+        "filesize": 29284,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1536x807.webp"
+      },
+      {
+        "type": "large",
+        "path": "2025/10/cropped-innovation-community-practice-banner-1024x538.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1024x538.webp",
+        "file": "cropped-innovation-community-practice-banner-1024x538.webp",
+        "width": 1024,
+        "height": 538,
+        "filesize": 19028,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-1024x538.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2025/10/cropped-innovation-community-practice-banner-768x404.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-768x404.webp",
+        "file": "cropped-innovation-community-practice-banner-768x404.webp",
+        "width": 768,
+        "height": 404,
+        "filesize": 13900,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-768x404.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2025/10/cropped-innovation-community-practice-banner-576x303.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-576x303.webp",
+        "file": "cropped-innovation-community-practice-banner-576x303.webp",
+        "width": 576,
+        "height": 303,
+        "filesize": 10724,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-576x303.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2025/10/cropped-innovation-community-practice-banner-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-150x150.webp",
+        "file": "cropped-innovation-community-practice-banner-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 2246,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/cropped-innovation-community-practice-banner-150x150.webp"
+      }
+    ],
+    "path": "2025/10/cropped-innovation-community-practice-banner.webp"
+  }
+}
