@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2025-10-20T23:32:58",
-    "updated_date": "2025-10-20T23:32:58",
+    "created_date": "2025-10-21T16:23:19",
+    "updated_date": "2025-10-21T16:23:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2990",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/2994",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,17 +14,17 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 2990,
-    "date": "2025-10-20T16:32:58",
-    "date_gmt": "2025-10-20T23:32:58",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-page.png",
-    "modified": "2025-10-20T16:32:58",
-    "modified_gmt": "2025-10-20T23:32:58",
-    "slug": "bppe-page",
+    "id": 2994,
+    "date": "2025-10-21T09:23:19",
+    "date_gmt": "2025-10-21T16:23:19",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-shield-2.png",
+    "modified": "2025-10-21T09:23:19",
+    "modified_gmt": "2025-10-21T16:23:19",
+    "slug": "bppe-shield-2",
     "status": "inherit",
     "type": "attachment",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/bppe-page/",
-    "title": "bppe-page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/bppe-shield-2/",
+    "title": "bppe-shield-2",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "comment_status": "closed",
@@ -35,23 +35,23 @@
       1
     ],
     "class_list": [
-      "post-2990",
+      "post-2994",
       "attachment",
       "type-attachment",
       "status-inherit",
       "hentry",
       "category-uncategorized"
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-page.png'><img loading=\"lazy\" decoding=\"async\" width=\"39\" height=\"46\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-page.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-shield-2.png'><img loading=\"lazy\" decoding=\"async\" width=\"84\" height=\"102\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-shield-2.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
     "caption": "",
     "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
-      "width": 39,
-      "height": 46,
-      "file": "2025/10/bppe-page.png",
-      "filesize": 695,
+      "width": 84,
+      "height": 102,
+      "file": "2025/10/bppe-shield-2.png",
+      "filesize": 1571,
       "sizes": {},
       "image_meta": {
         "aperture": "0",
@@ -69,8 +69,8 @@
       }
     },
     "post": null,
-    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-page.png",
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-page.png",
-    "path": "2025/10/bppe-page.png"
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-shield-2.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/10/bppe-shield-2.png",
+    "path": "2025/10/bppe-shield-2.png"
   }
 }
