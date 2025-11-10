@@ -199,19 +199,6 @@
         "featured": false
       },
       {
-        "id": 2605,
-        "type": "full",
-        "path": "2025/04/ebt-project-1.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-project-1.jpg",
-        "file": "ebt-project-1.jpg",
-        "width": 1154,
-        "height": 768,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/04/ebt-project-1.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
         "id": 2435,
         "type": "full",
         "path": "2025/01/genai-state-website.jpg",
