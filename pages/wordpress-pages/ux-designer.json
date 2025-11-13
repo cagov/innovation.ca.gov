@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-11-13T21:27:22",
-    "updated_date": "2025-11-13T23:12:16",
+    "updated_date": "2025-11-13T23:12:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-11-13T13:27:22",
     "date_gmt": "2025-11-13T21:27:22",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=2999",
-    "modified": "2025-11-13T15:12:16",
-    "modified_gmt": "2025-11-13T23:12:16",
+    "modified": "2025-11-13T15:12:59",
+    "modified_gmt": "2025-11-13T23:12:59",
     "slug": "ux-designer",
     "status": "publish",
     "type": "page",
