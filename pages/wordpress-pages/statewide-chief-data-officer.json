@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-11-17T19:17:03",
-    "updated_date": "2025-11-17T19:17:03",
+    "updated_date": "2025-11-17T19:17:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-11-17T11:17:03",
     "date_gmt": "2025-11-17T19:17:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3014",
-    "modified": "2025-11-17T11:17:03",
-    "modified_gmt": "2025-11-17T19:17:03",
+    "modified": "2025-11-17T11:17:08",
+    "modified_gmt": "2025-11-17T19:17:08",
     "slug": "statewide-chief-data-officer",
     "status": "publish",
     "type": "page",
@@ -66,7 +66,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Statewide Chief Data Officer",
-      "meta_description": "Office of Data and Innovation",
+      "meta_description": "ODI Is looking for a Statewide Chief Data Officer who can guide data practices within the state.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/statewide-chief-data-officer/",
       "open_graph_title": "Statewide Chief Data Officer",
       "open_graph_description": "Office of Data and Innovation",
