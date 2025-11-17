@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "created_date": "2025-11-17T23:46:36",
+    "updated_date": "2025-11-17T23:46:36",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3018",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3018,
+    "date": "2025-11-17T15:46:36",
+    "date_gmt": "2025-11-17T23:46:36",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3018",
+    "modified": "2025-11-17T15:46:36",
+    "modified_gmt": "2025-11-17T23:46:36",
+    "slug": "innovation-showcase",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-showcase/",
+    "title": "Innovation Showcase",
+    "excerpt": "<p>Share your solution at the Innovation Showcase, hosted by the Government Operations Agency (GovOps) and the California Office of Data and Innovation (ODI). Government teams will get to hear from innovators about challenges facing delivery of services to residents. The Showcase will bridge the gap between the public and private sectors. It will start conversations &#8230; <a title=\"Innovation Showcase\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-showcase/\" aria-label=\"More on Innovation Showcase\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 1123,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-3018",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-showcase/",
+      "page_title": "Innovation Showcase",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Innovation Showcase",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-showcase/",
+      "open_graph_title": "Innovation Showcase",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Innovation Showcase",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-showcase/",
+    "media": [
+      {
+        "id": 3019,
+        "type": "full",
+        "path": "2025/11/innovation-showcase.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase.png",
+        "file": "innovation-showcase.png",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3019,
+        "type": "medium_large",
+        "path": "2025/11/innovation-showcase-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase-768x512.png",
+        "file": "innovation-showcase-768x512.png",
+        "width": 768,
+        "height": 512,
+        "filesize": 19913,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase-768x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3019,
+        "type": "medium",
+        "path": "2025/11/innovation-showcase-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase-576x384.png",
+        "file": "innovation-showcase-576x384.png",
+        "width": 576,
+        "height": 384,
+        "filesize": 14194,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/innovation-showcase-576x384.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
