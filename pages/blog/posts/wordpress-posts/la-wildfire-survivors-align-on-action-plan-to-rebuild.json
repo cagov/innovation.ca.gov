@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-11-21T16:16:48",
-    "updated_date": "2025-11-21T16:48:48",
+    "updated_date": "2025-11-21T16:48:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-11-21T08:16:48",
     "date_gmt": "2025-11-21T16:16:48",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3027",
-    "modified": "2025-11-21T08:48:48",
-    "modified_gmt": "2025-11-21T16:48:48",
+    "modified": "2025-11-21T08:48:54",
+    "modified_gmt": "2025-11-21T16:48:54",
     "slug": "la-wildfire-survivors-align-on-action-plan-to-rebuild",
     "status": "publish",
     "type": "post",
