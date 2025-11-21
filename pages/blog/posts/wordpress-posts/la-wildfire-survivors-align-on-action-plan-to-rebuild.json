@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "created_date": "2025-11-21T16:16:48",
+    "updated_date": "2025-11-21T16:16:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/3027",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3027,
+    "date": "2025-11-21T08:16:48",
+    "date_gmt": "2025-11-21T16:16:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3027",
+    "modified": "2025-11-21T08:16:48",
+    "modified_gmt": "2025-11-21T16:16:48",
+    "slug": "la-wildfire-survivors-align-on-action-plan-to-rebuild",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/",
+    "title": "LA Wildfire Survivors Align on Action Plan to Rebuild",
+    "excerpt": "<p>Participants in the state’s deliberative democracy program, Engaged California, identified their top priorities for rebuilding their communities. What you need to know: The State’s pilot digital democracy conversation has wrapped, allowing Angelenos over a 6-month period to share their needs for recovery and prioritize efforts to rebuild following the devastating Palisades and Eaton fires. SACRAMENTO, &#8230; <a title=\"LA Wildfire Survivors Align on Action Plan to Rebuild\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/\" aria-label=\"More on LA Wildfire Survivors Align on Action Plan to Rebuild\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-3027",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/",
+      "page_title": "LA Wildfire Survivors Align on Action Plan to Rebuild",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "LA wildfire survivors align on action plan to rebuild",
+      "meta_description": "Participants in the state’s deliberative democracy program, Engaged California, identified their top priorities for rebuilding their communities.",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/",
+      "open_graph_title": "LA wildfire survivors align on action plan to rebuild",
+      "open_graph_description": "Participants in the state’s deliberative democracy program, Engaged California, identified their top priorities for rebuilding their communities.",
+      "twitter_title": "LA Wildfire Survivors Align on Action Plan to Rebuild",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/",
+    "media": [
+      {
+        "id": 3041,
+        "type": "full",
+        "path": "2025/11/fires-report.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report.jpg",
+        "file": "fires-report.jpg",
+        "width": 1440,
+        "height": 1033,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "large",
+        "path": "2025/11/fires-report-1024x735.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-1024x735.jpg",
+        "file": "fires-report-1024x735.jpg",
+        "width": 1024,
+        "height": 735,
+        "filesize": 70494,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-1024x735.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "medium_large",
+        "path": "2025/11/fires-report-768x551.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-768x551.jpg",
+        "file": "fires-report-768x551.jpg",
+        "width": 768,
+        "height": 551,
+        "filesize": 48774,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-768x551.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "medium",
+        "path": "2025/11/fires-report-576x413.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-576x413.jpg",
+        "file": "fires-report-576x413.jpg",
+        "width": 576,
+        "height": 413,
+        "filesize": 31291,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-576x413.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
