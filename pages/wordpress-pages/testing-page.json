@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2025-11-21T01:21:50",
+    "updated_date": "2025-11-21T01:24:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2025-11-20T17:21:50",
-    "modified_gmt": "2025-11-21T01:21:50",
+    "modified": "2025-11-20T17:24:14",
+    "modified_gmt": "2025-11-21T01:24:14",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Michael was here November 20, 5:21 PM</p>\n",
+    "excerpt": "<p>Michael was here November 20, 5:21 PM Town Hall for the Digital Age From the outset, survivors helped prioritize and set the agenda. They were asked questions that allowed them to rate the importance of 10 disaster-related topics that helped inform program leaders of their recovery needs. From there, the results were used to create &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -105,6 +105,63 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 3041,
+        "type": "full",
+        "path": "2025/11/fires-report.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report.jpg",
+        "file": "fires-report.jpg",
+        "width": 1440,
+        "height": 1033,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "large",
+        "path": "2025/11/fires-report-1024x735.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-1024x735.jpg",
+        "file": "fires-report-1024x735.jpg",
+        "width": 1024,
+        "height": 735,
+        "filesize": 70494,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-1024x735.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "medium_large",
+        "path": "2025/11/fires-report-768x551.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-768x551.jpg",
+        "file": "fires-report-768x551.jpg",
+        "width": 768,
+        "height": 551,
+        "filesize": 48774,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-768x551.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3041,
+        "type": "medium",
+        "path": "2025/11/fires-report-576x413.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-576x413.jpg",
+        "file": "fires-report-576x413.jpg",
+        "width": 576,
+        "height": 413,
+        "filesize": 31291,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/fires-report-576x413.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
