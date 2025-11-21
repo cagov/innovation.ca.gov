@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-11-21T16:16:48",
-    "updated_date": "2025-11-21T16:20:29",
+    "updated_date": "2025-11-21T16:20:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-11-21T08:16:48",
     "date_gmt": "2025-11-21T16:16:48",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3027",
-    "modified": "2025-11-21T08:20:29",
-    "modified_gmt": "2025-11-21T16:20:29",
+    "modified": "2025-11-21T08:20:35",
+    "modified_gmt": "2025-11-21T16:20:35",
     "slug": "la-wildfire-survivors-align-on-action-plan-to-rebuild",
     "status": "publish",
     "type": "post",
@@ -74,7 +74,7 @@
       "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2025/11/21/la-wildfire-survivors-align-on-action-plan-to-rebuild/",
       "page_title": "LA Wildfire Survivors Align on Action Plan to Rebuild",
       "page_description": "Office of Data and Innovation",
-      "page_social_image_url": "",
+      "page_social_image_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/11/cropped-fires-report.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
