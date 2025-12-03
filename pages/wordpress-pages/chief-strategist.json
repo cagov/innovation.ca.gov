@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-12-03T20:39:54",
-    "updated_date": "2025-12-03T20:43:01",
+    "updated_date": "2025-12-03T20:43:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-12-03T12:39:54",
     "date_gmt": "2025-12-03T20:39:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3053",
-    "modified": "2025-12-03T12:43:01",
-    "modified_gmt": "2025-12-03T20:43:01",
+    "modified": "2025-12-03T12:43:06",
+    "modified_gmt": "2025-12-03T20:43:06",
     "slug": "chief-strategist",
     "status": "publish",
     "type": "page",
@@ -65,10 +65,10 @@
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Chief Counsel&#x2d;innovation.ca.gov",
+      "meta_title": "Chief Strategist&#x2d;innovation.ca.gov",
       "meta_description": "The Chief Strategist plays a pivotal role in shaping the future of how California delivers digital and data services to the public.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-strategist/",
-      "open_graph_title": "Chief Counsel&#x2d;innovation.ca.gov",
+      "open_graph_title": "Chief Strategist&#x2d;innovation.ca.gov",
       "open_graph_description": "The Chief Strategist plays a pivotal role in shaping the future of how California delivers digital and data services to the public.",
       "twitter_title": "Chief Strategist",
       "twitter_description": "Office of Data and Innovation"
