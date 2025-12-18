@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-12-03T20:39:54",
-    "updated_date": "2025-12-18T17:01:18",
+    "updated_date": "2025-12-18T17:01:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-12-03T12:39:54",
     "date_gmt": "2025-12-03T20:39:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3053",
-    "modified": "2025-12-18T09:01:18",
-    "modified_gmt": "2025-12-18T17:01:18",
+    "modified": "2025-12-18T09:01:23",
+    "modified_gmt": "2025-12-18T17:01:23",
     "slug": "chief-strategist",
     "status": "publish",
     "type": "page",
