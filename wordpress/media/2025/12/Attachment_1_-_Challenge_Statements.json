@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "created_date": "2025-12-18T19:15:19",
+    "updated_date": "2025-12-18T19:15:19",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3074",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3074,
+    "date": "2025-12-18T11:15:19",
+    "date_gmt": "2025-12-18T19:15:19",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/12/Attachment_1_-_Challenge_Statements.docx",
+    "modified": "2025-12-18T11:15:19",
+    "modified_gmt": "2025-12-18T19:15:19",
+    "slug": "attachment_1_-_challenge_statements",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/attachment_1_-_challenge_statements/",
+    "title": "Attachment_1_-_Challenge_Statements",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3074",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/12/Attachment_1_-_Challenge_Statements.docx'>Attachment_1_-_Challenge_Statements</a></p>\n",
+    "caption": "<p>Attachment_1_-_Challenge_Statements</p>\n",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "media_details": {
+      "filesize": 36888,
+      "sizes": {}
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/12/Attachment_1_-_Challenge_Statements.docx",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/12/Attachment_1_-_Challenge_Statements.docx",
+    "path": "2025/12/Attachment_1_-_Challenge_Statements.docx"
+  }
+}
