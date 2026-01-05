@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created_date": "2026-01-05T22:49:25",
+    "updated_date": "2026-01-05T22:49:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3094",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3094,
+    "date": "2026-01-05T14:49:25",
+    "date_gmt": "2026-01-05T22:49:25",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3094",
+    "modified": "2026-01-05T14:49:25",
+    "modified_gmt": "2026-01-05T22:49:25",
+    "slug": "head-of-talent-and-people-services",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent-and-people-services/",
+    "title": "Head of Talent and People Services",
+    "excerpt": "<p>As the Head of Talent and People Services, you will serve as a member of the Operations management team and play a significant role in the decision making that affects the ODI workforce. You will lead the development of priorities, policies, and practices pertaining to recruitment and hiring, classification and pay determination, transactions,  strategic planning, &#8230; <a title=\"Head of Talent and People Services\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent-and-people-services/\" aria-label=\"More on Head of Talent and People Services\">Read more</a></p>\n",
+    "author": "Lawrence Troxler",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-3094",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent-and-people-services/",
+      "page_title": "Head of Talent and People Services",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Head of Talent and People Services",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent-and-people-services/",
+      "open_graph_title": "Head of Talent and People Services",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "Head of Talent and People Services",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/head-of-talent-and-people-services/"
+  }
+}
