@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "created_date": "2026-01-09T23:54:19",
+    "updated_date": "2026-01-09T23:54:19",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3112",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3112,
+    "date": "2026-01-09T15:54:19",
+    "date_gmt": "2026-01-09T23:54:19",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3112",
+    "modified": "2026-01-09T15:54:19",
+    "modified_gmt": "2026-01-09T23:54:19",
+    "slug": "data-driven-approach-detecting-cash-benefit-theft",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/",
+    "title": "A data-driven approach to detecting cash benefit theft",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) built a model that flags electronic benefits transfer (EBT) theft for the California Department of Social Services (CDSS). Project scope Partner Methods The opportunity California Work Opportunity and Responsibility to Kids (CalWORKs) is a critical safety net program overseen by CDSS. It provides temporary cash aid and services &#8230; <a title=\"A data-driven approach to detecting cash benefit theft\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/\" aria-label=\"More on A data-driven approach to detecting cash benefit theft\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "class_list": {
+      "0": "post-3112",
+      "1": "page",
+      "2": "type-page",
+      "3": "status-publish",
+      "5": "tag-do-not-crawl"
+    },
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/",
+      "page_title": "A data-driven approach to detecting cash benefit theft",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "A data-driven approach to detecting cash benefit theft",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/",
+      "open_graph_title": "A data-driven approach to detecting cash benefit theft",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "A data-driven approach to detecting cash benefit theft",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/",
+    "media": [
+      {
+        "id": 3108,
+        "type": "full",
+        "path": "2026/01/ebt-case-study-cover-1.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+        "file": "ebt-case-study-cover-1.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3108,
+        "type": "medium_large",
+        "path": "2026/01/ebt-case-study-cover-1-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg",
+        "file": "ebt-case-study-cover-1-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 69807,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3108,
+        "type": "medium",
+        "path": "2026/01/ebt-case-study-cover-1-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg",
+        "file": "ebt-case-study-cover-1-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 42271,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3109,
+        "type": "full",
+        "path": "2026/01/ebt-graph-2.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-graph-2.png",
+        "file": "ebt-graph-2.png",
+        "width": 876,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-graph-2.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3110,
+        "type": "full",
+        "path": "2026/01/ebt-map-2.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-map-2.png",
+        "file": "ebt-map-2.png",
+        "width": 876,
+        "height": 799,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-map-2.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
