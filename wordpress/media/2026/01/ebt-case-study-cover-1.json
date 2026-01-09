@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2026-01-09T23:20:31",
+    "updated_date": "2026-01-09T23:21:00",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3108",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3108,
+    "date": "2026-01-09T15:20:31",
+    "date_gmt": "2026-01-09T23:20:31",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+    "modified": "2026-01-09T15:21:00",
+    "modified_gmt": "2026-01-09T23:21:00",
+    "slug": "ebt-case-study-cover-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/ebt-case-study-cover-1/",
+    "title": "ebt-case-study-cover-1",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3108",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg\" class=\"attachment-medium size-medium\" alt=\"Hooded figure typing on laptop surrounded by computer code\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg 876w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Hooded figure typing on laptop surrounded by computer code",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 876,
+      "height": 438,
+      "file": "2026/01/ebt-case-study-cover-1.jpg",
+      "filesize": 91029,
+      "sizes": {
+        "medium": {
+          "file": "ebt-case-study-cover-1-576x288.jpg",
+          "width": 576,
+          "height": 288,
+          "filesize": 42271,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg"
+        },
+        "thumbnail": {
+          "file": "ebt-case-study-cover-1-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 7995,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "ebt-case-study-cover-1-768x384.jpg",
+          "width": 768,
+          "height": 384,
+          "filesize": 69807,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg"
+        },
+        "full": {
+          "file": "ebt-case-study-cover-1.jpg",
+          "width": 876,
+          "height": 438,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/01/ebt-case-study-cover-1.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg",
+        "file": "ebt-case-study-cover-1.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/01/ebt-case-study-cover-1-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg",
+        "file": "ebt-case-study-cover-1-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 69807,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-768x384.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/01/ebt-case-study-cover-1-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg",
+        "file": "ebt-case-study-cover-1-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 42271,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-576x288.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/01/ebt-case-study-cover-1-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-150x150.jpg",
+        "file": "ebt-case-study-cover-1-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7995,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-case-study-cover-1-150x150.jpg"
+      }
+    ],
+    "path": "2026/01/ebt-case-study-cover-1.jpg"
+  }
+}
