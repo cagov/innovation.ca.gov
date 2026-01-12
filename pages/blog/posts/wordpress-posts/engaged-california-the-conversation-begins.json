@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-21T23:23:55",
-    "updated_date": "2026-01-12T23:42:23",
+    "updated_date": "2026-01-12T23:42:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-21T16:23:55",
     "date_gmt": "2025-03-21T23:23:55",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2539",
-    "modified": "2026-01-12T15:42:23",
-    "modified_gmt": "2026-01-12T23:42:23",
+    "modified": "2026-01-12T15:42:29",
+    "modified_gmt": "2026-01-12T23:42:29",
     "slug": "engaged-california-the-conversation-begins",
     "status": "publish",
     "type": "post",
