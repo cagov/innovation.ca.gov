@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2026-01-12T19:58:41",
+    "updated_date": "2026-01-12T19:58:41",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3146",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3146,
+    "date": "2026-01-12T11:58:41",
+    "date_gmt": "2026-01-12T19:58:41",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp",
+    "modified": "2026-01-12T11:58:41",
+    "modified_gmt": "2026-01-12T19:58:41",
+    "slug": "cropped-fellows-cohort-2-webp",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-fellows-cohort-2-webp/",
+    "title": "cropped-fellows-cohort-2.webp",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3146",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"302\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-576x302.webp\" class=\"attachment-medium size-medium\" alt=\"All 20 members of cohort 2 of the Governor&#039;s Innovation Fellows outside the California Capitol.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-576x302.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1024x537.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-768x403.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1536x806.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp 1668w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp</p>\n",
+    "alt_text": "All 20 members of cohort 2 of the Governor's Innovation Fellows outside the California Capitol.",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1668,
+      "height": 875,
+      "file": "2026/01/cropped-fellows-cohort-2.webp",
+      "filesize": 254540,
+      "sizes": {
+        "medium": {
+          "file": "cropped-fellows-cohort-2-576x302.webp",
+          "width": 576,
+          "height": 302,
+          "filesize": 39758,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-576x302.webp"
+        },
+        "large": {
+          "file": "cropped-fellows-cohort-2-1024x537.webp",
+          "width": 1024,
+          "height": 537,
+          "filesize": 99546,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1024x537.webp"
+        },
+        "thumbnail": {
+          "file": "cropped-fellows-cohort-2-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 7022,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-150x150.webp"
+        },
+        "medium_large": {
+          "file": "cropped-fellows-cohort-2-768x403.webp",
+          "width": 768,
+          "height": 403,
+          "filesize": 64594,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-768x403.webp"
+        },
+        "1536x1536": {
+          "file": "cropped-fellows-cohort-2-1536x806.webp",
+          "width": 1536,
+          "height": 806,
+          "filesize": 189518,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1536x806.webp"
+        },
+        "full": {
+          "file": "cropped-fellows-cohort-2.webp",
+          "width": 1668,
+          "height": 875,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/01/cropped-fellows-cohort-2.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp",
+        "file": "cropped-fellows-cohort-2.webp",
+        "width": 1668,
+        "height": 875,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/01/cropped-fellows-cohort-2-1536x806.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1536x806.webp",
+        "file": "cropped-fellows-cohort-2-1536x806.webp",
+        "width": 1536,
+        "height": 806,
+        "filesize": 189518,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1536x806.webp"
+      },
+      {
+        "type": "large",
+        "path": "2026/01/cropped-fellows-cohort-2-1024x537.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1024x537.webp",
+        "file": "cropped-fellows-cohort-2-1024x537.webp",
+        "width": 1024,
+        "height": 537,
+        "filesize": 99546,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-1024x537.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/01/cropped-fellows-cohort-2-768x403.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-768x403.webp",
+        "file": "cropped-fellows-cohort-2-768x403.webp",
+        "width": 768,
+        "height": 403,
+        "filesize": 64594,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-768x403.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2026/01/cropped-fellows-cohort-2-576x302.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-576x302.webp",
+        "file": "cropped-fellows-cohort-2-576x302.webp",
+        "width": 576,
+        "height": 302,
+        "filesize": 39758,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-576x302.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/01/cropped-fellows-cohort-2-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-150x150.webp",
+        "file": "cropped-fellows-cohort-2-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 7022,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/cropped-fellows-cohort-2-150x150.webp"
+      }
+    ],
+    "path": "2026/01/cropped-fellows-cohort-2.webp"
+  }
+}
