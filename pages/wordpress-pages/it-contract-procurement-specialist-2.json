@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created_date": "2026-01-12T23:01:56",
+    "updated_date": "2026-01-12T23:01:56",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3151",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3151,
+    "date": "2026-01-12T15:01:56",
+    "date_gmt": "2026-01-12T23:01:56",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3151",
+    "modified": "2026-01-12T15:01:56",
+    "modified_gmt": "2026-01-12T23:01:56",
+    "slug": "it-contract-procurement-specialist-2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist-2/",
+    "title": "IT Contract &amp; Procurement Specialist",
+    "excerpt": "<p>As the IT Contract and Procurement Specialist, you will manage all IT contracts and procurement. You will be responsible for managing ODI’s full-service IT contracting program inclusive of contract management and contract budgeting within ODI.&nbsp; What you&#8217;ll do: Annual salary: $78,156 – $21,704 based on experience and qualifications Benefits: The state offers many benefits, including &#8230; <a title=\"IT Contract &amp; Procurement Specialist\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist-2/\" aria-label=\"More on IT Contract &amp; Procurement Specialist\">Read more</a></p>\n",
+    "author": "Brian Rains",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "class_list": [
+      "post-3151",
+      "page",
+      "type-page",
+      "status-publish"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist-2/",
+      "page_title": "IT Contract &amp; Procurement Specialist",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": "",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "IT Contract &amp; Procurement Specialist",
+      "meta_description": "Office of Data and Innovation",
+      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist-2/",
+      "open_graph_title": "IT Contract &amp; Procurement Specialist",
+      "open_graph_description": "Office of Data and Innovation",
+      "twitter_title": "IT Contract &amp; Procurement Specialist",
+      "twitter_description": "Office of Data and Innovation"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/it-contract-procurement-specialist-2/"
+  }
+}
