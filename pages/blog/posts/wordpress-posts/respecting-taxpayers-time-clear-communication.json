@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-10-13T15:40:57",
-    "updated_date": "2026-01-12T23:23:36",
+    "updated_date": "2026-01-12T23:23:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-10-13T08:40:57",
     "date_gmt": "2025-10-13T15:40:57",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2977",
-    "modified": "2026-01-12T15:23:36",
-    "modified_gmt": "2026-01-12T23:23:36",
+    "modified": "2026-01-12T15:23:41",
+    "modified_gmt": "2026-01-12T23:23:41",
     "slug": "respecting-taxpayers-time-clear-communication",
     "status": "publish",
     "type": "post",
