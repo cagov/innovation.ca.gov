@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-25T18:04:03",
-    "updated_date": "2025-07-25T19:49:31",
+    "updated_date": "2026-01-12T23:31:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-25T11:04:03",
     "date_gmt": "2025-07-25T18:04:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2808",
-    "modified": "2025-07-25T12:49:31",
-    "modified_gmt": "2025-07-25T19:49:31",
+    "modified": "2026-01-12T15:31:29",
+    "modified_gmt": "2026-01-12T23:31:29",
     "slug": "building-efficiencies-through-odis-analytics-accelerator-service",
     "status": "publish",
     "type": "post",
