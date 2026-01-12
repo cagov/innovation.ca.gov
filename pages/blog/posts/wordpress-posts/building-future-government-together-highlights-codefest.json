@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-08T16:53:56",
-    "updated_date": "2026-01-12T23:30:45",
+    "updated_date": "2026-01-12T23:30:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-08T09:53:56",
     "date_gmt": "2025-08-08T16:53:56",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2855",
-    "modified": "2026-01-12T15:30:45",
-    "modified_gmt": "2026-01-12T23:30:45",
+    "modified": "2026-01-12T15:30:51",
+    "modified_gmt": "2026-01-12T23:30:51",
     "slug": "building-future-government-together-highlights-codefest",
     "status": "publish",
     "type": "post",
