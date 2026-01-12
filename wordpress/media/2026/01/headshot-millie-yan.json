@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2026-01-12T17:47:27",
+    "updated_date": "2026-01-12T17:47:27",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3123",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3123,
+    "date": "2026-01-12T09:47:27",
+    "date_gmt": "2026-01-12T17:47:27",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png",
+    "modified": "2026-01-12T09:47:27",
+    "modified_gmt": "2026-01-12T17:47:27",
+    "slug": "headshot-millie-yan",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/headshot-millie-yan/",
+    "title": "headshot-millie-yan",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3123",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png'><img loading=\"lazy\" decoding=\"async\" width=\"352\" height=\"352\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png 352w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan-150x150.png 150w\" sizes=\"auto, (max-width: 352px) 100vw, 352px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 352,
+      "height": 352,
+      "file": "2026/01/headshot-millie-yan.png",
+      "filesize": 251151,
+      "sizes": {
+        "thumbnail": {
+          "file": "headshot-millie-yan-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 16343,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan-150x150.png"
+        },
+        "full": {
+          "file": "headshot-millie-yan.png",
+          "width": 352,
+          "height": 352,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/01/headshot-millie-yan.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png",
+        "file": "headshot-millie-yan.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/01/headshot-millie-yan-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan-150x150.png",
+        "file": "headshot-millie-yan-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 16343,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan-150x150.png"
+      }
+    ],
+    "path": "2026/01/headshot-millie-yan.png"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2026-01-12T17:47:33",
+    "updated_date": "2026-01-12T17:47:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3130",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3130,
+    "date": "2026-01-12T09:47:33",
+    "date_gmt": "2026-01-12T17:47:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png",
+    "modified": "2026-01-12T09:47:33",
+    "modified_gmt": "2026-01-12T17:47:33",
+    "slug": "headshot-derek-campbell",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/headshot-derek-campbell/",
+    "title": "headshot-derek-campbell",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3130",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png'><img loading=\"lazy\" decoding=\"async\" width=\"352\" height=\"352\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png 352w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell-150x150.png 150w\" sizes=\"auto, (max-width: 352px) 100vw, 352px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 352,
+      "height": 352,
+      "file": "2026/01/headshot-derek-campbell.png",
+      "filesize": 259320,
+      "sizes": {
+        "thumbnail": {
+          "file": "headshot-derek-campbell-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 16772,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell-150x150.png"
+        },
+        "full": {
+          "file": "headshot-derek-campbell.png",
+          "width": 352,
+          "height": 352,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/01/headshot-derek-campbell.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png",
+        "file": "headshot-derek-campbell.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/01/headshot-derek-campbell-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell-150x150.png",
+        "file": "headshot-derek-campbell-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 16772,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell-150x150.png"
+      }
+    ],
+    "path": "2026/01/headshot-derek-campbell.png"
+  }
+}
