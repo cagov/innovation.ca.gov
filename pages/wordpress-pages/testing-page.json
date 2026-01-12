@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-01-12T17:55:18",
+    "updated_date": "2026-01-12T18:05:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-01-12T09:55:18",
-    "modified_gmt": "2026-01-12T17:55:18",
+    "modified": "2026-01-12T10:05:25",
+    "modified_gmt": "2026-01-12T18:05:25",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
@@ -130,6 +130,19 @@
         "height": 352,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-antonio-dejesus.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3135,
+        "type": "full",
+        "path": "2026/01/headshot-casey-mckenzie.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-casey-mckenzie.png",
+        "file": "headshot-casey-mckenzie.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-casey-mckenzie.png",
         "source_url_match": true,
         "featured": false
       },
@@ -325,6 +338,19 @@
         "height": 352,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sara-banchero.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3133,
+        "type": "full",
+        "path": "2026/01/headshot-sue-vang.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sue-vang.png",
+        "file": "headshot-sue-vang.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sue-vang.png",
         "source_url_match": true,
         "featured": false
       },
