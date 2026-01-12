@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-21T20:14:14",
-    "updated_date": "2026-01-12T23:33:57",
+    "updated_date": "2026-01-12T23:34:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-21T13:14:14",
     "date_gmt": "2025-07-21T20:14:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2800",
-    "modified": "2026-01-12T15:33:57",
-    "modified_gmt": "2026-01-12T23:33:57",
+    "modified": "2026-01-12T15:34:03",
+    "modified_gmt": "2026-01-12T23:34:03",
     "slug": "fire-survivors-shaping-la-fire-rebuilding-action-plan-engaged-california",
     "status": "publish",
     "type": "post",
