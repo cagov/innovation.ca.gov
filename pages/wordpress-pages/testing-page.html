@@ -1,444 +1,198 @@
-<p>Michael was here December 29, 3:29 PM</p>
+<p>Michael was here January 14, 8:37 PM</p>
 
-<p class="cagov-emphasized cohort-meet">Meet cohort 2 of the Governor&#8217;s Innovation Fellows.</p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p class="cagov-emphasized">We are a government-to-government department. We drive statewide innovation through human-centered design practices and data-informed decisions. We partner with state departments to build the tools and processes they need to provide equitable and exceptional services to all Californians. Here’s some of the work we have done.</p>
+</div></div>
 
-<p></p>
+<div class="wp-block-group cagov-tab-content expansion-width-full m-t-5"><div class="wp-block-group__inner-container">
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-2.jpg" alt="Hooded figure typing on laptop surrounded by computer code"/></figure>
 
-<style>
-    .cohort-meet {
-        margin-top: 3rem;
-        margin-bottom: 3rem;
-    }
-    .bios-container {
-        display: flex;
-        flex-direction: column;
-        gap: 2rem;
-    }
-    .bio-tile {
-        display: flex;
-        flex-direction: row;
-        gap: 1rem;
-    }
-    .bio-image {
-        flex: 0 0 176px;
-        width: 176px;
-    }
-    .bio-content {
-        flex: 1 1 0;
-        min-width: 0;
-    }
-    .bio-content h2 {
-        font-family: "Public Sans", sans-serif;
-        color: black;
-        font-weight: 700;
-        font-size: 29px;
-    }
-    @media (max-width: 768px) {
-        .bio-image {
-            flex: 0 0 100px;
-            width: 100px;
-        }
-        .bio-tile {
-            flex-direction: column;
-        }
-    }
-    .bio-content-text.collapsed {
-        position: relative;
-        max-height: 6rem;
-        overflow: hidden;
-        /* Ensure collapsed content is not keyboard accessible */
-        pointer-events: none;
-    }
-    .bio-content-text.collapsed::after {
-        content: "";
-        position: absolute;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        height: 50px;
-        background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
-        pointer-events: none;
-        z-index: 1;
-    }
-    button.read-more-button {
-        padding-right: 32px;
-        color: #0D4F8C;
-        background: url('/img/blue-arrow-down.svg') no-repeat right center;
-        border: none !important;
-        outline: none !important;
-        cursor: pointer;
-        font-size: inherit;
-        font-family: inherit;
-    }
-    button.read-more-button:focus {
-        outline: 2px solid #0D4F8C !important;
-        outline-offset: 2px;
-    }
-    button.read-more-button.open {
-        background: url('/img/blue-arrow-up.svg') no-repeat right center;
-    }
-</style>
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        document.querySelectorAll('.read-more-button').forEach(button => {
-            // Initialize ARIA attributes
-            button.setAttribute('aria-expanded', 'false');
-            button.setAttribute('aria-label', 'Expand bio content');
-            button.setAttribute('role', 'button');
-            
-            // Initialize collapsed content attributes
-            const parent = button.parentElement;
-            const bioContentText = parent.querySelector('.bio-content-text');
-            if (bioContentText && bioContentText.classList.contains('collapsed')) {
-                bioContentText.setAttribute('tabindex', '-1');
-                bioContentText.setAttribute('aria-hidden', 'true');
-            }
-            
-            // Add keyboard event listener
-            button.addEventListener('keydown', (event) => {
-                if (event.key === 'Enter' || event.key === ' ') {
-                    event.preventDefault();
-                    button.click();
-                }
-            });
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">A data-driven approach to detecting cash benefit theft</h2>
 
-            // Add click event listener
-            button.addEventListener('click', () => {
-                const parent = button.parentElement;
-                const bioContentText = parent.querySelector('.bio-content-text');
-                let isOpen = button.classList.contains('open');
-                
-                if (isOpen) {
-                    bioContentText.classList.add('collapsed');
-                    button.classList.remove('open');
-                    button.classList.add('closed');
-                    button.textContent = 'Show more';
-                    button.setAttribute('aria-expanded', 'false');
-                    button.setAttribute('aria-label', 'Expand bio content');
-                    // Make collapsed content not keyboard accessible
-                    bioContentText.setAttribute('tabindex', '-1');
-                    bioContentText.setAttribute('aria-hidden', 'true');
-                } else {
-                    bioContentText.classList.remove('collapsed');
-                    button.classList.remove('closed');
-                    button.classList.add('open');
-                    button.textContent = 'Show less';
-                    button.setAttribute('aria-expanded', 'true');
-                    button.setAttribute('aria-label', 'Collapse bio content');
-                    // Make expanded content keyboard accessible
-                    bioContentText.removeAttribute('tabindex');
-                    bioContentText.setAttribute('aria-hidden', 'false');
-                }
-            });
-        });
-    });
-</script>
+<p>The California Department of Social Services (CDSS) has been working on strategies to combat theft. CDSS and ODI worked together to build a model that flags theft quickly and accurately.</p>
 
-<div class="bios-container">
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-rich-anglesey.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Lieutenant Rich Anglesey</h2>
+<p><a href="/our-work/projects/data-driven-approach-detecting-cash-benefit-theft/">Read the CDSS case study</a></p>
+</div></div>
+</div></div>
 
-            <p><strong>Lieutenant, Employee Health and Wellness Section</strong><br>
-            California Highway Patrol (CHP)<br>
-            <em>California State Transportation Agency</em></p>
-            <p class="bio-content-text collapsed">Rich has served with the California Highway Patrol for 17 years. His field assignments include patrol, Field Training Officer, Drug Recognition Expert, the San Mateo County Gang Task Force, the Mounted Patrol Unit, and patrol sergeant. He has also held numerous administrative roles, including CHP Academy instructor, Critical Incident Response Team member, and Peer Support Program Coordinator. Currently, he oversees the CHP Risk Management Unit, where he leads efforts to develop real-time analytics dashboards that empower leaders with enhanced oversight for data-informed decision-making. He is enthusiastic about collaborating with other Fellows on meaningful projects that improve the end-user experience.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sara-banchero.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Sara Banchero</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/01/genai-state-website.jpg" alt="GenAI for California: improving state government with GenAI" class="wp-image-1761"/></figure>
 
-            <p><strong>Acting Privacy Officer, Policy &#038; Privacy Specialist</strong><br>
-            Department of Parks and Recreation (DPR)<br>
-            <em>California Natural Resources Agency</em></p>
-        
-            <p class="bio-content-text collapsed">Sara has over 14 years of dedicated service to the State of California, with 2 years in management. In 2023, she joined the Information Security and Privacy Office as a Staff Services Manager and is transitioning to an Information Technology classification.  Her work is high production, high trust, and deals with several policy and compliance areas including PayCard security, digital forensics, and legal discovery. She has experience at the state in accounting, administration and staff management, administration and information technology policy and procedure writing, board meeting and member management, emergency services procurement, grant and contract management, training compliance, travel coordination, and revenue assessment management. She holds degrees in Social Sciences and Environmental Conservation while presently in a bachelor’s degree program in Information Security. She has completed the California Department of Technology’s Cybersecurity Bootcamp and the federally sponsored and CDT partnered Cyber Proud, Inc. Cyber Security Apprenticeship.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-michelle-bell.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Michelle Bell</h2>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Designing a clear path for the state&#8217;s GenAI adoption</h2>
 
-            <p><strong>Internal Operations Division Chief, ​Center for Health Care Quality (CHCQ)</strong><br>
-            California Department of Public Health (CDPH)<br>
-            <em>California Health and Human Services Agency</em></p>
+<p>With a product mindset and a human-centered approach, ODI built a brand new website that guides state staff and innovators through the generative artificial intelligence (GenAI) user journey. This allows the state to quickly adopt safe and trustworthy AI to improve outcomes for Californians.</p>
 
-            <p class="bio-content-text collapsed">Michelle has overseen CHCQ’s Fiscal Management, Training, Recruitment Resources, and Business Operations teams, as well as key technology projects and performance improvement efforts since February 2021. She previously served as the Performance Improvement Manager for CHCQ, where she oversaw a team of project managers responsible for identifying and executing process improvement initiatives with statewide impact throughout CHCQ’s operational structure. During the COVID-19 pandemic she oversaw the transformation of Sleep Train Arena into a 400-bed Alternate Care Facility. Prior to joining state service, Michelle served in various leadership and strategic planning roles in the food manufacturing industry. Michelle earned her BA in History at University of California, Berkeley and her Master of Business Administration at University of California, Davis. She enjoys creatively developing and implementing strategic solutions to organizational and operational challenges in health care.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-andrea-boyens.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Andrea Boyens</h2>
+<p><a href="/blog/posts/collaboration-and-human-centered-design-key-to-new-genai-website/">Read the GenAI website blog post</a></p>
+</div></div>
+</div></div>
 
-            <p><strong>CalFresh Policy Manager</strong><br>
-            California Department of Social Services (CDSS)<br>
-            <em>California Health and Human Services Agency</em></p>
-            <p class="bio-content-text collapsed">Andrea holds a bachelor’s degree in Political Science. Andrea started her social services career as an Eligibility Worker I in Sonoma County Human Services Department, bringing over 10 years of county experience working directly with the CalFresh program. After a year, Andrea was promoted to Eligibility Worker II, where she performed the same duties as an Eligibility Worker I but with greater complexity and volume. After 2 years serving in that position, Andrea was promoted to Senior Eligibility Specialist (Eligibility Worker III), where she coached, mentored, and assisted with difficult and complex eligibility problems affecting the eligibility determinations for various public assistance programs. She also served as a liaison and subject matter expert to other departmental program staff, community organizations, boards, and committees. A year after that, she was promoted to an Eligibility Specialist Supervisor, where she planned, assigned, and supervised a unit of Eligibility Specialists engaged in eligibility determinations of public assistance programs. As a supervisor, Andrea also developed corrective work plans to improve work performance and completed and delivered employee performance evaluations. After a year as a Supervisor, Andrea was promoted to Program Planning and Evaluation Analyst, where she developed and delivered refresher trainings to experienced staff on multiple subjects. Andrea also reviewed, analyzed, and interpreted state and federal regulations, directives, court decisions, and other relevant material related to CalFresh and Medi-Cal programs. Andrea served in that position for four years. In her current role, Andrea oversees the development of policies and projects directly related to increasing CalFresh program access for special populations such as college students. Her unit focuses on client-centered services through regular collaboration with key higher education segment stakeholders.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-john-brown.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">John Brown</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/12/hcd-project.jpg" alt="A construction worker stands on the frame of a wall using a tool"/></figure>
 
-            <p><strong>Budget Officer</strong><br>
-            <em>California Military Department (CMD)</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Using data to streamline housing development</h2>
 
-            <p class="bio-content-text collapsed">John is a dedicated management professional with extensive experience across multiple industries, including government, real estate, and corporate security. He has consistently demonstrated the ability to provide strategic recommendations that exceed program requirements, while excelling in operations oversight, team leadership, and organizational management. His expertise spans strategy formulation, stakeholder relations, staff training, policy development, and the execution of critical company objectives, making him a versatile leader capable of driving organizational success. His career includes serving as Staff Services Manager I for the CMD, where he managed the technical development and administration of the agency’s budget. He also worked as Assistant Property Manager at Shorenstein Realty Services, overseeing property and financial operations, and as Director of Security &#038; Fire Life Safety at David S. Taylor Interests, where he led training initiatives and stakeholder engagement in safety management. John holds a Bachelor of Arts in Emergency and Disaster Management from the American Public University System, further strengthening his expertise in leadership and crisis management.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-derek-campbell.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Derek Campbell</h2>
+<p>The Department of Housing and Community Development (HCD) gets so much data about housing projects across California that it can cause delays due to manual review. ODI partnered with HCD to build a tool that will save staff time making reports and flag projects for review. This is a step forward for California’s goal of building more housing faster.</p>
 
-            <p><strong>Chief Technology Officer (CTO)</strong><br>
-            <em>Governor&#8217;s Office of Land Use and Climate Innovation (LCI)</em></p>
+<p><a href="/our-work/projects/using-data-streamline-housing-development/">Read the HCD case study</a></p>
+</div></div>
+</div></div>
 
-            <p class="bio-content-text collapsed">Derek is a technology executive with more than 25 years of experience leading enterprise IT operations, cybersecurity, and modernization efforts across state government and public-sector organizations. As CTO for LCI, he oversees mission-critical systems, directs modernization strategy, and manages the development of CEQAnet and CEQASubmit. He also led the technical design required to transition LCI’s IT systems out of the Governor’s Office, demonstrating strong leadership in complex, cross-agency environments. Prior to LCI, Derek served as CTO for the California Housing Finance Agency and held senior leadership roles at Covered California, including overseeing the transition of its statewide Service Centers from vendor control to full state management. Earlier roles at East Bay Municipal Utility District, EMSystem, and the City of Portland strengthened his expertise in systems engineering, network architecture, and secure infrastructure design. Across his career, Derek is known for bringing clarity to complex problems, guiding high-impact transitions, and fostering collaboration across diverse teams.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-antonio-dejesus.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Antonio DeJesus</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/ddw-project-v3.jpg" alt="A pond of water split by a peninsula of cracked, dry ground" class="wp-image-1761"/></figure>
 
-            <p><strong>Parole Administrator I</strong><br>
-            <em>California Department of Corrections and Rehabilitation (CDCR)</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Using data to forecast drought in community water outages</h2>
 
-            <p class="bio-content-text collapsed">Antonio started his State of California career as a Casework Specialist with CDCR, Division of Juvenile Justice (DJJ), Preston Youth Correctional Facility in July 2007. In October 2008, he transferred to DJJ, N.A. Chaderjian Youth Correctional Facility as a Casework Specialist. In August 2016, He was promoted to a Parole Agent (PA) III with DJJ, Interstate Parole. In July 2020, Antonio transferred to the Division of Adult Parole Operations (DAPO), Bakersfield 3 GPS Parole Unit as a PA III. In July 2024, he was promoted to a Parole Administrator with DAPO, Interstate Compact Unit and Warrants Unit, where he is still assigned today. During his tenure with DJJ, Interstate Parole, he served as the Deputy Compact Administrator and was appointed with a majority vote by the California State Council as the full-time designee to represent the state in lieu of the California Commissioner for the Interstate Commission for Juveniles (ICJ). He also served on the Human Trafficking Committee, Finance Committee, and served as the Information Technology Chairperson for the ICJ.  In Antonio’s current role, he was granted authority by CDCR Undersecretary Jason Johnson as California’s designated Commissioner to represent the state in lieu of the California Commissioner for the Interstate Compact for Adult Offender Supervision and the ICJ. He also serves on the information Technology Committee, Training, Education and Public Relations Committee, and serves as the West Region Committee Co-Chair for the ICJ. Antonio possesses a Bachelor’s Degree and Master’s Degree in Social Work from the California State University, Chico. He is Training for Trainers-certified in Parole Agent Safety and Tactics and Heroes Active Bystandership.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-mary-gorman.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Mary Gorman</h2>
+<p>ODI worked with the California Division of Drinking Water (DDW) to improve a model that forecasts which water systems will be affected by drought. This will allow communities to fix problems before they happen.</p>
 
-            <p><strong>Innovative Projects Manager</strong><br>
-            Department of Housing and Community Development (HCD)<br>
-            <em>Business, Consumer Services and Housing Agency</em></p>
+<p><a href="/our-work/projects/using-data-forecast-drought-community-water-outages/">Read the DDW case study</a></p>
+</div></div>
+</div></div>
 
-            <p class="bio-content-text collapsed">Mary brings a diverse and dynamic background in program management, policy development, and team leadership across multiple sectors. Her early career includes teaching, where she collaborated with lead educators to develop curriculum for elementary and middle school students. As a senior emergency dispatcher, she created comprehensive response procedures for police, fire, and EMS services, while also training new hires. Transitioning into housing, she served as a Regional Lead Housing Navigator developing case management processes to secure POFA and Mainstream Housing Vouchers for clients facing significant barriers such as physical and mental disabilities, substance use disorders, and challenging rental histories. At the San Diego Housing Commission, she played a key role in launching and implementing the Housing Stability Assistance Program using the Emergency Rental Assistance Program funding. Since joining the State of California, she has been working on the Local Government Matching Grants Program. As a program manager, she leads a team focused on administering grant funds to accelerate affordable housing production on excess state land. Her passion is improving internal processes, carving out smoother workflows, and constantly finding ways to be more efficient and enhance performance and productivity in her team.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-natalie-kuffel.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Natalie Kuffel</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-project-2.jpg" alt="DTSC staff stand behind a table in a park. The table has displays and maps about a nearby project. 3 people are filling out forms at the table." class="wp-image-1416"/></figure>
 
-            <p><strong>Deputy Director of the State Clearinghouse</strong><br>
-            <em>Governor&#8217;s Office of Land Use and Climate Innovation (LCI)</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Lifting Californians’ voices in toxic substance project decisions</h2>
 
-            <p class="bio-content-text collapsed">Natalie’s portfolio includes land use planning and policy, California Environmental Quality Act (CEQA) policy, judicial and permit streamlining for infrastructure and housing projects, and operation of the State Clearinghouse. She previously served as LCI’s Land Use Counsel and as the Legislative Director under the Brown Administration. Prior to state service, she was a practicing CEQA attorney, a clerk for a federal district court judge, and the community partnerships coordinator for a homeless services nonprofit.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-mai-le.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Mai Le</h2>
+<p>The Department of Toxic Substances Control (DTSC) oversees cleanup projects across the state. They also issue permits for toxic substance storage. They use comments from the public when deciding what to do at sites. Most projects get only a few comments. DTSC asked ODI to explore how to reach people who don’t usually comment. ODI ran pilots to test new ways of reaching Californians. After making a few key changes, we got 600% more comments.</p>
 
-            <p><strong>Section Chief, Multifamily Lending</strong><br>
-            Department of Housing and Community Development (HCD)</br>
-            <em>Business, Consumer Services and Housing Agency</em></p>
+<p><a href="/our-work/projects/lifting-californians-voices-in-toxic-substance-cleanup-project-decisions/">Read the DTSC case study</a></p>
+</div></div>
+</div></div>
 
-            <p class="bio-content-text collapsed">Mai is responsible for the assignment, monitoring, and evaluation of the work of staff through all phases of streamlining all facets of the state’s affordable housing financing  system for multifamily lending programs and ensuring quality control. This includes collaboration and coordination with other state entities involved the design, implementation and monitoring of affordable housing programs including the California Housing Finance Agency, California Debt Limit Allocation Committee, and California Tax Credit Allocation Committee as well as local governments, affordable housing developers, stakeholders, and other interested parties to identify areas of alignment to streamline the affordable housing finance process and ensure effectiveness and efficiency.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-mary-martin-mabry.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Mary Martin-Mabry</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/05/calhr-project.jpg" alt="People in motion at a job fair" class="wp-image-1415"/></figure>
 
-            <p><strong>Director of Marketing and Member Engagement</strong><br>
-            California Volunteers<br>
-            <em>Governor’s Office of Service and Community Engagement</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Unlocking state hiring insights</h2>
 
-            <p class="bio-content-text collapsed">Mary joined California Volunteers 4 years ago as their first-ever Director of Marketing to support the nascent College Corps program. Since then, her role and her team have expanded to support recruitment, member engagement and community outreach across all service programs administered by the department. Prior to California Volunteers she worked for UC Davis, developing a university-wide database to track and promote community engaged research, transitioning web content for international student services to a new platform, and leading multimedia storytelling efforts. As an Information Officer for the California Department of Public Health she helped launch the public education campaign supporting the legalization of adult use cannabis and while working for the Department of Rehabilitation she started a low-tech podcast project to highlight the lived experience of individuals with disability. She’s a Returned Peace Corps Volunteer and proud Sacramentan (born and raised!).</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-casey-mckenzie.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Casey McKenzie</h2>
+<p>The Office of Data and Innovation (ODI) worked with the Department of Human Resources (CalHR) to make it easier to get data from a key hiring system. We built a modern data pipeline that gives staff self-service access to data. With ODI’s help, what would have been a years-long improvement process took just 4 months.</p>
 
-            <p><strong>Innovation Branch Chief, Division of Research, Innovation, and System Information</strong><br>
-            Department of Transportation (CalTrans)<br>
-            <em>California State Transportation Agency</em></p>
+<p><a href="/our-work/projects/unlocking-state-hiring-insights/">Read the CalHR case study</a></p>
+</div></div>
+</div></div>
 
-            <p class="bio-content-text collapsed">Casey supports new ideas, collaboration, and practical solutions that improve everyday operations across the state. She has been with Caltrans for three years and previously worked in the Fuels and Transportation Division at the California Energy Commission. With a background in early childhood education and energy engineering, Casey brings a unique blend of people-centered and technical experience to her role. She is committed to creating space for staff to be heard, helping teams develop and implement innovative ideas statewide, and strengthening public service through meaningful innovation. Casey is excited to connect with others who are advancing innovation in California government and to learn new tools and practices that can help scale innovative ideas across departments.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-dionne-mustybrook.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Dionne Mustybrook</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img loading="lazy" decoding="async" width="577" height="384" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project-1.jpg" alt="A smiling man holding a happy baby" class="wp-image-1415"/></figure>
 
-            <p><strong>Agency Information Security Officer</strong><br>
-            <em>Business, Consumer Services and Housing Agency</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Helping more eligible families enroll in CalWORKs</h2>
 
-            <p class="bio-content-text collapsed">Dionne has 30 years of making California a more accessible and secure place on the information technology and data sharing front. Dionne started her career shortly after she graduated from Sacramento State with a bachelor’s degree in Criminal Justice. Her very first civil service position was at the Secretary of State’s office. Here she was responsible for digitizing records that were only accessible on Microfiche. Next, she was responsible for inmate data quality and assurance at the Department of Corrections. Some of the other notable projects Dionne was responsible for, was publishing public health statistics, providing up to the minute H1N1 data, and showcasing accurate and secure American Recovery and Reinvestment Act of 2009 data to both the public and the Obama-Biden administration. Next, she became a lead in both web architecture and network administration for the Office of Statewide Health Planning and Development (OSHPD). This led to Dionne’s fascination and eagerness to focus her career on information security.  Dionne went on to become the Chief Information Security Officer for OSHPD, Department of General Services, and California Department of Fish and Wildlife.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-pedro-perez-mireles.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Pedro Perez Mireles</h2>
+<p>CalWORKs is a major safety net program. There’s a gap between people eligible for benefits and those who get them. ODI explored why the gap exists. We interviewed applicants to learn what it’s like applying for CalWORKs. We also talked to program staff to hear what it&#8217;s like to run the program. We found pain points that stop families from getting the benefits they deserve.</p>
 
-            <p><strong>IT Strategic Manager</strong><br>
-            California Department of Technology (CDT)<br>
-            <em>Government Operations Agency</em></p>
+<p><a href="/our-work/projects/helping-more-eligible-families-enroll-in-calworks/">Read the CalWORKs case study</a></p>
+</div></div>
+</div></div>
 
-            <p class="bio-content-text collapsed">Pedro has over 20 years of experience leading transformational initiatives in government and enterprise technology. Currently, he leads the IITS Strategic Management team of 7, where he developed and implemented a comprehensive Strategic Management Plan within 2.5 months that established governance, standardized processes, and data-driven dashboards, resulting in 83% task completion across 114 strategic projects in 2025. He has successfully coached team members, built high-performing teams from scratch, and delivered enterprise initiatives including the IITS SharePoint Site launch, Statewide Collaboration Project, and State Audit Response with zero findings. Prior to CDT, Pedro served as Program Management Director at CommScope and ARRIS, where he led cross-functional teams of 15-50 members across global locations delivering technology solutions for major telecommunications customers. He doubled production sales from $25M to $50M by resolving critical customer issues, built a new portfolio from zero to $8M+ revenue in 2 years, and drove $100M in sales growth through customer trust and operational excellence. Pedro holds an MBA in Technology Management, PMP and Agile certifications, and recently completed Sacramento State&#8217;s Leadership for Government Executive program (Cohort 42, 2025). He is passionate about using innovation, data analytics, and collaborative leadership to modernize government operations and deliver exceptional customer outcomes.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-daniel-rubinstein.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Daniel Rubinstein</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left dif-project"><img loading="lazy" decoding="async" width="577" height="384" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2023/07/calworks-project.jpg" alt="A woman sitting in a living room with a laptop in front of her, looking at you" class="wp-image-1413"/></figure>
 
-            <p><strong>Chief of Staff, Division of Safety Programs</strong><br>
-            Department of Transportation (CalTrans)<br>
-            <em>California State Transportation Agency</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3 dif-project">Getting compensation to more California crime victims</h2>
 
-            <p class="bio-content-text collapsed">Daniel is the Chief of Staff for the Headquarters Division of Safety Programs at Caltrans, where he also served in the Director’s Office as the Executive Manager and acting Executive Liaison. Prior to Caltrans, he was an acting manager and lead analyst in the Director’s Office at the Department of Managed Health Care and an analyst in the Office of the Secretary of the Labor and Workforce Development Agency. He interned in the State Legislature and was a student assistant at the Secretary of State’s. Daniel graduated summa cum laude with a Bachelor of Arts in political science from Sacramento State University where his favorite topics were California government, democratic erosion, and international security. Daniel is a Sacramento native and a first generation American whose family is from Ukraine.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Sarah Shepherd</h2>
+<p>California Victim Compensation Board (CalVCB) noticed a puzzling trend. Despite a rise in violent crimes, fewer victims applied for compensation. CalVCB asked ODI to find out why. Their goal was to get more applications. For 6 weeks, ODI talked with victims and those who support them. We used this research and best practices in design to find ways to make it easier to apply.</p>
 
-            <p><strong>Associate Warden</strong><br>
-            <em>California Department of Corrections and Rehabilitation (CDCR)</em><p>
+<p><a href="/our-work/projects/getting-compensation-to-more-california-crime-victims/">Read the CalVCB case study</a></p>
+</div></div>
+</div></div>
+<!------------------------  BEGIN COMMENT OUT
 
-            <p class="bio-content-text collapsed">Sarah began her career with CDCR as an Office Assistant for the Board of Parole Hearings in 2006, promoted to Office Technician at the Division of Adult Institutions (DAI), General Population (GP) Males Mission in 2007, worked as a Staff Services Analyst and Associate Governmental Programs Analyst (AGPA) in Statewide Transportation from 2007 through the end of 2008 when she became a Parole Service Associate working in the Central Valley. S. Shepherd returned to Sacramento in early 2012 as an AGPA with DAI before moving to the Budget Management Branch in October 2012. In February of 2014, she was promoted to Staff Services Manager I with the Contract Beds Unit where she worked until June 2016 when she was promoted to California State Prison &#8211; Sacramento as the Correctional Business Manager where she worked for 5+ years. She spent a year as the Associate Warden (AW) &#8211; Business Services out of class before promoting to AW officially in March 2022. While working as an AW, she has oversight of various divisions, such as Business Services, C Facility working with the GP Level IV population, Case Records, and Education, and A Facility working with the Level IV Enhanced Out-Patient (EOP) GP, EOP Restrictive Housing Unit (RHU), and Correctional Clinical Case Management System RHU populations.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-thomas-thai.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Thomas Thai</h2>
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left"><img loading="lazy" decoding="async" width="577" height="384" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/vaccine_sentiment_Vaccine-sentiment-analytics.png" alt="Nurse waving to a patient at a drive-through COVID-19 vaccine site" class="wp-image-365"/></figure>
 
-            <p><strong>Data Analysis Administrator</strong><br>
-            California Department of Tax and Fee Administration (CDTFA)<br>
-            <em>Government Operations Agency</em></p>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3">Vaccine sentiment analytics</h2>
 
-            <p class="bio-content-text collapsed">Thomas is an accomplished tax administration leader and project manager with over 14 years of diverse experience across Field Operations, Business Tax Administration, and Technology Services for the State of California. Thomas specializes in supervising experienced specialists, maximizing team efficiency, and overseeing the production of critical agency reports. His background is deeply rooted in managing high-stakes, large-scale projects, including successfully transitioning state departments from legacy systems to modern platforms like CDTFA&#8217;s Centralized Revenue Opportunity System, where he acted as a Business Manager and Lead Trainer, ensuring smooth adoption and implementing change management tactics for thousands of users. Thomas is recognized for his comprehensive knowledge of tax policy, having served as an Audit Policy Specialist and Senior Tax Advice Expert. He possesses a strong analytical mind and the ability to translate complex legislation and regulations into clear, actionable solutions for both high-level management and the public. His commitment to protecting taxpayer rights and driving administrative efficiency, combined with a Bachelor of Science in Accountancy and Accounting Information Systems from California State University, Sacramento, positions him as a strategic leader prepared to tackle the most challenging issues in state tax compliance and service delivery.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-kuo-jen-kolin-tseng.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Kuo Jen Kolin Tseng</h2>
+<p>When supplies were limited, officials wanted to get vaccines in arms fast. With equity as a top concern, we built a vaccine sentiment model to send limited resources where they were most needed. This model used the <a href="https://healthyplacesindex.org/">Healthy Places Index</a> and digital surveys on the state’s most-visited websites. We found areas with low vaccination rates, but high interest in getting vaccinated. This resulted in more equitable distribution of vaccines across California.</p>
+</div></div>
+</div></div>
 
-            <p><strong>Region Administrator</strong><br>
-            Department of Motor Vehicles (DMV)</br>
-            <em>California State Transportation Agency</em></p>
+END COMMENT OUT --------------------------->
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left"><img loading="lazy" decoding="async" width="577" height="384" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/ds-project.png" alt="Person walking through a whiteboard showing the design process" class="wp-image-374"/></figure>
 
-            <p class="bio-content-text collapsed">Kolin supervises multiple Driver Safety Offices and leads strategic initiatives that support and enhance branch operations. He provides leadership, guidance, and quality oversight to office operations while also providing input on policy creation as it relates to operational feasibility and impact. He is known for his practical and pragmatic approach that helps to strengthen the branch&#8217;s strategic plan and improve program performance. Previously, Kolin provided critical operational input following a major court decision, enabling operations to continue with minimal disruption. He produced a workforce model to evaluate the timeliness of processes that also assisted in determining staffing needs. He oversaw the development and implementation of a new case management system that modernized branch operations and remedied a managerial void by creating a workforce monitoring dashboard. Kolin holds a master&#8217;s degree from California State University, Fullerton and a bachelor&#8217;s degree from University of California, Riverside. Outside of work he enjoys working on cars, fixing the house, and rooting for the Lakers.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sue-vang.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Sue Vang</h2>
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3">California Design System</h2>
 
-            <p><strong>Senior Environmental Scientist (Supervisor)</strong><br>
-            California Department of Resources Recycling and Recovery (CalRecycle)</br>
-            <em>California Environmental Protection Agency</em></p>
+<p>The<a href="https://designsystem.webstandards.ca.gov/"> California Design System</a> solves common website problems. Its reusable components and patterns make state websites more consistent. Real world testing allows departments to use them with confidence. Code comes from past projects like:</p>
 
-            <p class="bio-content-text collapsed">Sue has been a pivotal figure in advancing California&#8217;s commitment to a sustainable future. Prior to her current role as CalRecycle’s primary Circular Economy Advisor, she served as a scientist within CalRecycle’s Policy Division. In this capacity, Sue dedicated herself to pioneering innovative approaches to recycling, focusing on creating tangible environmental benefits and achieving significant waste reduction. Throughout her career, Sue has consistently demonstrated a deep understanding of the interconnectedness between waste reduction and environmental health. She has rigorously highlighted how effective waste reduction strategies directly lead to decreased greenhouse gas emissions and contribute to a cleaner environment for all Californians. Her work has been foundational in shaping policies and initiatives that foster resource conservation and promote a more circular economy.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-molly-vue.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Molly Vue</h2>
+<ul class="wp-block-list">
+<li>alpha.ca.gov</li>
 
-            <p><strong>Language Access Officer</strong><br>
-            Employment Development Department (EDD)</br>
-            <em>Labor and Workforce Development Agency</em></p>
+<li>covid19.ca.gov</li>
 
-            <p class="bio-content-text collapsed">Molly works to ensure Californians can access services regardless of the language they speak. She joined EDD in 2017 as an analyst and later served as Advisor to the Chief Deputy Director during the COVID-19 pandemic. Most recently, she was the User Interface (UI) Stakeholder Liaison, acting as the primary connection between the UI program and community advocates. Prior to state service, Molly worked with community-based organizations supporting recent arrivals through resettlement and integration services. Her work and leadership focus on addressing barriers, elevating community needs, and fostering collaboration to expand equitable access and strengthen connections between public services and the communities they serve.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
-    <div class="bio-tile">
-        <div class="bio-image">
-          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-millie-yan.png" alt="" />
-        </div>
-        <div class="bio-content">
-            <h2 class="wp-block-heading">Millie Yan</h2>
+<li>cannabis.ca.gov</li>
 
-            <p><strong>Legislative Coordinator</strong><br>
-            <em>Department of Finance (DOF)</em></p>
+<li>drought.ca.gov</li>
+</ul>
 
-            <p class="bio-content-text collapsed">Millie is experienced in law, legislative process, and budget development and administration. Millie was a staff attorney representing low-income clients on unlawful detainer and public benefits cases for Legal Services of Northern California before transitioning to the government sector at DOF, where she has worked for almost ten years. With DOF, Millie started as a budget analyst and oversaw the annual budget development and administration for the California Public Utilities Commission, California Energy Commission, and other departments within the California Natural Resources Agency. As Legislative Coordinator, Millie manages and coordinates the department-wide workload for all bill reports and enrolled bill reports and represents the Administration in Assembly Appropriations Committee hearings. Millie also co-founded the Asian American Pacific Islander Association of Placer County and manages regulatory compliance as a board member. Millie has a Bachelor of Arts in the fields of American Studies and Women&#8217;s Studies from the University of Maryland, College Park; a Juris Doctorate from University of California College of Law, San Francisco; and a Master of Public Policy and Administration with Certificate in Collaborative Governance from California State University, Sacramento. Millie has almost 10 years of finance experience that will allow her to contribute to the success of the Innovative Fellows program.</p>
-            <button class="read-more-button closed">Show more</button>
-        </div>
-    </div>
+<p>Feedback from the public drives improvements. Every time we update, we test for performance and accessibility. Teams can upgrade components on their own to fit their needs. We launched the Design System in partnership with the California Department of Technology (CDT). We continue to collaborate with CDT. This will promote these best practices across the state.</p>
+</div></div>
+</div></div>
+
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-large is-resized cagov-align-left"><img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/phone-mockup-pagefeedback.webp" alt="Person holding a phone showing the page feedback form on the California Department of Cannabis Control website" class="wp-image-373" style="width:576px;height:undefinedpx"/></figure>
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3">Page feedback</h2>
+
+<p>You can’t improve services if you don’t know what people need. The page feedback tool lets the public share their thoughts with the teams who serve them. We created it for covid19.ca.gov. It’s now on several state websites.</p>
+</div></div>
+</div></div>
+
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full cagov-align-left"><img loading="lazy" decoding="async" width="577" height="364" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/accessibility-performance-screenreader.jpg" alt="Person using a braille reading device on a computer" class="wp-image-375"/></figure>
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3">Accessibility and performance</h2>
+
+<p>At least 10% of Californians have some form of disability. We go beyond <a href="https://www.w3.org/TR/WCAG22/">WCAG standards</a> to design services that work better for everyone. We write at a grade 6 reading levels so it&#8217;s easier for everyone to understand our content. We make sure our services work well on most devices, not just new smartphones.</p>
+</div></div>
+</div></div>
 </div>
+</div>
+
+<!------------------------  BEGIN COMMENT OUT
+
+<div class="wp-block-group cagov-aligned-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full is-resized cagov-align-left"><img loading="lazy" decoding="async" width="676" height="451" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg" alt="Person holding a phone showing the California COVID-19 website" class="wp-image-372" style="width:576px;height:undefinedpx" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19.jpg 676w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/phone-mockup-covid19-576x384.jpg 576w" sizes="auto, (max-width: 676px) 100vw, 676px" /></figure>
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading h3">covid19.ca.gov</h2>
+
+<p>Californians needed a trusted resource for information during the pandemic. We launched the first version of covid19.ca.gov in 5 days to be a source of truth. It showed the state what a best practice website could look like, even though we made it in the middle of a crisis. Over the next 2 years, we made dozens of major changes based on user feedback. One major update was a new data dashboard delivery method. This helped charts perform better on all devices. We reduced load times from 70 seconds to 4. Our innovations made the site one of the fastest and most accessible websites on CA.gov.</p>
+</div></div>
+</div></div>
+
+END COMMENT OUT --------------------------->
+<div class="wp-block-group expansion-width-full m-t-5">
+  <cagov-paginator data-paged-container="div.cagov-tab-content" data-paged-block="div.cagov-aligned-group" data-per-page="4"></cagov-pagination>
+</div></div>
+
+
+<div class="wp-block-group cagov-single-column m-t-5 m-b-6"><div class="wp-block-group__inner-container"><div>
+
+<h2 class="wp-block-heading">How we choose projects</h2>
+
+<p>Our evaluation criteria considers things like:</p>
+
+<ul class="wp-block-list">
+<li>Is this service critical to the lives of Californians?</li>
+
+<li>Does it impact large or underserved populations?</li>
+
+<li>How many state entities are involved in the service?</li>
+
+<li>Can our work on this service be applied to other services?</li>
+
+<li>What previous efforts can we build on?</li>
+</ul>
+
+<p>If you’re interested in working with ODI, <a href="/contact-us/">we’d love to hear from you</a>.</p>
+
+</div></div><!-- /wp:group-->
