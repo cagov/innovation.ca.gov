@@ -398,6 +398,19 @@
         "featured": false
       },
       {
+        "id": 3183,
+        "type": "full",
+        "path": "2026/01/headshot-sarah-shepherd.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd.png",
+        "file": "headshot-sarah-shepherd.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
         "id": 3133,
         "type": "full",
         "path": "2026/01/headshot-sue-vang.png",
