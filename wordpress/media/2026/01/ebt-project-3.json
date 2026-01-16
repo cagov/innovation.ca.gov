@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2026-01-16T17:33:42",
+    "updated_date": "2026-01-16T17:34:08",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3192",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3192,
+    "date": "2026-01-16T09:33:42",
+    "date_gmt": "2026-01-16T17:33:42",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+    "modified": "2026-01-16T09:34:08",
+    "modified_gmt": "2026-01-16T17:34:08",
+    "slug": "ebt-project-3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/ebt-project-3/",
+    "title": "ebt-project-3",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3192",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"383\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg\" class=\"attachment-medium size-medium\" alt=\"A customer tapping a card at a point of sale terminal\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A customer tapping a card at a point of sale terminal",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 577,
+      "height": 384,
+      "file": "2026/01/ebt-project-3.jpg",
+      "filesize": 215675,
+      "sizes": {
+        "thumbnail": {
+          "file": "ebt-project-3-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 7336,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3-150x150.jpg"
+        },
+        "full": {
+          "file": "ebt-project-3.jpg",
+          "width": 577,
+          "height": 384,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/01/ebt-project-3.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+        "file": "ebt-project-3.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/01/ebt-project-3-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3-150x150.jpg",
+        "file": "ebt-project-3-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7336,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3-150x150.jpg"
+      }
+    ],
+    "path": "2026/01/ebt-project-3.jpg"
+  }
+}
