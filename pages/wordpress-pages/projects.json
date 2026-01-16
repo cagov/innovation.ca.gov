@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-16T19:25:07",
-    "updated_date": "2026-01-16T16:38:03",
+    "updated_date": "2026-01-16T17:40:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-16T12:25:07",
     "date_gmt": "2022-03-16T19:25:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=242",
-    "modified": "2026-01-16T08:38:03",
-    "modified_gmt": "2026-01-16T16:38:03",
+    "modified": "2026-01-16T09:40:07",
+    "modified_gmt": "2026-01-16T17:40:07",
     "slug": "projects",
     "status": "publish",
     "type": "page",
@@ -186,15 +186,15 @@
         "featured": false
       },
       {
-        "id": 3111,
+        "id": 3192,
         "type": "full",
-        "path": "2026/01/ebt-project-2.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-2.jpg",
-        "file": "ebt-project-2.jpg",
-        "width": 1154,
-        "height": 768,
+        "path": "2026/01/ebt-project-3.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+        "file": "ebt-project-3.jpg",
+        "width": 577,
+        "height": 384,
         "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-2.jpg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
         "source_url_match": true,
         "featured": false
       },
