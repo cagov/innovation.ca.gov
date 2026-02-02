@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-09T21:39:14",
-    "updated_date": "2025-06-12T23:51:44",
+    "updated_date": "2026-02-02T23:53:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-09T14:39:14",
     "date_gmt": "2022-09-09T21:39:14",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=113",
-    "modified": "2025-06-12T16:51:44",
-    "modified_gmt": "2025-06-12T23:51:44",
+    "modified": "2026-02-02T15:53:02",
+    "modified_gmt": "2026-02-02T23:53:02",
     "slug": "homepage",
     "status": "publish",
     "type": "page",
@@ -93,6 +93,19 @@
         "featured": false
       },
       {
+        "id": 2891,
+        "type": "full",
+        "path": "2025/08/cropped-blog-innovation-fellows.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
+        "file": "cropped-blog-innovation-fellows.jpg",
+        "width": 1751,
+        "height": 920,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
         "id": 2498,
         "type": "full",
         "path": "2025/03/engaged-california-join.png",
@@ -143,6 +156,19 @@
         "height": 649,
         "mime_type": "image/webp",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/homepage-hero-2024.webp",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3219,
+        "type": "full",
+        "path": "2026/02/innovation_hub_logo.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
+        "file": "innovation_hub_logo.png",
+        "width": 1104,
+        "height": 631,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
         "source_url_match": true,
         "featured": false
       }
