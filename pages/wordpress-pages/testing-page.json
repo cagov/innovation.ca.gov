@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-02-02T20:31:30",
+    "updated_date": "2026-02-02T23:19:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-02-02T12:31:30",
-    "modified_gmt": "2026-02-02T20:31:30",
+    "modified": "2026-02-02T15:19:34",
+    "modified_gmt": "2026-02-02T23:19:34",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Jim was here Feb 2, 12:30 PM &#8211; this is a copy of the draft post What You Need to Know: Relying on the state workforce’s expertise in delivering services for Californians, the Office of Data and Innovation invited employees to participate in the Engaged California program, to share their recommendations on how to improve &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
+    "excerpt": "<p>Jim was here Feb 2, 12:30 PM this is a test of homepage markup Building a generation of innovators The Governor’s Innovation Fellows are state employees making our government better. ODI gives them training and help to improve services for Californians. Tools and training state teams need If you’re looking for support to work better, &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -105,6 +105,34 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 2891,
+        "type": "full",
+        "path": "2025/08/cropped-blog-innovation-fellows.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
+        "file": "cropped-blog-innovation-fellows.jpg",
+        "width": 1751,
+        "height": 920,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3219,
+        "type": "full",
+        "path": "2026/02/innovation_hub_logo.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
+        "file": "innovation_hub_logo.png",
+        "width": 1104,
+        "height": 631,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
