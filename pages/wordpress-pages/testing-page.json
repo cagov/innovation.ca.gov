@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-02-02T23:40:45",
+    "updated_date": "2026-02-03T01:07:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-02-02T15:40:45",
-    "modified_gmt": "2026-02-02T23:40:45",
+    "modified": "2026-02-02T17:07:24",
+    "modified_gmt": "2026-02-03T01:07:24",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Shaping California, one conversation at a time ODI is proud to introduce Engaged California, an innovative new program designed to foster meaningful dialogue and strengthen trust between Californians and their government. The first use case of the program is focused on survivors of the LA firestorm and those who have been impacted by the recovery. &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
+    "excerpt": "<p>Copy of forthcoming blog post &#8211; jbum 2026-02-02 What You Need to Know: Relying on the state workforce’s expertise in delivering services for Californians, the Office of Data and Innovation invited employees to participate in the Engaged California program, to share their recommendations on how to improve government efficiency.&nbsp; Jan. 28, 2026, Sacramento, CA: Californians &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -38,14 +38,16 @@
     },
     "categories": [],
     "tags": [
-      "do-not-crawl"
+      "do-not-crawl",
+      "layout-no-sidebar"
     ],
     "class_list": {
       "0": "post-1226",
       "1": "page",
       "2": "type-page",
       "3": "status-publish",
-      "5": "tag-do-not-crawl"
+      "5": "tag-do-not-crawl",
+      "6": "tag-layout-no-sidebar"
     },
     "design_system_fields": {
       "template": "page"
@@ -88,105 +90,21 @@
         "description": "",
         "parent": 0,
         "filter": "raw"
+      },
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
       }
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
-    "media": [
-      {
-        "id": 289,
-        "type": "full",
-        "path": "2022/04/connections.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
-        "file": "connections.png",
-        "width": 576,
-        "height": 388,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2022/04/connections.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2891,
-        "type": "full",
-        "path": "2025/08/cropped-blog-innovation-fellows.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
-        "file": "cropped-blog-innovation-fellows.jpg",
-        "width": 1751,
-        "height": 920,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/cropped-blog-innovation-fellows.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2498,
-        "type": "full",
-        "path": "2025/03/engaged-california-join.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join.png",
-        "file": "engaged-california-join.png",
-        "width": 876,
-        "height": 584,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2498,
-        "type": "medium_large",
-        "path": "2025/03/engaged-california-join-768x512.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join-768x512.png",
-        "file": "engaged-california-join-768x512.png",
-        "width": 768,
-        "height": 512,
-        "filesize": 39828,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join-768x512.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2498,
-        "type": "medium",
-        "path": "2025/03/engaged-california-join-576x384.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join-576x384.png",
-        "file": "engaged-california-join-576x384.png",
-        "width": 576,
-        "height": 384,
-        "filesize": 30405,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/03/engaged-california-join-576x384.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 1828,
-        "type": "full",
-        "path": "2024/04/homepage-hero-2024.webp",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/homepage-hero-2024.webp",
-        "file": "homepage-hero-2024.webp",
-        "width": 1024,
-        "height": 649,
-        "mime_type": "image/webp",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/04/homepage-hero-2024.webp",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 3219,
-        "type": "full",
-        "path": "2026/02/innovation_hub_logo.png",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
-        "file": "innovation_hub_logo.png",
-        "width": 1104,
-        "height": 631,
-        "mime_type": "image/png",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/innovation_hub_logo.png",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
   }
 }
