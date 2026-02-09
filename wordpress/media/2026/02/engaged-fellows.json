@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "created_date": "2026-02-09T22:23:48",
+    "updated_date": "2026-02-09T22:24:32",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3253",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3253,
+    "date": "2026-02-09T14:23:48",
+    "date_gmt": "2026-02-09T22:23:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg",
+    "modified": "2026-02-09T14:24:32",
+    "modified_gmt": "2026-02-09T22:24:32",
+    "slug": "engaged-fellows",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/engaged-fellows/",
+    "title": "engaged-fellows",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3253",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-576x288.jpg\" class=\"attachment-medium size-medium\" alt=\"Governor&#039;s Innovation Fellows thinking about a process at a table\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-576x288.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1024x512.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-768x384.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1536x768.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Governor's Innovation Fellows thinking about a process at a table",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1752,
+      "height": 876,
+      "file": "2026/02/engaged-fellows.jpg",
+      "filesize": 1203291,
+      "sizes": {
+        "medium": {
+          "file": "engaged-fellows-576x288.jpg",
+          "width": 576,
+          "height": 288,
+          "filesize": 45213,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-576x288.jpg"
+        },
+        "large": {
+          "file": "engaged-fellows-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "filesize": 110392,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1024x512.jpg"
+        },
+        "thumbnail": {
+          "file": "engaged-fellows-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 8940,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "engaged-fellows-768x384.jpg",
+          "width": 768,
+          "height": 384,
+          "filesize": 70648,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-768x384.jpg"
+        },
+        "1536x1536": {
+          "file": "engaged-fellows-1536x768.jpg",
+          "width": 1536,
+          "height": 768,
+          "filesize": 205276,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1536x768.jpg"
+        },
+        "full": {
+          "file": "engaged-fellows.jpg",
+          "width": 1752,
+          "height": 876,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/02/engaged-fellows.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg",
+        "file": "engaged-fellows.jpg",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/02/engaged-fellows-1536x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1536x768.jpg",
+        "file": "engaged-fellows-1536x768.jpg",
+        "width": 1536,
+        "height": 768,
+        "filesize": 205276,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1536x768.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/02/engaged-fellows-1024x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1024x512.jpg",
+        "file": "engaged-fellows-1024x512.jpg",
+        "width": 1024,
+        "height": 512,
+        "filesize": 110392,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-1024x512.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/02/engaged-fellows-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-768x384.jpg",
+        "file": "engaged-fellows-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 70648,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-768x384.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/02/engaged-fellows-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-576x288.jpg",
+        "file": "engaged-fellows-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 45213,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-576x288.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/02/engaged-fellows-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-150x150.jpg",
+        "file": "engaged-fellows-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 8940,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/engaged-fellows-150x150.jpg"
+      }
+    ],
+    "path": "2026/02/engaged-fellows.jpg"
+  }
+}
