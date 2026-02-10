@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-02-10T17:44:53",
-    "updated_date": "2026-02-10T17:54:11",
+    "updated_date": "2026-02-10T19:35:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-02-10T09:44:53",
     "date_gmt": "2026-02-10T17:44:53",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3204",
-    "modified": "2026-02-10T09:54:11",
-    "modified_gmt": "2026-02-10T17:54:11",
+    "modified": "2026-02-10T11:35:03",
+    "modified_gmt": "2026-02-10T19:35:03",
     "slug": "state-employees-share-ideas-making-california-government-more-efficient",
     "status": "publish",
     "type": "post",
