@@ -9,28 +9,38 @@
   row-gap: 2px;
   margin-bottom: 4rem;
 }
+.par-stats-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 4rem;
+}
 div.par-stats-entry.dark-stripe {
   background-color: #EEE;
 }
 .par-stats-entry {
   display: grid;
-  grid-template-columns: 3fr 1fr 1fr 1fr; /* 1fr 1fr 1fr 2fr */
-  height: 2.2rem;
+  grid-template-columns: minmax(320px, 3fr) repeat(5, minmax(140px, 1fr));
+  min-height: 2.4rem;
+  min-width: 1020px;
 }
 .par-stats-entry.header {
     font-weight: bold;
     font-size: 1rem;
     background-color: #CCCCFF;
-    /* padding-top: 4px; */
+    min-height: 4.2rem;
 }
 .sort-tab.selected {
     background-color: #BBBBEE;
 }
 .par-stats-entry.header div {
-    padding-top: 2px; 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    align-items: flex-start;
 }
 .par-stats-entry  div {
     padding-left: 4px;
+    display: flex;
+    align-items: center;
 }
 .par-stats-entry    .speedlify-score {
       font-size: 0.75rem;
@@ -40,12 +50,32 @@ div.par-stats-entry.dark-stripe {
 }
 .par-stats-entry  div.page-name {
     vertical-align: middle;
-    padding-top: 6px;
+    padding-top: 0;
     font-size: 0.9rem;
     overflow: hidden;
 }
+.par-stats-entry .table-cell.date-cell {
+    font-size: 0.85rem;
+    padding-top: 0;
+}
 .sort-tab:not(:last-child) {
   border-right: 2px solid rgba(0,0,0,0.2);
+}
+@media (max-width: 1200px) {
+  .par-stats-entry {
+    grid-template-columns: minmax(280px, 3fr) repeat(5, minmax(120px, 1fr));
+    min-width: 900px;
+  }
+}
+@media (max-width: 767px) {
+  .par-stats-entry {
+    grid-template-columns: minmax(220px, 3fr) repeat(5, minmax(110px, 1fr));
+    min-width: 780px;
+  }
+  .par-stats-entry.header {
+    font-size: 0.95rem;
+    min-height: 3.8rem;
+  }
 }
 </style>
 
@@ -67,23 +97,33 @@ div.par-stats-entry.dark-stripe {
 
             {# loop thru keys in the performance array (into var key) #}
                 {# display key, performance[key].lighthouse.performance, performance[key].lighthouse.accessibility * 100, readability[key].readability.ari #}
-            <div class="par-stats-entry header">
-                <div class="sort-tab selected" data-sort-col="0" >Page ↑</div>
-                <div class="sort-tab" data-sort-col="1" >Performance</div>
-                <div class="sort-tab" data-sort-col="2"  >Accessibility</div>
-                <div class="sort-tab" data-sort-col="3"  >Readability (ari)</div>
-            </div>
-            <div class="par-stats-table">
-            {% for item in collections.all %}
-                <div class="par-stats-entry">
-                <div class="table-cell page-name" data-col-idx="0" data-sort-val="{{item.url}}"><a href="{{item.url}}?par=1">{{item.url}}</a></div>
-                <div class="table-cell" data-col-idx="1" data-sort-val="{{item.data.lighthouse.performance.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.performance.displayClass}}">{{item.data.lighthouse.performance.displayScore}}</span></div>
-                <div class="table-cell" data-col-idx="2" data-sort-val="{{item.data.lighthouse.accessibility.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.accessibility.displayClass}}">{{item.data.lighthouse.accessibility.displayScore}}</span></div>
-                <div class="table-cell" data-col-idx="3" data-sort-val="{{item.data.readability.displayScore}}"><span data-ari-score="{{item.data.readability.ari}}" class="speedlify-score {{item.data.readability.displayClass}}">{{item.data.readability.displayScore}}</span></div>
+            <div class="par-stats-scroll">
+              <div class="par-stats-entry header">
+                  <div class="sort-tab selected" data-sort-col="0" >Page ↑</div>
+                  <div class="sort-tab" data-sort-col="1" >Performance</div>
+                  <div class="sort-tab" data-sort-col="2"  >Accessibility</div>
+                  <div class="sort-tab" data-sort-col="3"  >Readability (ari)</div>
+                  <div class="sort-tab" data-sort-col="4"  >Last Modified</div>
+                  <div class="sort-tab" data-sort-col="5"  >Last Reviewed</div>
                 </div>
+              <div class="par-stats-table">
+              {% for item in collections.all %}
+                  <div class="par-stats-entry">
+                  <div class="table-cell page-name" data-col-idx="0" data-sort-val="{{item.url}}"><a href="{{item.url}}?par=1">{{item.url}}</a></div>
+                  <div class="table-cell" data-col-idx="1" data-sort-val="{{item.data.lighthouse.performance.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.performance.displayClass}}">{{item.data.lighthouse.performance.displayScore}}</span></div>
+                  <div class="table-cell" data-col-idx="2" data-sort-val="{{item.data.lighthouse.accessibility.displayScore}}"><span class="speedlify-score {{item.data.lighthouse.accessibility.displayClass}}">{{item.data.lighthouse.accessibility.displayScore}}</span></div>
+                  <div class="table-cell" data-col-idx="3" data-sort-val="{{item.data.readability.displayScore}}"><span data-ari-score="{{item.data.readability.ari}}" class="speedlify-score {{item.data.readability.displayClass}}">{{item.data.readability.displayScore}}</span></div>
+                  <div class="table-cell date-cell" data-col-idx="4" data-sort-val="{{item.data.lighthouse.lastmod.timestamp}}">
+                    <span{% if item.data.lighthouse.lastmod.tooltip %} title="{{item.data.lighthouse.lastmod.tooltip}}"{% endif %}>{{item.data.lighthouse.lastmod.displayDate or "—"}}</span>
+                  </div>
+                  <div class="table-cell date-cell" data-col-idx="5" data-sort-val="{{item.data.lighthouse.lastreviewed.timestamp}}">
+                    <span{% if item.data.lighthouse.lastreviewed.tooltip %} title="{{item.data.lighthouse.lastreviewed.tooltip}}"{% endif %}>{{item.data.lighthouse.lastreviewed.displayDate or "—"}}</span>
+                  </div>
+                  </div>
 
-            {% endfor %}
+              {% endfor %}
 
+              </div>
             </div>
             {# end par table #}
 
@@ -95,9 +135,9 @@ div.par-stats-entry.dark-stripe {
   </div>
 
 <script>
-  var default_sorts = [0,0,0,0]; // ascending/descending
-  var sort_states = [ 0,0,0,0 ];
-  var header_labels = ['Page','Performance','Accessibility','Readability (ari)'];
+  var default_sorts = [0,0,0,0,0,0]; // ascending/descending
+  var sort_states = [ 0,0,0,0,0,0 ];
+  var header_labels = ['Page','Performance','Accessibility','Readability (ari)','Last Modified','Last Reviewed'];
   var active_sort_col = 0;
   var active_sort_dir = 0;
   var string_sort = false;
@@ -139,10 +179,18 @@ div.par-stats-entry.dark-stripe {
           return b[1].localeCompare(a[1]);
         }
       } else {
+        var aVal = Number(a[1]);
+        var bVal = Number(b[1]);
+        var aMissing = Number.isNaN(aVal);
+        var bMissing = Number.isNaN(bVal);
+        if (aMissing && bMissing) return 0;
+        // Keep blanks at the bottom for numeric/date sorts.
+        if (aMissing) return 1;
+        if (bMissing) return -1;
         if (cur_sort_dir == 0) {
-          return a[1] - b[1]; // ascending
+          return aVal - bVal; // ascending
         } else {
-          return b[1] - a[1]; // descending
+          return bVal - aVal; // descending
         }
       }
     });

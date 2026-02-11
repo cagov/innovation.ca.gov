@@ -38,6 +38,38 @@ function getDisplayClass(displayScore) {
   return "speedlify-score-bad";
 }
 
+function getPacificDateInfo(dateInput) {
+  if (dateInput === undefined || dateInput === null) return {};
+
+  const dateObj = new Date(dateInput);
+  if (Number.isNaN(dateObj.getTime())) return {};
+
+  const formatter = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Los_Angeles",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false,
+  });
+
+  const parts = formatter.formatToParts(dateObj).reduce((acc, part) => {
+    acc[part.type] = part.value;
+    return acc;
+  }, {});
+
+  const displayDate = `${parts.year}-${parts.month}-${parts.day}`;
+  const displayTime = `${parts.hour}:${parts.minute}:${parts.second} PT`;
+
+  return {
+    timestamp: dateObj.getTime(),
+    displayDate,
+    tooltip: `${displayDate} ${displayTime}`,
+  };
+}
+
 function getReadability(page) {
   if (page.url == "/blog/") return {};
 
@@ -108,6 +140,8 @@ function getLighthouse(page, perfAudits) {
   const accessibility = {};
 
   const perfScore = pagePerfData?.performance;
+  const lastmod = getPacificDateInfo(pagePerfData?.lastmod);
+  const lastreviewed = getPacificDateInfo(pagePerfData?.lastreviewed);
 
   if (perfScore) {
     const perfDisplayScore = Math.round(parseFloat(perfScore * 100));
@@ -128,6 +162,8 @@ function getLighthouse(page, perfAudits) {
   return {
     performance,
     accessibility,
+    lastmod,
+    lastreviewed,
   };
 }
 
