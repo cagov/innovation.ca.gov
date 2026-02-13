@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-01-20T19:32:49",
-    "updated_date": "2026-02-13T00:12:37",
+    "updated_date": "2026-02-13T01:08:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-01-20T11:32:49",
     "date_gmt": "2026-01-20T19:32:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3197",
-    "modified": "2026-02-12T16:12:37",
-    "modified_gmt": "2026-02-13T00:12:37",
+    "modified": "2026-02-12T17:08:10",
+    "modified_gmt": "2026-02-13T01:08:10",
     "slug": "efficiency-in-action-combating-ebt-theft-data-machine-learning",
     "status": "publish",
     "type": "post",
