@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-25T21:03:49",
-    "updated_date": "2026-02-13T20:24:47",
+    "updated_date": "2026-02-13T20:27:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-25T14:03:49",
     "date_gmt": "2024-10-25T21:03:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2284",
-    "modified": "2026-02-13T12:24:47",
-    "modified_gmt": "2026-02-13T20:24:47",
+    "modified": "2026-02-13T12:27:16",
+    "modified_gmt": "2026-02-13T20:27:16",
     "slug": "defining-the-role-of-californias-state-chief-data-officer",
     "status": "publish",
     "type": "post",
