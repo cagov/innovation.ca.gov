@@ -15,6 +15,15 @@
     "pic": "s-gutierrez.jpg"
   },
   {
+    "name": "Michael Palmisano",
+    "pronouns": "she/her",
+    "title": "Chief Counsel",
+    "pic": "m-palmisano.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/michael-palmisano-a471317b/"
+    }
+  },
+  {
     "name": "Adelina Zendejas",
     "pronouns": "she/her/ella",
     "title": "Special Advisor to the Director",
