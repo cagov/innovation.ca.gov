@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-25T21:03:49",
-    "updated_date": "2026-02-13T20:34:36",
+    "updated_date": "2026-02-13T20:34:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-25T14:03:49",
     "date_gmt": "2024-10-25T21:03:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=2284",
-    "modified": "2026-02-13T12:34:36",
-    "modified_gmt": "2026-02-13T20:34:36",
+    "modified": "2026-02-13T12:34:41",
+    "modified_gmt": "2026-02-13T20:34:41",
     "slug": "defining-the-role-of-californias-state-chief-data-officer",
     "status": "publish",
     "type": "post",
@@ -79,7 +79,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Defining the role of California’s State Chief Data Officer",
-      "meta_description": "What does a CDO really do? The answer can look different depending on the organization. Still, the core responsibilities often revolve around three key areas. XXX",
+      "meta_description": "What does a CDO really do? The answer can look different depending on the organization. Still, the core responsibilities often revolve around three key areas.",
       "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2024/10/25/defining-the-role-of-californias-state-chief-data-officer/",
       "open_graph_title": "Defining the role of California's State Chief Data Officer",
       "open_graph_description": "Office of Data and Innovation",
