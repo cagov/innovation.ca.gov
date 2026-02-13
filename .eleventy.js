@@ -78,6 +78,33 @@ module.exports = function (eleventyConfig) {
     return d.getFullYear();
   });
 
+  eleventyConfig.addFilter("fixEntities", function (str) {
+    // convert specific entities which wordpress is providing incorrectly to specific UTF-8 chars
+    const map = {
+      "&#2d;": "-",
+      "&#x2d;": "-",
+      "'s": "’s",
+      "'t": "’t",
+      "'n": "’n",
+      "&#x27;": "’",
+      "&#8217;": "’",
+      "&#33;": "!",
+      "&#63;": "?",
+      "&#44;": ",",
+      "&#35;": "#",
+      "&#36;": "$",
+      "&#38;": "&",
+      "&#40;": "(",
+      "&#41;": ")",
+    };
+    for (const key in map) {
+      if (Object.prototype.hasOwnProperty.call(map, key)) {
+        str = str.replace(new RegExp(key, 'g'), map[key]);
+      }
+    }
+    return str;
+  });
+
 
   eleventyConfig.addFilter('includes', (items, value) => {
     return (items || []).includes(value);
