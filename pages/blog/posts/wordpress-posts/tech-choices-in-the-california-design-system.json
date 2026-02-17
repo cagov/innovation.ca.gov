@@ -79,13 +79,13 @@
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Tech choices in the California Design System",
-      "meta_description": "Learn about the decisions the California Office of Digital Innovation made (and why we made them) in putting the Design System together.",
-      "meta_canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/05/31/tech-choices-in-the-california-design-system/",
-      "open_graph_title": "Tech choices in the California Design System",
-      "open_graph_description": "Learn about the decisions we made (and why we made them) in putting the Design System together.",
-      "twitter_title": "Tech choices in the California Design System",
-      "twitter_description": "Learn about the decisions we made (and why we made them) in putting the Design System together."
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
     },
     "headless_categories": [
       {
