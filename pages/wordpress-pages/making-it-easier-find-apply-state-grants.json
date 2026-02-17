@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-02-17T16:58:09",
-    "updated_date": "2026-02-17T16:58:15",
+    "updated_date": "2026-02-17T17:05:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2026-02-17T08:58:09",
     "date_gmt": "2026-02-17T16:58:09",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3282",
-    "modified": "2026-02-17T08:58:15",
-    "modified_gmt": "2026-02-17T16:58:15",
-    "slug": "making-it-easier-to-find-and-apply-for-state-grants",
+    "modified": "2026-02-17T09:05:20",
+    "modified_gmt": "2026-02-17T17:05:20",
+    "slug": "making-it-easier-find-apply-state-grants",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-to-find-and-apply-for-state-grants/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-find-apply-state-grants/",
     "title": "Making it easier to find and apply for state grants",
-    "excerpt": "<p>Lorna Brisco1, Nikki Hatcher2 1 California Department of General Services, 707 3rd Street, Sacramento CA 956052 California Department of Water Resources, 715 P Street, Sacramento CA 95814 Members of the Governor’s Innovation Fellows explored how to help Californians find and apply for state grants. The opportunity California has hundreds of grant programs across many state &#8230; <a title=\"Making it easier to find and apply for state grants\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-to-find-and-apply-for-state-grants/\" aria-label=\"More on Making it easier to find and apply for state grants\">Read more</a></p>\n",
+    "excerpt": "<p>Lorna Brisco1, Nikki Hatcher2 1 California Department of General Services, 707 3rd Street, Sacramento CA 956052 California Department of Water Resources, 715 P Street, Sacramento CA 95814 Members of the Governor’s Innovation Fellows explored how to help Californians find and apply for state grants. The opportunity California has hundreds of grant programs across many state &#8230; <a title=\"Making it easier to find and apply for state grants\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-find-apply-state-grants/\" aria-label=\"More on Making it easier to find and apply for state grants\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 2872,
@@ -58,7 +58,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-to-find-and-apply-for-state-grants/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-find-apply-state-grants/",
       "page_title": "Making it easier to find and apply for state grants",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
@@ -77,6 +77,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-to-find-and-apply-for-state-grants/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/making-it-easier-find-apply-state-grants/"
   }
 }
