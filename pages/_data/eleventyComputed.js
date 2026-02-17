@@ -170,6 +170,32 @@ function getLighthouse(page, perfAudits) {
 const isPost = (article) => article?.data?.type == "post";
 const isPage = (article) => article?.data?.type == "page";
 
+function isPlaceholderNavigationPage(article) {
+  const inputPath = article?.page?.inputPath;
+  if (!inputPath) return false;
+
+  let pageBody = "";
+  try {
+    pageBody = fs.readFileSync(inputPath, "utf8").trim();
+  } catch {
+    return false;
+  }
+
+  if (!pageBody) return false;
+
+  const normalizedBody = pageBody.replace(/\s+/g, " ").trim();
+
+  if (/^<script[^>]*>\s*window\.location\s*=/i.test(normalizedBody)) {
+    return true;
+  }
+
+  if (/top level placeholder page, not actually linked to/i.test(normalizedBody)) {
+    return true;
+  }
+
+  return false;
+}
+
 const getPermalink = (article) => {
   if (isPage(article)) {
     const url = article.data.wordpress_url;
@@ -203,7 +229,8 @@ const getNavigation = (article) => {
     const title = article.data.title;
     const wpParent = article.data.parent;
     const parent = wpParent != 0 ? wpParent : undefined;
-    return { key, title, parent };
+    const breadcrumbLink = !isPlaceholderNavigationPage(article);
+    return { key, title, parent, breadcrumbLink };
   }
 
   return undefined;
