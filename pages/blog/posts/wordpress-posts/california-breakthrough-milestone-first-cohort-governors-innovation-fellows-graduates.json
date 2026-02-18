@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "created_date": "2026-02-18T18:55:43",
+    "updated_date": "2026-02-18T18:55:43",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/3303",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3303,
+    "date": "2026-02-18T10:55:43",
+    "date_gmt": "2026-02-18T18:55:43",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3303",
+    "modified": "2026-02-18T10:55:43",
+    "modified_gmt": "2026-02-18T18:55:43",
+    "slug": "california-breakthrough-milestone-first-cohort-governors-innovation-fellows-graduates",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/02/18/california-breakthrough-milestone-first-cohort-governors-innovation-fellows-graduates/",
+    "title": "California Breakthrough milestone: First cohort of Governor’s Innovation Fellows graduates",
+    "excerpt": "<p>Last summer, 21 state workers walked into a training room at the Office of Data and Innovation (ODI). Each is a subject matter expert in their field, representing 9 agencies and 15 departments. Their goal? To find ways to make California government more efficient, effective, and engaged as the first cohort of the Governor’s Innovation &#8230; <a title=\"California Breakthrough milestone: First cohort of Governor’s Innovation Fellows graduates\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/02/18/california-breakthrough-milestone-first-cohort-governors-innovation-fellows-graduates/\" aria-label=\"More on California Breakthrough milestone: First cohort of Governor’s Innovation Fellows graduates\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno and Robin Cortez",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "class_list": [
+      "post-3303",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/02/18/california-breakthrough-milestone-first-cohort-governors-innovation-fellows-graduates/",
+      "page_title": "California Breakthrough milestone: First cohort of Governor’s Innovation Fellows graduates",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/02/18/california-breakthrough-milestone-first-cohort-governors-innovation-fellows-graduates/",
+    "media": [
+      {
+        "id": 3314,
+        "type": "full",
+        "path": "2026/02/cohort-1-graduation.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation.jpg",
+        "file": "cohort-1-graduation.jpg",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3314,
+        "type": "medium_large",
+        "path": "2026/02/cohort-1-graduation-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation-768x512.jpg",
+        "file": "cohort-1-graduation-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 121380,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3314,
+        "type": "medium",
+        "path": "2026/02/cohort-1-graduation-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation-576x384.jpg",
+        "file": "cohort-1-graduation-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 70266,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cohort-1-graduation-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
