@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2026-02-18T19:01:47",
+    "updated_date": "2026-02-18T19:01:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3317",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3317,
+    "date": "2026-02-18T11:01:47",
+    "date_gmt": "2026-02-18T19:01:47",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg",
+    "modified": "2026-02-18T11:01:47",
+    "modified_gmt": "2026-02-18T19:01:47",
+    "slug": "cropped-cohort-1-graduation-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cropped-cohort-1-graduation-jpg/",
+    "title": "cropped-cohort-1-graduation.jpg",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "class_list": [
+      "post-3317",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"303\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-576x303.jpg\" class=\"attachment-medium size-medium\" alt=\"The first cohort of the Governor&#039;s Innovation Fellows at their graduation ceremony\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-576x303.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-768x404.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg 876w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg</p>\n",
+    "caption": "<p>https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg</p>\n",
+    "alt_text": "The first cohort of the Governor's Innovation Fellows at their graduation ceremony",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 876,
+      "height": 461,
+      "file": "2026/02/cropped-cohort-1-graduation.jpg",
+      "filesize": 163920,
+      "sizes": {
+        "medium": {
+          "file": "cropped-cohort-1-graduation-576x303.jpg",
+          "width": 576,
+          "height": 303,
+          "filesize": 60743,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-576x303.jpg"
+        },
+        "thumbnail": {
+          "file": "cropped-cohort-1-graduation-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 9443,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "cropped-cohort-1-graduation-768x404.jpg",
+          "width": 768,
+          "height": 404,
+          "filesize": 106936,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-768x404.jpg"
+        },
+        "full": {
+          "file": "cropped-cohort-1-graduation.jpg",
+          "width": 876,
+          "height": 461,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/02/cropped-cohort-1-graduation.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg",
+        "file": "cropped-cohort-1-graduation.jpg",
+        "width": 876,
+        "height": 461,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/02/cropped-cohort-1-graduation-768x404.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-768x404.jpg",
+        "file": "cropped-cohort-1-graduation-768x404.jpg",
+        "width": 768,
+        "height": 404,
+        "filesize": 106936,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-768x404.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/02/cropped-cohort-1-graduation-576x303.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-576x303.jpg",
+        "file": "cropped-cohort-1-graduation-576x303.jpg",
+        "width": 576,
+        "height": 303,
+        "filesize": 60743,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-576x303.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/02/cropped-cohort-1-graduation-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-150x150.jpg",
+        "file": "cropped-cohort-1-graduation-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 9443,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/cropped-cohort-1-graduation-150x150.jpg"
+      }
+    ],
+    "path": "2026/02/cropped-cohort-1-graduation.jpg"
+  }
+}
