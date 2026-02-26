@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-02-17T00:01:23",
+    "updated_date": "2026-02-26T19:06:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-02-16T16:01:23",
-    "modified_gmt": "2026-02-17T00:01:23",
+    "modified": "2026-02-26T11:06:33",
+    "modified_gmt": "2026-02-26T19:06:33",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>Jim was here: February 16, 2026, 4:01 PM Forcing a build after WP upgrade./ Elizabeth Betancourt1, Lorna Brisco2, Nikki Hatcher3 1 California Natural Resources Agency, 715 P Street, Sacramento CA 958142 California Department of General Services, 707 3rd Street, Sacramento CA 956053 California Department of Water Resources, 715 P Street, Sacramento CA 95814 Members of &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
+    "excerpt": "<p>Jim was here: February 26, 2026, 11:05 AM Testing BPPE post/ The Office of Data and Innovation (ODI) built a tool to optimize prioritization of enforcement activities. Project scope Partner Methods The opportunity The California Bureau for Private Postsecondary Education (BPPE) plays a crucial role in protecting students and the public from unfairpractices. Under California &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -105,6 +105,49 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
+    "media": [
+      {
+        "id": 3345,
+        "type": "full",
+        "path": "2026/02/bppe-case-study-cover.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover.jpg",
+        "file": "bppe-case-study-cover.jpg",
+        "width": 876,
+        "height": 438,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3345,
+        "type": "medium_large",
+        "path": "2026/02/bppe-case-study-cover-768x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover-768x384.jpg",
+        "file": "bppe-case-study-cover-768x384.jpg",
+        "width": 768,
+        "height": 384,
+        "filesize": 70429,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover-768x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3345,
+        "type": "medium",
+        "path": "2026/02/bppe-case-study-cover-576x288.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover-576x288.jpg",
+        "file": "bppe-case-study-cover-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "filesize": 43395,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-case-study-cover-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
