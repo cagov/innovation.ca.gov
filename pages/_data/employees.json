@@ -4,9 +4,6 @@
     "pronouns": "he/him",
     "title": "Director",
     "pic": "j-marino.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jeffery-marino-25962610/"
-    }
   },
   {
     "name": "Sergio Gutierrez",
@@ -19,9 +16,6 @@
     "pronouns": "he/him",
     "title": "Chief Counsel",
     "pic": "m-palmisano.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/michael-palmisano-a471317b/"
-    }
   },
   {
     "name": "Adelina Zendejas",
@@ -34,76 +28,48 @@
     "title": "Statewide Data Programs Manager",
     "pronouns": "she/her",
     "pic": "a-nottbohm.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/alex-nottbohm"
-    }
   },
   {
     "name": "Andrew King",
     "title": "Deputy Director, Data Operations Strategy",
     "pronouns": "he/him",
     "pic": "a-king.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/andrew-r-king/"
-    }
   },
   {
     "name": "Anne Crew-Renzo",
     "title": "Chief Innovation Training Officer",
     "pronouns": "she/her",
     "pic": "a-crew-renzo.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/acrewrenzo/"
-    }
   },
   {
     "name": "Barb Cosio Moreno",
     "pronouns": "she/hers",
     "title": "Communications Director",
     "pic": "b-cosio-moreno.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/barbarajmoreno"
-    }
   },
   {
     "name": "Brian Rains",
     "pronouns": "he/him",
     "title": "Talent Engagement Specialist",
     "pic": "b-rains.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/brian-rains21"
-    }
   },
   {
     "name": "Brittany Allen",
     "pronouns": "she/her",
     "title": "Senior Analytics Engineer",
     "pic": "b-allen.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/britt-allen/",
-      "github": "https://github.com/britt-allen"
-    }
   },
   {
     "name": "Chach Sikes",
     "pronouns": "she/her",
     "title": "Senior Engineer",
     "pic": "c-sikes.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/chachasikes/",
-      "twitter": "https://x.com/chachasikes",
-      "github": "https://github.com/chachasikes"
-    }
   },
   {
     "name": "Chad Bratton",
     "pronouns": "",
     "title": "Chief Information Officer",
     "pic": "c-bratton.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/chadbratton/",
-      "twitter": "https://x.com/chad_bratton"
-    }
   },
   {
     "name": "De Andra Kenoly",
@@ -120,177 +86,113 @@
     "pronouns": "she/her",
     "title": "Head of Design",
     "pic": "e-stivison.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/ericastivison"
-    }
   },
   {
     "name": "Gabriele Hoeppel",
     "pronouns": "she/her",
     "title": "Visual/User Interface Designer",
     "pic": "g-hoeppel.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/gabrielehoeppel"
-    }
   },
   {
     "name": "Holly Prag",
     "pronouns": "she/her",
     "title": "CalAcademy Curriculum Designer",
     "pic": "h-prag.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/holly-prag-msed/"
-    }
   },
   {
     "name": "Ian Rose",
     "pronouns": "he/him",
     "title": "Principal Data Engineer",
     "pic": "i-rose.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/ian-rose-961a39240/",
-      "twitter": "https://x.com/ianrrose",
-      "github": "https://github.com/ian-r-rose"
-    }
   },
   {
     "name": "Jim Bumgardner",
     "pronouns": "",
     "title": "Senior Engineer",
     "pic": "j-bumgardner.jpg",
-    "social": {
-      "mastodon": "https://mastodon.social/@jbum",
-      "github": "https://github.com/jbum"
-    }
   },
   {
     "name": "Jon Jensen",
     "pronouns": "",
     "title": "Senior Full Stack Developer",
     "pic": "j-jensen.jpg",
-    "social": {
-      "github": "https://github.com/xjensen"
-    }
   },
   {
     "name": "JP Petrucione",
     "pronouns": "he/him",
     "title": "Deputy Director, User Research",
     "pic": "jp-petrucione.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jpetrucione/"
-    }
   },
   {
     "name": "Kevin Vellanoweth",
     "pronouns": "he/him",
     "title": "Senior Systems Architect",
     "pic": "k-vellanoweth.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kvellano/"
-    }
   },
   {
     "name": "Kim Hicks",
     "pronouns": "she/her",
     "title": "Deputy Director, Advanced Analytics & Evaluation",
     "pic": "k-hicks.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kimberlyjhicks/"
-    }
   },
   {
     "name": "Koji",
     "title": "Deputy Director, Service Innovation",
     "pic": "k-kumpulainien.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kojiwan/",
-      "github": "https://github.com/rkojiwan"
-    }
   },
    {
     "name": "Lawrence Troxler III",
     "pronouns": "he/him",
     "title": "Chief People and Culture Officer",
     "pic": "l-troxleriii.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/lawrencetroxleriii/"
-    }
   },
    {
     "name": "Matt Zhou",
     "pronouns": "he/him",
     "title": "Assistant Chief Data Officer",
     "pic": "m-zhou.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/matthew-zhou/",
-      "twitter": "https://x.com/matthewyzhou",
-      "github": "https://github.com/matthewzhou"
-    }
   },
   {
     "name": "Michael Sullivan",
     "pronouns": "he/him",
     "title": "Content Strategist",
     "pic": "m-sullivan.png",
-    "social": {
-      "github": "https://github.com/m-sullivan7"
-    }
   },
   {
     "name": "Monica Bobra",
     "pronouns": "she/her",
     "title": "Principal Data Scientist",
     "pic": "m-bobra.jpg",
-    "social": {
-      "github": "https://github.com/mbobra"
-    }
   },
   {
     "name": "Peggy Gartin",
     "pronouns": "she/her",
     "title": "Content Strategist",
     "pic": "p-gartin.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/peggygartin/",
-      "github": "https://github.com/thepegisin"
-    }
   },
   {
     "name": "Regan King",
     "pronouns": "he/him",
     "title": "Website Performance Analyst",
     "pic": "r-king.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/reganking/"
-    }
   },
   {
     "name": "Roberto Rizo",
     "pronouns": "he/him",
     "title": "Legislative and External Affairs Manager",
     "pic": "r-rizo.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rizo-roberto/"
-    }
   },
    {
     "name": "Robin Cortez",
     "pronouns": "she/her",
     "title": "Communications Coordinator",
     "pic": "r-cortez.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/robincortez00/"
-    }
   },
   {
     "name": "Rocio Mora",
     "pronouns": "she/her/ella",
     "title": "Senior Data Analyst",
     "pic": "r-mora.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rociomora"
-    }
   },
   {
     "name": "Samantha Kuykendall",
@@ -303,27 +205,18 @@
     "pronouns": "she/her",
     "title": "Senior User Experience Researcher",
     "pic": "s-letson.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sarahletson/"
-    }
   },
   {
     "name": "Sarah Sachs, PhD",
     "pronouns": "she/her",
     "title": "Principal User Experience Researcher",
     "pic": "s-sachs.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sesachs/"
-    }
   },
   {
     "name": "Summer Mothwood",
     "pronouns": "she/her",
     "title": "Principal Analytics Engineer",
     "pic": "s-mothwood.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/summermothwood"
-    }
   },
   {
     "name": "Tara Stevens",
@@ -340,30 +233,18 @@
     "name": "Tristan Peery",
     "title": "Senior Product Manager",
     "pic": "t-peery.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/tristan-peery/"
-    }
   },
   {
     "name": "Tyler Haas",
     "pronouns": "he/him/his",
     "title": "Senior Data Scientist",
     "pic": "t-haas.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/ptylerhaas/",
-      "github": "https://github.com/haaspt"
-    }
   },
   {
     "name": "Zakiya Khabir",
     "pronouns": "she/her",
     "title": "Engineering Manager",
     "pic": "z-khabir.jpg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/zakiyakhabir/",
-      "twitter": "https://x.com/zakiyarules",
-      "github": "https://github.com/zakiya"
-    }
   },
   {
     "name": "Want to join the team?",
