@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-03-04T21:35:28",
-    "updated_date": "2026-03-04T21:35:34",
+    "updated_date": "2026-03-04T23:51:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2026-03-04T13:35:28",
     "date_gmt": "2026-03-04T21:35:28",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3358",
-    "modified": "2026-03-04T13:35:34",
-    "modified_gmt": "2026-03-04T21:35:34",
+    "modified": "2026-03-04T15:51:14",
+    "modified_gmt": "2026-03-04T23:51:14",
     "slug": "california-statewide-data-strategy-2026-2027",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/california-statewide-data-strategy-2026-2027/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reports/california-statewide-data-strategy-2026-2027/",
     "title": "California Statewide Data Strategy 2026-2027",
-    "excerpt": "<p>Executive Summary Vision Since the 2024 Data Strategy report, California has made significant progress in maturing its data ecosystem. The State Chief Data Officer’s office is established within the Office of Data and Innovation (ODI) and is required to update the State Data Strategy Report every two years and achieve its goals to advance the &#8230; <a title=\"California Statewide Data Strategy 2026-2027\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/california-statewide-data-strategy-2026-2027/\" aria-label=\"More on California Statewide Data Strategy 2026-2027\">Read more</a></p>\n",
+    "excerpt": "<p>Executive Summary Vision Since the 2024 Data Strategy report, California has made significant progress in maturing its data ecosystem. The State Chief Data Officer’s office is established within the Office of Data and Innovation (ODI) and is required to update the State Data Strategy Report every two years and achieve its goals to advance the &#8230; <a title=\"California Statewide Data Strategy 2026-2027\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/reports/california-statewide-data-strategy-2026-2027/\" aria-label=\"More on California Statewide Data Strategy 2026-2027\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 0,
+    "parent": 1839,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -61,7 +61,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/california-statewide-data-strategy-2026-2027/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/reports/california-statewide-data-strategy-2026-2027/",
       "page_title": "California Statewide Data Strategy 2026-2027",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
@@ -92,6 +92,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/california-statewide-data-strategy-2026-2027/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/california-statewide-data-strategy-2026-2027/"
   }
 }
