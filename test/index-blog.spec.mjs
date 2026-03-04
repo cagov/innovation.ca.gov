@@ -14,6 +14,7 @@ pageUrls.forEach((pageUrl) => {
   test(`desktop: a11y page tests: ${pageUrl}`, async ({ page }) => {
     // use default viewport size which is desktop
     await page.goto(testLocation + pageUrl);
+    await page.waitForLoadState('networkidle');
 
     await injectAxe(page);
 
