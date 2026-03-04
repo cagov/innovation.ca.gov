@@ -3,7 +3,7 @@
     "name": "Jeffery Marino",
     "pronouns": "he/him",
     "title": "Director",
-    "pic": "j-marino.jpg",
+    "pic": "j-marino.jpg"
   },
   {
     "name": "Sergio Gutierrez",
@@ -15,7 +15,7 @@
     "name": "Michael Palmisano",
     "pronouns": "he/him",
     "title": "Chief Counsel",
-    "pic": "m-palmisano.jpg",
+    "pic": "m-palmisano.jpg"
   },
   {
     "name": "Adelina Zendejas",
@@ -27,49 +27,48 @@
     "name": "Alex Nottbohm",
     "title": "Statewide Data Programs Manager",
     "pronouns": "she/her",
-    "pic": "a-nottbohm.jpg",
+    "pic": "a-nottbohm.jpg"
   },
   {
     "name": "Andrew King",
     "title": "Deputy Director, Data Operations Strategy",
     "pronouns": "he/him",
-    "pic": "a-king.jpg",
+    "pic": "a-king.jpg"
   },
   {
     "name": "Anne Crew-Renzo",
     "title": "Chief Innovation Training Officer",
     "pronouns": "she/her",
-    "pic": "a-crew-renzo.jpg",
+    "pic": "a-crew-renzo.jpg"
   },
   {
     "name": "Barb Cosio Moreno",
     "pronouns": "she/hers",
     "title": "Communications Director",
-    "pic": "b-cosio-moreno.jpg",
+    "pic": "b-cosio-moreno.jpg"
   },
   {
     "name": "Brian Rains",
     "pronouns": "he/him",
     "title": "Talent Engagement Specialist",
-    "pic": "b-rains.jpg",
+    "pic": "b-rains.jpg"
   },
   {
     "name": "Brittany Allen",
     "pronouns": "she/her",
     "title": "Senior Analytics Engineer",
-    "pic": "b-allen.jpg",
+    "pic": "b-allen.jpg"
   },
   {
     "name": "Chach Sikes",
     "pronouns": "she/her",
     "title": "Senior Engineer",
-    "pic": "c-sikes.jpg",
+    "pic": "c-sikes.jpg"
   },
   {
     "name": "Chad Bratton",
-    "pronouns": "",
     "title": "Chief Information Officer",
-    "pic": "c-bratton.jpg",
+    "pic": "c-bratton.jpg"
   },
   {
     "name": "De Andra Kenoly",
@@ -85,114 +84,113 @@
     "name": "Erica Stivison",
     "pronouns": "she/her",
     "title": "Head of Design",
-    "pic": "e-stivison.jpg",
+    "pic": "e-stivison.jpg"
   },
   {
     "name": "Gabriele Hoeppel",
     "pronouns": "she/her",
     "title": "Visual/User Interface Designer",
-    "pic": "g-hoeppel.jpg",
+    "pic": "g-hoeppel.jpg"
   },
   {
     "name": "Holly Prag",
     "pronouns": "she/her",
     "title": "CalAcademy Curriculum Designer",
-    "pic": "h-prag.jpg",
+    "pic": "h-prag.jpg"
   },
   {
     "name": "Ian Rose",
     "pronouns": "he/him",
     "title": "Principal Data Engineer",
-    "pic": "i-rose.jpg",
+    "pic": "i-rose.jpg"
   },
   {
     "name": "Jim Bumgardner",
     "pronouns": "",
     "title": "Senior Engineer",
-    "pic": "j-bumgardner.jpg",
+    "pic": "j-bumgardner.jpg"
   },
   {
     "name": "Jon Jensen",
-    "pronouns": "",
     "title": "Senior Full Stack Developer",
-    "pic": "j-jensen.jpg",
+    "pic": "j-jensen.jpg"
   },
   {
     "name": "JP Petrucione",
     "pronouns": "he/him",
     "title": "Deputy Director, User Research",
-    "pic": "jp-petrucione.jpg",
+    "pic": "jp-petrucione.jpg"
   },
   {
     "name": "Kevin Vellanoweth",
     "pronouns": "he/him",
     "title": "Senior Systems Architect",
-    "pic": "k-vellanoweth.jpg",
+    "pic": "k-vellanoweth.jpg"
   },
   {
     "name": "Kim Hicks",
     "pronouns": "she/her",
     "title": "Deputy Director, Advanced Analytics & Evaluation",
-    "pic": "k-hicks.jpg",
+    "pic": "k-hicks.jpg"
   },
   {
     "name": "Koji",
     "title": "Deputy Director, Service Innovation",
-    "pic": "k-kumpulainien.jpg",
+    "pic": "k-kumpulainien.jpg"
   },
    {
     "name": "Lawrence Troxler III",
     "pronouns": "he/him",
     "title": "Chief People and Culture Officer",
-    "pic": "l-troxleriii.jpg",
+    "pic": "l-troxleriii.jpg"
   },
    {
     "name": "Matt Zhou",
     "pronouns": "he/him",
     "title": "Assistant Chief Data Officer",
-    "pic": "m-zhou.jpg",
+    "pic": "m-zhou.jpg"
   },
   {
     "name": "Michael Sullivan",
     "pronouns": "he/him",
     "title": "Content Strategist",
-    "pic": "m-sullivan.png",
+    "pic": "m-sullivan.png"
   },
   {
     "name": "Monica Bobra",
     "pronouns": "she/her",
     "title": "Principal Data Scientist",
-    "pic": "m-bobra.jpg",
+    "pic": "m-bobra.jpg"
   },
   {
     "name": "Peggy Gartin",
     "pronouns": "she/her",
     "title": "Content Strategist",
-    "pic": "p-gartin.jpg",
+    "pic": "p-gartin.jpg"
   },
   {
     "name": "Regan King",
     "pronouns": "he/him",
     "title": "Website Performance Analyst",
-    "pic": "r-king.jpg",
+    "pic": "r-king.jpg"
   },
   {
     "name": "Roberto Rizo",
     "pronouns": "he/him",
     "title": "Legislative and External Affairs Manager",
-    "pic": "r-rizo.jpg",
+    "pic": "r-rizo.jpg"
   },
    {
     "name": "Robin Cortez",
     "pronouns": "she/her",
     "title": "Communications Coordinator",
-    "pic": "r-cortez.jpg",
+    "pic": "r-cortez.jpg"
   },
   {
     "name": "Rocio Mora",
     "pronouns": "she/her/ella",
     "title": "Senior Data Analyst",
-    "pic": "r-mora.jpg",
+    "pic": "r-mora.jpg"
   },
   {
     "name": "Samantha Kuykendall",
@@ -204,19 +202,19 @@
     "name": "Sarah Letson",
     "pronouns": "she/her",
     "title": "Senior User Experience Researcher",
-    "pic": "s-letson.jpg",
+    "pic": "s-letson.jpg"
   },
   {
     "name": "Sarah Sachs, PhD",
     "pronouns": "she/her",
     "title": "Principal User Experience Researcher",
-    "pic": "s-sachs.jpg",
+    "pic": "s-sachs.jpg"
   },
   {
     "name": "Summer Mothwood",
     "pronouns": "she/her",
     "title": "Principal Analytics Engineer",
-    "pic": "s-mothwood.jpg",
+    "pic": "s-mothwood.jpg"
   },
   {
     "name": "Tara Stevens",
@@ -232,19 +230,19 @@
   {
     "name": "Tristan Peery",
     "title": "Senior Product Manager",
-    "pic": "t-peery.jpg",
+    "pic": "t-peery.jpg"
   },
   {
     "name": "Tyler Haas",
     "pronouns": "he/him/his",
     "title": "Senior Data Scientist",
-    "pic": "t-haas.jpg",
+    "pic": "t-haas.jpg"
   },
   {
     "name": "Zakiya Khabir",
     "pronouns": "she/her",
     "title": "Engineering Manager",
-    "pic": "z-khabir.jpg",
+    "pic": "z-khabir.jpg"
   },
   {
     "name": "Want to join the team?",
