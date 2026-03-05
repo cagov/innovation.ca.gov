@@ -1,6 +1,6 @@
 import fs from "fs";
 import { test, expect } from "@playwright/test";
-import { injectAxe, checkA11y } from "axe-playwright";
+import { injectAxe, getViolations } from "axe-playwright";
 
 let testLocation = "http://localhost:8080";
 
@@ -19,10 +19,22 @@ pageUrls.forEach((pageUrl) => {
 
     await injectAxe(page);
 
-    await checkA11y(page, null, {
-      detailedReport: true,
-      detailedReportOptions: { html: true },
-    });
+    const violations = await getViolations(page, null);
+    if (violations.length > 0) {
+      const details = violations.map(v =>
+        `[${v.impact}] ${v.id}: ${v.description}\n` +
+        `  Help: ${v.helpUrl}\n` +
+        v.nodes.map(n =>
+          `  - Element: ${n.target.join(', ')}\n` +
+          `    HTML: ${n.html}\n` +
+          `    ${n.failureSummary}`
+        ).join('\n')
+      ).join('\n\n');
+
+      throw new Error(
+        `${violations.length} accessibility violation(s) on ${pageUrl}:\n\n${details}`
+      );
+    }
   });
 });
 
