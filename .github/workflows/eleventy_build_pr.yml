@@ -13,6 +13,7 @@ concurrency: # replaces use of n1hility/cancel-previous-runs
 
 jobs:
   build_deploy:
+    if: "!contains(github.head_ref, 'dependabot')"
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
