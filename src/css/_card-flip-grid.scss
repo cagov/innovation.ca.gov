@@ -85,6 +85,10 @@
     .employee-pronouns {
       font-style: italic;
     }
+    .employee-title {
+      line-height: 1.5rem;
+      padding-top: 0.5rem;
+    }
     .social-links a svg {
       path {
         fill: var(--primary-color,#064e66);
