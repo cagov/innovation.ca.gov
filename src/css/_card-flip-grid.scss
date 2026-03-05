@@ -32,6 +32,7 @@
     justify-content: center;
     border-radius: 5px;
     position: absolute;
+    inset: 0;
     text-align: center;
   }
   .card-front {
@@ -101,6 +102,10 @@
     .social-links {
       display: flex;
       min-height: 2.25rem;
+
+      &:empty {
+        display: none;
+      }
 
       a {
         margin-right: 1rem;
