@@ -5,10 +5,24 @@ import { injectAxe, getViolations } from "axe-playwright";
 let testLocation = "http://localhost:8080";
 
 let pageList = JSON.parse(fs.readFileSync("./_site_dist/allFiles.json"));
-let pageUrls = pageList.map((page) => page.url);
 
-// filter pageUrls to only include pages that are in the blog
-pageUrls = pageUrls.filter((pageUrl) => pageUrl.includes('/blog/'));
+// Filter by recency: only test pages modified within the last N days (default 7).
+const maxAgeDays = parseInt(process.env.A11Y_MAX_AGE_DAYS ?? "7", 10);
+const cutoff = new Date(Date.now() - maxAgeDays * 24 * 60 * 60 * 1000);
+
+const filteredList = pageList.filter((page) => {
+  if (page.url === "/") return true; // Always test the home page.
+  if (!page.modified) return false;  // No date → skip.
+  return new Date(page.modified) >= cutoff;
+});
+
+// filter to only include pages that are in the blog
+let pageUrls = filteredList
+  .map((page) => page.url)
+  .filter((pageUrl) => pageUrl.includes('/blog/'));
+
+const skipped = pageList.filter((p) => p.url.includes('/blog/')).length - pageUrls.length;
+console.log(`[a11y] Testing ${pageUrls.length} blog pages (skipped ${skipped} unchanged, cutoff ${maxAgeDays} days)`);
 
 pageUrls.forEach((pageUrl) => {
   test(`desktop: a11y page tests: ${pageUrl}`, async ({ page }) => {

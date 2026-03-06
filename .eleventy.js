@@ -138,7 +138,25 @@ module.exports = function (eleventyConfig) {
 
     const htmlFiles = files.filter((p) => p?.outputPath?.endsWith(".html"))
           .filter((p) => !p?.outputPath?.includes("par-statistics"));
-    const htmlFileJson = JSON.stringify(htmlFiles, null, 2);
+
+    // Add modification dates from sidecar JSON files.
+    const htmlFilesWithDates = htmlFiles.map((entry) => {
+      const sidecarPath = entry.inputPath.replace(/\.html$/, '.json');
+      let modified = null;
+      try {
+        if (fs.existsSync(sidecarPath)) {
+          const sidecar = JSON.parse(fs.readFileSync(sidecarPath, 'utf8'));
+          if (sidecar?.data?.modified_gmt) {
+            modified = sidecar.data.modified_gmt;
+          }
+        }
+      } catch {
+        // If sidecar can't be read, leave modified as null.
+      }
+      return { ...entry, modified };
+    });
+
+    const htmlFileJson = JSON.stringify(htmlFilesWithDates, null, 2);
 
     fs.writeFileSync("./_site_dist/allFiles.json", htmlFileJson, "utf8");
   });

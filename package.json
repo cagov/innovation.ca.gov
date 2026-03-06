@@ -52,6 +52,7 @@
     "site:watch": "eleventy --serve",
     "start": "npm run site:watch",
     "test": "npx playwright test",
+    "test:all": "cross-env A11Y_MAX_AGE_DAYS=9999 npx playwright test",
     "test:serve": "npm run build && npx http-server _site/",
     "test:setup": "npx playwright install-deps chromium && npx playwright install"
   },
