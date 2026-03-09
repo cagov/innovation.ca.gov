@@ -302,3 +302,23 @@ blockquote:not(.nobigquote)::before {
   display: block;
   background-repeat: no-repeat;
 }
+div#mce-error-response {
+  padding: 0.5rem 1rem 0.5rem 3.5rem;
+  margin-top: 1rem;
+  background-color: rgba(205, 64, 45, 0.15);
+  background-image: url('/img/icon-red-diamond-with-exclamation-point.svg');
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  border-left: 4px solid rgb(205,64,45);
+}
+
+div#mce-success-response {
+  padding: 0.5rem 1rem 0.5rem 3.5rem;
+  margin-top: 1rem;
+  background-color: rgba(72, 155, 98, 0.15);
+  background-image: url('/img/icon-green-circle-with-white-checkmark.svg');
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  border-left: 4px solid rgb(72, 155, 98);
+
+}
