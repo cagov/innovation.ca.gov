@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-03-04T21:35:28",
-    "updated_date": "2026-03-04T23:59:21",
+    "updated_date": "2026-03-11T23:21:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-03-04T13:35:28",
     "date_gmt": "2026-03-04T21:35:28",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3358",
-    "modified": "2026-03-04T15:59:21",
-    "modified_gmt": "2026-03-04T23:59:21",
+    "modified": "2026-03-11T16:21:09",
+    "modified_gmt": "2026-03-11T23:21:09",
     "slug": "california-statewide-data-strategy-2026-2027",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/california-statewide-data-strategy-2026-2027/"
