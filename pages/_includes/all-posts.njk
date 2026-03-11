@@ -8,7 +8,7 @@
 
         <div class="cagov-article-list row">
           {%- for post in collections.dateSort -%}
-            <!-- check if date is older than 2022 -->
+            <!-- check if date is older than 2022 (tweaked to 2000 to show all posts) -->
             {% if (post.data.publishdate | dateyear) >= 2000 %}
             <div class="cagov-article-list-item">
             <h2 class="h3" class="cagov-mt-3">
