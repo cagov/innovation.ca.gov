@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "created_date": "2026-03-17T13:20:26",
+    "updated_date": "2026-03-17T13:20:26",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3393",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3393,
+    "date": "2026-03-17T06:20:26",
+    "date_gmt": "2026-03-17T13:20:26",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024.pdf",
+    "modified": "2026-03-17T06:20:26",
+    "modified_gmt": "2026-03-17T13:20:26",
+    "slug": "senior-product-manager-exempt-odi-duty-statement-11-1-2024",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/senior-product-manager-exempt-odi-duty-statement-11-1-2024/",
+    "title": "Senior Product Manager &#8211; Exempt &#8211; ODI Duty Statement -11.1.2024",
+    "author": "Brian Rains",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg"
+        },
+        "medium": {
+          "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "filesize": 52609,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "filesize": 138465,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "filesize": 6578,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg"
+        }
+      },
+      "filesize": 106932
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg",
+        "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg",
+        "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "filesize": 138465,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg",
+        "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "filesize": 52609,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg",
+        "file": "Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "filesize": 6578,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2026/03/Senior-Product-Manager-Exempt-ODI-Duty-Statement-11.1.2024.pdf"
+  }
+}
