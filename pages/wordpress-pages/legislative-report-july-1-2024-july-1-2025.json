@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-03-20T17:27:36",
-    "updated_date": "2026-03-20T17:47:05",
+    "updated_date": "2026-03-20T22:47:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-03-20T10:27:36",
     "date_gmt": "2026-03-20T17:27:36",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3401",
-    "modified": "2026-03-20T10:47:05",
-    "modified_gmt": "2026-03-20T17:47:05",
+    "modified": "2026-03-20T15:47:02",
+    "modified_gmt": "2026-03-20T22:47:02",
     "slug": "legislative-report-july-1-2024-july-1-2025",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/reports/legislative-report-july-1-2024-july-1-2025/"
