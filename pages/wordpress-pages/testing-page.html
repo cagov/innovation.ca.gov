@@ -1,3 +1,242 @@
-<p><p>Jim was here: March 5, 2026, 1:50 AM</p>
-<p>Testing publishing/</p></p>
-<!-- insert your code here -->
+<p>Jim was here: March 5, 2026, 1:50 AM</p>
+<p>Testing publishing/</p>
+<p><!-- insert your code here --></p>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Noto Sans', sans-serif;
+    color: #333;
+    background: #fff;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  h2.figure-title {
+    font-family: 'Noto Serif', serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    color: #1a4480;
+    margin-bottom: 24px;
+  }
+  .cards {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .card {
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card .chart-area {
+    position: relative;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .card .question {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    text-align: left;
+    width: 100%;
+  }
+  .label-minority {
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+  .label-minority .pct { font-size: 1.1rem; }
+  .label-minority .cat { font-weight: 400; font-size: 0.8rem; }
+  .label-majority {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-align: right;
+  }
+  .label-majority .pct { font-size: 1.3rem; }
+  .label-majority .cat { font-weight: 400; font-size: 0.85rem; }
+  .bar-section {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 28px 32px;
+  }
+  .bar-section .bar-question {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  .bar-chart-container {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+<h2 class="figure-title">What we learned</h2>
+<div class="cards">
+  <!-- Card 1: 22.2% Maybe, 77.8% Yes -->
+  <div class="card">
+    <div class="chart-area">
+      <svg viewBox="0 0 240 210" xmlns="http://www.w3.org/2000/svg">
+        <!-- Minority label top-left -->
+        <text x="8" y="30" font-family="Noto Sans, sans-serif" font-weight="700" font-size="16" fill="#333">22.2%</text>
+        <text x="8" y="46" font-family="Noto Sans, sans-serif" font-size="12" fill="#666">Maybe</text>
+        <!-- Donut chart centered -->
+        <g transform="translate(120, 115)">
+          <!-- Yes arc (blue) - 77.8% = 280 degrees -->
+          <path d="M 0,-65 A 65,65 0 1,1 -53.15,-37.56" fill="none" stroke="#3a6fb0" stroke-width="28"/>
+          <!-- Maybe arc (orange) - 22.2% = 80 degrees -->
+          <path d="M -53.15,-37.56 A 65,65 0 0,1 0,-65" fill="none" stroke="#e8a030" stroke-width="28"/>
+          <!-- White gap lines at segment boundaries -->
+          <line x1="0" y1="-51" x2="0" y2="-79" stroke="white" stroke-width="3"/>
+          <line x1="-41.7" y1="-29.5" x2="-64.6" y2="-45.6" stroke="white" stroke-width="3"/>
+          <!-- White center -->
+          <circle cx="0" cy="0" r="40" fill="white"/>
+        </g>
+        <!-- Majority label bottom-right -->
+        <text x="232" y="190" font-family="Noto Sans, sans-serif" font-weight="700" font-size="16" fill="#333" text-anchor="end">77.8%</text>
+        <text x="232" y="206" font-family="Noto Sans, sans-serif" font-size="12" fill="#666" text-anchor="end">Yes</text>
+      </svg>
+    </div>
+    <div class="question">Would you be interested in joining and participating in a community message board or channel for this community?</div>
+  </div>
+
+  <!-- Card 2: 11.1% No, 88.9% Yes -->
+  <div class="card">
+    <div class="chart-area">
+      <svg viewBox="0 0 240 210" xmlns="http://www.w3.org/2000/svg">
+        <text x="8" y="30" font-family="Noto Sans, sans-serif" font-weight="700" font-size="16" fill="#333">11.1%</text>
+        <text x="8" y="46" font-family="Noto Sans, sans-serif" font-size="12" fill="#666">No</text>
+        <g transform="translate(120, 115)">
+          <!-- Yes arc (blue) - 88.9% = 320 degrees -->
+          <path d="M 0,-65 A 65,65 0 1,1 -38.24,-52.52" fill="none" stroke="#3a6fb0" stroke-width="28"/>
+          <!-- No arc (red) - 11.1% = 40 degrees -->
+          <path d="M -38.24,-52.52 A 65,65 0 0,1 0,-65" fill="none" stroke="#b5382a" stroke-width="28"/>
+          <!-- White gap lines -->
+          <line x1="0" y1="-51" x2="0" y2="-79" stroke="white" stroke-width="3"/>
+          <line x1="-30" y1="-41.2" x2="-46.5" y2="-63.8" stroke="white" stroke-width="3"/>
+          <circle cx="0" cy="0" r="40" fill="white"/>
+        </g>
+        <text x="232" y="190" font-family="Noto Sans, sans-serif" font-weight="700" font-size="16" fill="#333" text-anchor="end">88.9%</text>
+        <text x="232" y="206" font-family="Noto Sans, sans-serif" font-size="12" fill="#666" text-anchor="end">Yes</text>
+      </svg>
+    </div>
+    <div class="question">Do you use Github?</div>
+  </div>
+
+  <!-- Card 3: 100% Yes -->
+  <div class="card">
+    <div class="chart-area">
+      <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg">
+        <g transform="translate(120, 100)">
+          <circle cx="0" cy="0" r="65" fill="none" stroke="#3a6fb0" stroke-width="28"/>
+          <circle cx="0" cy="0" r="40" fill="white"/>
+          <text x="0" y="-4" font-family="Noto Sans, sans-serif" font-weight="700" font-size="20" fill="#333" text-anchor="middle">100%</text>
+          <text x="0" y="16" font-family="Noto Sans, sans-serif" font-size="13" fill="#666" text-anchor="middle">Yes</text>
+        </g>
+      </svg>
+    </div>
+    <div class="question">Do you use Python or R?</div>
+  </div>
+</div>
+
+<!-- Bar chart section -->
+<div class="bar-section">
+  <p class="bar-question">On a scale of 1-10, how strongly do you feel this to be true: &ldquo;I am aware of data science work that is happening in other parts of California state government.&rdquo;</p>
+
+  <div class="bar-chart-container">
+    <svg viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans, sans-serif">
+      <!-- Definitions -->
+      <defs>
+        <style>
+          .axis-label { font-size: 11px; fill: #666; }
+          .axis-title { font-size: 12px; fill: #555; }
+          .bar-value { font-size: 11px; fill: #333; font-weight: 700; text-anchor: middle; }
+          .grid-line { stroke: #ccc; stroke-width: 0.5; stroke-dasharray: 4,3; }
+        </style>
+      </defs>
+
+      <!-- Chart area: left=70, right=490, top=30, bottom=250 -->
+      <!-- Y-axis: 0-6, chart height=220 (30 to 250), so each unit = 220/6 = 36.67px -->
+      <!-- Grid lines -->
+      <line x1="70" y1="30" x2="490" y2="30" class="grid-line"/>   <!-- 6 -->
+      <line x1="70" y1="103.3" x2="490" y2="103.3" class="grid-line"/> <!-- 4 -->
+      <line x1="70" y1="176.7" x2="490" y2="176.7" class="grid-line"/> <!-- 2 -->
+
+      <!-- Y-axis labels -->
+      <text x="60" y="254" class="axis-label" text-anchor="end">0</text>
+      <text x="60" y="181" class="axis-label" text-anchor="end">2</text>
+      <text x="60" y="107" class="axis-label" text-anchor="end">4</text>
+      <text x="60" y="34" class="axis-label" text-anchor="end">6</text>
+
+      <!-- Y-axis title (rotated) -->
+      <text transform="translate(18, 145) rotate(-90)" class="axis-title" text-anchor="middle">Number of people</text>
+
+      <!-- X-axis line -->
+      <line x1="70" y1="250" x2="490" y2="250" stroke="#999" stroke-width="1"/>
+
+      <!-- Bars: 10 bars, each bar width=32, gap between bars=10, total=420, starting at x=70 -->
+      <!-- Bar spacing: each slot = 42px wide, bar centered within -->
+      <!-- Values: 1,1,2,1,5,1,4,1,1,1 -->
+      <!-- Bar height per unit = 36.67px -->
+
+      <!-- Bar 1: value=1 -->
+      <rect x="75" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="91" y="208" class="bar-value">1</text>
+
+      <!-- Bar 2: value=1 -->
+      <rect x="117" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="133" y="208" class="bar-value">1</text>
+
+      <!-- Bar 3: value=2 -->
+      <rect x="159" y="176.7" width="32" height="73.3" fill="#3a6fb0" rx="3"/>
+      <text x="175" y="171" class="bar-value">2</text>
+
+      <!-- Bar 4: value=1 -->
+      <rect x="201" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="217" y="208" class="bar-value">1</text>
+
+      <!-- Bar 5: value=5 -->
+      <rect x="243" y="66.7" width="32" height="183.3" fill="#3a6fb0" rx="3"/>
+      <text x="259" y="61" class="bar-value">5</text>
+
+      <!-- Bar 6: value=1 -->
+      <rect x="285" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="301" y="208" class="bar-value">1</text>
+
+      <!-- Bar 7: value=4 -->
+      <rect x="327" y="103.3" width="32" height="146.7" fill="#3a6fb0" rx="3"/>
+      <text x="343" y="98" class="bar-value">4</text>
+
+      <!-- Bar 8: value=1 -->
+      <rect x="369" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="385" y="208" class="bar-value">1</text>
+
+      <!-- Bar 9: value=1 -->
+      <rect x="411" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="427" y="208" class="bar-value">1</text>
+
+      <!-- Bar 10: value=1 -->
+      <rect x="453" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
+      <text x="469" y="208" class="bar-value">1</text>
+
+      <!-- X-axis labels -->
+      <text x="91" y="268" class="axis-label" text-anchor="middle">1</text>
+      <text x="133" y="268" class="axis-label" text-anchor="middle">2</text>
+      <text x="175" y="268" class="axis-label" text-anchor="middle">3</text>
+      <text x="217" y="268" class="axis-label" text-anchor="middle">4</text>
+      <text x="259" y="268" class="axis-label" text-anchor="middle">5</text>
+      <text x="301" y="268" class="axis-label" text-anchor="middle">6</text>
+      <text x="343" y="268" class="axis-label" text-anchor="middle">7</text>
+      <text x="385" y="268" class="axis-label" text-anchor="middle">8</text>
+      <text x="427" y="268" class="axis-label" text-anchor="middle">9</text>
+      <text x="469" y="268" class="axis-label" text-anchor="middle">10</text>
+
+      <!-- "Least aware" and "Most aware" labels -->
+      <text x="91" y="285" class="axis-label" text-anchor="middle">Least aware</text>
+      <text x="469" y="285" class="axis-label" text-anchor="middle">Most aware</text>
+
+      <!-- X-axis title -->
+      <text x="280" y="310" class="axis-title" text-anchor="middle" font-size="13">User replies</text>
+    </svg>
+  </div>
+</div>
