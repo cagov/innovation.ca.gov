@@ -43,7 +43,8 @@ jobs:
       - name: Build 11ty
         run: |
           mkdir dist
-          npm install --legacy-peer-deps
+          # using npm ci instead of npm install to reduce threat of installing newer packages than intended
+          npm ci
           DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
           npx playwright install
           npm test
