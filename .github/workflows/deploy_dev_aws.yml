@@ -23,7 +23,8 @@ jobs:
           node-version: 22.17.0
       - name: Build Site
         run: |
-          npm install
+          # using npm ci instead of npm install to reduce threat of installing newer packages than intended
+          npm ci
           npm run build
 
       - name: Configure AWS Credentials
