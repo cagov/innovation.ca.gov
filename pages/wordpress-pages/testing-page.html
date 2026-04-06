@@ -153,7 +153,7 @@
   <p class="bar-question">On a scale of 1-10, how strongly do you feel this to be true: &ldquo;I am aware of data science work that is happening in other parts of California state government.&rdquo;</p>
 
   <div class="bar-chart-container">
-    <svg viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans, sans-serif">
+    <svg viewBox="0 0 520 186" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans, sans-serif">
       <!-- Definitions -->
       <defs>
         <style>
@@ -164,88 +164,87 @@
         </style>
       </defs>
 
-      <!-- Chart area: left=70, right=490, top=30, bottom=250 -->
-      <!-- Y-axis: 0-6, chart height=220 (30 to 250), so each unit = 220/6 = 36.67px -->
+      <!-- Chart area: left=70, right=490, top=17.4, bottom=145.3 -->
+      <!-- Y-axis: 0-6, chart height=127.9, each unit = 21.3px -->
       <!-- Grid lines -->
-      <line x1="70" y1="30" x2="490" y2="30" class="grid-line"/>   <!-- 6 -->
-      <line x1="70" y1="103.3" x2="490" y2="103.3" class="grid-line"/> <!-- 4 -->
-      <line x1="70" y1="176.7" x2="490" y2="176.7" class="grid-line"/> <!-- 2 -->
+      <line x1="70" y1="17.4" x2="490" y2="17.4" class="grid-line"/>   <!-- 6 -->
+      <line x1="70" y1="60.0" x2="490" y2="60.0" class="grid-line"/>   <!-- 4 -->
+      <line x1="70" y1="102.7" x2="490" y2="102.7" class="grid-line"/> <!-- 2 -->
 
       <!-- Y-axis labels -->
-      <text x="60" y="254" class="axis-label" text-anchor="end">0</text>
-      <text x="60" y="181" class="axis-label" text-anchor="end">2</text>
-      <text x="60" y="107" class="axis-label" text-anchor="end">4</text>
-      <text x="60" y="34" class="axis-label" text-anchor="end">6</text>
+      <text x="60" y="149" class="axis-label" text-anchor="end">0</text>
+      <text x="60" y="105.2" class="axis-label" text-anchor="end">2</text>
+      <text x="60" y="62.2" class="axis-label" text-anchor="end">4</text>
+      <text x="60" y="19.8" class="axis-label" text-anchor="end">6</text>
 
       <!-- Y-axis title (rotated) -->
-      <text transform="translate(18, 145) rotate(-90)" class="axis-title" text-anchor="middle">Number of people</text>
+      <text transform="translate(18, 84.3) rotate(-90)" class="axis-title" text-anchor="middle">Number of people</text>
 
       <!-- X-axis line -->
-      <line x1="70" y1="250" x2="490" y2="250" stroke="#999" stroke-width="1"/>
+      <line x1="70" y1="145.3" x2="490" y2="145.3" stroke="#999" stroke-width="1"/>
 
-      <!-- Bars: 10 bars, each bar width=32, gap between bars=10, total=420, starting at x=70 -->
-      <!-- Bar spacing: each slot = 42px wide, bar centered within -->
+      <!-- Bars: 10 bars, each bar width=32 -->
       <!-- Values: 1,1,2,1,5,1,4,1,1,1 -->
-      <!-- Bar height per unit = 36.67px -->
+      <!-- Bar height per unit = 21.3px -->
 
       <!-- Bar 1: value=1 -->
-      <rect x="75" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="91" y="208" class="bar-value">1</text>
+      <path d="M 75,145.3 L 75,125.7 A 3,1.7 0 0,1 78,124.0 L 104,124.0 A 3,1.7 0 0,1 107,125.7 L 107,145.3 Z" fill="#3a6fb0"/>
+      <text x="91" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 2: value=1 -->
-      <rect x="117" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="133" y="208" class="bar-value">1</text>
+      <path d="M 117,145.3 L 117,125.7 A 3,1.7 0 0,1 120,124.0 L 146,124.0 A 3,1.7 0 0,1 149,125.7 L 149,145.3 Z" fill="#3a6fb0"/>
+      <text x="133" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 3: value=2 -->
-      <rect x="159" y="176.7" width="32" height="73.3" fill="#3a6fb0" rx="3"/>
-      <text x="175" y="171" class="bar-value">2</text>
+      <path d="M 159,145.3 L 159,104.4 A 3,1.7 0 0,1 162,102.7 L 188,102.7 A 3,1.7 0 0,1 191,104.4 L 191,145.3 Z" fill="#3a6fb0"/>
+      <text x="175" y="99.4" class="bar-value">2</text>
 
       <!-- Bar 4: value=1 -->
-      <rect x="201" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="217" y="208" class="bar-value">1</text>
+      <path d="M 201,145.3 L 201,125.7 A 3,1.7 0 0,1 204,124.0 L 230,124.0 A 3,1.7 0 0,1 233,125.7 L 233,145.3 Z" fill="#3a6fb0"/>
+      <text x="217" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 5: value=5 -->
-      <rect x="243" y="66.7" width="32" height="183.3" fill="#3a6fb0" rx="3"/>
-      <text x="259" y="61" class="bar-value">5</text>
+      <path d="M 243,145.3 L 243,40.5 A 3,1.7 0 0,1 246,38.8 L 272,38.8 A 3,1.7 0 0,1 275,40.5 L 275,145.3 Z" fill="#3a6fb0"/>
+      <text x="259" y="35.5" class="bar-value">5</text>
 
       <!-- Bar 6: value=1 -->
-      <rect x="285" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="301" y="208" class="bar-value">1</text>
+      <path d="M 285,145.3 L 285,125.7 A 3,1.7 0 0,1 288,124.0 L 314,124.0 A 3,1.7 0 0,1 317,125.7 L 317,145.3 Z" fill="#3a6fb0"/>
+      <text x="301" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 7: value=4 -->
-      <rect x="327" y="103.3" width="32" height="146.7" fill="#3a6fb0" rx="3"/>
-      <text x="343" y="98" class="bar-value">4</text>
+      <path d="M 327,145.3 L 327,61.8 A 3,1.7 0 0,1 330,60.0 L 356,60.0 A 3,1.7 0 0,1 359,61.8 L 359,145.3 Z" fill="#3a6fb0"/>
+      <text x="343" y="57.0" class="bar-value">4</text>
 
       <!-- Bar 8: value=1 -->
-      <rect x="369" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="385" y="208" class="bar-value">1</text>
+      <path d="M 369,145.3 L 369,125.7 A 3,1.7 0 0,1 372,124.0 L 398,124.0 A 3,1.7 0 0,1 401,125.7 L 401,145.3 Z" fill="#3a6fb0"/>
+      <text x="385" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 9: value=1 -->
-      <rect x="411" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="427" y="208" class="bar-value">1</text>
+      <path d="M 411,145.3 L 411,125.7 A 3,1.7 0 0,1 414,124.0 L 440,124.0 A 3,1.7 0 0,1 443,125.7 L 443,145.3 Z" fill="#3a6fb0"/>
+      <text x="427" y="120.9" class="bar-value">1</text>
 
       <!-- Bar 10: value=1 -->
-      <rect x="453" y="213.3" width="32" height="36.7" fill="#3a6fb0" rx="3"/>
-      <text x="469" y="208" class="bar-value">1</text>
+      <path d="M 453,145.3 L 453,125.7 A 3,1.7 0 0,1 456,124.0 L 482,124.0 A 3,1.7 0 0,1 485,125.7 L 485,145.3 Z" fill="#3a6fb0"/>
+      <text x="469" y="120.9" class="bar-value">1</text>
 
       <!-- X-axis labels -->
-      <text x="91" y="268" class="axis-label" text-anchor="middle">1</text>
-      <text x="133" y="268" class="axis-label" text-anchor="middle">2</text>
-      <text x="175" y="268" class="axis-label" text-anchor="middle">3</text>
-      <text x="217" y="268" class="axis-label" text-anchor="middle">4</text>
-      <text x="259" y="268" class="axis-label" text-anchor="middle">5</text>
-      <text x="301" y="268" class="axis-label" text-anchor="middle">6</text>
-      <text x="343" y="268" class="axis-label" text-anchor="middle">7</text>
-      <text x="385" y="268" class="axis-label" text-anchor="middle">8</text>
-      <text x="427" y="268" class="axis-label" text-anchor="middle">9</text>
-      <text x="469" y="268" class="axis-label" text-anchor="middle">10</text>
+      <text x="91" y="155.8" class="axis-label" text-anchor="middle">1</text>
+      <text x="133" y="155.8" class="axis-label" text-anchor="middle">2</text>
+      <text x="175" y="155.8" class="axis-label" text-anchor="middle">3</text>
+      <text x="217" y="155.8" class="axis-label" text-anchor="middle">4</text>
+      <text x="259" y="155.8" class="axis-label" text-anchor="middle">5</text>
+      <text x="301" y="155.8" class="axis-label" text-anchor="middle">6</text>
+      <text x="343" y="155.8" class="axis-label" text-anchor="middle">7</text>
+      <text x="385" y="155.8" class="axis-label" text-anchor="middle">8</text>
+      <text x="427" y="155.8" class="axis-label" text-anchor="middle">9</text>
+      <text x="469" y="155.8" class="axis-label" text-anchor="middle">10</text>
 
       <!-- "Least aware" and "Most aware" labels -->
-      <text x="91" y="285" class="axis-label" text-anchor="middle">Least aware</text>
-      <text x="469" y="285" class="axis-label" text-anchor="middle">Most aware</text>
+      <text x="91" y="165.7" class="axis-label" text-anchor="middle">Least aware</text>
+      <text x="469" y="165.7" class="axis-label" text-anchor="middle">Most aware</text>
 
       <!-- X-axis title -->
-      <text x="280" y="310" class="axis-title" text-anchor="middle" font-size="13">User replies</text>
+      <text x="280" y="180.2" class="axis-title" text-anchor="middle" font-size="13">User replies</text>
     </svg>
   </div>
 </div>
