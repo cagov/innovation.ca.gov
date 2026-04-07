@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-07T17:38:09",
-    "updated_date": "2026-04-07T17:42:09",
+    "updated_date": "2026-04-07T17:42:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-07T10:38:09",
     "date_gmt": "2026-04-07T17:38:09",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3421",
-    "modified": "2026-04-07T10:42:09",
-    "modified_gmt": "2026-04-07T17:42:09",
+    "modified": "2026-04-07T10:42:15",
+    "modified_gmt": "2026-04-07T17:42:15",
     "slug": "building-statewide-data-science-community-practice",
     "status": "publish",
     "type": "post",
