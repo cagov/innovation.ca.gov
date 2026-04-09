@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-09T22:29:21",
-    "updated_date": "2026-04-09T22:29:26",
+    "updated_date": "2026-04-09T22:49:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2026-04-09T15:29:21",
     "date_gmt": "2026-04-09T22:29:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3464",
-    "modified": "2026-04-09T15:29:26",
-    "modified_gmt": "2026-04-09T22:29:26",
-    "slug": "join-the-innovation-community",
+    "modified": "2026-04-09T15:49:23",
+    "modified_gmt": "2026-04-09T22:49:23",
+    "slug": "join",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join-the-innovation-community/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join/",
     "title": "Join the innovation community",
     "excerpt": "<p>*Required field * Required field: First name * Required field:Last name * Required field: Email address Enter your &#8220;@ca.gov&#8221; work email * Required field: Current State department/board/office/agency * Required field: Job title Focus area (what do you work on?) What innovation topics are you interested in?</p>\n",
     "author": "Jim Bumgardner",
@@ -55,7 +55,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join-the-innovation-community/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join/",
       "page_title": "Join the innovation community",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
@@ -97,6 +97,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join-the-innovation-community/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/innovation-community-of-practice/join/"
   }
 }
