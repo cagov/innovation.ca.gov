@@ -12,7 +12,7 @@
 }
 </style>
 <div id="mc_embed_signup" class="mailchimp-wrapper">
-	<form action="https://govops.us2.list-manage.com/subscribe/post?u=c515d1563732573cbc10cd6e9&#038;id=3789799b86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+	<form action="https://govops.us2.list-manage.com/subscribe/post-json?u=c515d1563732573cbc10cd6e9&#038;id=3789799b86&#038;c=?" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
 		<div id="mc_embed_signup_scroll">
 
 			<div class="mc-field-group">
@@ -66,5 +66,87 @@
                 </div>
 	</form>
 	<script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js?version=62cdf4e62e3e2?version=62cdf4e62e3e1"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+	<script type="text/javascript">
+	(function() {
+		var form = document.getElementById('mc-embedded-subscribe-form');
+		var emailInput = document.getElementById('mce-EMAIL');
+		var caGovErrorId = 'mce-EMAIL-cagov-error';
+
+		function showCaGovError() {
+			var err = document.getElementById(caGovErrorId);
+			if (!err) {
+				err = document.createElement('div');
+				err.id = caGovErrorId;
+				err.className = 'mce_inline_error';
+				emailInput.parentNode.insertBefore(err, emailInput.nextSibling);
+			}
+			err.textContent = 'Please enter a valid ".ca.gov" work email address.';
+			err.style.display = 'block';
+			emailInput.className = emailInput.className.replace(' mce_inline_error', '') + ' mce_inline_error';
+		}
+
+		function hideCaGovError() {
+			var err = document.getElementById(caGovErrorId);
+			if (err) err.style.display = 'none';
+			emailInput.className = emailInput.className.replace(' mce_inline_error', '');
+		}
+
+		function isEmailValid() {
+			var val = emailInput.value.trim();
+			return val === '' || val.toLowerCase().endsWith('.ca.gov');
+		}
+
+		emailInput.addEventListener('blur', function() {
+			if (emailInput.value.trim() !== '' && !isEmailValid()) {
+				showCaGovError();
+			} else {
+				hideCaGovError();
+			}
+		});
+
+		emailInput.addEventListener('input', function() {
+			if (isEmailValid()) hideCaGovError();
+		});
+
+		var successDiv = document.getElementById('mce-success-response');
+		var errorDiv = document.getElementById('mce-error-response');
+
+		// Capture phase: always intercept to prevent mc-validate.js's double submission
+		form.addEventListener('submit', function(e) {
+			e.preventDefault();
+			e.stopPropagation();
+			e.stopImmediatePropagation();
+
+			if (!isEmailValid()) {
+				showCaGovError();
+				return false;
+			}
+
+			successDiv.style.display = 'none';
+			errorDiv.style.display = 'none';
+
+			var formData = new FormData(form);
+			var params = new URLSearchParams(formData).toString();
+			var url = form.action.replace('&c=?', '&c=mailchimpCallback') + '&' + params;
+
+			var script = document.createElement('script');
+			window.mailchimpCallback = function(data) {
+				if (data.result === 'success') {
+					successDiv.textContent = data.msg;
+					successDiv.style.display = 'block';
+					errorDiv.style.display = 'none';
+				} else {
+					errorDiv.innerHTML = data.msg;
+					errorDiv.style.display = 'block';
+					successDiv.style.display = 'none';
+				}
+				delete window.mailchimpCallback;
+				if (script.parentNode) script.parentNode.removeChild(script);
+			};
+			script.src = url;
+			document.body.appendChild(script);
+		}, true);
+	})();
+	</script>
 </div>
 <!--End mc_embed_signup-->
