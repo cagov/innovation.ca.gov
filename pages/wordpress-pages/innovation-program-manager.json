@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-03-25T18:24:50",
-    "updated_date": "2026-03-25T18:26:05",
+    "updated_date": "2026-04-10T18:11:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-03-25T11:24:50",
     "date_gmt": "2026-03-25T18:24:50",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3425",
-    "modified": "2026-03-25T11:26:05",
-    "modified_gmt": "2026-03-25T18:26:05",
+    "modified": "2026-04-10T11:11:16",
+    "modified_gmt": "2026-04-10T18:11:16",
     "slug": "innovation-program-manager",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/innovation-program-manager/"
