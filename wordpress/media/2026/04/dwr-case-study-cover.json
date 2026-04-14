@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2026-04-14T21:13:24",
+    "updated_date": "2026-04-14T21:13:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3480",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3480,
+    "date": "2026-04-14T14:13:24",
+    "date_gmt": "2026-04-14T21:13:24",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+    "modified": "2026-04-14T14:13:45",
+    "modified_gmt": "2026-04-14T21:13:45",
+    "slug": "dwr-case-study-cover",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dwr-case-study-cover/",
+    "title": "dwr-case-study-cover",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png\" class=\"attachment-medium size-medium\" alt=\"A technician checks water levels at a monitoring station\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A technician checks water levels at a monitoring station",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1752,
+      "height": 876,
+      "file": "2026/04/dwr-case-study-cover.png",
+      "filesize": 3756585,
+      "sizes": {
+        "medium": {
+          "file": "dwr-case-study-cover-576x288.png",
+          "width": 576,
+          "height": 288,
+          "filesize": 396774,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png"
+        },
+        "large": {
+          "file": "dwr-case-study-cover-1024x512.png",
+          "width": 1024,
+          "height": 512,
+          "filesize": 1208729,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png"
+        },
+        "thumbnail": {
+          "file": "dwr-case-study-cover-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 54812,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-150x150.png"
+        },
+        "medium_large": {
+          "file": "dwr-case-study-cover-768x384.png",
+          "width": 768,
+          "height": 384,
+          "filesize": 694147,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png"
+        },
+        "1536x1536": {
+          "file": "dwr-case-study-cover-1536x768.png",
+          "width": 1536,
+          "height": 768,
+          "filesize": 2611801,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png"
+        },
+        "full": {
+          "file": "dwr-case-study-cover.png",
+          "width": 1752,
+          "height": 876,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/04/dwr-case-study-cover.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+        "file": "dwr-case-study-cover.png",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/04/dwr-case-study-cover-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png",
+        "file": "dwr-case-study-cover-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "filesize": 2611801,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/04/dwr-case-study-cover-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png",
+        "file": "dwr-case-study-cover-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "filesize": 1208729,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/04/dwr-case-study-cover-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png",
+        "file": "dwr-case-study-cover-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 694147,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/04/dwr-case-study-cover-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png",
+        "file": "dwr-case-study-cover-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 396774,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/04/dwr-case-study-cover-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-150x150.png",
+        "file": "dwr-case-study-cover-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 54812,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-150x150.png"
+      }
+    ],
+    "path": "2026/04/dwr-case-study-cover.png"
+  }
+}

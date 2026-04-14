@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "created_date": "2026-04-14T21:13:30",
+    "updated_date": "2026-04-14T21:13:30",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3481",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3481,
+    "date": "2026-04-14T14:13:30",
+    "date_gmt": "2026-04-14T21:13:30",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
+    "modified": "2026-04-14T14:13:30",
+    "modified_gmt": "2026-04-14T21:13:30",
+    "slug": "dwr-project",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dwr-project/",
+    "title": "dwr-project",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png 1152w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1152,
+      "height": 768,
+      "file": "2026/04/dwr-project.png",
+      "filesize": 2243492,
+      "sizes": {
+        "medium": {
+          "file": "dwr-project-576x384.png",
+          "width": 576,
+          "height": 384,
+          "filesize": 518589,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png"
+        },
+        "large": {
+          "file": "dwr-project-1024x683.png",
+          "width": 1024,
+          "height": 683,
+          "filesize": 1592565,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png"
+        },
+        "thumbnail": {
+          "file": "dwr-project-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 55878,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-150x150.png"
+        },
+        "medium_large": {
+          "file": "dwr-project-768x512.png",
+          "width": 768,
+          "height": 512,
+          "filesize": 911672,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png"
+        },
+        "full": {
+          "file": "dwr-project.png",
+          "width": 1152,
+          "height": 768,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/04/dwr-project.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
+        "file": "dwr-project.png",
+        "width": 1152,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/04/dwr-project-1024x683.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png",
+        "file": "dwr-project-1024x683.png",
+        "width": 1024,
+        "height": 683,
+        "filesize": 1592565,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/04/dwr-project-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png",
+        "file": "dwr-project-768x512.png",
+        "width": 768,
+        "height": 512,
+        "filesize": 911672,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/04/dwr-project-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png",
+        "file": "dwr-project-576x384.png",
+        "width": 576,
+        "height": 384,
+        "filesize": 518589,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/04/dwr-project-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-150x150.png",
+        "file": "dwr-project-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 55878,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-150x150.png"
+      }
+    ],
+    "path": "2026/04/dwr-project.png"
+  }
+}
