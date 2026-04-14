@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-14T21:13:30",
-    "updated_date": "2026-04-14T21:13:30",
+    "updated_date": "2026-04-14T21:34:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-14T14:13:30",
     "date_gmt": "2026-04-14T21:13:30",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
-    "modified": "2026-04-14T14:13:30",
-    "modified_gmt": "2026-04-14T21:13:30",
+    "modified": "2026-04-14T14:34:57",
+    "modified_gmt": "2026-04-14T21:34:57",
     "slug": "dwr-project",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png 1152w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png\" class=\"attachment-medium size-medium\" alt=\"A technician checks water levels at a monitoring station\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-576x384.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-1024x683.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project-768x512.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png 1152w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "A technician checks water levels at a monitoring station",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
