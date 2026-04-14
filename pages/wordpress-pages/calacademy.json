@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-11T17:10:13",
-    "updated_date": "2026-04-14T17:57:22",
+    "updated_date": "2026-04-14T17:57:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-11T09:10:13",
     "date_gmt": "2023-12-11T17:10:13",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1568",
-    "modified": "2026-04-14T10:57:22",
-    "modified_gmt": "2026-04-14T17:57:22",
+    "modified": "2026-04-14T10:57:27",
+    "modified_gmt": "2026-04-14T17:57:27",
     "slug": "calacademy",
     "status": "publish",
     "type": "page",
