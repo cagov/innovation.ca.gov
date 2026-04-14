@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-04-14T21:27:51",
+    "updated_date": "2026-04-14T21:37:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-04-14T14:27:51",
-    "modified_gmt": "2026-04-14T21:27:51",
+    "modified": "2026-04-14T14:37:58",
+    "modified_gmt": "2026-04-14T21:37:58",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
@@ -113,6 +113,19 @@
         "featured": false
       },
       {
+        "id": 3346,
+        "type": "full",
+        "path": "2026/02/bppe-project.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-project.jpg",
+        "file": "bppe-project.jpg",
+        "width": 577,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/bppe-project.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
         "id": 1949,
         "type": "full",
         "path": "2024/05/calhr-project.jpg",
@@ -187,6 +200,19 @@
         "height": 384,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/08/dtsc-project-2.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3481,
+        "type": "full",
+        "path": "2026/04/dwr-project.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
+        "file": "dwr-project.png",
+        "width": 1152,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-project.png",
         "source_url_match": true,
         "featured": false
       },
