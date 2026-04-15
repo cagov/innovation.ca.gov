@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "created_date": "2026-04-15T22:31:22",
+    "updated_date": "2026-04-15T22:31:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3477",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3477,
+    "date": "2026-04-15T15:31:22",
+    "date_gmt": "2026-04-15T22:31:22",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3477",
+    "modified": "2026-04-15T15:31:28",
+    "modified_gmt": "2026-04-15T22:31:28",
+    "slug": "developing-trustworthy-environmental-monitoring-data",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/developing-trustworthy-environmental-monitoring-data/",
+    "title": "Developing trustworthy environmental monitoring data",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) built a tool that helps the Department of Water Resources (DWR) create trustworthy environmental monitoring data. Project scope Partner Methods The opportunity DWR collects environmental monitoring data from instruments in water bodies throughout the state. Sometimes, these instruments produce errors or missing values. Anyone with an at-home rain &#8230; <a title=\"Developing trustworthy environmental monitoring data\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/developing-trustworthy-environmental-monitoring-data/\" aria-label=\"More on Developing trustworthy environmental monitoring data\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/developing-trustworthy-environmental-monitoring-data/",
+      "page_title": "Developing trustworthy environmental monitoring data",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/developing-trustworthy-environmental-monitoring-data/",
+    "media": [
+      {
+        "id": 3480,
+        "type": "full",
+        "path": "2026/04/dwr-case-study-cover.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+        "file": "dwr-case-study-cover.png",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3480,
+        "type": "1536x1536",
+        "path": "2026/04/dwr-case-study-cover-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png",
+        "file": "dwr-case-study-cover-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "filesize": 2611801,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1536x768.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3480,
+        "type": "large",
+        "path": "2026/04/dwr-case-study-cover-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png",
+        "file": "dwr-case-study-cover-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "filesize": 1208729,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-1024x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3480,
+        "type": "medium_large",
+        "path": "2026/04/dwr-case-study-cover-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png",
+        "file": "dwr-case-study-cover-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 694147,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-768x384.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3480,
+        "type": "medium",
+        "path": "2026/04/dwr-case-study-cover-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png",
+        "file": "dwr-case-study-cover-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 396774,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-case-study-cover-576x288.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3488,
+        "type": "full",
+        "path": "2026/04/dwr-flooded-road.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+        "file": "dwr-flooded-road.png",
+        "width": 1752,
+        "height": 1144,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3488,
+        "type": "1536x1536",
+        "path": "2026/04/dwr-flooded-road-1536x1003.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png",
+        "file": "dwr-flooded-road-1536x1003.png",
+        "width": 1536,
+        "height": 1003,
+        "filesize": 2070873,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3488,
+        "type": "large",
+        "path": "2026/04/dwr-flooded-road-1024x669.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png",
+        "file": "dwr-flooded-road-1024x669.png",
+        "width": 1024,
+        "height": 669,
+        "filesize": 906215,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3488,
+        "type": "medium_large",
+        "path": "2026/04/dwr-flooded-road-768x501.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png",
+        "file": "dwr-flooded-road-768x501.png",
+        "width": 768,
+        "height": 501,
+        "filesize": 505585,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3488,
+        "type": "medium",
+        "path": "2026/04/dwr-flooded-road-576x376.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png",
+        "file": "dwr-flooded-road-576x376.png",
+        "width": 576,
+        "height": 376,
+        "filesize": 289035,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
