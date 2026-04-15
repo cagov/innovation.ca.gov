@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2026-04-15T18:50:07",
+    "updated_date": "2026-04-15T18:51:01",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3488",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3488,
+    "date": "2026-04-15T11:50:07",
+    "date_gmt": "2026-04-15T18:50:07",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+    "modified": "2026-04-15T11:51:01",
+    "modified_gmt": "2026-04-15T18:51:01",
+    "slug": "dwr-flooded-road",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/dwr-flooded-road/",
+    "title": "dwr-flooded-road",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"376\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png\" class=\"attachment-medium size-medium\" alt=\"A flooded 2-lane highway in the Central Valley. A car is partially submerged on the shoulder.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A flooded 2-lane highway in the Central Valley. A car is partially submerged on the shoulder.",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1752,
+      "height": 1144,
+      "file": "2026/04/dwr-flooded-road.png",
+      "filesize": 3198242,
+      "sizes": {
+        "medium": {
+          "file": "dwr-flooded-road-576x376.png",
+          "width": 576,
+          "height": 376,
+          "filesize": 289035,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png"
+        },
+        "large": {
+          "file": "dwr-flooded-road-1024x669.png",
+          "width": 1024,
+          "height": 669,
+          "filesize": 906215,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png"
+        },
+        "thumbnail": {
+          "file": "dwr-flooded-road-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 35796,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-150x150.png"
+        },
+        "medium_large": {
+          "file": "dwr-flooded-road-768x501.png",
+          "width": 768,
+          "height": 501,
+          "filesize": 505585,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png"
+        },
+        "1536x1536": {
+          "file": "dwr-flooded-road-1536x1003.png",
+          "width": 1536,
+          "height": 1003,
+          "filesize": 2070873,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png"
+        },
+        "full": {
+          "file": "dwr-flooded-road.png",
+          "width": 1752,
+          "height": 1144,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/04/dwr-flooded-road.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png",
+        "file": "dwr-flooded-road.png",
+        "width": 1752,
+        "height": 1144,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/04/dwr-flooded-road-1536x1003.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png",
+        "file": "dwr-flooded-road-1536x1003.png",
+        "width": 1536,
+        "height": 1003,
+        "filesize": 2070873,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1536x1003.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/04/dwr-flooded-road-1024x669.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png",
+        "file": "dwr-flooded-road-1024x669.png",
+        "width": 1024,
+        "height": 669,
+        "filesize": 906215,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-1024x669.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/04/dwr-flooded-road-768x501.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png",
+        "file": "dwr-flooded-road-768x501.png",
+        "width": 768,
+        "height": 501,
+        "filesize": 505585,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-768x501.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/04/dwr-flooded-road-576x376.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png",
+        "file": "dwr-flooded-road-576x376.png",
+        "width": 576,
+        "height": 376,
+        "filesize": 289035,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-576x376.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/04/dwr-flooded-road-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-150x150.png",
+        "file": "dwr-flooded-road-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 35796,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/dwr-flooded-road-150x150.png"
+      }
+    ],
+    "path": "2026/04/dwr-flooded-road.png"
+  }
+}
