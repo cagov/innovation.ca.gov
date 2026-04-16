@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-16T20:33:23",
-    "updated_date": "2026-04-16T20:33:23",
+    "updated_date": "2026-04-16T20:43:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-16T13:33:23",
     "date_gmt": "2026-04-16T20:33:23",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3497",
-    "modified": "2026-04-16T13:33:23",
-    "modified_gmt": "2026-04-16T20:33:23",
+    "modified": "2026-04-16T13:43:04",
+    "modified_gmt": "2026-04-16T20:43:04",
     "slug": "portfolio-manager",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/portfolio-manager/"
