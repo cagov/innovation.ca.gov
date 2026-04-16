@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "created_date": "2026-04-16T20:33:23",
+    "updated_date": "2026-04-16T20:33:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3497",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3497,
+    "date": "2026-04-16T13:33:23",
+    "date_gmt": "2026-04-16T20:33:23",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3497",
+    "modified": "2026-04-16T13:33:23",
+    "modified_gmt": "2026-04-16T20:33:23",
+    "slug": "portfolio-manager",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/portfolio-manager/",
+    "title": "Portfolio Manager",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) is seeking an experienced Portfolio Manager (ITM II). This role involves comprehensive management of department-wide projects and portfolios, including providing strategic direction, ensuring timely completion, and managing resources effectively. A core responsibility will be serving as the dedicated project manager for multiple external, high-profile programs, operating under the &#8230; <a title=\"Portfolio Manager\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/portfolio-manager/\" aria-label=\"More on Portfolio Manager\">Read more</a></p>\n",
+    "author": "Lauren Sanford",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/portfolio-manager/",
+      "page_title": "Portfolio Manager",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/portfolio-manager/"
+  }
+}
