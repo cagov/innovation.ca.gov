@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-15T22:31:22",
-    "updated_date": "2026-04-17T15:36:59",
+    "updated_date": "2026-04-17T15:37:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-15T15:31:22",
     "date_gmt": "2026-04-15T22:31:22",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3477",
-    "modified": "2026-04-17T08:36:59",
-    "modified_gmt": "2026-04-17T15:36:59",
+    "modified": "2026-04-17T08:37:04",
+    "modified_gmt": "2026-04-17T15:37:04",
     "slug": "developing-trustworthy-environmental-monitoring-data",
     "status": "publish",
     "type": "page",
