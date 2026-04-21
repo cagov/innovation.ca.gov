@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2026-04-21T18:33:48",
+    "updated_date": "2026-04-21T18:33:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3496",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3496,
+    "date": "2026-04-21T11:33:48",
+    "date_gmt": "2026-04-21T18:33:48",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3496",
+    "modified": "2026-04-21T11:33:48",
+    "modified_gmt": "2026-04-21T18:33:48",
+    "slug": "mapping-out-vision-streamline-permitting-planning",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/mapping-out-vision-streamline-permitting-planning/",
+    "title": "Mapping out a vision to streamline permitting and planning",
+    "excerpt": "<p>Will Robinson1, Jai London2, Elizabeth Betancourt3, Jennifer Uyeda Issertell4, Liyuan Guo5 1Governor’s Office of Land Use and Climate Innovation, 1400 10th Street, Sacramento CA 958142California Military Department, 10601 Bear Hollow Drive, Rancho Cordova CA 956703 Department of Conservation, 715 P Street, MS 1900, Sacramento CA 95814​​​4 California Department of Technology, 3101 Gold Camp Dr, Rancho &#8230; <a title=\"Mapping out a vision to streamline permitting and planning\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/mapping-out-vision-streamline-permitting-planning/\" aria-label=\"More on Mapping out a vision to streamline permitting and planning\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 2872,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/mapping-out-vision-streamline-permitting-planning/",
+      "page_title": "Mapping out a vision to streamline permitting and planning",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/governors-innovation-fellows-program/cohort-1/mapping-out-vision-streamline-permitting-planning/"
+  }
+}
