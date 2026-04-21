@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-21T20:22:12",
-    "updated_date": "2026-04-21T20:22:17",
+    "updated_date": "2026-04-21T20:28:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-21T13:22:12",
     "date_gmt": "2026-04-21T20:22:12",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3501",
-    "modified": "2026-04-21T13:22:17",
-    "modified_gmt": "2026-04-21T20:22:17",
+    "modified": "2026-04-21T13:28:34",
+    "modified_gmt": "2026-04-21T20:28:34",
     "slug": "senior-data-governance-strategist",
     "status": "publish",
     "type": "page",
