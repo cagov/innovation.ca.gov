@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-03-16T19:24:21",
-    "updated_date": "2026-04-21T20:11:28",
+    "created_date": "2026-04-21T20:22:12",
+    "updated_date": "2026-04-21T20:22:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/240",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3501",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 240,
-    "date": "2022-03-16T12:24:21",
-    "date_gmt": "2022-03-16T19:24:21",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=240",
-    "modified": "2026-04-21T13:11:28",
-    "modified_gmt": "2026-04-21T20:11:28",
-    "slug": "our-vision",
+    "id": 3501,
+    "date": "2026-04-21T13:22:12",
+    "date_gmt": "2026-04-21T20:22:12",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3501",
+    "modified": "2026-04-21T13:22:12",
+    "modified_gmt": "2026-04-21T20:22:12",
+    "slug": "senior-data-governance-strategist",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
-    "title": "Our vision",
-    "excerpt": "<p>A state government that is modern, effective, and provides exceptional service to all Californians. Our mission We drive innovation across California state government, using data, technology, and human centered design to achieve exceptional, equitable outcomes for all Californians. We collaborate with leaders and communities throughout California and the world. We partner to build empathy for &#8230; <a title=\"Our vision\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/\" aria-label=\"More on Our vision\">Read more</a></p>\n",
-    "author": "Michael Sullivan",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-governance-strategist/",
+    "title": "Senior Data Governance Strategist",
+    "excerpt": "<p>The Office of Data and Innovation’s CalData Policy and Programs team focuses on statewide policies and programs that directly impact the effectiveness of data teams across the state, including topics such as ethical AI use, data governance, privacy, data standards, evaluation metrics definition, and analysis best practices.&nbsp;&nbsp; Under the Assistant Chief Data Officer, the Senior &#8230; <a title=\"Senior Data Governance Strategist\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-governance-strategist/\" aria-label=\"More on Senior Data Governance Strategist\">Read more</a></p>\n",
+    "author": "Lauren Sanford",
     "featured_media": 0,
-    "parent": 318,
+    "parent": 238,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -52,8 +52,8 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/",
-      "page_title": "Our vision",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-governance-strategist/",
+      "page_title": "Senior Data Governance Strategist",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
       "page_social_image_width": 1200,
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/who-we-are/our-vision/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-data-governance-strategist/"
   }
 }
