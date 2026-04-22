@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-22T15:29:03",
-    "updated_date": "2026-04-22T16:23:42",
+    "updated_date": "2026-04-22T16:23:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-22T08:29:03",
     "date_gmt": "2026-04-22T15:29:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3508",
-    "modified": "2026-04-22T09:23:42",
-    "modified_gmt": "2026-04-22T16:23:42",
+    "modified": "2026-04-22T09:23:47",
+    "modified_gmt": "2026-04-22T16:23:47",
     "slug": "how-we-used-ai-lift-voices-california-state-employees",
     "status": "publish",
     "type": "post",
