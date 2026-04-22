@@ -1,0 +1,105 @@
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="876" height="584" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg" alt="Engaged California surrounded by bubbles representing areas of feedback" class="wp-image-3510" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg 876w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-576x384.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-768x512.jpg 768w" sizes="auto, (max-width: 876px) 100vw, 876px" /></figure>
+
+<p>Engaged California is a new state program managed by the Office of Data and Innovation (ODI). It gives Californians a way to share their thoughts on topics that are important to them. They can connect with other people through respectful discussions and tell their government how they feel.</p>
+
+<p>We launched our second engagement last Fall. This time, we asked state employees to tell us their ideas on how to make government more efficient. We expected a lot of unstructured, qualitative input.</p>
+
+<p>What we didn’t expect was how much the analysis process itself would teach us about working with AI. We learned 2 key points: how AI could help analyze large text data, and where it can steer you wrong if you’re not careful.</p>
+
+<p>Over 10 weeks, 1,469 employees participated, leaving 2,477 comments. They shared what they felt was necessary to make the work of government more efficient.&nbsp;</p>
+
+<p>This post will explain:</p>
+
+<ul class="wp-block-list">
+<li>How we worked through the analysis</li>
+
+<li>Where AI helped&nbsp;</li>
+
+<li>Where humans had to stay in the loop to catch errors and garner trust in the results.</li>
+</ul>
+
+<h2 class="wp-block-heading">We used AI for 2 different jobs</h2>
+
+<p>AI played 2 distinct roles for us: one during the engagement, and another after it closed.</p>
+
+<p>During the engagement, we built a large language model (LLM) we could prompt to explore the comments. Our team could ask plain-language questions about the live stream of comments, such as:</p>
+
+<ul class="wp-block-list">
+<li>What themes are popping up this week?</li>
+
+<li>How often are people bringing up training?</li>
+</ul>
+
+<p>That gave us an early signal of what was in the data. It also helped us build some grounded hypotheses.</p>
+
+<p>After the engagement closed, the real work started. We synthesized the comments into a final report designed for readers to navigate.</p>
+
+<h2 class="wp-block-heading">The pivot: from “top solutions” to “themes”</h2>
+
+<p>Our initial goal sounded straightforward: identify the top solutions employees proposed.</p>
+
+<p>But employees wrote long, layered responses. They included lots of:</p>
+
+<ul class="wp-block-list">
+<li>Context</li>
+
+<li>Feelings</li>
+
+<li>Examples</li>
+
+<li>Acronyms and internal names for tools and systems</li>
+</ul>
+
+<p>Many people had more than just one idea.</p>
+
+<p>To find the solutions people agreed on, we decided to write a custom AI prompt. It extracted problem and solution statements from each comment.The goal would then be to count which solutions occurred the most, and find our winners.</p>
+
+<p>But the data didn’t cooperate. We couldn’t get to clean, matchable items that were easy to count. There was just too much context and nuance within each comment.</p>
+
+<p>So we changed the goal. Instead of ranking specific ideas, we focused on organizing what they said. We identified the 10 themes and 65 subthemes that were present in the responses. Then we labelled each comment and presented that entire, organized dataset for readers. They could browse, explore, and take action on them.</p>
+
+<h2 class="wp-block-heading">Where humans stayed in the loop</h2>
+
+<p>AI did the heavy lifting at scale, but it didn’t run unattended. We built human checkpoints in <strong>on purpose.</strong></p>
+
+<p>First, our research team hand-categorized a random sample of comments. From there we built the initial list of categories.</p>
+
+<p>Then we used AI to apply the categories to the rest of the comments. Data engineers ran quality assurance tests that:</p>
+
+<ul class="wp-block-list">
+<li>Compared AI’s labels to the researchers’</li>
+
+<li>Did random sampling checks</li>
+
+<li>Analyzed the AI-labelled dataset</li>
+</ul>
+
+<p>Their tests looked for outliers. These were things like if any themes got over-applied and which themes had a lot of overlap.</p>
+
+<p>We noted when AI labelled data incorrectly and looked for patterns to figure out why. We used this feedback to improve the prompt.</p>
+
+<p>One way was making the theme names and definitions more descriptive. Most comments received 4 or fewer subthemes. But sometimes when the AI couldn’t figure out what to do with a comment, its solution was to apply all 65 subthemes to it. While we can’t know exactly why that happened, we noted what those comments had in common with each other. So we added more details and context to the LLM prompt.</p>
+
+<p>At the very end, we found there were still some edge cases. We decided to hand-label them.</p>
+
+<p>Again, every stage of this work went through a round of human-led QA. This process helped us understand how to use new AI tools better. It also helped garner trust in the results. And informed how we build out a framework for future analyses like this.</p>
+
+<h2 class="wp-block-heading">Learnings</h2>
+
+<p>Using AI on open-ended qualitative data at this scale was new territory for us. A few lessons we’re carrying forward:</p>
+
+<ul class="wp-block-list">
+<li><strong>Prompt scope matters</strong>. The messier the input data, the more specific you have to be with the LLM prompts and settings to get what you want back.</li>
+
+<li><strong>When labelling text data, start with humans</strong>. Having researchers build the taxonomy first enabled the AI to gain context from us.</li>
+
+<li><strong>Be honest about what the data can’t support</strong>. The pivot away from rankings was the right call for the data we had at our disposal. The result is a rich dataset that highlights prominent themes while maintaining details.</li>
+
+<li><strong>Put AI analysis in version control. </strong>LLM prompts we used are in our version-controlled codebase. There are many benefits to this. One is that we know what prompts (and what versions of the models) we used. This makes them reusable and auditable for the future.</li>
+</ul>
+
+<p>The ideas employees shared are already informing real programs. Examples include the <a href="https://innovation.ca.gov/our-work/governors-innovation-fellows-program/">Governor’s Innovation Fellows</a>, <a href="https://results.ca.gov/">results.ca.gov</a>, and <a href="https://innovation.ca.gov/our-work/projects/">case studies</a> happening across the state.</p>
+
+<h2 class="wp-block-heading">The next conversation</h2>
+
+<p>On March 30, <a href="https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/">Governor Newsom announced</a> the next Engaged California conversation is coming soon. It will be the first statewide effort with all Californians. The topic: AI and its impact on the workforce. Engaged California is the first-in-the-nation digital democracy effort.</p>

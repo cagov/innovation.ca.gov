@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-04-22T15:29:03",
+    "updated_date": "2026-04-22T15:29:03",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/3508",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3508,
+    "date": "2026-04-22T08:29:03",
+    "date_gmt": "2026-04-22T15:29:03",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3508",
+    "modified": "2026-04-22T08:29:03",
+    "modified_gmt": "2026-04-22T15:29:03",
+    "slug": "how-we-used-ai-lift-voices-california-state-employees",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/04/22/how-we-used-ai-lift-voices-california-state-employees/",
+    "title": "How we used AI to lift the voices of California state employees",
+    "excerpt": "<p>Engaged California is a new state program managed by the Office of Data and Innovation (ODI). It gives Californians a way to share their thoughts on topics that are important to them. They can connect with other people through respectful discussions and tell their government how they feel. We launched our second engagement last Fall. &#8230; <a title=\"How we used AI to lift the voices of California state employees\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/04/22/how-we-used-ai-lift-voices-california-state-employees/\" aria-label=\"More on How we used AI to lift the voices of California state employees\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/04/22/how-we-used-ai-lift-voices-california-state-employees/",
+      "page_title": "How we used AI to lift the voices of California state employees",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/04/22/how-we-used-ai-lift-voices-california-state-employees/",
+    "media": [
+      {
+        "id": 3510,
+        "type": "full",
+        "path": "2026/04/engaged-ai-blog.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg",
+        "file": "engaged-ai-blog.jpg",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3510,
+        "type": "medium_large",
+        "path": "2026/04/engaged-ai-blog-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-768x512.jpg",
+        "file": "engaged-ai-blog-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 22656,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3510,
+        "type": "medium",
+        "path": "2026/04/engaged-ai-blog-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-576x384.jpg",
+        "file": "engaged-ai-blog-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 15266,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
