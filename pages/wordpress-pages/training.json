@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2026-04-29T17:41:08",
-    "updated_date": "2026-04-29T17:41:13",
+    "created_date": "2026-04-29T17:45:07",
+    "updated_date": "2026-04-29T17:45:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3544",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3546",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 3544,
-    "date": "2026-04-29T10:41:08",
-    "date_gmt": "2026-04-29T17:41:08",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3544",
-    "modified": "2026-04-29T10:41:13",
-    "modified_gmt": "2026-04-29T17:41:13",
-    "slug": "work-with-us",
+    "id": 3546,
+    "date": "2026-04-29T10:45:07",
+    "date_gmt": "2026-04-29T17:45:07",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3546",
+    "modified": "2026-04-29T10:45:07",
+    "modified_gmt": "2026-04-29T17:45:07",
+    "slug": "training",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/",
-    "title": "Work with us",
-    "excerpt": "",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/training/",
+    "title": "Training",
+    "excerpt": "<p>The Office of Data and Innovation can help you improve your innovation skills. We offer self-paced and real-time training that help you serve Californians better. Self-paced training You can take online training at your own pace for free. Most are available through CalLearns. Group training for departments We offer live training for departments in: Talk &#8230; <a title=\"Training\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/training/\" aria-label=\"More on Training\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 0,
+    "parent": 3544,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -54,8 +54,8 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/",
-      "page_title": "Work with us",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/training/",
+      "page_title": "Training",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
       "page_social_image_width": 1200,
@@ -85,6 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/training/"
   }
 }
