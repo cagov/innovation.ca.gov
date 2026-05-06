@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-01T20:53:03",
-    "updated_date": "2026-05-06T22:26:05",
+    "updated_date": "2026-05-06T22:32:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2026-05-01T13:53:03",
     "date_gmt": "2026-05-01T20:53:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3242",
-    "modified": "2026-05-06T15:26:05",
-    "modified_gmt": "2026-05-06T22:26:05",
-    "slug": "chief-genai-engineer",
+    "modified": "2026-05-06T15:32:50",
+    "modified_gmt": "2026-05-06T22:32:50",
+    "slug": "chief-ai-engineer",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-genai-engineer/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-ai-engineer/",
     "title": "Chief AI Engineer",
-    "excerpt": "<p>The Role: ODI is looking for a builder who is ready to put AI to work for California. As our Chief AI Engineer, you will lead the technical design and delivery of AI solutions that solve real-world problems. You won’t just be advising; you will be engineering systems that turn foundation models into practical tools, helping &#8230; <a title=\"Chief AI Engineer\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/chief-genai-engineer/\" aria-label=\"More on Chief AI Engineer\">Read more</a></p>\n",
+    "excerpt": "<p>The Role: ODI is looking for a builder who is ready to put AI to work for California. As our Chief AI Engineer, you will lead the technical design and delivery of AI solutions that solve real-world problems. You won’t just be advising; you will be engineering systems that turn foundation models into practical tools, helping &#8230; <a title=\"Chief AI Engineer\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/chief-ai-engineer/\" aria-label=\"More on Chief AI Engineer\">Read more</a></p>\n",
     "author": "Brian Rains",
     "featured_media": 0,
     "parent": 238,
@@ -52,7 +52,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-genai-engineer/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-ai-engineer/",
       "page_title": "Chief AI Engineer",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-genai-engineer/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/chief-ai-engineer/"
   }
 }
