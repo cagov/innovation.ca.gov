@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-02-10T22:13:59",
-    "updated_date": "2026-05-01T20:51:16",
+    "updated_date": "2026-05-06T21:02:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-02-10T14:13:59",
     "date_gmt": "2026-02-10T22:13:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx.pdf",
-    "modified": "2026-05-01T13:51:16",
-    "modified_gmt": "2026-05-01T20:51:16",
+    "modified": "2026-05-06T14:02:06",
+    "modified_gmt": "2026-05-06T21:02:06",
     "slug": "chief-genai-engineer-duty-statement-docx",
     "status": "inherit",
     "type": "attachment",
@@ -52,7 +52,7 @@
           "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-445x576.jpg",
           "width": 445,
           "height": 576,
-          "filesize": 45590,
+          "filesize": 45569,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-445x576.jpg"
         },
@@ -60,7 +60,7 @@
           "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-791x1024.jpg",
           "width": 791,
           "height": 1024,
-          "filesize": 114374,
+          "filesize": 114333,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-791x1024.jpg"
         },
@@ -68,12 +68,12 @@
           "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-116x150.jpg",
           "width": 116,
           "height": 150,
-          "filesize": 6237,
+          "filesize": 6233,
           "mime_type": "image/jpeg",
           "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-116x150.jpg"
         }
       },
-      "filesize": 139914
+      "filesize": 139911
     },
     "post": null,
     "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx.pdf",
@@ -96,7 +96,7 @@
         "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-791x1024.jpg",
         "width": 791,
         "height": 1024,
-        "filesize": 114374,
+        "filesize": 114333,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-791x1024.jpg"
       },
@@ -107,7 +107,7 @@
         "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-445x576.jpg",
         "width": 445,
         "height": 576,
-        "filesize": 45590,
+        "filesize": 45569,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-445x576.jpg"
       },
@@ -118,7 +118,7 @@
         "file": "Chief-GenAI-Engineer-Duty-Statement.docx-pdf-116x150.jpg",
         "width": 116,
         "height": 150,
-        "filesize": 6237,
+        "filesize": 6233,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/02/Chief-GenAI-Engineer-Duty-Statement.docx-pdf-116x150.jpg"
       }
