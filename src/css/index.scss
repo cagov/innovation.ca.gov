@@ -322,3 +322,20 @@ div#mce-success-response {
   border-left: 4px solid rgb(72, 155, 98);
 
 }
+
+.wp-block-group.odi-grid-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.wp-block-group.odi-grid-group > .wp-block-group {
+  flex: 0 0 calc(50% - 1rem);
+
+  box-sizing: border-box;
+  border: 0.5px solid #d4d4d7;
+  border-radius: 0.5rem;
+  padding: 0 1rem 1rem 1rem;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,0.04), 0 1.5px 4px 0 rgba(0,0,0,0.025);
+}
