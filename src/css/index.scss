@@ -332,10 +332,22 @@ div#mce-success-response {
 
 .wp-block-group.odi-grid-group > .wp-block-group {
   flex: 0 0 calc(50% - 1rem);
-
   box-sizing: border-box;
+}
+
+@media only screen and (max-width: 778px) {
+  .wp-block-group.odi-grid-group > .wp-block-group {
+    flex: 0 0 100%;
+  }
+}
+
+.wp-block-group.odi-grid-group.odi-thin-outline > .wp-block-group {
   border: 0.5px solid #d4d4d7;
   border-radius: 0.5rem;
   padding: 0 1rem 1rem 1rem;
+}
+
+.wp-block-group.odi-grid-group.odi-drop-shadow > .wp-block-group {
   box-shadow: 0 2px 8px 0 rgba(0,0,0,0.04), 0 1.5px 4px 0 rgba(0,0,0,0.025);
 }
+
