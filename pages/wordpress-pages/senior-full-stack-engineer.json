@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2026-05-11T18:45:56",
+    "updated_date": "2026-05-11T18:45:56",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3579",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3579,
+    "date": "2026-05-11T11:45:56",
+    "date_gmt": "2026-05-11T18:45:56",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3579",
+    "modified": "2026-05-11T11:45:56",
+    "modified_gmt": "2026-05-11T18:45:56",
+    "slug": "senior-full-stack-engineer",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-full-stack-engineer/",
+    "title": "Senior Full Stack Engineer",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) is seeking an experienced Senior Full Stack Engineer to join our Engineering team in CalInnovate. We are a team with diverse backgrounds. With experience in government, startups, and enterprise businesses. Some of us taught ourselves to code. That mix makes us better. Our Engineering team came together to &#8230; <a title=\"Senior Full Stack Engineer\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/senior-full-stack-engineer/\" aria-label=\"More on Senior Full Stack Engineer\">Read more</a></p>\n",
+    "author": "Brian Rains",
+    "featured_media": 0,
+    "parent": 238,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-full-stack-engineer/",
+      "page_title": "Senior Full Stack Engineer",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-full-stack-engineer/"
+  }
+}
