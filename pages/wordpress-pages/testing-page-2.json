@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-08T20:52:24",
-    "updated_date": "2026-04-09T21:02:08",
+    "updated_date": "2026-05-11T22:33:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2026-04-08T13:52:24",
     "date_gmt": "2026-04-08T20:52:24",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3449",
-    "modified": "2026-04-09T14:02:08",
-    "modified_gmt": "2026-04-09T21:02:08",
+    "modified": "2026-05-11T15:33:05",
+    "modified_gmt": "2026-05-11T22:33:05",
     "slug": "testing-page-2",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page-2/",
     "title": "Testing Page 2",
-    "excerpt": "<p>Join the innovation community *Required field * Required field: First name * Required field:Last name * Required field: Email address Enter your &#8220;@ca.gov&#8221; work email * Required field: Current State department/board/office/agency * Required field: Job title Focus area (what do you work on?) What innovation topics are you interested in?</p>\n",
+    "excerpt": "<p>Join the innovation community Self Service Reports to save staff time Division analyst could answer own questions. Ad-hoc Qs that would take 3hrs of data team time were now answered instantly. Self Service Reports to save staff time Division analyst could answer own questions. Ad-hoc Qs that would take 3hrs of data team time were &#8230; <a title=\"Testing Page 2\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page-2/\" aria-label=\"More on Testing Page 2\">Read more</a></p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -97,6 +97,35 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page-2/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page-2/",
+    "media": [
+      {
+        "id": 3183,
+        "type": "full",
+        "path": "2026/01/headshot-sarah-shepherd.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd.png",
+        "file": "headshot-sarah-shepherd.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3183,
+        "type": "thumbnail",
+        "path": "2026/01/headshot-sarah-shepherd-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd-150x150.png",
+        "file": "headshot-sarah-shepherd-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 12556,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/headshot-sarah-shepherd-150x150.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
