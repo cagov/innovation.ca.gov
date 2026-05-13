@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-05-13T16:55:33",
+    "updated_date": "2026-05-13T16:55:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/3542",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3542,
+    "date": "2026-05-13T09:55:33",
+    "date_gmt": "2026-05-13T16:55:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3542",
+    "modified": "2026-05-13T09:55:33",
+    "modified_gmt": "2026-05-13T16:55:33",
+    "slug": "new-data-tool-helps-protect-students-private-postsecondary-schools",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/05/13/new-data-tool-helps-protect-students-private-postsecondary-schools/",
+    "title": "New data tool helps protect students at private postsecondary schools",
+    "excerpt": "<p>A data tool, developed by state employees, is transforming how the Bureau for Private Postsecondary Education (BPPE) protects students attending private colleges, vocational schools, and professional training programs. It allows staff to process thousands of institutional reports in seconds to inform enforcement activities. The data model was designed by the California Office of Data and &#8230; <a title=\"New data tool helps protect students at private postsecondary schools\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/05/13/new-data-tool-helps-protect-students-private-postsecondary-schools/\" aria-label=\"More on New data tool helps protect students at private postsecondary schools\">Read more</a></p>\n",
+    "author": "Rocio Mora",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/05/13/new-data-tool-helps-protect-students-private-postsecondary-schools/",
+      "page_title": "New data tool helps protect students at private postsecondary schools",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/05/13/new-data-tool-helps-protect-students-private-postsecondary-schools/",
+    "media": [
+      {
+        "id": 3531,
+        "type": "full",
+        "path": "2026/04/bppe-students-blog.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog.jpg",
+        "file": "bppe-students-blog.jpg",
+        "width": 876,
+        "height": 584,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3531,
+        "type": "medium_large",
+        "path": "2026/04/bppe-students-blog-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog-768x512.jpg",
+        "file": "bppe-students-blog-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 108526,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3531,
+        "type": "medium",
+        "path": "2026/04/bppe-students-blog-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog-576x384.jpg",
+        "file": "bppe-students-blog-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 61796,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/bppe-students-blog-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
