@@ -332,6 +332,19 @@ div#mce-success-response {
   gap: 2rem;
 }
 
+.site-main .odi-grid-group .wp-block-group__inner-container {
+  padding: inherit;
+}
+
+.site-main .callout-info .wp-block-group__inner-container {
+  padding: inherit;
+}
+
+.site-main .callout-content .wp-block-group__inner-container {
+  padding: inherit;
+}
+
+
 .wp-block-group.odi-grid-group > .wp-block-group {
   flex: 0 0 calc(50% - 1rem);
   box-sizing: border-box;
@@ -378,6 +391,7 @@ div#mce-success-response {
   background-repeat: no-repeat;
   background-position: 1rem 8px;
   margin-bottom: 16px;
+  margin-top: 16px;
 }
 
 .callout-info {
