@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2022-10-11T23:38:03",
+    "updated_date": "2026-05-13T23:22:15",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/865",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 865,
+    "date": "2022-10-11T16:38:03",
+    "date_gmt": "2022-10-11T23:38:03",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=865",
+    "modified": "2026-05-13T16:22:15",
+    "modified_gmt": "2026-05-13T23:22:15",
+    "slug": "successful-software-development-is-a-collaborative-process",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+    "title": "Successful software development is a collaborative process",
+    "excerpt": "<p>ODI and the California Department of Technology (CDT) won Best IT Collaboration for our combined efforts on the California Design System. We accepted the award at the Digital Government Summit in Sacramento.&nbsp; The Design System is a set of core principles, style guidelines, and components that makes it easier for state departments to develop user-friendly &#8230; <a title=\"Successful software development is a collaborative process\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/\" aria-label=\"More on Successful software development is a collaborative process\">Read more</a></p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+      "page_title": "Successful software development is a collaborative process",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2022/10/11/successful-software-development-is-a-collaborative-process/",
+    "media": [
+      {
+        "id": 2211,
+        "type": "full",
+        "path": "2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "file": "it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "width": 1920,
+        "height": 1920,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2024/09/it-collaboration-award-2022-scaled-e1665529034422.webp",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
