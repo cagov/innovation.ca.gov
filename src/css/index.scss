@@ -369,4 +369,25 @@ div#mce-success-response {
   box-shadow: 0 2px 8px 0 rgba(0,0,0,0.04), 0 1.5px 4px 0 rgba(0,0,0,0.025);
 }
 
+.callout-info, .callout-content {
+  border-radius: 4px;
+  padding: 8px;
+  padding-left: 3rem;
+  padding-bottom: 1px;
+  background-image: url(/img/icon-content.svg);
+  background-repeat: no-repeat;
+  background-position: 1rem 8px;
+  margin-bottom: 16px;
+}
+
+.callout-info {
+  background-color: rgb(237,237,239);
+  background-image: url(/img/icon-info.svg);
+}
+
+.callout-content {
+  background-color: rgb(231,238,249);
+  background-image: url(/img/icon-content.svg);
+}
+
 /* end new grid styling */
