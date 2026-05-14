@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "created_date": "2026-05-13T23:44:59",
+    "updated_date": "2026-05-13T23:45:22",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3634",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3634,
+    "date": "2026-05-13T16:44:59",
+    "date_gmt": "2026-05-13T23:44:59",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg",
+    "modified": "2026-05-13T16:45:22",
+    "modified_gmt": "2026-05-13T23:45:22",
+    "slug": "covid19-site",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/covid19-site/",
+    "title": "covid19-site",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"308\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-308x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Our site screenshot\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-308x576.jpg 308w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-548x1024.jpg 548w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-768x1435.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-822x1536.jpg 822w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-1096x2048.jpg 1096w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg 1296w\" sizes=\"auto, (max-width: 308px) 100vw, 308px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Our site screenshot",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1296,
+      "height": 2422,
+      "file": "2026/05/covid19-site.jpg",
+      "filesize": 311865,
+      "sizes": {
+        "medium": {
+          "file": "covid19-site-308x576.jpg",
+          "width": 308,
+          "height": 576,
+          "filesize": 33049,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-308x576.jpg"
+        },
+        "large": {
+          "file": "covid19-site-548x1024.jpg",
+          "width": 548,
+          "height": 1024,
+          "filesize": 78997,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-548x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "covid19-site-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 6534,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "covid19-site-768x1435.jpg",
+          "width": 768,
+          "height": 1435,
+          "filesize": 134423,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-768x1435.jpg"
+        },
+        "1536x1536": {
+          "file": "covid19-site-822x1536.jpg",
+          "width": 822,
+          "height": 1536,
+          "filesize": 147877,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-822x1536.jpg"
+        },
+        "2048x2048": {
+          "file": "covid19-site-1096x2048.jpg",
+          "width": 1096,
+          "height": 2048,
+          "filesize": 223059,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-1096x2048.jpg"
+        },
+        "full": {
+          "file": "covid19-site.jpg",
+          "width": 1296,
+          "height": 2422,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/covid19-site.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg",
+        "file": "covid19-site.jpg",
+        "width": 1296,
+        "height": 2422,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site.jpg"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2026/05/covid19-site-1096x2048.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-1096x2048.jpg",
+        "file": "covid19-site-1096x2048.jpg",
+        "width": 1096,
+        "height": 2048,
+        "filesize": 223059,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-1096x2048.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/05/covid19-site-822x1536.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-822x1536.jpg",
+        "file": "covid19-site-822x1536.jpg",
+        "width": 822,
+        "height": 1536,
+        "filesize": 147877,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-822x1536.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/05/covid19-site-768x1435.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-768x1435.jpg",
+        "file": "covid19-site-768x1435.jpg",
+        "width": 768,
+        "height": 1435,
+        "filesize": 134423,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-768x1435.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/05/covid19-site-548x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-548x1024.jpg",
+        "file": "covid19-site-548x1024.jpg",
+        "width": 548,
+        "height": 1024,
+        "filesize": 78997,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-548x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/covid19-site-308x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-308x576.jpg",
+        "file": "covid19-site-308x576.jpg",
+        "width": 308,
+        "height": 576,
+        "filesize": 33049,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-308x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/covid19-site-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-150x150.jpg",
+        "file": "covid19-site-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 6534,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-site-150x150.jpg"
+      }
+    ],
+    "path": "2026/05/covid19-site.jpg"
+  }
+}

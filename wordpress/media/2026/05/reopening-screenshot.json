@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2026-05-13T23:47:34",
+    "updated_date": "2026-05-13T23:47:54",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3638",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3638,
+    "date": "2026-05-13T16:47:34",
+    "date_gmt": "2026-05-13T23:47:34",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg",
+    "modified": "2026-05-13T16:47:54",
+    "modified_gmt": "2026-05-13T23:47:54",
+    "slug": "reopening-screenshot",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/reopening-screenshot/",
+    "title": "reopening-screenshot",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"502\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-502x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Screenshot of Blueprint for a Safer Economy page\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-502x576.jpg 502w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-892x1024.jpg 892w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-768x881.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-1339x1536.jpg 1339w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg 1506w\" sizes=\"auto, (max-width: 502px) 100vw, 502px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Screenshot of Blueprint for a Safer Economy page",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1506,
+      "height": 1728,
+      "file": "2026/05/reopening-screenshot.jpg",
+      "filesize": 230882,
+      "sizes": {
+        "medium": {
+          "file": "reopening-screenshot-502x576.jpg",
+          "width": 502,
+          "height": 576,
+          "filesize": 41617,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-502x576.jpg"
+        },
+        "large": {
+          "file": "reopening-screenshot-892x1024.jpg",
+          "width": 892,
+          "height": 1024,
+          "filesize": 99471,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-892x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "reopening-screenshot-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 5255,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "reopening-screenshot-768x881.jpg",
+          "width": 768,
+          "height": 881,
+          "filesize": 79073,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-768x881.jpg"
+        },
+        "1536x1536": {
+          "file": "reopening-screenshot-1339x1536.jpg",
+          "width": 1339,
+          "height": 1536,
+          "filesize": 176281,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-1339x1536.jpg"
+        },
+        "full": {
+          "file": "reopening-screenshot.jpg",
+          "width": 1506,
+          "height": 1728,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/reopening-screenshot.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg",
+        "file": "reopening-screenshot.jpg",
+        "width": 1506,
+        "height": 1728,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/05/reopening-screenshot-1339x1536.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-1339x1536.jpg",
+        "file": "reopening-screenshot-1339x1536.jpg",
+        "width": 1339,
+        "height": 1536,
+        "filesize": 176281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-1339x1536.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/05/reopening-screenshot-892x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-892x1024.jpg",
+        "file": "reopening-screenshot-892x1024.jpg",
+        "width": 892,
+        "height": 1024,
+        "filesize": 99471,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-892x1024.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/05/reopening-screenshot-768x881.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-768x881.jpg",
+        "file": "reopening-screenshot-768x881.jpg",
+        "width": 768,
+        "height": 881,
+        "filesize": 79073,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-768x881.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/reopening-screenshot-502x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-502x576.jpg",
+        "file": "reopening-screenshot-502x576.jpg",
+        "width": 502,
+        "height": 576,
+        "filesize": 41617,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-502x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/reopening-screenshot-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-150x150.jpg",
+        "file": "reopening-screenshot-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 5255,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/reopening-screenshot-150x150.jpg"
+      }
+    ],
+    "path": "2026/05/reopening-screenshot.jpg"
+  }
+}

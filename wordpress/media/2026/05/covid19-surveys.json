@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "created_date": "2026-05-13T23:48:00",
+    "updated_date": "2026-05-13T23:48:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3639",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3639,
+    "date": "2026-05-13T16:48:00",
+    "date_gmt": "2026-05-13T23:48:00",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg",
+    "modified": "2026-05-13T16:48:37",
+    "modified_gmt": "2026-05-13T23:48:37",
+    "slug": "covid19-surveys",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/covid19-surveys/",
+    "title": "covid19-surveys",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"480\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-576x480.jpg\" class=\"attachment-medium size-medium\" alt=\"Surveys from covid19.ca.gov and aggregate data\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-576x480.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-1024x853.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-768x640.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg 1200w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Surveys from covid19.ca.gov and aggregate data",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1200,
+      "height": 1000,
+      "file": "2026/05/covid19-surveys.jpg",
+      "filesize": 137378,
+      "sizes": {
+        "medium": {
+          "file": "covid19-surveys-576x480.jpg",
+          "width": 576,
+          "height": 480,
+          "filesize": 42227,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-576x480.jpg"
+        },
+        "large": {
+          "file": "covid19-surveys-1024x853.jpg",
+          "width": 1024,
+          "height": 853,
+          "filesize": 101364,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-1024x853.jpg"
+        },
+        "thumbnail": {
+          "file": "covid19-surveys-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 6648,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "covid19-surveys-768x640.jpg",
+          "width": 768,
+          "height": 640,
+          "filesize": 67364,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-768x640.jpg"
+        },
+        "full": {
+          "file": "covid19-surveys.jpg",
+          "width": 1200,
+          "height": 1000,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/covid19-surveys.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg",
+        "file": "covid19-surveys.jpg",
+        "width": 1200,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/05/covid19-surveys-1024x853.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-1024x853.jpg",
+        "file": "covid19-surveys-1024x853.jpg",
+        "width": 1024,
+        "height": 853,
+        "filesize": 101364,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-1024x853.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/05/covid19-surveys-768x640.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-768x640.jpg",
+        "file": "covid19-surveys-768x640.jpg",
+        "width": 768,
+        "height": 640,
+        "filesize": 67364,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-768x640.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/covid19-surveys-576x480.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-576x480.jpg",
+        "file": "covid19-surveys-576x480.jpg",
+        "width": 576,
+        "height": 480,
+        "filesize": 42227,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-576x480.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/covid19-surveys-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-150x150.jpg",
+        "file": "covid19-surveys-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 6648,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/covid19-surveys-150x150.jpg"
+      }
+    ],
+    "path": "2026/05/covid19-surveys.jpg"
+  }
+}

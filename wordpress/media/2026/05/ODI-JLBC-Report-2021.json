@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "created_date": "2026-05-13T23:32:21",
+    "updated_date": "2026-05-13T23:32:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3629",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3629,
+    "date": "2026-05-13T16:32:21",
+    "date_gmt": "2026-05-13T23:32:21",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021.pdf",
+    "modified": "2026-05-13T16:32:21",
+    "modified_gmt": "2026-05-13T23:32:21",
+    "slug": "odi-jlbc-report-2021",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/odi-jlbc-report-2021/",
+    "title": "ODI-JLBC-Report-2021",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"432\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-576x432.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "ODI-JLBC-Report-2021-pdf.jpg",
+          "width": 1280,
+          "height": 960,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf.jpg"
+        },
+        "medium": {
+          "file": "ODI-JLBC-Report-2021-pdf-576x432.jpg",
+          "width": 576,
+          "height": 432,
+          "filesize": 14472,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-576x432.jpg"
+        },
+        "large": {
+          "file": "ODI-JLBC-Report-2021-pdf-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "filesize": 29848,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-1024x768.jpg"
+        },
+        "thumbnail": {
+          "file": "ODI-JLBC-Report-2021-pdf-150x113.jpg",
+          "width": 150,
+          "height": 113,
+          "filesize": 4231,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-150x113.jpg"
+        }
+      },
+      "filesize": 4587281
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021.pdf",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/ODI-JLBC-Report-2021-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf.jpg",
+        "file": "ODI-JLBC-Report-2021-pdf.jpg",
+        "width": 1280,
+        "height": 960,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/05/ODI-JLBC-Report-2021-pdf-1024x768.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-1024x768.jpg",
+        "file": "ODI-JLBC-Report-2021-pdf-1024x768.jpg",
+        "width": 1024,
+        "height": 768,
+        "filesize": 29848,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-1024x768.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/ODI-JLBC-Report-2021-pdf-576x432.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-576x432.jpg",
+        "file": "ODI-JLBC-Report-2021-pdf-576x432.jpg",
+        "width": 576,
+        "height": 432,
+        "filesize": 14472,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-576x432.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/ODI-JLBC-Report-2021-pdf-150x113.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-150x113.jpg",
+        "file": "ODI-JLBC-Report-2021-pdf-150x113.jpg",
+        "width": 150,
+        "height": 113,
+        "filesize": 4231,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/ODI-JLBC-Report-2021-pdf-150x113.jpg"
+      }
+    ],
+    "path": "2026/05/ODI-JLBC-Report-2021.pdf"
+  }
+}
