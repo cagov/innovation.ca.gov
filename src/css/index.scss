@@ -387,11 +387,14 @@ div#mce-success-response {
   padding: 8px;
   padding-bottom: 1px;
   background-color: rgb(237,237,239);
-  background-image: url(/img/icon-content.svg);
   background-repeat: no-repeat;
   background-position: 1rem 8px;
   margin-bottom: 16px;
   margin-top: 16px;
+}
+
+.callout-default {
+  padding-left: 2rem;
 }
 
 .callout-info {
