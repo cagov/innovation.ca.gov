@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-04-17T20:32:05",
+    "updated_date": "2026-05-14T16:32:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-04-17T13:32:05",
-    "modified_gmt": "2026-04-17T20:32:05",
+    "modified": "2026-05-14T09:32:03",
+    "modified_gmt": "2026-05-14T16:32:03",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "title": "Testing page",
-    "excerpt": "<p>How we used AI to lift the voices of California state employees (this will be an H1 in the real version) By Summer Mothwood and Barb Cosio Moreno [Publish date] Engaged California is a new state program managed by the Office of Data and Innovation (ODI). It gives Californians a way to share their thoughts &#8230; <a title=\"Testing page\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/testing-page/\" aria-label=\"More on Testing page\">Read more</a></p>\n",
+    "excerpt": "<p>Michael using this page for testing on May 14, 2026</p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -97,49 +97,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
-    "media": [
-      {
-        "id": 3510,
-        "type": "full",
-        "path": "2026/04/engaged-ai-blog.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg",
-        "file": "engaged-ai-blog.jpg",
-        "width": 876,
-        "height": 584,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 3510,
-        "type": "medium_large",
-        "path": "2026/04/engaged-ai-blog-768x512.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-768x512.jpg",
-        "file": "engaged-ai-blog-768x512.jpg",
-        "width": 768,
-        "height": 512,
-        "filesize": 22656,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-768x512.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 3510,
-        "type": "medium",
-        "path": "2026/04/engaged-ai-blog-576x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-576x384.jpg",
-        "file": "engaged-ai-blog-576x384.jpg",
-        "width": 576,
-        "height": 384,
-        "filesize": 15266,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/04/engaged-ai-blog-576x384.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/"
   }
 }
