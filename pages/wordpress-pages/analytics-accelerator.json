@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "created_date": "2026-05-20T17:44:28",
+    "updated_date": "2026-05-20T17:44:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3667",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3667,
+    "date": "2026-05-20T10:44:28",
+    "date_gmt": "2026-05-20T17:44:28",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3667",
+    "modified": "2026-05-20T10:44:28",
+    "modified_gmt": "2026-05-20T17:44:28",
+    "slug": "analytics-accelerator",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/",
+    "title": "Analytics Accelerator",
+    "excerpt": "<p>If you are interested in learning more about whether the Analytics Accelerator is right for you, please book an office hours appointment with our team to learn more about the service. The Analytics Accelerator is a holistic approach to help your department or program move from manual, high effort reporting to streamlined and automated reporting. &#8230; <a title=\"Analytics Accelerator\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/\" aria-label=\"More on Analytics Accelerator\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 3544,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/",
+      "page_title": "Analytics Accelerator",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/",
+    "media": [
+      {
+        "id": 2810,
+        "type": "full",
+        "path": "2025/07/analytics-accelerator-blog.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog.png",
+        "file": "analytics-accelerator-blog.png",
+        "width": 1752,
+        "height": 464,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "1536x1536",
+        "path": "2025/07/analytics-accelerator-blog-1536x407.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1536x407.png",
+        "file": "analytics-accelerator-blog-1536x407.png",
+        "width": 1536,
+        "height": 407,
+        "filesize": 68099,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1536x407.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "large",
+        "path": "2025/07/analytics-accelerator-blog-1024x271.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1024x271.png",
+        "file": "analytics-accelerator-blog-1024x271.png",
+        "width": 1024,
+        "height": 271,
+        "filesize": 35246,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-1024x271.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "medium_large",
+        "path": "2025/07/analytics-accelerator-blog-768x203.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-768x203.png",
+        "file": "analytics-accelerator-blog-768x203.png",
+        "width": 768,
+        "height": 203,
+        "filesize": 21306,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-768x203.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2810,
+        "type": "medium",
+        "path": "2025/07/analytics-accelerator-blog-576x153.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-576x153.png",
+        "file": "analytics-accelerator-blog-576x153.png",
+        "width": 576,
+        "height": 153,
+        "filesize": 13467,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-576x153.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
