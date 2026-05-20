@@ -385,12 +385,15 @@ div#mce-success-response {
 .callout-info, .callout-content, .callout-default, .callout {
   border-radius: 4px;
   padding: 8px;
-  padding-bottom: 1px;
   background-color: rgb(237,237,239);
   background-repeat: no-repeat;
   background-position: 1rem 8px;
   margin-bottom: 16px;
   margin-top: 16px;
+}
+
+.callout-info p, .callout-content p, .callout-default p, .callout p {
+  margin-bottom: 0;
 }
 
 .callout-default {

@@ -40,3 +40,27 @@ node_modules/
 *.tgz
 
 .DS_Store
+
+.claude/
+_site_bak/
+large_image_crawl.py
+missing_asset_crawl.py
+pages/wordpress-pages/data-driven-approach-detecting-cash-benefit-theft_BACKUP.html
+pbbe-chart-sample.html
+sample_markup.html
+src/img/logos/bcsh.svg
+src/img/logos/caloes.svg
+src/img/logos/cdph.svg
+src/img/logos/cdss.svg
+src/img/logos/cdt.svg
+src/img/logos/dwr.svg
+src/img/logos/edd.svg
+src/img/logos/go.svg
+src/js/ds_pagination_local/
+test.csv
+test.json
+test_2.csv
+test_breadcrumbs.py
+testform.html
+testmarkdown.md
+track_perf_deltas.py
