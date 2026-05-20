@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-20T21:52:08",
-    "updated_date": "2026-05-20T21:52:13",
+    "updated_date": "2026-05-20T22:02:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-20T14:52:08",
     "date_gmt": "2026-05-20T21:52:08",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3685",
-    "modified": "2026-05-20T14:52:13",
-    "modified_gmt": "2026-05-20T21:52:13",
+    "modified": "2026-05-20T15:02:37",
+    "modified_gmt": "2026-05-20T22:02:37",
     "slug": "data-science-accelerator",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/"

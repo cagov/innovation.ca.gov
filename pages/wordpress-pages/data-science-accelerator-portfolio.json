@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-20T21:51:35",
-    "updated_date": "2026-05-20T22:02:18",
+    "updated_date": "2026-05-20T22:02:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-20T14:51:35",
     "date_gmt": "2026-05-20T21:51:35",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3690",
-    "modified": "2026-05-20T15:02:18",
-    "modified_gmt": "2026-05-20T22:02:18",
+    "modified": "2026-05-20T15:02:23",
+    "modified_gmt": "2026-05-20T22:02:23",
     "slug": "data-science-accelerator-portfolio",
     "status": "publish",
     "type": "page",
