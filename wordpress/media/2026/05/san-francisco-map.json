@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "created_date": "2026-05-21T17:55:28",
+    "updated_date": "2026-05-21T17:55:28",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3747",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3747,
+    "date": "2026-05-21T10:55:28",
+    "date_gmt": "2026-05-21T17:55:28",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+    "modified": "2026-05-21T10:55:28",
+    "modified_gmt": "2026-05-21T17:55:28",
+    "slug": "san-francisco-map",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/san-francisco-map/",
+    "title": "san-francisco-map",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"281\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png 616w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 616,
+      "height": 300,
+      "file": "2026/05/san-francisco-map.png",
+      "filesize": 224229,
+      "sizes": {
+        "medium": {
+          "file": "san-francisco-map-576x281.png",
+          "width": 576,
+          "height": 281,
+          "filesize": 150855,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png"
+        },
+        "thumbnail": {
+          "file": "san-francisco-map-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 36892,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-150x150.png"
+        },
+        "full": {
+          "file": "san-francisco-map.png",
+          "width": 616,
+          "height": 300,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/san-francisco-map.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+        "file": "san-francisco-map.png",
+        "width": 616,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/san-francisco-map-576x281.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png",
+        "file": "san-francisco-map-576x281.png",
+        "width": 576,
+        "height": 281,
+        "filesize": 150855,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/san-francisco-map-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-150x150.png",
+        "file": "san-francisco-map-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 36892,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-150x150.png"
+      }
+    ],
+    "path": "2026/05/san-francisco-map.png"
+  }
+}
