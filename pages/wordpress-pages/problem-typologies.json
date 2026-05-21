@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "created_date": "2026-05-21T15:48:19",
+    "updated_date": "2026-05-21T15:48:19",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3695",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3695,
+    "date": "2026-05-21T08:48:19",
+    "date_gmt": "2026-05-21T15:48:19",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3695",
+    "modified": "2026-05-21T08:48:19",
+    "modified_gmt": "2026-05-21T15:48:19",
+    "slug": "problem-typologies",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/problem-typologies/",
+    "title": "Problem typologies",
+    "excerpt": "<p>Review this page to find links to examples of common business and program challenges that data science is particularly adept at solving. As you are reviewing, think if any resonate with the challenges your department faces. There are broadly 5 project typologies: Finding a needle in a haystack [Image] Finding a needle in a haystack &#8230; <a title=\"Problem typologies\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/problem-typologies/\" aria-label=\"More on Problem typologies\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 3685,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/problem-typologies/",
+      "page_title": "Problem typologies",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/problem-typologies/"
+  }
+}
