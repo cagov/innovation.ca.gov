@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "created_date": "2026-05-20T18:04:36",
+    "updated_date": "2026-05-21T20:20:31",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3675",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3675,
+    "date": "2026-05-20T11:04:36",
+    "date_gmt": "2026-05-20T18:04:36",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3675",
+    "modified": "2026-05-21T13:20:31",
+    "modified_gmt": "2026-05-21T20:20:31",
+    "slug": "aa-showcase",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/aa-showcase/",
+    "title": "Analytics Accelerator showcase",
+    "excerpt": "<p>California &#8211; CalHR Director of CalHR could now answer own questions about state employee data. As CalData was adapting the Analytics Accelerator for the state context, we needed testers of the updated content. The Economic Research Unit of the Financial Management Division at CalHR agreed to be a beta tester for a few of the &#8230; <a title=\"Analytics Accelerator showcase\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/aa-showcase/\" aria-label=\"More on Analytics Accelerator showcase\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 3667,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/aa-showcase/",
+      "page_title": "Analytics Accelerator showcase",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/aa-showcase/",
+    "media": [
+      {
+        "id": 3745,
+        "type": "full",
+        "path": "2026/05/3b-piggy-bank.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/3b-piggy-bank.png",
+        "file": "3b-piggy-bank.png",
+        "width": 620,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/3b-piggy-bank.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3745,
+        "type": "medium",
+        "path": "2026/05/3b-piggy-bank-576x279.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/3b-piggy-bank-576x279.png",
+        "file": "3b-piggy-bank-576x279.png",
+        "width": 576,
+        "height": 279,
+        "filesize": 29087,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/3b-piggy-bank-576x279.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3734,
+        "type": "full",
+        "path": "2026/05/accelerator-showcase-california.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-california.png",
+        "file": "accelerator-showcase-california.png",
+        "width": 496,
+        "height": 306,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-california.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3733,
+        "type": "full",
+        "path": "2026/05/accelerator-showcase-cleanup.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-cleanup.png",
+        "file": "accelerator-showcase-cleanup.png",
+        "width": 494,
+        "height": 298,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-cleanup.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3732,
+        "type": "full",
+        "path": "2026/05/accelerator-showcase-gas.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-gas.png",
+        "file": "accelerator-showcase-gas.png",
+        "width": 490,
+        "height": 298,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-gas.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3731,
+        "type": "full",
+        "path": "2026/05/accelerator-showcase-video-conference.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-video-conference.png",
+        "file": "accelerator-showcase-video-conference.png",
+        "width": 496,
+        "height": 296,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/accelerator-showcase-video-conference.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3747,
+        "type": "full",
+        "path": "2026/05/san-francisco-map.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+        "file": "san-francisco-map.png",
+        "width": 616,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3747,
+        "type": "medium",
+        "path": "2026/05/san-francisco-map-576x281.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png",
+        "file": "san-francisco-map-576x281.png",
+        "width": 576,
+        "height": 281,
+        "filesize": 150855,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-map-576x281.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3746,
+        "type": "full",
+        "path": "2026/05/san-francisco-seal.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-seal.png",
+        "file": "san-francisco-seal.png",
+        "width": 616,
+        "height": 298,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-seal.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3746,
+        "type": "medium",
+        "path": "2026/05/san-francisco-seal-576x279.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-seal-576x279.png",
+        "file": "san-francisco-seal-576x279.png",
+        "width": 576,
+        "height": 279,
+        "filesize": 232271,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/san-francisco-seal-576x279.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
