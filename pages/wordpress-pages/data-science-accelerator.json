@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-20T21:52:08",
-    "updated_date": "2026-05-20T22:02:43",
+    "updated_date": "2026-05-21T16:04:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-20T14:52:08",
     "date_gmt": "2026-05-20T21:52:08",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3685",
-    "modified": "2026-05-20T15:02:43",
-    "modified_gmt": "2026-05-20T22:02:43",
+    "modified": "2026-05-21T09:04:08",
+    "modified_gmt": "2026-05-21T16:04:08",
     "slug": "data-science-accelerator",
     "status": "publish",
     "type": "page",
@@ -85,6 +85,77 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-science-accelerator/",
+    "media": [
+      {
+        "id": 2890,
+        "type": "full",
+        "path": "2025/08/blog-innovation-fellows.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows.jpg",
+        "file": "blog-innovation-fellows.jpg",
+        "width": 1752,
+        "height": 1168,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2890,
+        "type": "1536x1536",
+        "path": "2025/08/blog-innovation-fellows-1536x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1536x1024.jpg",
+        "file": "blog-innovation-fellows-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "filesize": 51099,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1536x1024.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2890,
+        "type": "large",
+        "path": "2025/08/blog-innovation-fellows-1024x683.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1024x683.jpg",
+        "file": "blog-innovation-fellows-1024x683.jpg",
+        "width": 1024,
+        "height": 683,
+        "filesize": 29244,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1024x683.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2890,
+        "type": "medium_large",
+        "path": "2025/08/blog-innovation-fellows-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-768x512.jpg",
+        "file": "blog-innovation-fellows-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 19267,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 2890,
+        "type": "medium",
+        "path": "2025/08/blog-innovation-fellows-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-576x384.jpg",
+        "file": "blog-innovation-fellows-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 12632,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
