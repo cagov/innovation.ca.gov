@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:24:58",
-    "updated_date": "2026-05-21T16:25:04",
+    "updated_date": "2026-05-21T17:46:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2026-05-21T09:24:58",
     "date_gmt": "2026-05-21T16:24:58",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3708",
-    "modified": "2026-05-21T09:25:04",
-    "modified_gmt": "2026-05-21T16:25:04",
+    "modified": "2026-05-21T10:46:36",
+    "modified_gmt": "2026-05-21T17:46:36",
     "slug": "technical-data-advisory-service",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/",
     "title": "Technical Data Advisory Service",
-    "excerpt": "<p>Learn more about our technical advisory service [Image] [Caption: An illustration from the The Turing Way, a guide, in their own words, to reproducible, ethical, and collaborative data science. Project illustration by Scriberia. CC-BY 4.0: The Turing Way Community &amp; Scriberia (2024).] Overview We recognize other capable fellow colleagues at the state may want to &#8230; <a title=\"Technical Data Advisory Service\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/\" aria-label=\"More on Technical Data Advisory Service\">Read more</a></p>\n",
+    "excerpt": "<p>Learn more about our technical advisory service Overview We recognize other capable fellow colleagues at the state may want to build a data stack or use advanced analysis tools, but lack a thought-partner to discuss and refine ideas. We aim to provide these colleagues with advice about how to define, scope, and build a robust &#8230; <a title=\"Technical Data Advisory Service\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/\" aria-label=\"More on Technical Data Advisory Service\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 3544,
@@ -85,6 +85,63 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/",
+    "media": [
+      {
+        "id": 3711,
+        "type": "full",
+        "path": "2026/05/technical-data-advisory-service-journey.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png",
+        "file": "technical-data-advisory-service-journey.png",
+        "width": 1536,
+        "height": 1085,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3711,
+        "type": "large",
+        "path": "2026/05/technical-data-advisory-service-journey-1024x723.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-1024x723.png",
+        "file": "technical-data-advisory-service-journey-1024x723.png",
+        "width": 1024,
+        "height": 723,
+        "filesize": 1369492,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-1024x723.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3711,
+        "type": "medium_large",
+        "path": "2026/05/technical-data-advisory-service-journey-768x543.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-768x543.png",
+        "file": "technical-data-advisory-service-journey-768x543.png",
+        "width": 768,
+        "height": 543,
+        "filesize": 826595,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-768x543.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3711,
+        "type": "medium",
+        "path": "2026/05/technical-data-advisory-service-journey-576x407.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png",
+        "file": "technical-data-advisory-service-journey-576x407.png",
+        "width": 576,
+        "height": 407,
+        "filesize": 496405,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
