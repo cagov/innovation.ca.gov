@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "created_date": "2026-05-21T23:35:29",
+    "updated_date": "2026-05-21T23:35:29",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3775",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3775,
+    "date": "2026-05-21T16:35:29",
+    "date_gmt": "2026-05-21T23:35:29",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png",
+    "modified": "2026-05-21T16:35:29",
+    "modified_gmt": "2026-05-21T23:35:29",
+    "slug": "workwithus-notepad",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/workwithus-notepad/",
+    "title": "workwithus-notepad",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png'><img loading=\"lazy\" decoding=\"async\" width=\"346\" height=\"346\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png 346w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad-150x150.png 150w\" sizes=\"auto, (max-width: 346px) 100vw, 346px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 346,
+      "height": 346,
+      "file": "2026/05/workwithus-notepad.png",
+      "filesize": 7340,
+      "sizes": {
+        "thumbnail": {
+          "file": "workwithus-notepad-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 6387,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad-150x150.png"
+        },
+        "full": {
+          "file": "workwithus-notepad.png",
+          "width": 346,
+          "height": 346,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/workwithus-notepad.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png",
+        "file": "workwithus-notepad.png",
+        "width": 346,
+        "height": 346,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/workwithus-notepad-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad-150x150.png",
+        "file": "workwithus-notepad-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 6387,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-notepad-150x150.png"
+      }
+    ],
+    "path": "2026/05/workwithus-notepad.png"
+  }
+}
