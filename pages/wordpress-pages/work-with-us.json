@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-29T17:41:08",
-    "updated_date": "2026-04-29T17:41:13",
+    "updated_date": "2026-05-21T21:29:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2026-04-29T10:41:08",
     "date_gmt": "2026-04-29T17:41:08",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3544",
-    "modified": "2026-04-29T10:41:13",
-    "modified_gmt": "2026-04-29T17:41:13",
+    "modified": "2026-05-21T14:29:05",
+    "modified_gmt": "2026-05-21T21:29:05",
     "slug": "work-with-us",
     "status": "publish",
     "type": "page",
     "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/",
     "title": "Work with us",
-    "excerpt": "",
+    "excerpt": "<p>If you work for a California state department, ODI can help you work better. Our services help you solve business problems and spend more time serving Californians. Analytics Accelerator The Analytics Accelerator helps teams: Save analyst time by streamlining mandatory reporting via adoption of PowerBI Optimize that liberated analyst time via training in modern analytics &#8230; <a title=\"Work with us\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/\" aria-label=\"More on Work with us\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 0,
@@ -85,6 +85,60 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/",
+    "media": [
+      {
+        "id": 3763,
+        "type": "full",
+        "path": "2026/05/workwithus-certificate.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-certificate.png",
+        "file": "workwithus-certificate.png",
+        "width": 519,
+        "height": 519,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-certificate.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3764,
+        "type": "full",
+        "path": "2026/05/workwithus-data-stack.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-data-stack.png",
+        "file": "workwithus-data-stack.png",
+        "width": 519,
+        "height": 519,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-data-stack.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3765,
+        "type": "full",
+        "path": "2026/05/workwithus-flowchart.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-flowchart.png",
+        "file": "workwithus-flowchart.png",
+        "width": 519,
+        "height": 519,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-flowchart.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3766,
+        "type": "full",
+        "path": "2026/05/workwithus-presentation-chart.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-presentation-chart.png",
+        "file": "workwithus-presentation-chart.png",
+        "width": 519,
+        "height": 519,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/workwithus-presentation-chart.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
