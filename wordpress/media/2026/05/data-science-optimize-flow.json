@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:36",
-    "updated_date": "2026-05-21T16:56:36",
+    "updated_date": "2026-05-21T17:25:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:36",
     "date_gmt": "2026-05-21T16:56:36",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow.png",
-    "modified": "2026-05-21T09:56:36",
-    "modified_gmt": "2026-05-21T16:56:36",
+    "modified": "2026-05-21T10:25:40",
+    "modified_gmt": "2026-05-21T17:25:40",
     "slug": "data-science-optimize-flow",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"242\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-576x242.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-576x242.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-1024x430.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-768x323.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"242\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-576x242.png\" class=\"attachment-medium size-medium\" alt=\"Step 1: How to distribute? Service Issue: Difficult to identify where to place or distribute resources to be most effective. Step 2: Data Science. Process: Use geospatial and/or other data to identify optimal distribution of resources. Step 3: Service Change. Re-allocates resources to optimal distribution.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-576x242.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-1024x430.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow-768x323.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-optimize-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Step 1: How to distribute? Service Issue: Difficult to identify where to place or distribute resources to be most effective. Step 2: Data Science. Process: Use geospatial and/or other data to identify optimal distribution of resources. Step 3: Service Change. Re-allocates resources to optimal distribution.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {

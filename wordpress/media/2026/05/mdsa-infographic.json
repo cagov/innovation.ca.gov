@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:29",
-    "updated_date": "2026-05-21T16:56:29",
+    "updated_date": "2026-05-21T17:13:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:29",
     "date_gmt": "2026-05-21T16:56:29",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic.png",
-    "modified": "2026-05-21T09:56:29",
-    "modified_gmt": "2026-05-21T16:56:29",
+    "modified": "2026-05-21T10:13:47",
+    "modified_gmt": "2026-05-21T17:13:47",
     "slug": "mdsa-infographic",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"262\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-576x262.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-576x262.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-1024x465.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-768x349.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"262\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-576x262.png\" class=\"attachment-medium size-medium\" alt=\"Difficulty combining multiple datasets efficiently and automatically for analysis and reporting. Difficulty automated manual data quality efforts for high visibility analyses or reporting. Difficulty removing, querying, and analyzing large datasets. Difficulty assessing or trying new data tools to see if they work for you before making an investment.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-576x262.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-1024x465.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-768x349.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Difficulty combining multiple datasets efficiently and automatically for analysis and reporting. Difficulty automated manual data quality efforts for high visibility analyses or reporting. Difficulty removing, querying, and analyzing large datasets. Difficulty assessing or trying new data tools to see if they work for you before making an investment.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {

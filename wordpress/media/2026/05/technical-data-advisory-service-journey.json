@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:23",
-    "updated_date": "2026-05-21T16:56:23",
+    "updated_date": "2026-05-21T17:09:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:23",
     "date_gmt": "2026-05-21T16:56:23",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png",
-    "modified": "2026-05-21T09:56:23",
-    "modified_gmt": "2026-05-21T16:56:23",
+    "modified": "2026-05-21T10:09:08",
+    "modified_gmt": "2026-05-21T17:09:08",
     "slug": "technical-data-advisory-service-journey",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"407\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-1024x723.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-768x543.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"407\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png\" class=\"attachment-medium size-medium\" alt=\"Two people on a journey through a landscape, moving through data, tools, code, and results\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-576x407.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-1024x723.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey-768x543.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/technical-data-advisory-service-journey.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Two people on a journey through a landscape, moving through data, tools, code, and results",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {

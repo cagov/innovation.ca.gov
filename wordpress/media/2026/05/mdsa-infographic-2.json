@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:31",
-    "updated_date": "2026-05-21T16:56:31",
+    "updated_date": "2026-05-21T17:14:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:31",
     "date_gmt": "2026-05-21T16:56:31",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2.png",
-    "modified": "2026-05-21T09:56:31",
-    "modified_gmt": "2026-05-21T16:56:31",
+    "modified": "2026-05-21T10:14:32",
+    "modified_gmt": "2026-05-21T17:14:32",
     "slug": "mdsa-infographic-2",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"122\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-576x122.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-576x122.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-1024x217.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-768x163.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"122\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-576x122.png\" class=\"attachment-medium size-medium\" alt=\"Struggling to develop trustworthy sources of data. Open to trying new things and consciously experimenting. Interested in or already invested in a cloud data warehouse.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-576x122.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-1024x217.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2-768x163.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-infographic-2.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Struggling to develop trustworthy sources of data. Open to trying new things and consciously experimenting. Interested in or already invested in a cloud data warehouse.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:27",
-    "updated_date": "2026-05-21T16:56:27",
+    "updated_date": "2026-05-21T17:12:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:27",
     "date_gmt": "2026-05-21T16:56:27",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow.png",
-    "modified": "2026-05-21T09:56:27",
-    "modified_gmt": "2026-05-21T16:56:27",
+    "modified": "2026-05-21T10:12:28",
+    "modified_gmt": "2026-05-21T17:12:28",
     "slug": "mdsa-service-flow",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"59\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-576x59.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-576x59.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-1024x105.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-768x79.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-1536x158.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-2048x211.png 2048w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"59\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-576x59.png\" class=\"attachment-medium size-medium\" alt=\"A service flow starting at Discovery and Planning, moving to Foundational Training, Developmental Sprints, Handoff, and finishing with Project Retro.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-576x59.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-1024x105.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-768x79.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-1536x158.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-service-flow-2048x211.png 2048w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "A service flow starting at Discovery and Planning, moving to Foundational Training, Developmental Sprints, Handoff, and finishing with Project Retro.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {

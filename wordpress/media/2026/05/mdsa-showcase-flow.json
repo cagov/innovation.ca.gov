@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:25",
-    "updated_date": "2026-05-21T16:56:25",
+    "updated_date": "2026-05-21T17:11:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:25",
     "date_gmt": "2026-05-21T16:56:25",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png",
-    "modified": "2026-05-21T09:56:25",
-    "modified_gmt": "2026-05-21T16:56:25",
+    "modified": "2026-05-21T10:11:04",
+    "modified_gmt": "2026-05-21T17:11:04",
     "slug": "mdsa-showcase-flow",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"262\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-1024x466.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-768x350.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"262\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png\" class=\"attachment-medium size-medium\" alt=\"Data pipeline showing data from the SF Department of Public Health and the Logistics Unit going through dbt and Snowflake to be refined before going to PowerBI\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-1024x466.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-768x350.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Data pipeline showing data from the SF Department of Public Health and the Logistics Unit going through dbt and Snowflake to be refined before going to PowerBI",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
