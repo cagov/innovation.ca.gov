@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-20T17:44:28",
-    "updated_date": "2026-05-20T21:45:30",
+    "updated_date": "2026-05-21T17:39:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-20T10:44:28",
     "date_gmt": "2026-05-20T17:44:28",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3667",
-    "modified": "2026-05-20T14:45:30",
-    "modified_gmt": "2026-05-20T21:45:30",
+    "modified": "2026-05-21T10:39:00",
+    "modified_gmt": "2026-05-21T17:39:00",
     "slug": "analytics-accelerator",
     "status": "publish",
     "type": "page",
@@ -153,6 +153,33 @@
         "filesize": 13467,
         "mime_type": "image/png",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/07/analytics-accelerator-blog-576x153.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3729,
+        "type": "full",
+        "path": "2026/05/analytics-accelerator-service-chart.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/analytics-accelerator-service-chart.png",
+        "file": "analytics-accelerator-service-chart.png",
+        "width": 751,
+        "height": 405,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/analytics-accelerator-service-chart.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3729,
+        "type": "medium",
+        "path": "2026/05/analytics-accelerator-service-chart-576x311.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/analytics-accelerator-service-chart-576x311.png",
+        "file": "analytics-accelerator-service-chart-576x311.png",
+        "width": 576,
+        "height": 311,
+        "filesize": 268134,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/analytics-accelerator-service-chart-576x311.png",
         "source_url_match": true,
         "featured": false
       }
