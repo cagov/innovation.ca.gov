@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:56:47",
-    "updated_date": "2026-05-21T16:56:47",
+    "updated_date": "2026-05-21T17:30:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:56:47",
     "date_gmt": "2026-05-21T16:56:47",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow.png",
-    "modified": "2026-05-21T09:56:47",
-    "modified_gmt": "2026-05-21T16:56:47",
+    "modified": "2026-05-21T10:30:49",
+    "modified_gmt": "2026-05-21T17:30:49",
     "slug": "data-science-backlog-flow",
     "status": "inherit",
     "type": "attachment",
@@ -34,9 +34,9 @@
     "categories": [
       1
     ],
-    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"235\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-576x235.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-576x235.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-1024x418.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-768x314.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"235\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-576x235.png\" class=\"attachment-medium size-medium\" alt=\"Step 1: What to prioritize? Service Issue: Backlog is tackled via first in, first out (FIFO). Step 2: Data Science. Process: Create a model to categorize and group past and current cases. Step 3: Service Change: Prioritize cases based on categories in order of risk, need, or opportunity.\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-576x235.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-1024x418.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow-768x314.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/data-science-backlog-flow.png 1536w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Step 1: What to prioritize? Service Issue: Backlog is tackled via first in, first out (FIFO). Step 2: Data Science. Process: Create a model to categorize and group past and current cases. Step 3: Service Change: Prioritize cases based on categories in order of risk, need, or opportunity.",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
