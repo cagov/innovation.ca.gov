@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:19:15",
-    "updated_date": "2026-05-21T16:25:27",
+    "updated_date": "2026-05-21T17:46:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:19:15",
     "date_gmt": "2026-05-21T16:19:15",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3705",
-    "modified": "2026-05-21T09:25:27",
-    "modified_gmt": "2026-05-21T16:25:27",
+    "modified": "2026-05-21T10:46:10",
+    "modified_gmt": "2026-05-21T17:46:10",
     "slug": "showcase",
     "status": "publish",
     "type": "page",
@@ -85,6 +85,63 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/",
+    "media": [
+      {
+        "id": 3712,
+        "type": "full",
+        "path": "2026/05/mdsa-showcase-flow.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png",
+        "file": "mdsa-showcase-flow.png",
+        "width": 1536,
+        "height": 699,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3712,
+        "type": "large",
+        "path": "2026/05/mdsa-showcase-flow-1024x466.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-1024x466.png",
+        "file": "mdsa-showcase-flow-1024x466.png",
+        "width": 1024,
+        "height": 466,
+        "filesize": 387231,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-1024x466.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3712,
+        "type": "medium_large",
+        "path": "2026/05/mdsa-showcase-flow-768x350.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-768x350.png",
+        "file": "mdsa-showcase-flow-768x350.png",
+        "width": 768,
+        "height": 350,
+        "filesize": 240775,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-768x350.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3712,
+        "type": "medium",
+        "path": "2026/05/mdsa-showcase-flow-576x262.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png",
+        "file": "mdsa-showcase-flow-576x262.png",
+        "width": 576,
+        "height": 262,
+        "filesize": 149094,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/mdsa-showcase-flow-576x262.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
