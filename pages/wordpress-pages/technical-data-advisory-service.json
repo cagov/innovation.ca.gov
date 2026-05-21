@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2026-05-21T16:16:28",
-    "updated_date": "2026-05-21T16:20:11",
+    "created_date": "2026-05-21T16:24:58",
+    "updated_date": "2026-05-21T16:24:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3701",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3708",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 3701,
-    "date": "2026-05-21T09:16:28",
-    "date_gmt": "2026-05-21T16:16:28",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3701",
-    "modified": "2026-05-21T09:20:11",
-    "modified_gmt": "2026-05-21T16:20:11",
-    "slug": "modern-data-stack-accelerator",
+    "id": 3708,
+    "date": "2026-05-21T09:24:58",
+    "date_gmt": "2026-05-21T16:24:58",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3708",
+    "modified": "2026-05-21T09:24:58",
+    "modified_gmt": "2026-05-21T16:24:58",
+    "slug": "technical-data-advisory-service",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/",
-    "title": "Modern Data Stack Accelerator",
-    "excerpt": "<p>Learn more about the Modern Data Stack Accelerator Book an office hour appointment to discuss if the Modern Data Stack Accelerator or other service offerings are right for you. Overview The Modern Data Stack Accelerator (MDSA) is a practical approach to help departments rapidly adopt modern cloud-based data tools while working on a data challenge &#8230; <a title=\"Modern Data Stack Accelerator\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/\" aria-label=\"More on Modern Data Stack Accelerator\">Read more</a></p>\n",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/",
+    "title": "Technical Data Advisory Service",
+    "excerpt": "<p>Learn more about our technical advisory service [Image] [Caption: An illustration from the The Turing Way, a guide, in their own words, to reproducible, ethical, and collaborative data science. Project illustration by Scriberia. CC-BY 4.0: The Turing Way Community &amp; Scriberia (2024).] Overview We recognize other capable fellow colleagues at the state may want to &#8230; <a title=\"Technical Data Advisory Service\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/\" aria-label=\"More on Technical Data Advisory Service\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "parent": 3544,
@@ -54,8 +54,8 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/",
-      "page_title": "Modern Data Stack Accelerator",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/",
+      "page_title": "Technical Data Advisory Service",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
       "page_social_image_width": 1200,
@@ -85,6 +85,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/technical-data-advisory-service/"
   }
 }
