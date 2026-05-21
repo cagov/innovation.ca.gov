@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2026-05-20T18:04:36",
-    "updated_date": "2026-05-20T21:44:56",
+    "created_date": "2026-05-21T16:19:15",
+    "updated_date": "2026-05-21T16:19:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3675",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3705",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-digital-ca-gov.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 3675,
-    "date": "2026-05-20T11:04:36",
-    "date_gmt": "2026-05-20T18:04:36",
-    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3675",
-    "modified": "2026-05-20T14:44:56",
-    "modified_gmt": "2026-05-20T21:44:56",
+    "id": 3705,
+    "date": "2026-05-21T09:19:15",
+    "date_gmt": "2026-05-21T16:19:15",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3705",
+    "modified": "2026-05-21T09:19:15",
+    "modified_gmt": "2026-05-21T16:19:15",
     "slug": "showcase",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/showcase/",
-    "title": "Analytics Accelerator showcase",
-    "excerpt": "<p>California &#8211; CalHR Director of CalHR could now answer own questions about state employee dataAs CalData was adapting the Analytics Accelerator for the state context, we needed testers of the updated content. The Economic Research Unit of the Financial Management Division at CalHR agreed to be a beta tester for a few of the training &#8230; <a title=\"Analytics Accelerator showcase\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/showcase/\" aria-label=\"More on Analytics Accelerator showcase\">Read more</a></p>\n",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/",
+    "title": "Modern Data Stack Accelerator showcase",
+    "excerpt": "<p>City and County of San Francisco Modern data stack enables continuous integration and quality improvements around tracking personal protective equipment (PPE) At the beginning of the pandemic, the Chief Data Officer (CDO) of San Francisco got a call from the Deputy City Administrator with a problem and a request. The problem: The logistics unit for &#8230; <a title=\"Modern Data Stack Accelerator showcase\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/\" aria-label=\"More on Modern Data Stack Accelerator showcase\">Read more</a></p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
-    "parent": 3667,
+    "parent": 3701,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -54,8 +52,8 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/showcase/",
-      "page_title": "Analytics Accelerator showcase",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/",
+      "page_title": "Modern Data Stack Accelerator showcase",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
       "page_social_image_width": 1200,
@@ -70,92 +68,9 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/analytics-accelerator/showcase/",
-    "media": [
-      {
-        "id": 2890,
-        "type": "full",
-        "path": "2025/08/blog-innovation-fellows.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows.jpg",
-        "file": "blog-innovation-fellows.jpg",
-        "width": 1752,
-        "height": 1168,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2890,
-        "type": "1536x1536",
-        "path": "2025/08/blog-innovation-fellows-1536x1024.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1536x1024.jpg",
-        "file": "blog-innovation-fellows-1536x1024.jpg",
-        "width": 1536,
-        "height": 1024,
-        "filesize": 51099,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1536x1024.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2890,
-        "type": "large",
-        "path": "2025/08/blog-innovation-fellows-1024x683.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1024x683.jpg",
-        "file": "blog-innovation-fellows-1024x683.jpg",
-        "width": 1024,
-        "height": 683,
-        "filesize": 29244,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-1024x683.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2890,
-        "type": "medium_large",
-        "path": "2025/08/blog-innovation-fellows-768x512.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-768x512.jpg",
-        "file": "blog-innovation-fellows-768x512.jpg",
-        "width": 768,
-        "height": 512,
-        "filesize": 19267,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-768x512.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 2890,
-        "type": "medium",
-        "path": "2025/08/blog-innovation-fellows-576x384.jpg",
-        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-576x384.jpg",
-        "file": "blog-innovation-fellows-576x384.jpg",
-        "width": 576,
-        "height": 384,
-        "filesize": 12632,
-        "mime_type": "image/jpeg",
-        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2025/08/blog-innovation-fellows-576x384.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/modern-data-stack-accelerator/showcase/"
   }
 }
