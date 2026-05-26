@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "created_date": "2026-05-26T18:22:20",
+    "updated_date": "2026-05-26T18:22:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3793",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3793,
+    "date": "2026-05-26T11:22:20",
+    "date_gmt": "2026-05-26T18:22:20",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+    "modified": "2026-05-26T11:22:20",
+    "modified_gmt": "2026-05-26T18:22:20",
+    "slug": "engaged-ai-announcement-blog-v2-b",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/05/26/california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next/engaged-ai-announcement-blog-v2-b/#main",
+    "title": "engaged-ai-announcement-blog-v2-B",
+    "author": "Yesenia Aparicio",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg 1753w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1753,
+      "height": 1168,
+      "file": "2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+      "filesize": 655300,
+      "sizes": {
+        "medium": {
+          "file": "engaged-ai-announcement-blog-v2-B-576x384.jpg",
+          "width": 576,
+          "height": 384,
+          "filesize": 28252,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg"
+        },
+        "large": {
+          "file": "engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "filesize": 64742,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg"
+        },
+        "thumbnail": {
+          "file": "engaged-ai-announcement-blog-v2-B-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 5864,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "engaged-ai-announcement-blog-v2-B-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "filesize": 42348,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg"
+        },
+        "1536x1536": {
+          "file": "engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+          "width": 1536,
+          "height": 1023,
+          "filesize": 115436,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg"
+        },
+        "full": {
+          "file": "engaged-ai-announcement-blog-v2-B.jpg",
+          "width": 1753,
+          "height": 1168,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 3783,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B.jpg",
+        "width": 1753,
+        "height": 1168,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "filesize": 115436,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "width": 1024,
+        "height": 682,
+        "filesize": 64742,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 42348,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 28252,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-150x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-150x150.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 5864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-150x150.jpg"
+      }
+    ],
+    "path": "2026/05/engaged-ai-announcement-blog-v2-B.jpg"
+  }
+}
