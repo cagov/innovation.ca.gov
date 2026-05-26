@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-26T22:10:02",
-    "updated_date": "2026-05-26T22:51:46",
+    "updated_date": "2026-05-26T22:51:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-26T15:10:02",
     "date_gmt": "2026-05-26T22:10:02",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3783",
-    "modified": "2026-05-26T15:51:46",
-    "modified_gmt": "2026-05-26T22:51:46",
+    "modified": "2026-05-26T15:51:51",
+    "modified_gmt": "2026-05-26T22:51:51",
     "slug": "california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next",
     "status": "publish",
     "type": "post",
