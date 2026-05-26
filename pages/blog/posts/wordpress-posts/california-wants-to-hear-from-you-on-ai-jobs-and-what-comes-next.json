@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "created_date": "2026-05-26T22:10:02",
+    "updated_date": "2026-05-26T22:10:07",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/3783",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3783,
+    "date": "2026-05-26T15:10:02",
+    "date_gmt": "2026-05-26T22:10:02",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3783",
+    "modified": "2026-05-26T15:10:07",
+    "modified_gmt": "2026-05-26T22:10:07",
+    "slug": "california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/05/26/california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next/",
+    "title": "California wants to hear from you — on AI, jobs, and what comes next",
+    "excerpt": "<p>California has a question for you. What are your thoughts on AI? You have a way to tell California’s leaders in government how you feel, right now. Your responses will be used to help shape what the state does next. This is not just another comment box that disappears into the void. This is a &#8230; <a title=\"California wants to hear from you — on AI, jobs, and what comes next\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/05/26/california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next/\" aria-label=\"More on California wants to hear from you — on AI, jobs, and what comes next\">Read more</a></p>\n",
+    "author": "Barb Cosio Moreno and Jarrett Krumrei",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/05/26/california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next/",
+      "page_title": "California wants to hear from you — on AI, jobs, and what comes next",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/05/26/california-wants-to-hear-from-you-on-ai-jobs-and-what-comes-next/",
+    "media": [
+      {
+        "id": 3793,
+        "type": "full",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B.jpg",
+        "width": 1753,
+        "height": 1168,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3793,
+        "type": "1536x1536",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "filesize": 115436,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1536x1023.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3793,
+        "type": "large",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "width": 1024,
+        "height": 682,
+        "filesize": 64742,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-1024x682.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3793,
+        "type": "medium_large",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "width": 768,
+        "height": 512,
+        "filesize": 42348,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-768x512.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3793,
+        "type": "medium",
+        "path": "2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "file": "engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "width": 576,
+        "height": 384,
+        "filesize": 28252,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/05/engaged-ai-announcement-blog-v2-B-576x384.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
