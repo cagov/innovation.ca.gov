@@ -7,7 +7,6 @@
     "@open-wc/eslint-config": "^11.0.0",
     "@playwright/test": "^1.58.2",
     "@web/dev-server": "^0.4.6",
-    "aws-sdk": "^2.1354.0",
     "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
