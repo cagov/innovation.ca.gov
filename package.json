@@ -43,6 +43,11 @@
     "readability-scores": "^1.0.8",
     "sharp": "^0.33.1"
   },
+  "overrides": {
+    "@11ty/eleventy": {
+      "markdown-it": "^14.1.1"
+    }
+  },
   "scripts": {
     "build": "eleventy",
     "dev": "npm run site:watch:dev",
