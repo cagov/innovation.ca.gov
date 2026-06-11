@@ -199,8 +199,17 @@ function isPlaceholderNavigationPage(article) {
 const getPermalink = (article) => {
   if (isPage(article)) {
     const url = article.data.wordpress_url;
-    if (url && url.includes(".pantheonsite.io/"))
-      return url.split(".pantheonsite.io/")[1] || "/";
+    if (url) {
+      // Check the actual hostname rather than a substring of the whole URL.
+      try {
+        const parsed = new URL(url);
+        if (parsed.hostname.endsWith(".pantheonsite.io")) {
+          return parsed.pathname.replace(/^\//, "") || "/";
+        }
+      } catch {
+        // Not a parseable URL; fall through and return it unchanged.
+      }
+    }
     return url;
   }
 
