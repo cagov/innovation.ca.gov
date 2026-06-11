@@ -8,16 +8,19 @@
     "@playwright/test": "^1.58.2",
     "@web/dev-server": "^0.4.6",
     "axe-playwright": "^1.1.11",
+    "chalk": "^5.3.0",
+    "esbuild": "^0.25.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
+    "lightningcss": "^1.28.0",
     "performance-leaderboard": "^12.8.2",
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "sass": "^1.77.0"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-navigation": "^0.3.5",
-    "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "@cagov/11ty-build-system": "^1.1.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.0",
     "@cagov/ds-accordion": "^2.0.0",
     "@cagov/ds-back-to-top": "^2.0.0",
     "@cagov/ds-base-css": "^2.0.0-beta.1",
@@ -42,11 +45,6 @@
     "linkedom": "^0.14.9",
     "readability-scores": "^1.0.8",
     "sharp": "^0.33.1"
-  },
-  "overrides": {
-    "@11ty/eleventy": {
-      "markdown-it": "^14.1.1"
-    }
   },
   "scripts": {
     "build": "eleventy",

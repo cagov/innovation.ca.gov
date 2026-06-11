@@ -1,41 +1,104 @@
-const cagovBuildSystem = require("@cagov/11ty-build-system");
-const linkedom = require("linkedom");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const fs = require('fs');
+import esbuild from 'esbuild';
+import { transform as lcssTransform } from 'lightningcss';
+import * as sass from 'sass';
+import chalk from 'chalk';
+import fs from 'node:fs';
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 
-module.exports = function (eleventyConfig) {
+/**
+ * Log an output from a build process in the 11ty style.
+ * @param {string} srcPath The source of the build process.
+ * @param {string} distPath The output of the build process.
+ * @param {string} assetType The type of build: CSS, JS, etc.
+ * @returns {void}
+ */
+const buildLog = (srcPath, distPath, assetType) => {
+  const projectLabel = chalk.blue('[innovation.ca.gov]');
+  const distLabel = `Writing ./${distPath}`;
+  const srcLabel = chalk.gray(`from ./${srcPath} (${assetType})`);
+
+  console.log(`${projectLabel} ${distLabel} ${srcLabel}`);
+};
+
+/**
+ * Compile Sass, then minify with lightningcss.
+ * @returns {Promise<void>}
+ */
+const buildCSS = async () => {
+  const srcPath = 'src/css/index.scss';
+  const distPath = '_site_dist/index.css';
+
+  const compiled = sass.compile(srcPath, {
+    loadPaths: ['src/css/sass'],
+    quietDeps: true,
+    silenceDeprecations: ['import'],
+  });
+
+  // @cagov/ds-feature-card ships an invalid declaration, `min-width: calc(30% - var(0px))`,
+  // which browsers ignore but lightningcss rejects. Drop it to match browser behavior.
+  const css = compiled.css.replace(/^\s*min-width: calc\(30% - var\(0px\)\);$/m, '');
+
+  const { code } = lcssTransform({
+    filename: distPath,
+    code: Buffer.from(css),
+    minify: true,
+  });
+
+  buildLog(srcPath, distPath, 'CSS');
+
+  await fs.promises.mkdir('_site_dist', { recursive: true });
+  await fs.promises.writeFile(distPath, code);
+};
+
+/**
+ * Build and bundle JavaScript.
+ * @returns {Promise<void>}
+ */
+const buildJS = async () => {
+  const srcPath = 'src/js/index.js';
+  const distPath = '_site_dist/built.js';
+
+  buildLog(srcPath, distPath, 'JavaScript');
+
+  await esbuild.build({
+    entryPoints: [srcPath],
+    bundle: true,
+    minify: true,
+    outfile: distPath,
+  });
+};
+
+let firstBuild = true;
+
+export default function (eleventyConfig) {
   eleventyConfig.htmlTemplateEngine = "njk";
   const wordpressImagePath = "img/wordpress";
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addPlugin(cagovBuildSystem, {
-    processors: {
-      sass: {
-        watch: ["src/css/**/*"],
-        output: "_site_dist/index.css",
-        minify: true,
-        options: {
-          file: "src/css/index.scss",
-          includePaths: ["./src/css/sass"],
-          quietDeps: true,
-          silenceDeprecations: ["import"],
-        },
-      },
-      esbuild: [
-        {
-          watch: ["src/js/**/*"],
-          options: {
-            entryPoints: ["src/js/index.js"],
-            bundle: true,
-            minify: true,
-            outfile: "_site_dist/built.js",
-          },
-        },
-      ],
-    },
+
+  eleventyConfig.on('eleventy.before', async ({ runMode }) => {
+    // Only build all of the bundle files during first run, not on every change.
+    if (firstBuild || runMode !== 'serve') {
+      await buildCSS();
+      await buildJS();
+      firstBuild = false;
+    }
   });
+
+  eleventyConfig.on('eleventy.beforeWatch', async (changedFiles) => {
+    // During development changes, only reload the bundles that need reloading.
+    if (changedFiles.some((file) => file.includes('src/css/'))) {
+      await buildCSS();
+    }
+    if (changedFiles.some((file) => file.includes('src/js/'))) {
+      await buildJS();
+    }
+  });
+
+  eleventyConfig.addWatchTarget('src/css/');
+  eleventyConfig.addWatchTarget('src/js/');
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media": wordpressImagePath });
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
@@ -48,7 +111,7 @@ module.exports = function (eleventyConfig) {
       if (content.includes("<img loading=\"lazy\" class=\"cagov-featured-image\"")) {
         content = content.replace(
           "<img loading=\"lazy\" class=\"cagov-featured-image\"",
-          "<img class=\"cagov-featured-image\"" 
+          "<img class=\"cagov-featured-image\""
         );
       }
       // Replace Wordpress media paths with correct 11ty output path.
@@ -114,7 +177,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("changeDomain", function (url, domain) {
-    try {      
+    try {
       let host = config.build.canonical_url.split("//"); // TEMP Cheat to get https
       let changedUrl = url;
       // There are multiple strings that we may need to replace because of how we merge and work with data. Use them.
@@ -131,7 +194,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.on("eleventy.after", async ({ results }) => {
     // Generate map of all HTML files for tests.
     const files = results.map((r) => {
-      const { content, ...paths } = r;
+      // Eleventy 3 also includes the template source as `rawInput`; drop it along with `content`.
+      const { content, rawInput, ...paths } = r;
       return paths;
     });
 
