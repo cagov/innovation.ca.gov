@@ -30,7 +30,6 @@ const buildCSS = async () => {
   const distPath = '_site_dist/index.css';
 
   const compiled = sass.compile(srcPath, {
-    loadPaths: ['src/css/sass'],
     quietDeps: true,
     silenceDeprecations: ['import'],
   });
