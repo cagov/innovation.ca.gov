@@ -428,13 +428,19 @@ figure.wp-block-table {
   max-width: 100%;
 }
 
+// Fill the available width so tables don't shrink to their content. Without
+// this, 2-column tables collapse to the width of their longest cell, cramming
+// the header (e.g. "Revenue Description/Source") into a needlessly narrow column.
+figure.wp-block-table table {
+  width: 100%;
+}
+
 // Only tables with 3+ columns get the fixed-width swipe treatment. We key off
 // column count (a 3rd cell exists) rather than the "has-fixed-layout" class,
 // which is applied inconsistently across the reports — some wide tables lack it,
 // and some 2-column tables have it. Two-column tables fall through to the
 // default and simply wrap to fit the screen, no horizontal scroll needed.
 figure.wp-block-table table:has(tr > :nth-child(3)) {
-  width: 100%;
   table-layout: fixed;
 }
 // Only force the swipe treatment on narrower screens. Below 980px the
@@ -454,10 +460,12 @@ figure.wp-block-table table:has(tr > :nth-child(3)) td:first-child { width: 22%;
 figure.wp-block-table table:has(tr > :nth-child(3)) th:nth-child(2),
 figure.wp-block-table table:has(tr > :nth-child(3)) td:nth-child(2) { width: 20%; }
 
+// Let long content wrap to fit, but only break *within* a word as a last resort
+// (overflow-wrap) rather than eagerly mid-word (the more aggressive word-break),
+// which was splitting headers like "...Description/Source" into "...Sour" / "ce".
 figure.wp-block-table td,
 figure.wp-block-table th {
   overflow-wrap: break-word;
-  word-break: break-word;
 }
 
 // Dollar / numeric columns. WordPress emits .has-text-align-right on cells whose
