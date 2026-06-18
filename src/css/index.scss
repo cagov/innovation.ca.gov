@@ -435,8 +435,17 @@ figure.wp-block-table {
 // default and simply wrap to fit the screen, no horizontal scroll needed.
 figure.wp-block-table table:has(tr > :nth-child(3)) {
   width: 100%;
-  min-width: 820px;
   table-layout: fixed;
+}
+// Only force the swipe treatment on narrower screens. Below 980px the
+// proportioned columns get too cramped to read, so we give wide tables a fixed
+// min-width and let the figure scroll horizontally (see overflow-x above). At
+// >= 980px the content column is wide enough to show every column at once, so we
+// drop the min-width and the table fits on screen without scrolling.
+@media only screen and (max-width: 979px) {
+  figure.wp-block-table table:has(tr > :nth-child(3)) {
+    min-width: 820px;
+  }
 }
 // Proportion the columns (e.g. contractor / expenditure / description) so the
 // last column gets the room it needs and the first two aren't cramped.
@@ -449,4 +458,18 @@ figure.wp-block-table td,
 figure.wp-block-table th {
   overflow-wrap: break-word;
   word-break: break-word;
+}
+
+// Dollar / numeric columns. WordPress emits .has-text-align-right on cells whose
+// column was set to right-align in the table block editor (used for the
+// contractor expenditure and revenue amount columns in the legislative reports).
+// Honor that alignment and keep the amounts on a single line so figures like
+// "$3,268,000.00" stay readable instead of wrapping mid-number. Keying off the
+// existing class means only columns explicitly hinted in WordPress are affected.
+figure.wp-block-table td.has-text-align-right,
+figure.wp-block-table th.has-text-align-right {
+  text-align: right;
+  white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
 }
