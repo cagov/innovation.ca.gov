@@ -413,3 +413,18 @@ div#mce-success-response {
 }
 
 /* end new grid styling */
+
+// Keep wp-block tables within the viewport on mobile portrait.
+// "has-fixed-layout" is inert on this site (nothing sets table-layout: fixed),
+// so these tables auto-size to their min-content width and overflow narrow
+// screens, clipping the rightmost column. Force fixed layout + word wrapping
+// so columns fit and long text wraps instead of running off-screen.
+figure.wp-block-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+figure.wp-block-table td,
+figure.wp-block-table th {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
