@@ -414,15 +414,37 @@ div#mce-success-response {
 
 /* end new grid styling */
 
-// Keep wp-block tables within the viewport on mobile portrait.
-// "has-fixed-layout" is inert on this site (nothing sets table-layout: fixed),
-// so these tables auto-size to their min-content width and overflow narrow
-// screens, clipping the rightmost column. Force fixed layout + word wrapping
-// so columns fit and long text wraps instead of running off-screen.
-figure.wp-block-table table {
+// Wide data tables would otherwise blow out the page on mobile portrait: the
+// report content is a CSS grid item whose default min-width:auto lets the table
+// force the whole page wider, clipping the rightmost column. Instead let the
+// figure scroll horizontally and give wide tables a comfortable fixed min-width,
+// so columns stay readable and users swipe sideways rather than squinting at
+// crammed columns.
+.entry-content { min-width: 0; } // let the grid item shrink so the figure can scroll
+
+figure.wp-block-table {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+}
+
+// Only tables with 3+ columns get the fixed-width swipe treatment. We key off
+// column count (a 3rd cell exists) rather than the "has-fixed-layout" class,
+// which is applied inconsistently across the reports — some wide tables lack it,
+// and some 2-column tables have it. Two-column tables fall through to the
+// default and simply wrap to fit the screen, no horizontal scroll needed.
+figure.wp-block-table table:has(tr > :nth-child(3)) {
   width: 100%;
+  min-width: 820px;
   table-layout: fixed;
 }
+// Proportion the columns (e.g. contractor / expenditure / description) so the
+// last column gets the room it needs and the first two aren't cramped.
+figure.wp-block-table table:has(tr > :nth-child(3)) th:first-child,
+figure.wp-block-table table:has(tr > :nth-child(3)) td:first-child { width: 22%; }
+figure.wp-block-table table:has(tr > :nth-child(3)) th:nth-child(2),
+figure.wp-block-table table:has(tr > :nth-child(3)) td:nth-child(2) { width: 14%; }
+
 figure.wp-block-table td,
 figure.wp-block-table th {
   overflow-wrap: break-word;
