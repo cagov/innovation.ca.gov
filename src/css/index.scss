@@ -452,7 +452,7 @@ figure.wp-block-table table:has(tr > :nth-child(3)) {
 figure.wp-block-table table:has(tr > :nth-child(3)) th:first-child,
 figure.wp-block-table table:has(tr > :nth-child(3)) td:first-child { width: 22%; }
 figure.wp-block-table table:has(tr > :nth-child(3)) th:nth-child(2),
-figure.wp-block-table table:has(tr > :nth-child(3)) td:nth-child(2) { width: 14%; }
+figure.wp-block-table table:has(tr > :nth-child(3)) td:nth-child(2) { width: 20%; }
 
 figure.wp-block-table td,
 figure.wp-block-table th {
@@ -469,6 +469,11 @@ figure.wp-block-table th {
 figure.wp-block-table td.has-text-align-right,
 figure.wp-block-table th.has-text-align-right {
   text-align: right;
+}
+// Keep the amounts themselves on a single line, but only in the data cells. The
+// header label (e.g. "Contract Amount(s)") should wrap normally rather than
+// overflow into the next column.
+figure.wp-block-table td.has-text-align-right {
   white-space: nowrap;
   word-break: normal;
   overflow-wrap: normal;
