@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-01T20:53:03",
-    "updated_date": "2026-05-20T22:46:05",
+    "updated_date": "2026-06-22T23:07:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-01T13:53:03",
     "date_gmt": "2026-05-01T20:53:03",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3242",
-    "modified": "2026-05-20T15:46:05",
-    "modified_gmt": "2026-05-20T22:46:05",
+    "modified": "2026-06-22T16:07:04",
+    "modified_gmt": "2026-06-22T23:07:04",
     "slug": "chief-ai-engineer",
     "status": "publish",
     "type": "page",
