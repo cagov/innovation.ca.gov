@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "created_date": "2026-06-22T20:08:20",
+    "updated_date": "2026-06-22T20:08:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/3852",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3852,
+    "date": "2026-06-22T13:08:20",
+    "date_gmt": "2026-06-22T20:08:20",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3852",
+    "modified": "2026-06-22T13:08:20",
+    "modified_gmt": "2026-06-22T20:08:20",
+    "slug": "from-days-minutes-making-population-estimates-faster-smarter",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/from-days-minutes-making-population-estimates-faster-smarter/",
+    "title": "From days to minutes: Making population estimates faster and smarter",
+    "excerpt": "<p>The Office of Data and Innovation (ODI) helped improve how the Department of Finance (Finance) makes small-area population estimates, supporting statewide resource planning. Project scope Partner Methods The opportunity Finance makes small-area population estimates. The state uses them to distribute funds and plan infrastructure and services. A key dataset used for this is building footprints, &#8230; <a title=\"From days to minutes: Making population estimates faster and smarter\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/from-days-minutes-making-population-estimates-faster-smarter/\" aria-label=\"More on From days to minutes: Making population estimates faster and smarter\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [
+      "do-not-crawl"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/from-days-minutes-making-population-estimates-faster-smarter/",
+      "page_title": "From days to minutes: Making population estimates faster and smarter",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/from-days-minutes-making-population-estimates-faster-smarter/",
+    "media": [
+      {
+        "id": 3863,
+        "type": "full",
+        "path": "2026/06/finance-case-study.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study.png",
+        "file": "finance-case-study.png",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3863,
+        "type": "1536x1536",
+        "path": "2026/06/finance-case-study-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-1536x768.png",
+        "file": "finance-case-study-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "filesize": 2824373,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-1536x768.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3863,
+        "type": "large",
+        "path": "2026/06/finance-case-study-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-1024x512.png",
+        "file": "finance-case-study-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "filesize": 1278220,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-1024x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3863,
+        "type": "medium_large",
+        "path": "2026/06/finance-case-study-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-768x384.png",
+        "file": "finance-case-study-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 731507,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-768x384.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3863,
+        "type": "medium",
+        "path": "2026/06/finance-case-study-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-576x288.png",
+        "file": "finance-case-study-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 421422,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-case-study-576x288.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
