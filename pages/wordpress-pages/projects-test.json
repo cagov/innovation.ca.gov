@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-05T18:06:43",
-    "updated_date": "2026-06-22T18:32:11",
+    "updated_date": "2026-06-22T20:03:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-05T11:06:43",
     "date_gmt": "2024-06-05T18:06:43",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1985",
-    "modified": "2026-06-22T11:32:11",
-    "modified_gmt": "2026-06-22T18:32:11",
+    "modified": "2026-06-22T13:03:33",
+    "modified_gmt": "2026-06-22T20:03:33",
     "slug": "projects-test",
     "status": "publish",
     "type": "page",
@@ -226,6 +226,19 @@
         "height": 384,
         "mime_type": "image/jpeg",
         "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/01/ebt-project-3.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 3862,
+        "type": "full",
+        "path": "2026/06/finance-project.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-project.png",
+        "file": "finance-project.png",
+        "width": 1152,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/finance-project.png",
         "source_url_match": true,
         "featured": false
       },
