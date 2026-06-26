@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "created_date": "2026-06-26T22:14:25",
+    "updated_date": "2026-06-26T22:14:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3886",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3886,
+    "date": "2026-06-26T15:14:25",
+    "date_gmt": "2026-06-26T22:14:25",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png",
+    "modified": "2026-06-26T15:14:25",
+    "modified_gmt": "2026-06-26T22:14:25",
+    "slug": "headshot-theresa-martinez",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/headshot-theresa-martinez/",
+    "title": "headshot-theresa-martinez",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png'><img loading=\"lazy\" decoding=\"async\" width=\"352\" height=\"352\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png 352w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez-150x150.png 150w\" sizes=\"auto, (max-width: 352px) 100vw, 352px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 352,
+      "height": 352,
+      "file": "2026/06/headshot-theresa-martinez.png",
+      "filesize": 182023,
+      "sizes": {
+        "thumbnail": {
+          "file": "headshot-theresa-martinez-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 36890,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez-150x150.png"
+        },
+        "full": {
+          "file": "headshot-theresa-martinez.png",
+          "width": 352,
+          "height": 352,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png",
+    "filename": "headshot-theresa-martinez.png",
+    "filesize": 182023,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/06/headshot-theresa-martinez.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png",
+        "file": "headshot-theresa-martinez.png",
+        "width": 352,
+        "height": 352,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/06/headshot-theresa-martinez-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez-150x150.png",
+        "file": "headshot-theresa-martinez-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 36890,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez-150x150.png"
+      }
+    ],
+    "path": "2026/06/headshot-theresa-martinez.png"
+  }
+}
