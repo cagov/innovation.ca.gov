@@ -1,0 +1,355 @@
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3-1024x683.webp" alt="All 15 Fellows in cohort 3" class="wp-image-3882" srcset="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3-1024x683.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3-576x384.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3-768x512.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3-1536x1024.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/fellows-cohort-3.webp 1752w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+<p class="cagov-emphasized cohort-meet wp-block-paragraph">Meet cohort 3 of the Governor&#8217;s Innovation Fellows.</p>
+
+<style>
+    .cohort-meet {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .bios-container {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .bio-tile {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+    }
+    .bio-image {
+        flex: 0 0 176px;
+        width: 176px;
+    }
+    .bio-content {
+        flex: 1 1 0;
+        min-width: 0;
+    }
+    .bio-content h2 {
+        font-family: "Public Sans", sans-serif;
+        color: black;
+        font-weight: 700;
+        font-size: 29px;
+    }
+    @media (max-width: 768px) {
+        .bio-image {
+            flex: 0 0 100px;
+            width: 100px;
+        }
+        .bio-tile {
+            flex-direction: column;
+        }
+    }
+    .bio-content-text.collapsed {
+        position: relative;
+        max-height: 6rem;
+        overflow: hidden;
+        /* Ensure collapsed content is not keyboard accessible */
+        pointer-events: none;
+    }
+    .bio-content-text.collapsed::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 50px;
+        background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+        pointer-events: none;
+        z-index: 1;
+    }
+    button.read-more-button {
+        padding-right: 32px;
+        color: #0D4F8C;
+        background: url('/img/blue-arrow-down.svg') no-repeat right center;
+        border: none !important;
+        outline: none !important;
+        cursor: pointer;
+        font-size: inherit;
+        font-family: inherit;
+    }
+    button.read-more-button:focus {
+        outline: 2px solid #0D4F8C !important;
+        outline-offset: 2px;
+    }
+    button.read-more-button.open {
+        background: url('/img/blue-arrow-up.svg') no-repeat right center;
+    }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.read-more-button').forEach(button => {
+            // Initialize ARIA attributes
+            button.setAttribute('aria-expanded', 'false');
+            button.setAttribute('aria-label', 'Expand bio content');
+            button.setAttribute('role', 'button');
+            
+            // Initialize collapsed content attributes
+            const parent = button.parentElement;
+            const bioContentText = parent.querySelector('.bio-content-text');
+            if (bioContentText && bioContentText.classList.contains('collapsed')) {
+                bioContentText.setAttribute('tabindex', '-1');
+                bioContentText.setAttribute('aria-hidden', 'true');
+            }
+            
+            // Add keyboard event listener
+            button.addEventListener('keydown', (event) => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault();
+                    button.click();
+                }
+            });
+
+            // Add click event listener
+            button.addEventListener('click', () => {
+                const parent = button.parentElement;
+                const bioContentText = parent.querySelector('.bio-content-text');
+                let isOpen = button.classList.contains('open');
+                
+                if (isOpen) {
+                    bioContentText.classList.add('collapsed');
+                    button.classList.remove('open');
+                    button.classList.add('closed');
+                    button.textContent = 'Show more';
+                    button.setAttribute('aria-expanded', 'false');
+                    button.setAttribute('aria-label', 'Expand bio content');
+                    // Make collapsed content not keyboard accessible
+                    bioContentText.setAttribute('tabindex', '-1');
+                    bioContentText.setAttribute('aria-hidden', 'true');
+                } else {
+                    bioContentText.classList.remove('collapsed');
+                    button.classList.remove('closed');
+                    button.classList.add('open');
+                    button.textContent = 'Show less';
+                    button.setAttribute('aria-expanded', 'true');
+                    button.setAttribute('aria-label', 'Collapse bio content');
+                    // Make expanded content keyboard accessible
+                    bioContentText.removeAttribute('tabindex');
+                    bioContentText.setAttribute('aria-hidden', 'false');
+                }
+            });
+        });
+    });
+</script>
+
+<div class="bios-container">
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-maggie-christman.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Maggie Christman</h2>
+
+            <p><strong>Program Manager, Science Communication and Synthesis Unit</strong><br>
+            Delta Stewardship Council<br>
+            <em>California Natural Resources Agency</em></p>
+            <p class="bio-content-text collapsed">Maggie is a program manager in the Delta Stewardship Council’s Delta Science Program. She leads efforts to advance science communication, synthesis, and collaborative modeling in support of California’s water and environmental decision-making.  She holds a B.S. in Botany from the University of Georgia and a Ph.D. in Plant Biology from UC Davis. She has worked to connect science with policy and management for nearly 20 years. Her work focused on developing innovative approaches to monitoring natural systems, building collaborative partnerships, and translating complex science into accessible and actionable information across various roles in academia, non-profits, and state government.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-jeff-clemens.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Jeff Clemens</h2>
+
+            <p><strong>Senior Special Agent</strong><br>
+            Office of Correctional Safety (OCS)<br>
+            <em>California Department of Corrections and Rehabilitation</em></p>
+        
+            <p class="bio-content-text collapsed">Jeff Clements is a Senior Special Agent with OCS. He is currently assigned to the San Diego Special Service Unit. He brings over 15 years of law enforcement experience, with a career defined by operational leadership, complex investigations, and a commitment to advancing public safety through collaboration and professional development. Jeff began his law enforcement career with the California Highway Patrol, where he served from 2010 to 2022 in a variety of assignments. During his tenure, he was selected to serve as a Detective with the Major Crimes Unit while concurrently assigned to a Critical Incident Investigation Team. In these roles, he investigated the most serious and complex criminal incidents, including homicides, officer-involved shootings, and in-custody deaths. Jeff served as an Emergency Operations Center Coordinator, supporting California’s response to some of the state’s most significant natural disasters and large-scale emergencies. He is currently completing his Doctor of Public Administration degree, with an anticipated completion in Summer 2026.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-belinda-hon.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Belinda Hon</h2>
+
+            <p><strong>Chief, Office of Project Management Oversight</strong><br>
+            California Department of Transportation (Caltrans)<br>
+            <em>California Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Belinda began her career with Caltrans in 1998 as a Junior Civil Engineer gaining broad experience through rotations in Design, Construction, Surveys, Project Management, and Toll Bridge Construction. She held key leadership roles including Project Manager and Assistant Deputy District Director for Program and Project Management collaborating extensively with locals, regional, state and federal agencies. She served as Chief of the Office of Innovative Design and Delivery, where she led efforts in Alternative Delivery and Value Analysis programs. Under her leadership, the team has successfully implemented innovative delivery methods on high-profile projects such as the I-5 North Coast Corridor, Santa Barbara 101 HOV, US 50 Multimodal Corridor Enhancement and Rehabilitation, Vincent Thomas Bridge Rehabilitation, and the San Diego–Coronado Bay Bridge Suicide Deterrent. Belinda also partnered with Caltrans Legal to develop legislative language for Senate Bill 146, enabling Job Order Contracting and Progressive Design-Build, which was signed into law on July 10, 2023. As Chief of Office of Project Management Oversight South, she collaborates and partners with locals in delivering local projects.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-ken-ketsdever.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Ken Ketsdever</h2>
+
+            <p>Department of FI$Cal<br>
+            <em>California Government Operations</em></p>
+            <p class="bio-content-text collapsed">Ken is a technology executive and cybersecurity leader with more than 25 years of experience driving digital transformation across California state government and regulated industries. He has led enterprise technology, security, and customer experience initiatives that improve service delivery, reduce risk, and deliver measurable results. Known for building high-performing teams, Ken translates complex technology challenges into practical solutions that create lasting organizational and public value. As Chief Information Officer for the California Student Aid Commission and the California Department of Aging, Ken directed technology strategy, infrastructure modernization, cloud adoption, cybersecurity, and AI-powered constituent services. He also served as Chief Information Security Officer for FI$Cal, California’s statewide financial management system, leading security operations, governance, compliance, and enterprise risk management for one of the state&#8217;s largest financial systems. Ken began his public-sector leadership career at the California Department of Pesticide Regulation and previously served as HIPAA Compliance and Risk Mitigation Officer for BloodSource. He has completed executive leadership studies through the UC Davis, is a graduate of the Information Security Leadership Academy, and is currently participating in Stanford University&#8217;s Leading People, Culture and Innovation Program.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-janette-liburd.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Janette Liburd</h2>
+
+            <p><strong>Statewide Wellness Programs Manager</strong><br>
+            Office of Employee Wellness (OEW)<br>
+            <em>California Department of Corrections and Rehabilitation (CDCR)</em></p>
+
+            <p class="bio-content-text collapsed">Janette has nearly a decade of leadership experience in the advancement of employee wellness initiatives in CDCR. As Statewide Wellness Programs Manager in OEW, she leads the development and implementation of statewide programs that support employee well-being, strengthen organizational resilience, and improve access to wellness resources for staff. Janette began her career with CDCR in 2017 as a Student Assistant in OEW while completing her Bachelor of Science in Criminal Justice at Sacramento State. She advanced through analyst roles and served as the Statewide Peer Support Program Coordinator, providing oversight and support to more than 1,100 peer supporters across California. Janette led the development and implementation of the CDCR Wellness app, and serves as an employee wellness subject matter expert for departmental policy, program, and organizational improvement initiatives. Her work focuses on developing innovative, employee-centered solutions that enhance well-being, reduce stigma around mental health, and support a healthier, more resilient workforce.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-gerald-martin.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Gerald Martin</h2>
+
+            <p><strong>Assistant Comptroller</strong><br>
+            <em>California Military Department (CMD)</em></p>
+
+            <p class="bio-content-text collapsed">Gerald is a generalist whose state career has spanned program management, IT, and fiscal operations. His work and leadership focus on addressing fiscal barriers to ensure that CMD uses its appropriated funds to support its mission. Gerald’s portfolio includes improving the operational efficiency of the CMD Comptroller Office through policy and process improvement. His background allows him to view problems from multiple perspectives to arrive at feasible solutions to problems. He led CMD’s migration to FI$Cal in 2017 and continues to represent CMD with the Customer Impact Committee and as the Department Authority Designee. Gerald holds a Master’s Degree in Business Administration from the University of Phoenix and loves to attend San Francisco Giants and Sacramento Kings games.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-theresa-martinez.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Theresa Martinez</h2>
+
+            <p><strong>Strategic Management Specialist</strong><br>
+            California Department of Transportation (Caltrans)<br>
+            <em>California Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Theresa is passionate about finding creative ways to solve problems and improve public service. She began her career in the private sector, where she built a strong foundation in leadership, claims management, and conflict resolution. In the non-profit sector, she deepened her commitment to process improvement by advocating for higher quality and greater access to healthcare services for underserved communities. At Caltrans, she applies these skills to strategic planning by inspiring statewide collaboration to achieve organizational goals. Throughout her career, Theresa has been recognized for her innovation, process improvement, and leadership. She graduated from UC Davis with a Bachelor of Arts in International Relations and holds a Certificate in Sustainability. Theresa stays active in her community and is motivated by work that creates positive change.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-jennifer-mercado.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Jennifer Mercado</h2>
+
+            <p><strong>Quality Assurance Manager, Information Management Division, Support Service Section</strong><br>
+            California Highway Patrol (CHP)<br>
+            <em>California Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Jennifer is a California native and holds a B.S. in Criminal Justice from Sacramento State. With 40 years in law enforcement, Jennifer&#8217;s background includes 13 years with the Central Histology Facility/Diagnostic Pathology Medical Group, supporting the Sacramento Police Department’s Evidence, Gang, and Graffiti units, as well as the Sacramento Sheriff&#8217;s Crime Lab. She is a recipient of the International Council on Licensure, Enforcement, and Regulation’s Excellence Award and has collaborated with Caltrans on the Governor’s Lean Six Sigma Green Belt program for traffic crash investigations. Jennifer has served 27 years with the State of California, 17 of which have been with CHP.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-greg-montanio.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Major Greg Montanio</h2>
+
+            <p><strong>Knowledge Management Officer, Strategic Plans and Initiatives</strong><br>
+            <em>California Military Department</em></p>
+
+            <p class="bio-content-text collapsed">Greg applies his Doctorate in Organizational Leadership to help build learning organizations that adapt to changing needs. He focuses on improving processes, tools, and team collaboration to enable meaningful change. He is passionate about using these skills to help state government become more modern, effective, and accessible.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-syed-naqvi.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Syed Naqvi</h2>
+
+            <p><strong>Enterprise Architect, Assurance &#038; Governance</strong><br>
+            Office of Technology and Solutions Integration (OTSI)</br>
+            <em>California Health and Human Services Agency (CHHS)</em></p>
+
+            <p class="bio-content-text collapsed">Syed holds an MBA in Enterprise Information Systems and brings more than 17 years of experience in information technology, enterprise architecture, governance, and strategic planning. Throughout his career, Syed has supported major statewide initiatives at the California Department of Public Health, FI$Cal, and the California Department of Tax and Fee Administration. His work focuses on data business process improvement, and digital transformation, helping public sector organizations modernize services and align technology investments with strategic objectives. At OTSI, Syed leads the evolution of the CalHHS Enterprise Architecture Assurance Framework, contributes to architecture methods and tools, assesses technology maturity, and partners across OTSI and the broader architecture community to support modernization and innovation initiative.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-angela-pyara.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Angela Pyara</h2>
+
+            <p><strong>Budget and Project Manager Specialist</strong><br>
+            Department of Motor Vehicles (DMV)<br>
+            <em>California Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Angela brings over 20 years of state service with a strong foundation in budget, project management, and cross-functional leadership. In her current role as a Budget &#038; Project Manager Specialist in the DMV’s Budget and Fiscal Analysis Branch, she leads complex, multi-year initiatives from planning through implementation and post-delivery reporting. She plays a critical role in aligning departmental resources with strategic priorities, particularly for high-impact IT and modernization efforts.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-tino-ramirez.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Tino Ramirez</h2>
+
+            <p><strong>Privacy Officer</strong><br>
+            High-Speed Rail Authority<br>
+            <em>California State Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Tino brings strong analytical and critical-thinking skills, with proven experience assessing enterprise risks, modernizing policies, and implementing forward-thinking solutions that improve efficiency, accountability, and service delivery. He has successfully developed training programs, standardized processes, and cross-functional frameworks that create lasting organizational improvements. His openness to agile and iterative environments, combined with his ability to turn challenges into actionable solutions, will allow him to contribute meaningfully to the cohort while learning from peers across state government.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-bhanupriya-sharma.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Bhanupriya Sharma</h2>
+
+            <p><strong>Branch Chief</strong><br>
+            California Department of Transportation (Caltrans)<br>
+            <em>California Transportation Agency</em></p>
+
+            <p class="bio-content-text collapsed">Bhanupriya joined Caltrans in 2017 and has steadily advanced through roles of increasing responsibility. She began her career in electrical design, where she led the development of plans and specifications for lighting systems, traffic signals, intelligent transportation systems, and communication infrastructure. She later transitioned into construction, where she served as a first-line supervisor, leading field and inspection staff and overseeing electrical construction activities.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-astisha-singh.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Aatisha Singh</h2>
+
+            <p><strong>Federal Grants Administrator</strong><br>
+            <em>Governor’s Office of Land Use and Climate Innovation (LCI)</em></p>
+
+            <p class="bio-content-text collapsed">Aatisha brings over a decade of experience in grant writing and grants management to her role as Federal Grant Administrator at LCI. She serves as a primary point of contact for information on federal grants and helps coordinate efforts to maximize federal grant investments across California. Prior to joining LCI, Aatisha helped launch the Strategic Growth Council’s Connecting Communities Initiative, supporting local partners statewide in securing federal funding for community-led climate projects. Earlier in her career, she worked in the nonprofit sector, advancing equitable outcomes in transportation, housing, climate resilience, and public media.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+    <div class="bio-tile">
+        <div class="bio-image">
+          <img decoding="async" src="https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/06/headshot-shannon-robinson.png" alt="" />
+        </div>
+        <div class="bio-content">
+            <h2 class="wp-block-heading">Shannon Robinson</h2>
+
+            <p><strong>Technical Advisor to the Office of the Director </strong><br>
+            California Department of Tax and Fee Administration (CDTFA) <br>
+            <em>Government Operations Agency</em></p>
+
+            <p class="bio-content-text collapsed">Shannon has worked in field audit, Tax Policy, and the Executive Office, giving her experience across a variety of department programs and operations. She enjoys bringing people together to solve problems, improve processes, and make complex information easier to understand. Her work includes supporting compliance initiatives, developing guidance and training materials, improving business processes, and collaborating with stakeholders across the department.</p>
+            <button class="read-more-button closed">Show more</button>
+        </div>
+    </div>
+</div>
