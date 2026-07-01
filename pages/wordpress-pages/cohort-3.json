@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-06-29T15:59:51",
-    "updated_date": "2026-07-01T16:24:41",
+    "updated_date": "2026-07-01T16:24:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-06-29T08:59:51",
     "date_gmt": "2026-06-29T15:59:51",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3885",
-    "modified": "2026-07-01T09:24:41",
-    "modified_gmt": "2026-07-01T16:24:41",
+    "modified": "2026-07-01T09:24:47",
+    "modified_gmt": "2026-07-01T16:24:47",
     "slug": "cohort-3",
     "status": "publish",
     "type": "page",
