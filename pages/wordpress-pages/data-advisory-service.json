@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-05-21T16:24:58",
-    "updated_date": "2026-06-26T20:56:38",
+    "updated_date": "2026-07-01T16:59:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-05-21T09:24:58",
     "date_gmt": "2026-05-21T16:24:58",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3708",
-    "modified": "2026-06-26T13:56:38",
-    "modified_gmt": "2026-06-26T20:56:38",
+    "modified": "2026-07-01T09:59:21",
+    "modified_gmt": "2026-07-01T16:59:21",
     "slug": "data-advisory-service",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "do-not-crawl"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,19 +68,7 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 38,
-        "name": "do-not-crawl",
-        "slug": "do-not-crawl",
-        "term_group": 0,
-        "term_taxonomy_id": 38,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/data-advisory-service/",
