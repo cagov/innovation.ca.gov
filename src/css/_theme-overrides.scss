@@ -18,6 +18,14 @@ cagov-site-navigation, .site-header {
   background: transparent;
   border-bottom: solid 1px var(--primary-color, #0D4F8C);
 }
+/* Match the nav colors used on hub.innovation.ca.gov so the shared header
+   doesn't change color when navigating between the two sites. The nav
+   component reads --primary-700 (link text) and --primary-900 (hover/focus);
+   left unset they fall back to brighter blues (#165ac2 / #003588). */
+cagov-site-navigation {
+  --primary-700: var(--primary-color, #0D4F8C);
+  --primary-900: #003484;
+}
 h1, h2, h3, h4, h5, h6 {
   color: var(--primary-color, #0D4F8C);
   font-family: 'Noto Serif', serif;
