@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "created_date": "2026-07-06T22:19:37",
+    "updated_date": "2026-07-06T22:22:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3925",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3925,
+    "date": "2026-07-06T15:19:37",
+    "date_gmt": "2026-07-06T22:19:37",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp",
+    "modified": "2026-07-06T15:22:37",
+    "modified_gmt": "2026-07-06T22:22:37",
+    "slug": "vivek-bootcamp",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/vivek-bootcamp/",
+    "title": "vivek-bootcamp",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-576x384.webp\" class=\"attachment-medium size-medium\" alt=\"Vivek Viswanathan, Senior Counselor to the Governor, talks to cohort 3 of the Governor&#039;s Innovation Fellows\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-576x384.webp 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1024x683.webp 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-768x512.webp 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1536x1024.webp 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "Vivek Viswanathan, Senior Counselor to the Governor, talks to cohort 3 of the Governor's Innovation Fellows",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 1752,
+      "height": 1168,
+      "file": "2026/07/vivek-bootcamp.webp",
+      "filesize": 2262484,
+      "sizes": {
+        "medium": {
+          "file": "vivek-bootcamp-576x384.webp",
+          "width": 576,
+          "height": 384,
+          "filesize": 44010,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-576x384.webp"
+        },
+        "large": {
+          "file": "vivek-bootcamp-1024x683.webp",
+          "width": 1024,
+          "height": 683,
+          "filesize": 121342,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1024x683.webp"
+        },
+        "thumbnail": {
+          "file": "vivek-bootcamp-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 7058,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-150x150.webp"
+        },
+        "medium_large": {
+          "file": "vivek-bootcamp-768x512.webp",
+          "width": 768,
+          "height": 512,
+          "filesize": 72560,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-768x512.webp"
+        },
+        "1536x1536": {
+          "file": "vivek-bootcamp-1536x1024.webp",
+          "width": 1536,
+          "height": 1024,
+          "filesize": 241706,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1536x1024.webp"
+        },
+        "full": {
+          "file": "vivek-bootcamp.webp",
+          "width": 1752,
+          "height": 1168,
+          "mime_type": "image/webp",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp",
+    "filename": "vivek-bootcamp.webp",
+    "filesize": 2262484,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/07/vivek-bootcamp.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp",
+        "file": "vivek-bootcamp.webp",
+        "width": 1752,
+        "height": 1168,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp.webp"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/07/vivek-bootcamp-1536x1024.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1536x1024.webp",
+        "file": "vivek-bootcamp-1536x1024.webp",
+        "width": 1536,
+        "height": 1024,
+        "filesize": 241706,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1536x1024.webp"
+      },
+      {
+        "type": "large",
+        "path": "2026/07/vivek-bootcamp-1024x683.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1024x683.webp",
+        "file": "vivek-bootcamp-1024x683.webp",
+        "width": 1024,
+        "height": 683,
+        "filesize": 121342,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-1024x683.webp"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/07/vivek-bootcamp-768x512.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-768x512.webp",
+        "file": "vivek-bootcamp-768x512.webp",
+        "width": 768,
+        "height": 512,
+        "filesize": 72560,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-768x512.webp"
+      },
+      {
+        "type": "medium",
+        "path": "2026/07/vivek-bootcamp-576x384.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-576x384.webp",
+        "file": "vivek-bootcamp-576x384.webp",
+        "width": 576,
+        "height": 384,
+        "filesize": 44010,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-576x384.webp"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/07/vivek-bootcamp-150x150.webp",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-150x150.webp",
+        "file": "vivek-bootcamp-150x150.webp",
+        "width": 150,
+        "height": 150,
+        "filesize": 7058,
+        "mime_type": "image/webp",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/vivek-bootcamp-150x150.webp"
+      }
+    ],
+    "path": "2026/07/vivek-bootcamp.webp"
+  }
+}
