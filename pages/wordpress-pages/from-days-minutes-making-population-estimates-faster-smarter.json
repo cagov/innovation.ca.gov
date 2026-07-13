@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-06-22T20:08:20",
-    "updated_date": "2026-07-13T15:53:10",
+    "updated_date": "2026-07-13T15:53:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-06-22T13:08:20",
     "date_gmt": "2026-06-22T20:08:20",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3852",
-    "modified": "2026-07-13T08:53:10",
-    "modified_gmt": "2026-07-13T15:53:10",
+    "modified": "2026-07-13T08:53:15",
+    "modified_gmt": "2026-07-13T15:53:15",
     "slug": "from-days-minutes-making-population-estimates-faster-smarter",
     "status": "publish",
     "type": "page",
