@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-06-22T23:02:16",
-    "updated_date": "2026-06-22T23:06:39",
+    "updated_date": "2026-07-13T16:49:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-06-22T16:02:16",
     "date_gmt": "2026-06-22T23:02:16",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3866",
-    "modified": "2026-06-22T16:06:39",
-    "modified_gmt": "2026-06-22T23:06:39",
+    "modified": "2026-07-13T09:49:47",
+    "modified_gmt": "2026-07-13T16:49:47",
     "slug": "senior-talent-engagement-analyst",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 38,
+        "name": "do-not-crawl",
+        "slug": "do-not-crawl",
+        "term_group": 0,
+        "term_taxonomy_id": 38,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/senior-talent-engagement-analyst/"
