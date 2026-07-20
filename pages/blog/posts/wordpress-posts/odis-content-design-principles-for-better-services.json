@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-10T20:09:41",
-    "updated_date": "2023-05-17T20:48:09",
+    "updated_date": "2026-07-20T14:59:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-11-10T12:09:41",
     "date_gmt": "2021-11-10T20:09:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=138",
-    "modified": "2023-05-17T13:48:09",
-    "modified_gmt": "2023-05-17T20:48:09",
+    "modified": "2026-07-20T07:59:26",
+    "modified_gmt": "2026-07-20T14:59:26",
     "slug": "odis-content-design-principles-for-better-services",
     "status": "publish",
     "type": "post",
