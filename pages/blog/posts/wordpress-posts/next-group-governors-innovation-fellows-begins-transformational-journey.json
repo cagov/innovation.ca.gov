@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-07-06T22:40:32",
-    "updated_date": "2026-07-06T22:44:52",
+    "updated_date": "2026-07-22T17:40:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-07-06T15:40:32",
     "date_gmt": "2026-07-06T22:40:32",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=3921",
-    "modified": "2026-07-06T15:44:52",
-    "modified_gmt": "2026-07-06T22:44:52",
+    "modified": "2026-07-22T10:40:49",
+    "modified_gmt": "2026-07-22T17:40:49",
     "slug": "next-group-governors-innovation-fellows-begins-transformational-journey",
     "status": "publish",
     "type": "post",
