@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-11-17T23:46:36",
-    "updated_date": "2026-07-22T17:28:31",
+    "updated_date": "2026-07-23T15:13:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-11-17T15:46:36",
     "date_gmt": "2025-11-17T23:46:36",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3018",
-    "modified": "2026-07-22T10:28:31",
-    "modified_gmt": "2026-07-22T17:28:31",
+    "modified": "2026-07-23T08:13:38",
+    "modified_gmt": "2026-07-23T15:13:38",
     "slug": "innovation-showcase",
     "status": "publish",
     "type": "page",
