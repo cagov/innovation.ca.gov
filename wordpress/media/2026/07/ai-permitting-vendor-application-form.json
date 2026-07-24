@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "created_date": "2026-07-24T23:05:58",
+    "updated_date": "2026-07-24T23:05:58",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/3983",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3983,
+    "date": "2026-07-24T16:05:58",
+    "date_gmt": "2026-07-24T23:05:58",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form.pdf",
+    "modified": "2026-07-24T16:05:58",
+    "modified_gmt": "2026-07-24T23:05:58",
+    "slug": "ai-permitting-vendor-application-form",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/ai-permitting-vendor-application-form/",
+    "title": "ai-permitting-vendor-application-form",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"445\" height=\"576\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-445x576.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+      "sizes": {
+        "full": {
+          "file": "ai-permitting-vendor-application-form-pdf.jpg",
+          "width": 1088,
+          "height": 1408,
+          "mime_type": "application/pdf",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf.jpg"
+        },
+        "medium": {
+          "file": "ai-permitting-vendor-application-form-pdf-445x576.jpg",
+          "width": 445,
+          "height": 576,
+          "filesize": 39366,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-445x576.jpg"
+        },
+        "large": {
+          "file": "ai-permitting-vendor-application-form-pdf-791x1024.jpg",
+          "width": 791,
+          "height": 1024,
+          "filesize": 95583,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-791x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "ai-permitting-vendor-application-form-pdf-116x150.jpg",
+          "width": 116,
+          "height": 150,
+          "filesize": 6410,
+          "mime_type": "image/jpeg",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-116x150.jpg"
+        }
+      },
+      "filesize": 125865
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form.pdf",
+    "filename": "ai-permitting-vendor-application-form.pdf",
+    "filesize": 125865,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form.pdf",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/07/ai-permitting-vendor-application-form-pdf.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf.jpg",
+        "file": "ai-permitting-vendor-application-form-pdf.jpg",
+        "width": 1088,
+        "height": 1408,
+        "mime_type": "application/pdf",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf.jpg"
+      },
+      {
+        "type": "large",
+        "path": "2026/07/ai-permitting-vendor-application-form-pdf-791x1024.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-791x1024.jpg",
+        "file": "ai-permitting-vendor-application-form-pdf-791x1024.jpg",
+        "width": 791,
+        "height": 1024,
+        "filesize": 95583,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-791x1024.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2026/07/ai-permitting-vendor-application-form-pdf-445x576.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-445x576.jpg",
+        "file": "ai-permitting-vendor-application-form-pdf-445x576.jpg",
+        "width": 445,
+        "height": 576,
+        "filesize": 39366,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-445x576.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/07/ai-permitting-vendor-application-form-pdf-116x150.jpg",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-116x150.jpg",
+        "file": "ai-permitting-vendor-application-form-pdf-116x150.jpg",
+        "width": 116,
+        "height": 150,
+        "filesize": 6410,
+        "mime_type": "image/jpeg",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/07/ai-permitting-vendor-application-form-pdf-116x150.jpg"
+      }
+    ],
+    "path": "2026/07/ai-permitting-vendor-application-form.pdf"
+  }
+}
