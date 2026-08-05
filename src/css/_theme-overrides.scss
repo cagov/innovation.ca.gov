@@ -26,6 +26,22 @@ cagov-site-navigation {
   --primary-700: var(--primary-color, #0D4F8C);
   --primary-900: #003484;
 }
+/* Same idea for the header's search box height. The header component gives the
+   text field and submit button padding, borders and font-sizes but no
+   line-height, so both inherit the body's — 1.75 above, against 1.5 on
+   hub.innovation.ca.gov. That made the box 50px tall here and 46px there, so it
+   visibly jumped when navigating between the two sites. Set on the form so both
+   children inherit it; the form is a flex row, so the taller of the two would
+   otherwise stretch the other back out. Pinning it here rather than changing
+   the body leaves the rest of this site's typography alone.
+
+   Scoped to .site-header on purpose: the collapsed-menu search inside
+   cagov-site-navigation already matches hub, because the nav component sets its
+   own line-height there. Including it made this site's mobile box 4px shorter
+   than hub's — the same bug in reverse. */
+.site-header .search-container .site-search {
+  line-height: 1.5;
+}
 h1, h2, h3, h4, h5, h6 {
   color: var(--primary-color, #0D4F8C);
   font-family: 'Noto Serif', serif;
