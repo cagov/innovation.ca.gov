@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-07-24T22:35:54",
-    "updated_date": "2026-08-10T18:15:07",
+    "updated_date": "2026-08-10T18:15:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-07-24T15:35:54",
     "date_gmt": "2026-07-24T22:35:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3979",
-    "modified": "2026-08-10T11:15:07",
-    "modified_gmt": "2026-08-10T18:15:07",
+    "modified": "2026-08-10T11:15:12",
+    "modified_gmt": "2026-08-10T18:15:12",
     "slug": "learning-technology-systems-administrator",
     "status": "publish",
     "type": "page",
