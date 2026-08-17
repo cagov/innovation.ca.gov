@@ -12,6 +12,12 @@
     "pic": "s-gutierrez.jpg"
   },
   {
+    "name": "John Ohanian",
+    "pronouns": "he/him/his",
+    "title": "Statewide Chief Data Officer",
+    "pic": "j-ohanian.jpg"
+  },
+  {
     "name": "Michael Palmisano",
     "pronouns": "he/him",
     "title": "Chief Counsel",
@@ -101,6 +107,7 @@
     "name": "Genevieve Hoffman",
     "title": "Senior User Experience Designer",
     "pronouns": "she/her"
+    "pic": "g-hoffman.jpg"
   },
   {
     "name": "Holly Prag",
