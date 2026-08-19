@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "created_date": "2026-08-19T20:17:09",
+    "updated_date": "2026-08-19T20:23:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4015",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4015,
+    "date": "2026-08-19T13:17:09",
+    "date_gmt": "2026-08-19T20:17:09",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png",
+    "modified": "2026-08-19T13:23:39",
+    "modified_gmt": "2026-08-19T20:23:39",
+    "slug": "calhfa-case-study",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/calhfa-case-study/",
+    "title": "calhfa-case-study",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"288\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-576x288.png\" class=\"attachment-medium size-medium\" alt=\"A woman in her living room typing on a laptop\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-576x288.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1024x512.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-768x384.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1536x768.png 1536w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png 1752w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A woman in her living room typing on a laptop",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1752,
+      "height": 876,
+      "file": "2026/08/calhfa-case-study.png",
+      "filesize": 2074404,
+      "sizes": {
+        "medium": {
+          "file": "calhfa-case-study-576x288.png",
+          "width": 576,
+          "height": 288,
+          "filesize": 221439,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-576x288.png"
+        },
+        "large": {
+          "file": "calhfa-case-study-1024x512.png",
+          "width": 1024,
+          "height": 512,
+          "filesize": 636390,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1024x512.png"
+        },
+        "thumbnail": {
+          "file": "calhfa-case-study-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 34881,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-150x150.png"
+        },
+        "medium_large": {
+          "file": "calhfa-case-study-768x384.png",
+          "width": 768,
+          "height": 384,
+          "filesize": 373197,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-768x384.png"
+        },
+        "1536x1536": {
+          "file": "calhfa-case-study-1536x768.png",
+          "width": 1536,
+          "height": 768,
+          "filesize": 1368541,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1536x768.png"
+        },
+        "full": {
+          "file": "calhfa-case-study.png",
+          "width": 1752,
+          "height": 876,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png",
+    "filename": "calhfa-case-study.png",
+    "filesize": 2074404,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/08/calhfa-case-study.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png",
+        "file": "calhfa-case-study.png",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2026/08/calhfa-case-study-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1536x768.png",
+        "file": "calhfa-case-study-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "filesize": 1368541,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1536x768.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/08/calhfa-case-study-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1024x512.png",
+        "file": "calhfa-case-study-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "filesize": 636390,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-1024x512.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/08/calhfa-case-study-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-768x384.png",
+        "file": "calhfa-case-study-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 373197,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-768x384.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/08/calhfa-case-study-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-576x288.png",
+        "file": "calhfa-case-study-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 221439,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-576x288.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/08/calhfa-case-study-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-150x150.png",
+        "file": "calhfa-case-study-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 34881,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/calhfa-case-study-150x150.png"
+      }
+    ],
+    "path": "2026/08/calhfa-case-study.png"
+  }
+}
