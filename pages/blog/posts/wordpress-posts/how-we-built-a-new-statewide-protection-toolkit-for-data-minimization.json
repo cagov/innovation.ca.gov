@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "created_date": "2026-09-02T16:37:02",
+    "updated_date": "2026-09-02T16:37:02",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/4034",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4034,
+    "date": "2026-09-02T09:37:02",
+    "date_gmt": "2026-09-02T16:37:02",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=4034",
+    "modified": "2026-09-02T09:37:02",
+    "modified_gmt": "2026-09-02T16:37:02",
+    "slug": "how-we-built-a-new-statewide-protection-toolkit-for-data-minimization",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/09/02/how-we-built-a-new-statewide-protection-toolkit-for-data-minimization/",
+    "title": "How we built a new statewide protection toolkit for data minimization",
+    "excerpt": "<p>Data minimization is a simple idea: only collect and keep the data you need, and nothing more. It sounds obvious. But most government programs collect more data than they use, often without meaning to. Following this principle lowers risk and builds trust. People are more willing to apply for services when they trust their data &#8230; <a title=\"How we built a new statewide protection toolkit for data minimization\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/09/02/how-we-built-a-new-statewide-protection-toolkit-for-data-minimization/\" aria-label=\"More on How we built a new statewide protection toolkit for data minimization\">Read more</a></p>\n",
+    "author": "Alex Nottbohm",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/09/02/how-we-built-a-new-statewide-protection-toolkit-for-data-minimization/",
+      "page_title": "How we built a new statewide protection toolkit for data minimization",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/09/02/how-we-built-a-new-statewide-protection-toolkit-for-data-minimization/",
+    "media": [
+      {
+        "id": 4038,
+        "type": "full",
+        "path": "2026/08/blog-form-redactions.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+        "file": "blog-form-redactions.png",
+        "width": 1376,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4038,
+        "type": "large",
+        "path": "2026/08/blog-form-redactions-1024x572.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png",
+        "file": "blog-form-redactions-1024x572.png",
+        "width": 1024,
+        "height": 572,
+        "filesize": 736299,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4038,
+        "type": "medium_large",
+        "path": "2026/08/blog-form-redactions-768x429.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png",
+        "file": "blog-form-redactions-768x429.png",
+        "width": 768,
+        "height": 429,
+        "filesize": 432478,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4038,
+        "type": "medium",
+        "path": "2026/08/blog-form-redactions-576x321.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png",
+        "file": "blog-form-redactions-576x321.png",
+        "width": 576,
+        "height": 321,
+        "filesize": 253745,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
