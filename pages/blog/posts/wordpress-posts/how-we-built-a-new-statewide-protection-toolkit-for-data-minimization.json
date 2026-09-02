@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-09-02T16:37:02",
-    "updated_date": "2026-09-02T16:37:02",
+    "updated_date": "2026-09-02T16:37:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-09-02T09:37:02",
     "date_gmt": "2026-09-02T16:37:02",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=4034",
-    "modified": "2026-09-02T09:37:02",
-    "modified_gmt": "2026-09-02T16:37:02",
+    "modified": "2026-09-02T09:37:08",
+    "modified_gmt": "2026-09-02T16:37:08",
     "slug": "how-we-built-a-new-statewide-protection-toolkit-for-data-minimization",
     "status": "publish",
     "type": "post",
