@@ -101,6 +101,9 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ "wordpress/media": wordpressImagePath });
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
+  // Browsers, crawlers, and link unfurlers request /favicon.ico at the site
+  // root on their own, whatever the markup says, so serve a copy there too.
+  eleventyConfig.addPassthroughCopy({ "src/img/favicon.ico": "favicon.ico" });
   eleventyConfig.addPassthroughCopy({ "src/pdf": "pdf" });
   eleventyConfig.addPassthroughCopy({ "src/css/fonts": "fonts" });
 
