@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "created_date": "2026-08-31T17:18:50",
+    "updated_date": "2026-08-31T17:19:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4038",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4038,
+    "date": "2026-08-31T10:18:50",
+    "date_gmt": "2026-08-31T17:18:50",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+    "modified": "2026-08-31T10:19:14",
+    "modified_gmt": "2026-08-31T17:19:14",
+    "slug": "blog-form-redactions",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/blog-form-redactions/",
+    "title": "blog-form-redactions",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"321\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png\" class=\"attachment-medium size-medium\" alt=\"A woman redacts a California tax return\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png 1376w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "<p>This image was made with AI and edited by humans.</p>\n",
+    "alt_text": "A woman redacts a California tax return",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1376,
+      "height": 768,
+      "file": "2026/08/blog-form-redactions.png",
+      "filesize": 1446508,
+      "sizes": {
+        "medium": {
+          "file": "blog-form-redactions-576x321.png",
+          "width": 576,
+          "height": 321,
+          "filesize": 253745,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png"
+        },
+        "large": {
+          "file": "blog-form-redactions-1024x572.png",
+          "width": 1024,
+          "height": 572,
+          "filesize": 736299,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png"
+        },
+        "thumbnail": {
+          "file": "blog-form-redactions-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 36145,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-150x150.png"
+        },
+        "medium_large": {
+          "file": "blog-form-redactions-768x429.png",
+          "width": 768,
+          "height": 429,
+          "filesize": 432478,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png"
+        },
+        "full": {
+          "file": "blog-form-redactions.png",
+          "width": 1376,
+          "height": 768,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+    "filename": "blog-form-redactions.png",
+    "filesize": 1446508,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/08/blog-form-redactions.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png",
+        "file": "blog-form-redactions.png",
+        "width": 1376,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/08/blog-form-redactions-1024x572.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png",
+        "file": "blog-form-redactions-1024x572.png",
+        "width": 1024,
+        "height": 572,
+        "filesize": 736299,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-1024x572.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/08/blog-form-redactions-768x429.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png",
+        "file": "blog-form-redactions-768x429.png",
+        "width": 768,
+        "height": 429,
+        "filesize": 432478,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-768x429.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/08/blog-form-redactions-576x321.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png",
+        "file": "blog-form-redactions-576x321.png",
+        "width": 576,
+        "height": 321,
+        "filesize": 253745,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-576x321.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/08/blog-form-redactions-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-150x150.png",
+        "file": "blog-form-redactions-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 36145,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/08/blog-form-redactions-150x150.png"
+      }
+    ],
+    "path": "2026/08/blog-form-redactions.png"
+  }
+}

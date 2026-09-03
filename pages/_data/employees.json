@@ -12,6 +12,12 @@
     "pic": "s-gutierrez.jpg"
   },
   {
+    "name": "John Ohanian",
+    "pronouns": "he/him/his",
+    "title": "Statewide Chief Data Officer",
+    "pic": "j-ohanian.jpg"
+  },
+  {
     "name": "Michael Palmisano",
     "pronouns": "he/him",
     "title": "Chief Counsel",
@@ -100,7 +106,8 @@
   {
     "name": "Genevieve Hoffman",
     "title": "Senior User Experience Designer",
-    "pronouns": "she/her"
+    "pronouns": "she/her",
+    "pic": "g-hoffman.jpg"
   },
   {
     "name": "Holly Prag",
@@ -113,6 +120,12 @@
     "pronouns": "he/him",
     "title": "Principal Data Architect",
     "pic": "i-rose.jpg"
+  },
+  {
+    "name": "Jarrett Krumrei",
+    "pronouns": "he/him",
+    "title": "Head of Product",
+    "pic": "j-krumrei.jpg"
   },
   {
     "name": "Jim Bumgardner",
@@ -171,6 +184,12 @@
     "pronouns": "she/her",
     "title": "Principal Data Scientist",
     "pic": "m-bobra.jpg"
+  },
+  {
+    "name": "Nicolas Tinio",
+    "pronouns": "he/him",
+    "title": "IT Procurement Supervisor",
+    "pic": "n-tinio.jpg"
   },
   {
     "name": "Peggy Gartin",
