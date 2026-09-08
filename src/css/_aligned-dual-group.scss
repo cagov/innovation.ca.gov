@@ -62,19 +62,6 @@
 
     figure {
       margin: .5rem 0 0 0;
-      position: relative;
-
-      &.dif-project::after {
-        content: "Data and Innovation Fund";
-        background-color: #C24629;
-        position: absolute;
-        top: 0;
-        right: 0;
-        color: white;
-        padding: 0.5rem 0.75rem;
-        border-bottom-left-radius: 1.25rem;
-        font-size: .75rem;
-      }
     }
   }
 }
