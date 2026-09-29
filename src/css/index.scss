@@ -250,6 +250,11 @@ table.table-bordered {
   }
 }
 
+/* the component's list is a full-width flex row with no alignment set,
+   which leaves the buttons stuck to the left edge */
+cagov-pagination .cagov-pagination__list {
+  justify-content: center;
+}
 cagov-pagination li.cagov-pagination__item {
   border: var(--border-1, 1px) solid #D4D4D7 !important;
   border-radius: 5px !important;
