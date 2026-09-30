@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-04-29T17:45:07",
-    "updated_date": "2026-09-30T18:01:30",
+    "updated_date": "2026-09-30T18:01:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-04-29T10:45:07",
     "date_gmt": "2026-04-29T17:45:07",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=3546",
-    "modified": "2026-09-30T11:01:30",
-    "modified_gmt": "2026-09-30T18:01:30",
+    "modified": "2026-09-30T11:01:35",
+    "modified_gmt": "2026-09-30T18:01:35",
     "slug": "training",
     "status": "publish",
     "type": "page",
