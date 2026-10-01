@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-01T20:05:25",
-    "updated_date": "2026-10-01T20:05:31",
+    "updated_date": "2026-10-01T20:14:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-10-01T13:05:25",
     "date_gmt": "2026-10-01T20:05:25",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4089",
-    "modified": "2026-10-01T13:05:31",
-    "modified_gmt": "2026-10-01T20:05:31",
+    "modified": "2026-10-01T13:14:42",
+    "modified_gmt": "2026-10-01T20:14:42",
     "slug": "innovation-lab",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "layout-no-sidebar"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 39,
+        "name": "layout-no-sidebar",
+        "slug": "layout-no-sidebar",
+        "term_group": 0,
+        "term_taxonomy_id": 39,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/innovation-lab/"
