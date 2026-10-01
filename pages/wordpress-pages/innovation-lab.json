@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "created_date": "2026-10-01T20:05:25",
+    "updated_date": "2026-10-01T20:05:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/4089",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4089,
+    "date": "2026-10-01T13:05:25",
+    "date_gmt": "2026-10-01T20:05:25",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4089",
+    "modified": "2026-10-01T13:05:25",
+    "modified_gmt": "2026-10-01T20:05:25",
+    "slug": "innovation-lab",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/innovation-lab/",
+    "title": "Innovation Lab",
+    "excerpt": "<p>The Innovation Lab de-risks decision making. Our team works with you in time-boxed, structured engagements. Outcomes include: The Lab enables departments to make better decisions anywhere in the project lifecycle: When you finish an engagement, your team can make data-informed decisions with confidence.&nbsp; There is no cost to work with the Lab. If you’re interested &#8230; <a title=\"Innovation Lab\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/work-with-us/innovation-lab/\" aria-label=\"More on Innovation Lab\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 3544,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/innovation-lab/",
+      "page_title": "Innovation Lab",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/work-with-us/innovation-lab/"
+  }
+}
