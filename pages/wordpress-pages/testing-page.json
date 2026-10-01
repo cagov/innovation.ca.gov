@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T22:00:59",
-    "updated_date": "2026-10-01T20:14:22",
+    "updated_date": "2026-10-01T21:33:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T15:00:59",
     "date_gmt": "2023-06-06T22:00:59",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1226",
-    "modified": "2026-10-01T13:14:22",
-    "modified_gmt": "2026-10-01T20:14:22",
+    "modified": "2026-10-01T14:33:32",
+    "modified_gmt": "2026-10-01T21:33:32",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
@@ -99,6 +99,19 @@
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/testing-page/",
     "media": [
+      {
+        "id": 4099,
+        "type": "full",
+        "path": "2026/10/work-with-us-flask.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/work-with-us-flask.png",
+        "file": "work-with-us-flask.png",
+        "width": 346,
+        "height": 346,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/work-with-us-flask.png",
+        "source_url_match": true,
+        "featured": false
+      },
       {
         "id": 3763,
         "type": "full",
