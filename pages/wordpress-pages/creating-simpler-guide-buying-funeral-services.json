@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-06T22:24:00",
-    "updated_date": "2026-10-06T22:29:46",
+    "updated_date": "2026-10-06T22:39:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-10-06T15:24:00",
     "date_gmt": "2026-10-06T22:24:00",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4112",
-    "modified": "2026-10-06T15:29:46",
-    "modified_gmt": "2026-10-06T22:29:46",
+    "modified": "2026-10-06T15:39:57",
+    "modified_gmt": "2026-10-06T22:39:57",
     "slug": "creating-simpler-guide-buying-funeral-services",
     "status": "publish",
     "type": "page",
