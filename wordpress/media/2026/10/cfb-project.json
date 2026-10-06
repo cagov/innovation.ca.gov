@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "created_date": "2026-10-06T22:08:40",
+    "updated_date": "2026-10-06T22:09:10",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4115",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4115,
+    "date": "2026-10-06T15:08:40",
+    "date_gmt": "2026-10-06T22:08:40",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png",
+    "modified": "2026-10-06T15:09:10",
+    "modified_gmt": "2026-10-06T22:09:10",
+    "slug": "cfb-project",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/cfb-project/",
+    "title": "cfb-project",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"384\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-576x384.png\" class=\"attachment-medium size-medium\" alt=\"A peaceful cemetery with green grass, white headstones, and trees in bloom\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-576x384.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-1024x683.png 1024w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-768x512.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png 1152w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "A peaceful cemetery with green grass, white headstones, and trees in bloom",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1152,
+      "height": 768,
+      "file": "2026/10/cfb-project.png",
+      "filesize": 2045504,
+      "sizes": {
+        "medium": {
+          "file": "cfb-project-576x384.png",
+          "width": 576,
+          "height": 384,
+          "filesize": 469601,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-576x384.png"
+        },
+        "large": {
+          "file": "cfb-project-1024x683.png",
+          "width": 1024,
+          "height": 683,
+          "filesize": 1430459,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-1024x683.png"
+        },
+        "thumbnail": {
+          "file": "cfb-project-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 51118,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-150x150.png"
+        },
+        "medium_large": {
+          "file": "cfb-project-768x512.png",
+          "width": 768,
+          "height": 512,
+          "filesize": 822256,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-768x512.png"
+        },
+        "full": {
+          "file": "cfb-project.png",
+          "width": 1152,
+          "height": 768,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png",
+    "filename": "cfb-project.png",
+    "filesize": 2045504,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/10/cfb-project.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png",
+        "file": "cfb-project.png",
+        "width": 1152,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project.png"
+      },
+      {
+        "type": "large",
+        "path": "2026/10/cfb-project-1024x683.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-1024x683.png",
+        "file": "cfb-project-1024x683.png",
+        "width": 1024,
+        "height": 683,
+        "filesize": 1430459,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-1024x683.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/10/cfb-project-768x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-768x512.png",
+        "file": "cfb-project-768x512.png",
+        "width": 768,
+        "height": 512,
+        "filesize": 822256,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-768x512.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/10/cfb-project-576x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-576x384.png",
+        "file": "cfb-project-576x384.png",
+        "width": 576,
+        "height": 384,
+        "filesize": 469601,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-576x384.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/10/cfb-project-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-150x150.png",
+        "file": "cfb-project-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 51118,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-project-150x150.png"
+      }
+    ],
+    "path": "2026/10/cfb-project.png"
+  }
+}
