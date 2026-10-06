@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "created_date": "2026-10-06T22:24:00",
+    "updated_date": "2026-10-06T22:24:00",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/4112",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4112,
+    "date": "2026-10-06T15:24:00",
+    "date_gmt": "2026-10-06T22:24:00",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4112",
+    "modified": "2026-10-06T15:24:00",
+    "modified_gmt": "2026-10-06T22:24:00",
+    "slug": "creating-simpler-guide-buying-funeral-services",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/creating-simpler-guide-buying-funeral-services/",
+    "title": "Creating a simpler guide to buying funeral services",
+    "excerpt": "<p>We rewrote the guide people get when buying funeral services, often after the death of a loved one. Project scope Partner Methods The opportunity The Cemetery and Funeral Bureau (CFB) regulates funeral businesses. This includes funeral homes, cemeteries, and crematories. These businesses must give customers CFB’s Consumer Guide to Funeral &amp; Cemetery Purchases. The guide &#8230; <a title=\"Creating a simpler guide to buying funeral services\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/projects/creating-simpler-guide-buying-funeral-services/\" aria-label=\"More on Creating a simpler guide to buying funeral services\">Read more</a></p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "parent": 242,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/creating-simpler-guide-buying-funeral-services/",
+      "page_title": "Creating a simpler guide to buying funeral services",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/projects/creating-simpler-guide-buying-funeral-services/",
+    "media": [
+      {
+        "id": 4114,
+        "type": "full",
+        "path": "2026/10/cfb-case-study-cover.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover.png",
+        "file": "cfb-case-study-cover.png",
+        "width": 1752,
+        "height": 876,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4114,
+        "type": "1536x1536",
+        "path": "2026/10/cfb-case-study-cover-1536x768.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-1536x768.png",
+        "file": "cfb-case-study-cover-1536x768.png",
+        "width": 1536,
+        "height": 768,
+        "filesize": 2274526,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-1536x768.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4114,
+        "type": "large",
+        "path": "2026/10/cfb-case-study-cover-1024x512.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-1024x512.png",
+        "file": "cfb-case-study-cover-1024x512.png",
+        "width": 1024,
+        "height": 512,
+        "filesize": 1063642,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-1024x512.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4114,
+        "type": "medium_large",
+        "path": "2026/10/cfb-case-study-cover-768x384.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-768x384.png",
+        "file": "cfb-case-study-cover-768x384.png",
+        "width": 768,
+        "height": 384,
+        "filesize": 616685,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-768x384.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4114,
+        "type": "medium",
+        "path": "2026/10/cfb-case-study-cover-576x288.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-576x288.png",
+        "file": "cfb-case-study-cover-576x288.png",
+        "width": 576,
+        "height": 288,
+        "filesize": 355974,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/cfb-case-study-cover-576x288.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
