@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-10-13T18:45:21",
+    "updated_date": "2026-10-13T18:45:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/4133",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4133,
+    "date": "2026-10-13T11:45:21",
+    "date_gmt": "2026-10-13T18:45:21",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=4133",
+    "modified": "2026-10-13T11:45:21",
+    "modified_gmt": "2026-10-13T18:45:21",
+    "slug": "engaged-california-is-now-a-permanent-state-program",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/2026/10/13/engaged-california-is-now-a-permanent-state-program/",
+    "title": "Engaged California is now a permanent state program",
+    "excerpt": "<p>The State of California now has a permanent way for people living in the state to have meaningful conversations with their government. Engaged California is the first program of its kind in the nation. It lets Californians tell their government what matters to them across a series of topics. The goal is better policy. On September &#8230; <a title=\"Engaged California is now a permanent state program\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/2026/10/13/engaged-california-is-now-a-permanent-state-program/\" aria-label=\"More on Engaged California is now a permanent state program\">Read more</a></p>\n",
+    "author": "Jeffery Marino and Micah Weinberg",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/2026/10/13/engaged-california-is-now-a-permanent-state-program/",
+      "page_title": "Engaged California is now a permanent state program",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "Uncategorized",
+        "category_nicename": "uncategorized",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/2026/10/13/engaged-california-is-now-a-permanent-state-program/",
+    "media": [
+      {
+        "id": 4143,
+        "type": "full",
+        "path": "2026/10/blog-engaged-california-capitol.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol.png",
+        "file": "blog-engaged-california-capitol.png",
+        "width": 876,
+        "height": 554,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4143,
+        "type": "medium_large",
+        "path": "2026/10/blog-engaged-california-capitol-768x486.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol-768x486.png",
+        "file": "blog-engaged-california-capitol-768x486.png",
+        "width": 768,
+        "height": 486,
+        "filesize": 366270,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol-768x486.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4143,
+        "type": "medium",
+        "path": "2026/10/blog-engaged-california-capitol-576x364.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol-576x364.png",
+        "file": "blog-engaged-california-capitol-576x364.png",
+        "width": 576,
+        "height": 364,
+        "filesize": 207097,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/blog-engaged-california-capitol-576x364.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
