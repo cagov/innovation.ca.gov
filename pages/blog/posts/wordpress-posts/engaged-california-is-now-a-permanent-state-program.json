@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-13T18:45:21",
-    "updated_date": "2026-10-13T18:45:21",
+    "updated_date": "2026-10-13T18:45:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-10-13T11:45:21",
     "date_gmt": "2026-10-13T18:45:21",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?p=4133",
-    "modified": "2026-10-13T11:45:21",
-    "modified_gmt": "2026-10-13T18:45:21",
+    "modified": "2026-10-13T11:45:27",
+    "modified_gmt": "2026-10-13T18:45:27",
     "slug": "engaged-california-is-now-a-permanent-state-program",
     "status": "publish",
     "type": "post",
