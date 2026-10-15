@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-10-15T19:45:33",
+    "updated_date": "2026-10-15T19:45:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4156",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4156,
+    "date": "2026-10-15T12:45:33",
+    "date_gmt": "2026-10-15T19:45:33",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+    "modified": "2026-10-15T12:45:33",
+    "modified_gmt": "2026-10-15T19:45:33",
+    "slug": "products-services-data-advisory",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/products-services-data-advisory/",
+    "title": "products-services-data-advisory",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"395\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-576x395.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-576x395.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-768x526.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png 870w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 870,
+      "height": 596,
+      "file": "2026/10/products-services-data-advisory.png",
+      "filesize": 9976,
+      "sizes": {
+        "medium": {
+          "file": "products-services-data-advisory-576x395.png",
+          "width": 576,
+          "height": 395,
+          "filesize": 12635,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-576x395.png"
+        },
+        "thumbnail": {
+          "file": "products-services-data-advisory-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 2048,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-150x150.png"
+        },
+        "medium_large": {
+          "file": "products-services-data-advisory-768x526.png",
+          "width": 768,
+          "height": 526,
+          "filesize": 18452,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-768x526.png"
+        },
+        "full": {
+          "file": "products-services-data-advisory.png",
+          "width": 870,
+          "height": 596,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+    "filename": "products-services-data-advisory.png",
+    "filesize": 9976,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/10/products-services-data-advisory.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+        "file": "products-services-data-advisory.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/10/products-services-data-advisory-768x526.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-768x526.png",
+        "file": "products-services-data-advisory-768x526.png",
+        "width": 768,
+        "height": 526,
+        "filesize": 18452,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-768x526.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/10/products-services-data-advisory-576x395.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-576x395.png",
+        "file": "products-services-data-advisory-576x395.png",
+        "width": 576,
+        "height": 395,
+        "filesize": 12635,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-576x395.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/10/products-services-data-advisory-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-150x150.png",
+        "file": "products-services-data-advisory-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 2048,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory-150x150.png"
+      }
+    ],
+    "path": "2026/10/products-services-data-advisory.png"
+  }
+}

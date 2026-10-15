@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-10-15T19:45:34",
+    "updated_date": "2026-10-15T19:45:34",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4157",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4157,
+    "date": "2026-10-15T12:45:34",
+    "date_gmt": "2026-10-15T19:45:34",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+    "modified": "2026-10-15T12:45:34",
+    "modified_gmt": "2026-10-15T19:45:34",
+    "slug": "products-services-engagedca",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/products-services-engagedca/",
+    "title": "products-services-engagedca",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"385\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-576x385.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-576x385.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-768x514.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png 870w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 870,
+      "height": 582,
+      "file": "2026/10/products-services-engagedca.png",
+      "filesize": 62682,
+      "sizes": {
+        "medium": {
+          "file": "products-services-engagedca-576x385.png",
+          "width": 576,
+          "height": 385,
+          "filesize": 34241,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-576x385.png"
+        },
+        "thumbnail": {
+          "file": "products-services-engagedca-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 8481,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-150x150.png"
+        },
+        "medium_large": {
+          "file": "products-services-engagedca-768x514.png",
+          "width": 768,
+          "height": 514,
+          "filesize": 53484,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-768x514.png"
+        },
+        "full": {
+          "file": "products-services-engagedca.png",
+          "width": 870,
+          "height": 582,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+    "filename": "products-services-engagedca.png",
+    "filesize": 62682,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/10/products-services-engagedca.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+        "file": "products-services-engagedca.png",
+        "width": 870,
+        "height": 582,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/10/products-services-engagedca-768x514.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-768x514.png",
+        "file": "products-services-engagedca-768x514.png",
+        "width": 768,
+        "height": 514,
+        "filesize": 53484,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-768x514.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/10/products-services-engagedca-576x385.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-576x385.png",
+        "file": "products-services-engagedca-576x385.png",
+        "width": 576,
+        "height": 385,
+        "filesize": 34241,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-576x385.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/10/products-services-engagedca-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-150x150.png",
+        "file": "products-services-engagedca-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 8481,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca-150x150.png"
+      }
+    ],
+    "path": "2026/10/products-services-engagedca.png"
+  }
+}

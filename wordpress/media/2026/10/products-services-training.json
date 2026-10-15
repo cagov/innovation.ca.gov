@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "created_date": "2026-10-15T19:45:30",
+    "updated_date": "2026-10-15T19:45:30",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/media/4153",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4153,
+    "date": "2026-10-15T12:45:30",
+    "date_gmt": "2026-10-15T19:45:30",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+    "modified": "2026-10-15T12:45:30",
+    "modified_gmt": "2026-10-15T19:45:30",
+    "slug": "products-services-training",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/products-services-training/",
+    "title": "products-services-training",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "categories": [],
+    "description": "<p class=\"attachment\"><a href='https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png'><img loading=\"lazy\" decoding=\"async\" width=\"576\" height=\"395\" src=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-576x395.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-576x395.png 576w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-768x526.png 768w, https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png 870w\" sizes=\"auto, (max-width: 576px) 100vw, 576px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 870,
+      "height": 596,
+      "file": "2026/10/products-services-training.png",
+      "filesize": 11889,
+      "sizes": {
+        "medium": {
+          "file": "products-services-training-576x395.png",
+          "width": 576,
+          "height": 395,
+          "filesize": 14311,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-576x395.png"
+        },
+        "thumbnail": {
+          "file": "products-services-training-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 4992,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-150x150.png"
+        },
+        "medium_large": {
+          "file": "products-services-training-768x526.png",
+          "width": 768,
+          "height": 526,
+          "filesize": 19655,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-768x526.png"
+        },
+        "full": {
+          "file": "products-services-training.png",
+          "width": 870,
+          "height": 596,
+          "mime_type": "image/png",
+          "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": [],
+        "alt": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+    "filename": "products-services-training.png",
+    "filesize": 11889,
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2026/10/products-services-training.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+        "file": "products-services-training.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2026/10/products-services-training-768x526.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-768x526.png",
+        "file": "products-services-training-768x526.png",
+        "width": 768,
+        "height": 526,
+        "filesize": 19655,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-768x526.png"
+      },
+      {
+        "type": "medium",
+        "path": "2026/10/products-services-training-576x395.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-576x395.png",
+        "file": "products-services-training-576x395.png",
+        "width": 576,
+        "height": 395,
+        "filesize": 14311,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-576x395.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2026/10/products-services-training-150x150.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-150x150.png",
+        "file": "products-services-training-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 4992,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training-150x150.png"
+      }
+    ],
+    "path": "2026/10/products-services-training.png"
+  }
+}
