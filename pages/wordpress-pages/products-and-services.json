@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "created_date": "2026-10-15T20:21:47",
+    "updated_date": "2026-10-15T20:21:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/4164",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-digital-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/digital.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 4164,
+    "date": "2026-10-15T13:21:47",
+    "date_gmt": "2026-10-15T20:21:47",
+    "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4164",
+    "modified": "2026-10-15T13:21:47",
+    "modified_gmt": "2026-10-15T20:21:47",
+    "slug": "products-and-services",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/our-work/products-and-services/",
+    "title": "Products and Services",
+    "excerpt": "<p>The Office of Data and Innovation (ODI)’s products and services are building a modern and effective state government for all Californians. Our products We help the state connect with and serve Californians in innovative ways. Engaged California Engaged California is a first-in-the-nation digital democracy program. It invites Californians to take part in structured discussions that &#8230; <a title=\"Products and Services\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/our-work/products-and-services/\" aria-label=\"More on Products and Services\">Read more</a></p>\n",
+    "author": "Jim Bumgardner",
+    "featured_media": 0,
+    "parent": 1123,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-digital-ca-gov.pantheonsite.io"
+      },
+      "site_name": "innovation.ca.gov",
+      "site_description": "Office of Data and Innovation",
+      "site_url": "https://live-digital-ca-gov.pantheonsite.io",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/products-and-services/",
+      "page_title": "Products and Services",
+      "page_description": "Office of Data and Innovation",
+      "page_social_image_url": null,
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": null,
+      "meta_description": null,
+      "meta_canonical_url": null,
+      "open_graph_title": null,
+      "open_graph_description": null,
+      "twitter_title": null,
+      "twitter_description": null
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/our-work/products-and-services/",
+    "media": [
+      {
+        "id": 4155,
+        "type": "full",
+        "path": "2026/10/products-services-analytics-accelerator.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-analytics-accelerator.png",
+        "file": "products-services-analytics-accelerator.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-analytics-accelerator.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4160,
+        "type": "full",
+        "path": "2026/10/products-services-askca.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-askca.png",
+        "file": "products-services-askca.png",
+        "width": 870,
+        "height": 582,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-askca.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4156,
+        "type": "full",
+        "path": "2026/10/products-services-data-advisory.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+        "file": "products-services-data-advisory.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-advisory.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4159,
+        "type": "full",
+        "path": "2026/10/products-services-data-science-accelerator.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-science-accelerator.png",
+        "file": "products-services-data-science-accelerator.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-data-science-accelerator.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4157,
+        "type": "full",
+        "path": "2026/10/products-services-engagedca.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+        "file": "products-services-engagedca.png",
+        "width": 870,
+        "height": 582,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-engagedca.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4154,
+        "type": "full",
+        "path": "2026/10/products-services-innovation-lab.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-innovation-lab.png",
+        "file": "products-services-innovation-lab.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-innovation-lab.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4158,
+        "type": "full",
+        "path": "2026/10/products-services-modern-data-stack.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-modern-data-stack.png",
+        "file": "products-services-modern-data-stack.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-modern-data-stack.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 4153,
+        "type": "full",
+        "path": "2026/10/products-services-training.png",
+        "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+        "file": "products-services-training.png",
+        "width": 870,
+        "height": 596,
+        "mime_type": "image/png",
+        "source_url": "https://live-digital-ca-gov.pantheonsite.io/wp-content/uploads/2026/10/products-services-training.png",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
+  }
+}
