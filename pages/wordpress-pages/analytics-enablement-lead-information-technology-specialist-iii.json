@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-16T22:48:22",
-    "updated_date": "2026-10-16T22:48:22",
+    "updated_date": "2026-10-16T22:52:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2026-10-16T15:48:22",
     "date_gmt": "2026-10-16T22:48:22",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4171",
-    "modified": "2026-10-16T15:48:22",
-    "modified_gmt": "2026-10-16T22:48:22",
+    "modified": "2026-10-16T15:52:09",
+    "modified_gmt": "2026-10-16T22:52:09",
     "slug": "analytics-enablement-lead-information-technology-specialist-iii",
     "status": "publish",
     "type": "page",
-    "link": "https://live-digital-ca-gov.pantheonsite.io/analytics-enablement-lead-information-technology-specialist-iii/",
+    "link": "https://live-digital-ca-gov.pantheonsite.io/join-us/analytics-enablement-lead-information-technology-specialist-iii/",
     "title": "Analytics Enablement Lead (Information Technology Specialist III)",
-    "excerpt": "<p>The Office of Data and Innovation is looking for an Analytics Enablement Lead to join our CalData team. As the Analytics Enablement Lead, you are a senior technical expert who helps California state agencies build up their business intelligence (BI) and analytics capabilities. Reporting to the Deputy Director of Advanced Analytics and Evaluation, you will &#8230; <a title=\"Analytics Enablement Lead (Information Technology Specialist III)\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/analytics-enablement-lead-information-technology-specialist-iii/\" aria-label=\"More on Analytics Enablement Lead (Information Technology Specialist III)\">Read more</a></p>\n",
+    "excerpt": "<p>The Office of Data and Innovation is looking for an Analytics Enablement Lead to join our CalData team. As the Analytics Enablement Lead, you are a senior technical expert who helps California state agencies build up their business intelligence (BI) and analytics capabilities. Reporting to the Deputy Director of Advanced Analytics and Evaluation, you will &#8230; <a title=\"Analytics Enablement Lead (Information Technology Specialist III)\" class=\"read-more\" href=\"https://live-digital-ca-gov.pantheonsite.io/join-us/analytics-enablement-lead-information-technology-specialist-iii/\" aria-label=\"More on Analytics Enablement Lead (Information Technology Specialist III)\">Read more</a></p>\n",
     "author": "Brian Rains",
     "featured_media": 0,
-    "parent": 0,
+    "parent": 238,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -52,7 +52,7 @@
       "site_name": "innovation.ca.gov",
       "site_description": "Office of Data and Innovation",
       "site_url": "https://live-digital-ca-gov.pantheonsite.io",
-      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/analytics-enablement-lead-information-technology-specialist-iii/",
+      "canonical_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/analytics-enablement-lead-information-technology-specialist-iii/",
       "page_title": "Analytics Enablement Lead (Information Technology Specialist III)",
       "page_description": "Office of Data and Innovation",
       "page_social_image_url": null,
@@ -71,6 +71,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/analytics-enablement-lead-information-technology-specialist-iii/"
+    "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/analytics-enablement-lead-information-technology-specialist-iii/"
   }
 }
