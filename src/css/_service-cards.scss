@@ -1,0 +1,153 @@
+/* Card layouts for /work-with-us/ and /our-work/products-and-services/.
+   These rules previously lived in <style> blocks inside the WordPress content
+   of those two pages. Everything is scoped by the .wwu-* / .ps-* classes, which
+   only appear in that page content, so no other page is affected. */
+
+$service-card-title: #0d4f8c;
+$service-card-divider: #c7d6e4;
+
+/* shared between both pages */
+
+.wwu-card-title,
+.ps-card-title {
+  color: $service-card-title;
+  font-weight: 700;
+}
+
+hr.wwu-divider,
+hr.ps-divider {
+  width: 100%;
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+/* On narrow screens the "On this page" nav stacks directly above the intro
+   paragraph with no breathing room. .has-sidebar-left limits this to the layout
+   that actually stacks a sidebar, and :has() limits it to the pages carrying
+   these cards; browsers without :has() just keep the current spacing. */
+@media only screen and (max-width: 767px) {
+  .has-sidebar-left .entry-content:has(.wwu-cards, .ps-cards) {
+    margin-top: 2rem;
+  }
+}
+
+/* /work-with-us/ — icon beside a block of copy, one card per row */
+
+div.wwu-cards {
+  margin-top: 2rem;
+}
+
+div.wwu-card {
+  display: flex;
+  flex-direction: row;
+  /* lets the copy drop below the icon once it would get too narrow to read,
+     rather than squeezing it into a sliver beside the 173px icon */
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.wwu-icon {
+  flex: 0 0 173px;
+}
+
+.wwu-icon img {
+  width: 173px;
+  max-width: none;
+  height: auto;
+  display: block;
+}
+
+.wwu-content {
+  flex: 1 1 260px;
+  min-width: 0;
+}
+
+.wwu-card-title {
+  font-size: 29px;
+}
+
+hr.wwu-divider {
+  border: 1px solid $service-card-divider;
+}
+
+/* /our-work/products-and-services/ — two-up grid of bordered cards */
+
+div.ps-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3rem;
+  align-items: start;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 767px) {
+  div.ps-cards {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2rem;
+  }
+}
+
+div.ps-card {
+  background: #fff;
+  border: 1px solid #d4d4d7;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.ps-card-image img {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  display: block;
+}
+
+.ps-card-content {
+  padding: 1rem 1.25rem 1.25rem;
+  font-size: 16px;
+  line-height: 1.6;
+
+  p,
+  li {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+  }
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+  }
+
+  li {
+    margin-bottom: 0.25rem;
+  }
+
+  ul ul {
+    list-style-type: disc;
+    margin-top: 0.25rem;
+    margin-bottom: 0;
+  }
+
+  a {
+    font-size: 16px;
+    font-weight: 700;
+  }
+}
+
+.ps-card-title {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+hr.ps-divider {
+  border: 0;
+  border-top: 1px solid $service-card-divider;
+}
