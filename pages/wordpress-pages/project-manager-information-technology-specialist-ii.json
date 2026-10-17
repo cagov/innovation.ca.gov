@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-05T18:27:41",
-    "updated_date": "2026-10-17T21:05:50",
+    "updated_date": "2026-10-17T21:05:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-10-05T11:27:41",
     "date_gmt": "2026-10-05T18:27:41",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4102",
-    "modified": "2026-10-17T14:05:50",
-    "modified_gmt": "2026-10-17T21:05:50",
+    "modified": "2026-10-17T14:05:55",
+    "modified_gmt": "2026-10-17T21:05:55",
     "slug": "project-manager-information-technology-specialist-ii",
     "status": "publish",
     "type": "page",
