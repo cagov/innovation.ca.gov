@@ -75,7 +75,10 @@ const buildJS = async () => {
 const internalHosts = new Set([
   'innovation.ca.gov',
   'www.innovation.ca.gov',
-  // The hub is part of this site as far as readers are concerned.
+  // The hub shares this site's header navigation and is treated as an
+  // extension of it, so it stays in the same tab. Note that this does not
+  // extend to our other sibling sites: engaged.ca.gov and the rest of the
+  // ca.gov family are genuinely off-site and do get marked.
   'hub.innovation.ca.gov',
   // WordPress authoring domains. Anything still pointing here is one of our own
   // pages whose URL hasn't been rewritten yet, not an off-site destination.
