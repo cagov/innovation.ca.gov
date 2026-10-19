@@ -68,6 +68,86 @@ const buildJS = async () => {
   });
 };
 
+/**
+ * Hosts that count as our own. Links to these stay in the same tab and get no
+ * external marker, even when they are written as absolute URLs.
+ */
+const internalHosts = new Set([
+  'innovation.ca.gov',
+  'www.innovation.ca.gov',
+  // The hub is part of this site as far as readers are concerned.
+  'hub.innovation.ca.gov',
+  // WordPress authoring domains. Anything still pointing here is one of our own
+  // pages whose URL hasn't been rewritten yet, not an off-site destination.
+  'live-digital-ca-gov.pantheonsite.io',
+  'test-digital-ca-gov.pantheonsite.io',
+]);
+
+/** Anchors can't nest, so a lazy match to the first `</a>` is unambiguous. */
+const anchorPattern = /<a\b([^>]*)>([\s\S]*?)<\/a>/gi;
+const hrefPattern = /\shref\s*=\s*(?:"([^"]*)"|'([^']*)')/i;
+/** Anchors inside these are code samples or script data, not real links. */
+const literalBlockPattern = /<(script|style|pre|textarea|code)\b[\s\S]*?<\/\1\s*>/gi;
+
+/**
+ * Does this href leave the site?
+ * Resolving against our own origin means relative paths, fragments and
+ * `mailto:`/`tel:` links all fall out as "not external" without special cases.
+ * @param {string} href The raw href attribute value.
+ * @returns {boolean}
+ */
+const isExternalHref = (href) => {
+  let url;
+  try {
+    url = new URL(href, 'https://innovation.ca.gov');
+  } catch {
+    return false;
+  }
+  if (url.protocol !== 'http:' && url.protocol !== 'https:') return false;
+  return !internalHosts.has(url.hostname.toLowerCase());
+};
+
+/**
+ * Open every off-site link in a new tab and mark it as leaving the site.
+ *
+ * This runs over built HTML rather than the templates so that WordPress-authored
+ * pages — which we don't hand-edit — are covered by the same rule as the rest of
+ * the site.
+ * @param {string} content A built HTML document.
+ * @returns {string}
+ */
+const markExternalLinks = (content) => {
+  // Park code samples and scripts so their markup isn't treated as links.
+  const parked = [];
+  const withoutLiterals = content.replace(literalBlockPattern, (block) => {
+    parked.push(block);
+    return `\u0000ext${parked.length - 1}\u0000`;
+  });
+
+  const marked = withoutLiterals.replace(anchorPattern, (anchor, attrs, inner) => {
+    const href = hrefPattern.exec(attrs);
+    if (!href) return anchor;
+    if (!isExternalHref((href[1] ?? href[2] ?? '').trim())) return anchor;
+
+    // Leave hand-authored links alone: if the markup already says where the
+    // link opens or already carries a marker, the author decided on purpose.
+    if (/\starget\s*=/i.test(attrs)) return anchor;
+    if (inner.includes('external-link-icon') || inner.includes('opens in new window')) return anchor;
+
+    // Icon- and image-only links (social media, the ca.gov seal) label
+    // themselves with an .sr-only span. A second glyph jammed against the logo
+    // just looks broken, so they get the new-tab hint without the marker.
+    const marker = /<(?:svg|img)\b/i.test(inner)
+      ? ''
+      : '<span class="external-link-icon" aria-hidden="true"></span>';
+
+    return `<a${attrs} target="_blank" rel="noopener noreferrer">${inner}${marker}` +
+      '<span class="sr-only"> (opens in new window)</span></a>';
+  });
+
+  return marked.replace(/\u0000ext(\d+)\u0000/g, (_, i) => parked[Number(i)]);
+};
+
 let firstBuild = true;
 
 export default function (eleventyConfig) {
@@ -119,6 +199,19 @@ export default function (eleventyConfig) {
       // Replace Wordpress media paths with correct 11ty output path.
       const regexPattern = `http[^"']+?pantheonsite\\.io/wp-content/uploads/`;
       content = content.replace(new RegExp(regexPattern, 'g'), `/${wordpressImagePath}/`);
+
+      // Point post permalinks back at this site. WordPress excerpts carry
+      // "read more" links written against the authoring domain and dated
+      // permalink structure (/2026/10/13/some-post/); ours are flat under
+      // /blog/posts/. Left alone these quietly send readers to the staging site.
+      content = content.replace(
+        /https?:\/\/[^"']*?pantheonsite\.io\/\d{4}\/\d{2}\/\d{2}\/([^"'\/]+)\/?/g,
+        '/blog/posts/$1/'
+      );
+
+      // Send off-site links to a new tab and mark them as leaving the site.
+      // Done here, on built HTML, so WordPress-authored pages are covered too.
+      content = markExternalLinks(content);
     }
 
     return content;

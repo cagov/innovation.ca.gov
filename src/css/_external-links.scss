@@ -1,0 +1,46 @@
+/* External links
+   The build tags every off-site link with target="_blank" and appends this
+   marker (see the "external-links" transform in eleventy.config.mjs). The icon
+   is drawn as a mask rather than a background image so it picks up the link's
+   own color in every context — body copy, dark buttons, footer links. */
+
+.external-link-icon {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  /* Nudge off the preceding word, and sit the glyph on the text baseline
+     rather than hanging below it. */
+  margin-left: 0.3em;
+  vertical-align: baseline;
+  background-color: currentColor;
+  mask-image: url(/img/ext-link-icon.svg);
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-image: url(/img/ext-link-icon.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+  /* The icon belongs to the link text, so never let it wrap onto a line of
+     its own, orphaned from the last word. */
+  white-space: nowrap;
+}
+
+/* Buttons draw the icon inside their own padding, so it needs a little more
+   breathing room than it does mid-sentence. */
+.btn-primary .external-link-icon,
+.btn-secondary .external-link-icon,
+.wp-block-button__link .external-link-icon,
+.wp-element-button .external-link-icon {
+  margin-left: 0.5em;
+}
+
+/* Navigation chrome is already understood to leave the site, and the design
+   system hides the statewide footer's copy of this marker for the same
+   reason. Repeating the icon on every menu entry is just noise. */
+cagov-site-navigation .external-link-icon,
+.site-header .external-link-icon,
+.statewide-header .external-link-icon,
+.breadcrumb .external-link-icon {
+  display: none;
+}
