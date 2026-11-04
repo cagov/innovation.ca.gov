@@ -29,7 +29,7 @@
     "@cagov/ds-statewide-header": "^1.0.16",
     "@cagov/ds-table": "^1.0.1",
     "cross-env": "^7.0.3",
-    "html-to-text": "^9.0.5",
+    "html-to-text": "^10.0.1",
     "readability-scores": "^1.0.8"
   },
   "scripts": {
