@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2026-10-28T18:56:49",
-    "updated_date": "2026-11-16T16:58:37",
+    "updated_date": "2026-11-16T16:58:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2026-10-28T11:56:49",
     "date_gmt": "2026-10-28T18:56:49",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=4195",
-    "modified": "2026-11-16T08:58:37",
-    "modified_gmt": "2026-11-16T16:58:37",
+    "modified": "2026-11-16T08:58:43",
+    "modified_gmt": "2026-11-16T16:58:43",
     "slug": "engaged-california-program-director",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "#do-not-crawl"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -68,7 +70,19 @@
       "twitter_description": null
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 40,
+        "name": "#do-not-crawl",
+        "slug": "do-not-crawl-2",
+        "term_group": 0,
+        "term_taxonomy_id": 40,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-digital-ca-gov.pantheonsite.io/join-us/engaged-california-program-director/"
