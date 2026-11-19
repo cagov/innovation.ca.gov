@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-06T18:57:54",
-    "updated_date": "2024-09-09T21:05:16",
+    "updated_date": "2026-11-19T00:03:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-digital-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-06T11:57:54",
     "date_gmt": "2024-05-06T18:57:54",
     "guid": "https://live-digital-ca-gov.pantheonsite.io/?page_id=1899",
-    "modified": "2024-09-09T14:05:16",
-    "modified_gmt": "2024-09-09T21:05:16",
+    "modified": "2026-11-18T16:03:55",
+    "modified_gmt": "2026-11-19T00:03:55",
     "slug": "data-strategy-report-2024",
     "status": "publish",
     "type": "page",
