@@ -46,7 +46,7 @@ jobs:
           # using npm ci instead of npm install to reduce threat of installing newer packages than intended
           npm ci
           DOMAIN=${URLSAFE_BRANCH_NAME}.pr.digital.ca.gov npm run build
-          npx playwright install
+          npx playwright install --with-deps
           npm test
       - name: Write robots.txt
         run: |

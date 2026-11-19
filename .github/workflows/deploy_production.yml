@@ -31,7 +31,7 @@ jobs:
           # using npm ci instead of npm install to reduce threat of installing newer packages than intended
           npm ci
           npm run build
-          npx playwright install
+          npx playwright install --with-deps
           npm test
       - name: Write robots.txt
         run: |
